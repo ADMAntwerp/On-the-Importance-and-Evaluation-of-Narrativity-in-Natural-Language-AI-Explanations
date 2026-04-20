@@ -1,0 +1,122 @@
+text_id,num_sentences,last_sentence,ppl
+0,1,The model predicts the student's outcome based on several factors.,48.02
+0,2,The student's second period grade (G2) of 9 and first period grade (G1) of 8 both contribute significantly towards a lower chance of passing.,16.72
+0,3,"Additionally, having 8 school absences slightly increases the risk of failing.",15.55
+0,4,"The student goes out with friends infrequently, which has a small negative impact on the prediction.",14.13
+0,5,"However, the fact that the student has no past class failures slightly improves their chances of passing.",12.39
+0,6,"Overall, the grades and absences are the most influential factors in the model's prediction.",10.19
+1,1,"The student's lower grades in the first and second periods had the largest negative impact on the prediction, making it less likely they will pass the mathematics course.",25.42
+1,2,"Additionally, the fact that the student's parents live apart, the number of school absences, and the mother's job being at home contributed slightly towards a higher chance of passing, but these positive effects were much smaller compared to the negative impact of the grades.",14.54
+2,1,The model predicts that the student will pass or fail the mathematics course based on several factors.,22.2
+2,2,"The student's second period grade (G2) of 13 has the largest positive impact on the prediction, strongly increasing the likelihood of passing.",17.34
+2,3,"The number of school absences (6) also contributes positively, but to a much lesser extent.",12.36
+2,4,"The first period grade (G1) of 10 slightly decreases the chance of passing, though its effect is small.",9.14
+2,5,The student's age (15) and having no past class failures both provide minor positive contributions to the prediction.,9.85
+2,6,"Overall, the student's good performance in the second period and lack of previous failures are the most influential factors in the model's assessment.",8.76
+3,1,The model predicts that the student will pass the mathematics course mainly because of their strong grades in the first and second periods.,32.78
+3,2,The second period grade (14) and the first period grade (15) both contribute significantly to the prediction.,15.61
+3,3,"Additionally, the student has very few absences (2), no past class failures, and is 15 years old, all of which have smaller but positive influences on the likelihood of passing.",11.17
+4,1,The model predicts whether the student will pass or fail the mathematics course based on several factors.,18.48
+4,2,"The student's second period grade (G2) of 8 had the largest negative impact on the prediction, making it less likely the student will pass.",12.65
+4,3,"The first period grade (G1) of 11 contributed positively, slightly increasing the chances of passing.",8.95
+4,4,Attending extra paid classes also had a small positive effect.,10.59
+4,5,"The student's very bad current health status and having 2 absences both contributed slightly to the prediction, but their effects were relatively minor compared to the grades.",11.68
+4,6,"Overall, the low second period grade was the most influential factor in the model's prediction.",10.17
+5,1,"The model predicts the student's outcome based mainly on their grades in the first and second periods, with both G2 and G1 being 11, which positively influence the prediction.",40.82
+5,2,"The student has not failed any classes before and has no absences, both of which also contribute slightly to a positive prediction.",20.67
+5,3,"Additionally, the fact that the student chose the school for its reputation has a small positive effect.",16.52
+5,4,"Overall, these factors together suggest the student is likely to pass the mathematics course.",14.53
+6,1,"The model predicts the student's outcome in the mathematics course primarily based on their grades in the first and second periods, with higher grades contributing positively to the prediction.",26.06
+6,2,The student's relatively low number of absences and lack of previous class failures also support a favorable outcome.,21.34
+6,3,"Additionally, the reason for choosing the school, specifically its reputation, has a small positive influence on the prediction.",16.99
+7,1,"The model predicts that the student will pass the mathematics course mainly because of their strong grades in the first and second periods, which both contribute positively to the prediction.",25.43
+7,2,The fact that the student has no past class failures also slightly increases the likelihood of passing.,19.19
+7,3,"Additionally, having no school absences and the father's job being ""at_home"" have small negative effects, but these are outweighed by the positive impact of the student's grades.",14.72
+8,1,"The model predicts the student's outcome in the mathematics course based mainly on their grades in the first and second periods, with both G2 and G1 being relatively high at 14, which strongly increases the likelihood of passing.",33.52
+8,2,"The student has had only 4 absences and no previous class failures, both of which contribute positively, though to a lesser extent.",21.72
+8,3,"Additionally, the student is taking extra paid classes, which also slightly improves their chances of passing.",18.8
+8,4,"Overall, the student's strong academic performance and supportive factors suggest a high probability of passing the course.",14.76
+9,1,The model predicts that the student is less likely to pass the mathematics course mainly because of their lower grades in the first and second periods.,24.17
+9,2,"Specifically, the second period grade of 5 and the first period grade of 6 both contribute significantly to a lower chance of passing.",12.64
+9,3,"Additionally, the student's number of absences slightly increases the risk of failing.",11.02
+9,4,"On the positive side, attending extra paid classes and having no previous class failures provide a small boost to the likelihood of passing, but these factors are not enough to outweigh the negative impact of the low grades.",9.85
+10,1,"The model predicts that the student will pass or fail the mathematics course based mainly on their grades in the first and second periods, with higher grades in both periods (14 out of a possible higher score) contributing significantly to the prediction.",23.46
+10,2,"The student's relatively low number of absences (4) and no past class failures also positively influence the prediction, while the student's age (16) has a smaller impact.",15.83
+10,3,"Overall, strong academic performance and good attendance are the most important factors in the model's decision.",13.32
+11,1,The model predicts that the student will pass the mathematics course mainly because they have high grades in both the first and second periods.,29.81
+11,2,"Additionally, the student rarely goes out with friends, has no history of past class failures, and has very few absences, all of which contribute positively, though to a lesser extent, to the prediction.",14.18
+12,1,"The model predicts that the student is less likely to pass the mathematics course mainly because of their low grades in the first and second periods, as well as having a history of past class failures.",20.57
+12,2,"Additionally, the student's age and the fact that their parents live apart also contribute slightly to the prediction, but to a lesser extent.",13.78
+13,1,The model predicts the student's outcome based on several factors.,48.02
+13,2,"The student's second period grade (G2) of 9 and first period grade (G1) of 8 both decrease the likelihood of passing, with G2 having the largest negative impact.",12.26
+13,3,The student's age of 19 also slightly reduces the chance of passing.,9.81
+13,4,"However, attending extra paid classes and being male both contribute positively, though their effects are smaller compared to the grades.",11.91
+13,5,"Overall, the lower grades are the main reasons the model predicts a lower chance of passing.",10.46
+14,1,The model predicts that the student will pass the mathematics course mainly because of their strong grades in the first and second periods.,32.78
+14,2,Having no past class failures and only a few absences also contribute positively.,31.08
+14,3,"Additionally, attending extra paid classes provides a small boost to the prediction.",28.79
+15,1,The model predicts whether the student will pass or fail the mathematics course.,22.9
+15,2,"In this case, the student's lower second period grade (G2) and first period grade (G1) had the largest negative impact on the prediction, making it less likely the student will pass.",11.7
+15,3,"The mother's education level being primary education, participation in extra paid classes, and the student's age of 16 each contributed slightly to increasing the likelihood of passing, but their positive effects were much smaller compared to the negative impact of the grades.",11.93
+16,1,"The model predicts the student's outcome based mainly on their grades in the first and second periods, with higher grades in both periods (G2: 14, G1: 15) strongly increasing the likelihood of passing.",19.43
+16,2,"The student has had one past class failure, which slightly decreases their chances, as does being 19 years old.",16.29
+16,3,"Additionally, frequently going out with friends has a small negative impact on the prediction.",15.5
+16,4,"Overall, the positive influence of good grades outweighs the minor negative effects of the other factors.",12.19
+17,1,The model predicts the student's outcome based on several factors.,48.02
+17,2,"The student's second period grade (G2) and first period grade (G1) are both 9, which strongly decrease the likelihood of failing.",18.15
+17,3,Having 2 past class failures also slightly decreases the chance of passing.,17.1
+17,4,"The student has 8 absences, which slightly increases the risk of failing.",12.16
+17,5,Not attending extra paid classes has a small negative impact on the chance of passing.,11.92
+17,6,"Overall, the student's good grades are the most influential factors, making it less likely that they will fail.",10.54
+18,1,The model predicts that the student is more likely to fail the mathematics course.,28.97
+18,2,"The main reasons for this prediction are the student's relatively low grades in the first and second periods, which both decrease the likelihood of passing.",14.47
+18,3,"Additionally, having two past class failures further reduces the chances of passing.",14.31
+18,4,"The student's age and the fact that they receive extra educational support from the school provide a small positive influence, but these are not enough to outweigh the negative impact of the grades and past failures.",10.1
+19,1,"The model predicts the student's outcome in the mathematics course based primarily on their grades in the first and second periods, with higher grades contributing positively to the prediction.",25.83
+19,2,The student's relatively low number of absences and moderate age also have a small positive influence.,21.89
+19,3,"Additionally, the student's low frequency of going out with friends slightly supports the prediction.",19.67
+19,4,"Overall, strong academic performance and consistent attendance are the most influential factors in the model's decision.",15.82
+20,1,"The student's lower grades in the first and second periods had the largest negative impact on the prediction, making it less likely they will pass.",28.3
+20,2,"Being 15 years old, going out with friends infrequently, and being male each contributed slightly to increasing the chances of passing, but these positive effects were smaller than the negative impact of the earlier grades.",15.59
+21,1,The model predicts whether the student will pass or fail the mathematics course by considering several key factors.,25.12
+21,2,"The student's second period grade (G2) is 13, which has the largest positive impact on the prediction.",19.72
+21,3,"The first period grade (G1) is 11, also contributing positively, though to a lesser extent.",11.44
+21,4,"The student has 6 absences, which slightly decreases the likelihood of passing.",9.56
+21,5,"The student's age is 15, and this has a small positive effect.",8.37
+21,6,"Finally, the student has no past class failures, which also slightly increases the chances of passing.",7.65
+21,7,"Overall, strong recent grades and no past failures are the most influential factors in the model's prediction.",7.54
+22,1,The model predicts the student's outcome based mainly on their grades in the first and second periods.,39.0
+22,2,A second period grade of 6 and a first period grade of 7 both decrease the likelihood of passing.,16.71
+22,3,"The student's age of 15 slightly increases the chance of passing, as does choosing the school for its reputation and having very good health, but these factors have a much smaller impact compared to the grades.",12.88
+23,1,"The model predicts the student's outcome based mainly on their grades in the first and second periods, with higher grades in both periods strongly increasing the likelihood of passing.",22.46
+23,2,"The student's lack of desire to pursue higher education slightly decreases their chances, but this effect is small.",17.23
+23,3,"Having only a few absences and no previous class failures also contributes positively, though to a lesser extent.",15.26
+23,4,"Overall, strong academic performance is the most influential factor in the prediction.",13.73
+24,1,The model predicts whether the student will pass or fail the mathematics course by considering several factors.,24.19
+24,2,"The student's second period grade (G2) of 10 has the largest positive impact on the prediction, making it more likely the student will pass.",12.89
+24,3,"The first period grade (G1) of 9 slightly decreases the likelihood of passing, but its effect is smaller.",8.9
+24,4,"The student has 9 absences, which has a small positive influence on the prediction.",7.96
+24,5,"The student's age of 18 slightly reduces the chance of passing, while having no past class failures provides a small positive contribution.",8.35
+24,6,"Overall, the strong performance in the second period is the most influential factor in the model's prediction.",7.7
+25,1,The model predicts that the student is likely to fail the mathematics course.,29.33
+25,2,"The main reasons for this prediction are the student's low grades in the first and second periods, which both decrease the likelihood of passing.",13.04
+25,3,"Additionally, having two past class failures further reduces the chances of success.",12.59
+25,4,"On the other hand, attending extra paid classes and being 16 years old slightly increase the probability of passing, but these positive factors are not enough to outweigh the negative impact of the low grades and previous failures.",8.16
+26,1,The model predicts that the student will pass the mathematics course mainly because they received high grades in both the first and second periods.,29.27
+26,2,"Additionally, the student has not failed any classes in the past, has only a few absences, and does not frequently go out with friends, all of which contribute positively to the prediction.",11.38
+27,1,The model predicts the student's outcome based on several factors.,48.02
+27,2,"The student's second period grade (G2) is 11, which strongly increases the likelihood of passing.",26.9
+27,3,"The first period grade (G1) is 8, which slightly decreases the chance of passing.",10.95
+27,4,"The student is 15 years old, which has a small positive effect on the prediction.",8.07
+27,5,"Having zero absences also slightly decreases the chance of passing, though the effect is minor.",8.08
+27,6,"Finally, the student goes out with friends infrequently, which has a small positive impact on the likelihood of passing.",7.39
+27,7,"Overall, the high second period grade is the most influential factor in the prediction.",6.67
+28,1,The model predicts the student's outcome based on several factors.,48.02
+28,2,"The student's second period grade (G2) is 11, which strongly increases the likelihood of passing.",26.9
+28,3,"The first period grade (G1) is 9, which has a small negative effect on the prediction.",10.95
+28,4,"The student is 15 years old, which slightly increases the chance of passing.",8.05
+28,5,"Having no school absences also slightly decreases the likelihood of passing, while a low frequency of going out with friends has a small positive impact on the prediction.",8.01
+28,6,"Overall, the high second period grade is the most influential factor in the model's prediction.",7.13
+29,1,"The model predicts the student's outcome based mainly on their grades from the first and second periods, both of which are 8 and contribute negatively to the prediction, suggesting these grades lower the likelihood of passing.",30.83
+29,2,"The student's very bad current health status slightly increases the chance of passing, as does having excellent family relationships.",29.81
+29,3,"Having no school absences also slightly decreases the likelihood of passing, according to the model's assessment.",22.22

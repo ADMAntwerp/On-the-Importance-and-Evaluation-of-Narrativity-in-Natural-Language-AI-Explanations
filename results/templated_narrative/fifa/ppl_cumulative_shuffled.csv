@@ -1,0 +1,151 @@
+text_id_shuff,num_sentences_shuff,last_sentence_shuff,ppl_shuff
+0,1,Off-target (Number of off-target attempts) is the third most important feature and has a positive influence on the prediction.,43.59
+0,2,Goal scored (Number of goals scored) is the most important feature and has a positive influence on the prediction.,11.95
+0,3,Corners (Number of corner kicks) is the second most important feature and has a negative influence on the prediction.,6.15
+0,4,Passes (Total number of passes) is the 4th most important feature and has a negative influence on the prediction.,4.54
+0,5,"For this instance, the model predicted to get a man of the match award.",5.7
+1,1,Off-target (Number of off-target attempts) is the third most important feature and has a positive influence on the prediction.,43.59
+1,2,Goal scored (Number of goals scored) is the most important feature and has a positive influence on the prediction.,11.95
+1,3,Corners (Number of corner kicks) is the second most important feature and has a negative influence on the prediction.,6.15
+1,4,Passes (Total number of passes) is the 4th most important feature and has a negative influence on the prediction.,4.54
+1,5,"For this instance, the model predicted to get a man of the match award.",5.7
+2,1,Off-target (Number of off-target attempts) is the third most important feature and has a positive influence on the prediction.,43.59
+2,2,Goal scored (Number of goals scored) is the most important feature and has a positive influence on the prediction.,11.95
+2,3,Corners (Number of corner kicks) is the second most important feature and has a negative influence on the prediction.,6.15
+2,4,Passes (Total number of passes) is the 4th most important feature and has a negative influence on the prediction.,4.54
+2,5,"For this instance, the model predicted to get a man of the match award.",5.7
+3,1,Off-target (Number of off-target attempts) is the third most important feature and has a positive influence on the prediction.,43.59
+3,2,Goal scored (Number of goals scored) is the most important feature and has a positive influence on the prediction.,11.95
+3,3,Corners (Number of corner kicks) is the second most important feature and has a negative influence on the prediction.,6.15
+3,4,Passes (Total number of passes) is the 4th most important feature and has a negative influence on the prediction.,4.54
+3,5,"For this instance, the model predicted to get a man of the match award.",5.7
+4,1,Corners (Number of corner kicks) is the third most important feature and has a positive influence on the prediction.,28.67
+4,2,Goal scored (Number of goals scored) is the most important feature and has a negative influence on the prediction.,8.25
+4,3,Ball possession % (Percentage of ball possession) is the second most important feature and has a positive influence on the prediction.,4.97
+4,4,Passes (Total number of passes) is the 4th most important feature and has a negative influence on the prediction.,3.87
+4,5,"For this instance, the model predicted not to get a man of the match award.",4.97
+5,1,Passes (Total number of passes) is the third most important feature and has a negative influence on the prediction.,33.24
+5,2,Goal scored (Number of goals scored) is the most important feature and has a negative influence on the prediction.,10.49
+5,3,Corners (Number of corner kicks) is the second most important feature and has a positive influence on the prediction.,5.61
+5,4,Off-target (Number of off-target attempts) is the 4th most important feature and has a positive influence on the prediction.,4.55
+5,5,"For this instance, the model predicted not to get a man of the match award.",5.72
+6,1,Passes (Total number of passes) is the third most important feature and has a negative influence on the prediction.,33.24
+6,2,Goal scored (Number of goals scored) is the most important feature and has a negative influence on the prediction.,10.49
+6,3,Corners (Number of corner kicks) is the second most important feature and has a positive influence on the prediction.,5.61
+6,4,Off-target (Number of off-target attempts) is the 4th most important feature and has a positive influence on the prediction.,4.55
+6,5,"For this instance, the model predicted not to get a man of the match award.",5.72
+7,1,Off-target (Number of off-target attempts) is the third most important feature and has a positive influence on the prediction.,43.59
+7,2,Goal scored (Number of goals scored) is the most important feature and has a positive influence on the prediction.,11.95
+7,3,Corners (Number of corner kicks) is the second most important feature and has a negative influence on the prediction.,6.15
+7,4,Passes (Total number of passes) is the 4th most important feature and has a negative influence on the prediction.,4.54
+7,5,"For this instance, the model predicted to get a man of the match award.",5.7
+8,1,Corners (Number of corner kicks) is the third most important feature and has a positive influence on the prediction.,28.67
+8,2,Goal scored (Number of goals scored) is the most important feature and has a negative influence on the prediction.,8.25
+8,3,Passes (Total number of passes) is the second most important feature and has a positive influence on the prediction.,4.81
+8,4,Off-target (Number of off-target attempts) is the 4th most important feature and has a positive influence on the prediction.,4.11
+8,5,"For this instance, the model predicted not to get a man of the match award.",5.24
+9,1,Passes (Total number of passes) is the third most important feature and has a negative influence on the prediction.,33.24
+9,2,Goal scored (Number of goals scored) is the most important feature and has a negative influence on the prediction.,10.49
+9,3,Corners (Number of corner kicks) is the second most important feature and has a positive influence on the prediction.,5.61
+9,4,Off-target (Number of off-target attempts) is the 4th most important feature and has a positive influence on the prediction.,4.55
+9,5,"For this instance, the model predicted not to get a man of the match award.",5.72
+10,1,Off-target (Number of off-target attempts) is the third most important feature and has a positive influence on the prediction.,43.59
+10,2,Goal scored (Number of goals scored) is the most important feature and has a positive influence on the prediction.,11.95
+10,3,Corners (Number of corner kicks) is the second most important feature and has a positive influence on the prediction.,6.03
+10,4,Passes (Total number of passes) is the 4th most important feature and has a negative influence on the prediction.,4.5
+10,5,"For this instance, the model predicted to get a man of the match award.",5.68
+11,1,Off-target (Number of off-target attempts) is the third most important feature and has a positive influence on the prediction.,43.59
+11,2,Goal scored (Number of goals scored) is the most important feature and has a positive influence on the prediction.,11.95
+11,3,Corners (Number of corner kicks) is the second most important feature and has a positive influence on the prediction.,6.03
+11,4,Passes (Total number of passes) is the 4th most important feature and has a negative influence on the prediction.,4.5
+11,5,"For this instance, the model predicted to get a man of the match award.",5.68
+12,1,Passes (Total number of passes) is the third most important feature and has a negative influence on the prediction.,33.24
+12,2,Goal scored (Number of goals scored) is the most important feature and has a negative influence on the prediction.,10.49
+12,3,Corners (Number of corner kicks) is the second most important feature and has a negative influence on the prediction.,5.58
+12,4,Off-target (Number of off-target attempts) is the 4th most important feature and has a positive influence on the prediction.,4.56
+12,5,"For this instance, the model predicted not to get a man of the match award.",5.69
+13,1,Off-target (Number of off-target attempts) is the third most important feature and has a positive influence on the prediction.,43.59
+13,2,Goal scored (Number of goals scored) is the most important feature and has a positive influence on the prediction.,11.95
+13,3,Corners (Number of corner kicks) is the second most important feature and has a positive influence on the prediction.,6.03
+13,4,Passes (Total number of passes) is the 4th most important feature and has a negative influence on the prediction.,4.5
+13,5,"For this instance, the model predicted to get a man of the match award.",5.68
+14,1,Goal scored (Number of goals scored) is the third most important feature and has a positive influence on the prediction.,29.95
+14,2,Off-target (Number of off-target attempts) is the most important feature and has a negative influence on the prediction.,10.13
+14,3,Corners (Number of corner kicks) is the second most important feature and has a negative influence on the prediction.,5.53
+14,4,Passes (Total number of passes) is the 4th most important feature and has a negative influence on the prediction.,4.17
+14,5,"For this instance, the model predicted not to get a man of the match award.",5.32
+15,1,Off-target (Number of off-target attempts) is the third most important feature and has a positive influence on the prediction.,43.59
+15,2,Goal scored (Number of goals scored) is the most important feature and has a positive influence on the prediction.,11.95
+15,3,Corners (Number of corner kicks) is the second most important feature and has a negative influence on the prediction.,6.15
+15,4,Passes (Total number of passes) is the 4th most important feature and has a negative influence on the prediction.,4.54
+15,5,"For this instance, the model predicted to get a man of the match award.",5.7
+16,1,Off-target (Number of off-target attempts) is the third most important feature and has a positive influence on the prediction.,43.59
+16,2,Goal scored (Number of goals scored) is the most important feature and has a positive influence on the prediction.,11.95
+16,3,Corners (Number of corner kicks) is the second most important feature and has a negative influence on the prediction.,6.15
+16,4,Passes (Total number of passes) is the 4th most important feature and has a negative influence on the prediction.,4.54
+16,5,"For this instance, the model predicted to get a man of the match award.",5.7
+17,1,Ball possession % (Percentage of ball possession) is the third most important feature and has a positive influence on the prediction.,38.06
+17,2,Goal scored (Number of goals scored) is the most important feature and has a negative influence on the prediction.,10.36
+17,3,Passes (Total number of passes) is the second most important feature and has a positive influence on the prediction.,5.64
+17,4,Corners (Number of corner kicks) is the 4th most important feature and has a positive influence on the prediction.,4.17
+17,5,"For this instance, the model predicted not to get a man of the match award.",5.47
+18,1,Off-target (Number of off-target attempts) is the third most important feature and has a positive influence on the prediction.,43.59
+18,2,Goal scored (Number of goals scored) is the most important feature and has a positive influence on the prediction.,11.95
+18,3,Corners (Number of corner kicks) is the second most important feature and has a negative influence on the prediction.,6.15
+18,4,Passes (Total number of passes) is the 4th most important feature and has a negative influence on the prediction.,4.54
+18,5,"For this instance, the model predicted to get a man of the match award.",5.7
+19,1,Ball possession % (Percentage of ball possession) is the third most important feature and has a positive influence on the prediction.,38.06
+19,2,Goal scored (Number of goals scored) is the most important feature and has a negative influence on the prediction.,10.36
+19,3,Passes (Total number of passes) is the second most important feature and has a positive influence on the prediction.,5.64
+19,4,Corners (Number of corner kicks) is the 4th most important feature and has a positive influence on the prediction.,4.17
+19,5,"For this instance, the model predicted not to get a man of the match award.",5.47
+20,1,Off-target (Number of off-target attempts) is the third most important feature and has a positive influence on the prediction.,43.59
+20,2,Goal scored (Number of goals scored) is the most important feature and has a positive influence on the prediction.,11.95
+20,3,Corners (Number of corner kicks) is the second most important feature and has a negative influence on the prediction.,6.15
+20,4,Passes (Total number of passes) is the 4th most important feature and has a negative influence on the prediction.,4.54
+20,5,"For this instance, the model predicted to get a man of the match award.",5.7
+21,1,Off-target (Number of off-target attempts) is the third most important feature and has a positive influence on the prediction.,43.59
+21,2,Goal scored (Number of goals scored) is the most important feature and has a positive influence on the prediction.,11.95
+21,3,Corners (Number of corner kicks) is the second most important feature and has a positive influence on the prediction.,6.03
+21,4,Passes (Total number of passes) is the 4th most important feature and has a negative influence on the prediction.,4.5
+21,5,"For this instance, the model predicted to get a man of the match award.",5.68
+22,1,Off-target (Number of off-target attempts) is the third most important feature and has a positive influence on the prediction.,43.59
+22,2,Goal scored (Number of goals scored) is the most important feature and has a positive influence on the prediction.,11.95
+22,3,Corners (Number of corner kicks) is the second most important feature and has a negative influence on the prediction.,6.15
+22,4,Passes (Total number of passes) is the 4th most important feature and has a negative influence on the prediction.,4.54
+22,5,"For this instance, the model predicted to get a man of the match award.",5.7
+23,1,Off-target (Number of off-target attempts) is the third most important feature and has a positive influence on the prediction.,43.59
+23,2,Goal scored (Number of goals scored) is the most important feature and has a positive influence on the prediction.,11.95
+23,3,Corners (Number of corner kicks) is the second most important feature and has a positive influence on the prediction.,6.03
+23,4,Passes (Total number of passes) is the 4th most important feature and has a negative influence on the prediction.,4.5
+23,5,"For this instance, the model predicted to get a man of the match award.",5.68
+24,1,Off-target (Number of off-target attempts) is the third most important feature and has a positive influence on the prediction.,43.59
+24,2,Goal scored (Number of goals scored) is the most important feature and has a positive influence on the prediction.,11.95
+24,3,Corners (Number of corner kicks) is the second most important feature and has a positive influence on the prediction.,6.03
+24,4,Passes (Total number of passes) is the 4th most important feature and has a positive influence on the prediction.,4.45
+24,5,"For this instance, the model predicted to get a man of the match award.",5.63
+25,1,Off-target (Number of off-target attempts) is the third most important feature and has a positive influence on the prediction.,43.59
+25,2,Goal scored (Number of goals scored) is the most important feature and has a positive influence on the prediction.,11.95
+25,3,Corners (Number of corner kicks) is the second most important feature and has a negative influence on the prediction.,6.15
+25,4,Passes (Total number of passes) is the 4th most important feature and has a negative influence on the prediction.,4.54
+25,5,"For this instance, the model predicted to get a man of the match award.",5.7
+26,1,Off-target (Number of off-target attempts) is the third most important feature and has a positive influence on the prediction.,43.59
+26,2,Goal scored (Number of goals scored) is the most important feature and has a positive influence on the prediction.,11.95
+26,3,Corners (Number of corner kicks) is the second most important feature and has a positive influence on the prediction.,6.03
+26,4,Passes (Total number of passes) is the 4th most important feature and has a positive influence on the prediction.,4.45
+26,5,"For this instance, the model predicted to get a man of the match award.",5.63
+27,1,Goal scored (Number of goals scored) is the third most important feature and has a positive influence on the prediction.,29.95
+27,2,Off-target (Number of off-target attempts) is the most important feature and has a negative influence on the prediction.,10.13
+27,3,Corners (Number of corner kicks) is the second most important feature and has a negative influence on the prediction.,5.53
+27,4,Passes (Total number of passes) is the 4th most important feature and has a negative influence on the prediction.,4.17
+27,5,"For this instance, the model predicted not to get a man of the match award.",5.32
+28,1,Off-target (Number of off-target attempts) is the third most important feature and has a positive influence on the prediction.,43.59
+28,2,Goal scored (Number of goals scored) is the most important feature and has a positive influence on the prediction.,11.95
+28,3,Corners (Number of corner kicks) is the second most important feature and has a positive influence on the prediction.,6.03
+28,4,Passes (Total number of passes) is the 4th most important feature and has a negative influence on the prediction.,4.5
+28,5,"For this instance, the model predicted to get a man of the match award.",5.68
+29,1,Off-target (Number of off-target attempts) is the third most important feature and has a positive influence on the prediction.,43.59
+29,2,Goal scored (Number of goals scored) is the most important feature and has a positive influence on the prediction.,11.95
+29,3,Corners (Number of corner kicks) is the second most important feature and has a negative influence on the prediction.,6.15
+29,4,Passes (Total number of passes) is the 4th most important feature and has a negative influence on the prediction.,4.54
+29,5,"For this instance, the model predicted to get a man of the match award.",5.7

@@ -1,0 +1,151 @@
+text_id,num_sentences,last_sentence,ppl
+0,1,"For this instance, the model predicted not to recidivate.",74.66
+0,2,Age (Age of the individual) is the most important feature and has a negative influence on the prediction.,23.5
+0,3,Number_of_prior_crimes (Number of prior crimes committed) is the second most important feature and has a positive influence on the prediction.,9.21
+0,4,Recidivated (Indicator if the individual has recidivated before) is the third most important feature and has a negative influence on the prediction.,6.12
+0,5,Black (Indicator if the individual is recorded as Black) is the 4th most important feature and has a negative influence on the prediction.,4.98
+1,1,"For this instance, the model predicted to recidivate.",115.15
+1,2,Black (Indicator if the individual is recorded as Black) is the most important feature and has a positive influence on the prediction.,41.64
+1,3,Recidivated (Indicator if the individual has recidivated before) is the second most important feature and has a positive influence on the prediction.,12.09
+1,4,Age (Age of the individual) is the third most important feature and has a positive influence on the prediction.,7.12
+1,5,Months_in_jail (Number of months spent in jail) is the 4th most important feature and has a positive influence on the prediction.,5.37
+2,1,"For this instance, the model predicted to recidivate.",115.15
+2,2,Recidivated (Indicator if the individual has recidivated before) is the most important feature and has a positive influence on the prediction.,31.29
+2,3,Number_of_prior_crimes (Number of prior crimes committed) is the second most important feature and has a positive influence on the prediction.,12.2
+2,4,Age (Age of the individual) is the third most important feature and has a positive influence on the prediction.,7.11
+2,5,Black (Indicator if the individual is recorded as Black) is the 4th most important feature and has a negative influence on the prediction.,5.57
+3,1,"For this instance, the model predicted not to recidivate.",74.66
+3,2,Months_in_jail (Number of months spent in jail) is the most important feature and has a negative influence on the prediction.,22.16
+3,3,Recidivated (Indicator if the individual has recidivated before) is the second most important feature and has a positive influence on the prediction.,10.32
+3,4,Black (Indicator if the individual is recorded as Black) is the third most important feature and has a positive influence on the prediction.,6.7
+3,5,Age (Age of the individual) is the 4th most important feature and has a negative influence on the prediction.,5.02
+4,1,"For this instance, the model predicted not to recidivate.",74.66
+4,2,Number_of_prior_crimes (Number of prior crimes committed) is the most important feature and has a negative influence on the prediction.,22.51
+4,3,Recidivated (Indicator if the individual has recidivated before) is the second most important feature and has a negative influence on the prediction.,11.1
+4,4,Age (Age of the individual) is the third most important feature and has a positive influence on the prediction.,6.65
+4,5,Black (Indicator if the individual is recorded as Black) is the 4th most important feature and has a negative influence on the prediction.,5.24
+5,1,"For this instance, the model predicted to recidivate.",115.15
+5,2,Age (Age of the individual) is the most important feature and has a positive influence on the prediction.,27.71
+5,3,Recidivated (Indicator if the individual has recidivated before) is the second most important feature and has a positive influence on the prediction.,10.26
+5,4,Black (Indicator if the individual is recorded as Black) is the third most important feature and has a positive influence on the prediction.,6.48
+5,5,Number_of_prior_crimes (Number of prior crimes committed) is the 4th most important feature and has a positive influence on the prediction.,5.13
+6,1,"For this instance, the model predicted to recidivate.",115.15
+6,2,Age (Age of the individual) is the most important feature and has a negative influence on the prediction.,29.42
+6,3,Number_of_prior_crimes (Number of prior crimes committed) is the second most important feature and has a positive influence on the prediction.,10.26
+6,4,Recidivated (Indicator if the individual has recidivated before) is the third most important feature and has a negative influence on the prediction.,6.61
+6,5,Black (Indicator if the individual is recorded as Black) is the 4th most important feature and has a negative influence on the prediction.,5.27
+7,1,"For this instance, the model predicted to recidivate.",115.15
+7,2,Age (Age of the individual) is the most important feature and has a positive influence on the prediction.,27.71
+7,3,Number_of_prior_crimes (Number of prior crimes committed) is the second most important feature and has a positive influence on the prediction.,9.72
+7,4,Black (Indicator if the individual is recorded as Black) is the third most important feature and has a positive influence on the prediction.,6.69
+7,5,Recidivated (Indicator if the individual has recidivated before) is the 4th most important feature and has a positive influence on the prediction.,5.0
+8,1,"For this instance, the model predicted to recidivate.",115.15
+8,2,Age (Age of the individual) is the most important feature and has a positive influence on the prediction.,27.71
+8,3,Number_of_prior_crimes (Number of prior crimes committed) is the second most important feature and has a positive influence on the prediction.,9.72
+8,4,Black (Indicator if the individual is recorded as Black) is the third most important feature and has a positive influence on the prediction.,6.69
+8,5,Recidivated (Indicator if the individual has recidivated before) is the 4th most important feature and has a positive influence on the prediction.,5.0
+9,1,"For this instance, the model predicted to recidivate.",115.15
+9,2,Age (Age of the individual) is the most important feature and has a negative influence on the prediction.,29.42
+9,3,Number_of_prior_crimes (Number of prior crimes committed) is the second most important feature and has a positive influence on the prediction.,10.26
+9,4,Recidivated (Indicator if the individual has recidivated before) is the third most important feature and has a positive influence on the prediction.,6.58
+9,5,Black (Indicator if the individual is recorded as Black) is the 4th most important feature and has a positive influence on the prediction.,5.2
+10,1,"For this instance, the model predicted to recidivate.",115.15
+10,2,Number_of_prior_crimes (Number of prior crimes committed) is the most important feature and has a positive influence on the prediction.,24.65
+10,3,Recidivated (Indicator if the individual has recidivated before) is the second most important feature and has a positive influence on the prediction.,11.22
+10,4,Black (Indicator if the individual is recorded as Black) is the third most important feature and has a positive influence on the prediction.,7.04
+10,5,Age (Age of the individual) is the 4th most important feature and has a positive influence on the prediction.,5.19
+11,1,"For this instance, the model predicted to recidivate.",115.15
+11,2,Age (Age of the individual) is the most important feature and has a positive influence on the prediction.,27.71
+11,3,Number_of_prior_crimes (Number of prior crimes committed) is the second most important feature and has a positive influence on the prediction.,9.72
+11,4,Recidivated (Indicator if the individual has recidivated before) is the third most important feature and has a negative influence on the prediction.,6.38
+11,5,Months_in_jail (Number of months spent in jail) is the 4th most important feature and has a negative influence on the prediction.,4.8
+12,1,"For this instance, the model predicted to recidivate.",115.15
+12,2,Recidivated (Indicator if the individual has recidivated before) is the most important feature and has a positive influence on the prediction.,31.29
+12,3,Age (Age of the individual) is the second most important feature and has a negative influence on the prediction.,11.99
+12,4,Months_in_jail (Number of months spent in jail) is the third most important feature and has a positive influence on the prediction.,7.02
+12,5,Number_of_prior_crimes (Number of prior crimes committed) is the 4th most important feature and has a positive influence on the prediction.,5.21
+13,1,"For this instance, the model predicted to recidivate.",115.15
+13,2,Number_of_prior_crimes (Number of prior crimes committed) is the most important feature and has a positive influence on the prediction.,24.65
+13,3,Recidivated (Indicator if the individual has recidivated before) is the second most important feature and has a positive influence on the prediction.,11.22
+13,4,Months_in_jail (Number of months spent in jail) is the third most important feature and has a positive influence on the prediction.,6.61
+13,5,Age (Age of the individual) is the 4th most important feature and has a negative influence on the prediction.,4.96
+14,1,"For this instance, the model predicted not to recidivate.",74.66
+14,2,Months_in_jail (Number of months spent in jail) is the most important feature and has a negative influence on the prediction.,22.16
+14,3,Recidivated (Indicator if the individual has recidivated before) is the second most important feature and has a negative influence on the prediction.,10.47
+14,4,Number_of_prior_crimes (Number of prior crimes committed) is the third most important feature and has a positive influence on the prediction.,6.44
+14,5,Age (Age of the individual) is the 4th most important feature and has a positive influence on the prediction.,4.88
+15,1,"For this instance, the model predicted to recidivate.",115.15
+15,2,Number_of_prior_crimes (Number of prior crimes committed) is the most important feature and has a positive influence on the prediction.,24.65
+15,3,Recidivated (Indicator if the individual has recidivated before) is the second most important feature and has a positive influence on the prediction.,11.22
+15,4,Black (Indicator if the individual is recorded as Black) is the third most important feature and has a negative influence on the prediction.,7.07
+15,5,Months_in_jail (Number of months spent in jail) is the 4th most important feature and has a positive influence on the prediction.,5.3
+16,1,"For this instance, the model predicted not to recidivate.",74.66
+16,2,Number_of_prior_crimes (Number of prior crimes committed) is the most important feature and has a negative influence on the prediction.,22.51
+16,3,Age (Age of the individual) is the second most important feature and has a positive influence on the prediction.,9.34
+16,4,Recidivated (Indicator if the individual has recidivated before) is the third most important feature and has a positive influence on the prediction.,6.23
+16,5,Black (Indicator if the individual is recorded as Black) is the 4th most important feature and has a negative influence on the prediction.,5.02
+17,1,"For this instance, the model predicted to recidivate.",115.15
+17,2,Months_in_jail (Number of months spent in jail) is the most important feature and has a negative influence on the prediction.,24.88
+17,3,Age (Age of the individual) is the second most important feature and has a positive influence on the prediction.,9.95
+17,4,Black (Indicator if the individual is recorded as Black) is the third most important feature and has a positive influence on the prediction.,6.7
+17,5,Recidivated (Indicator if the individual has recidivated before) is the 4th most important feature and has a negative influence on the prediction.,5.02
+18,1,"For this instance, the model predicted not to recidivate.",74.66
+18,2,Months_in_jail (Number of months spent in jail) is the most important feature and has a negative influence on the prediction.,22.16
+18,3,Age (Age of the individual) is the second most important feature and has a negative influence on the prediction.,9.49
+18,4,Recidivated (Indicator if the individual has recidivated before) is the third most important feature and has a negative influence on the prediction.,6.25
+18,5,Black (Indicator if the individual is recorded as Black) is the 4th most important feature and has a negative influence on the prediction.,4.98
+19,1,"For this instance, the model predicted to recidivate.",115.15
+19,2,Age (Age of the individual) is the most important feature and has a positive influence on the prediction.,27.71
+19,3,Number_of_prior_crimes (Number of prior crimes committed) is the second most important feature and has a positive influence on the prediction.,9.72
+19,4,Recidivated (Indicator if the individual has recidivated before) is the third most important feature and has a positive influence on the prediction.,6.34
+19,5,Black (Indicator if the individual is recorded as Black) is the 4th most important feature and has a positive influence on the prediction.,5.05
+20,1,"For this instance, the model predicted to recidivate.",115.15
+20,2,Age (Age of the individual) is the most important feature and has a positive influence on the prediction.,27.71
+20,3,Number_of_prior_crimes (Number of prior crimes committed) is the second most important feature and has a positive influence on the prediction.,9.72
+20,4,Recidivated (Indicator if the individual has recidivated before) is the third most important feature and has a positive influence on the prediction.,6.34
+20,5,Black (Indicator if the individual is recorded as Black) is the 4th most important feature and has a negative influence on the prediction.,5.09
+21,1,"For this instance, the model predicted not to recidivate.",74.66
+21,2,Number_of_prior_crimes (Number of prior crimes committed) is the most important feature and has a negative influence on the prediction.,22.51
+21,3,Age (Age of the individual) is the second most important feature and has a positive influence on the prediction.,9.34
+21,4,Black (Indicator if the individual is recorded as Black) is the third most important feature and has a negative influence on the prediction.,6.5
+21,5,Recidivated (Indicator if the individual has recidivated before) is the 4th most important feature and has a positive influence on the prediction.,4.92
+22,1,"For this instance, the model predicted not to recidivate.",74.66
+22,2,Number_of_prior_crimes (Number of prior crimes committed) is the most important feature and has a positive influence on the prediction.,21.71
+22,3,Age (Age of the individual) is the second most important feature and has a negative influence on the prediction.,9.0
+22,4,Recidivated (Indicator if the individual has recidivated before) is the third most important feature and has a negative influence on the prediction.,6.1
+22,5,Black (Indicator if the individual is recorded as Black) is the 4th most important feature and has a negative influence on the prediction.,4.95
+23,1,"For this instance, the model predicted not to recidivate.",74.66
+23,2,Age (Age of the individual) is the most important feature and has a negative influence on the prediction.,23.5
+23,3,Number_of_prior_crimes (Number of prior crimes committed) is the second most important feature and has a positive influence on the prediction.,9.21
+23,4,Recidivated (Indicator if the individual has recidivated before) is the third most important feature and has a negative influence on the prediction.,6.12
+23,5,Black (Indicator if the individual is recorded as Black) is the 4th most important feature and has a positive influence on the prediction.,4.95
+24,1,"For this instance, the model predicted to recidivate.",115.15
+24,2,Number_of_prior_crimes (Number of prior crimes committed) is the most important feature and has a positive influence on the prediction.,24.65
+24,3,Black (Indicator if the individual is recorded as Black) is the second most important feature and has a positive influence on the prediction.,11.84
+24,4,Recidivated (Indicator if the individual has recidivated before) is the third most important feature and has a positive influence on the prediction.,6.93
+24,5,Months_in_jail (Number of months spent in jail) is the 4th most important feature and has a positive influence on the prediction.,5.21
+25,1,"For this instance, the model predicted not to recidivate.",74.66
+25,2,Age (Age of the individual) is the most important feature and has a negative influence on the prediction.,23.5
+25,3,Black (Indicator if the individual is recorded as Black) is the second most important feature and has a positive influence on the prediction.,10.24
+25,4,Recidivated (Indicator if the individual has recidivated before) is the third most important feature and has a negative influence on the prediction.,5.97
+25,5,Number_of_prior_crimes (Number of prior crimes committed) is the 4th most important feature and has a negative influence on the prediction.,4.87
+26,1,"For this instance, the model predicted to recidivate.",115.15
+26,2,Number_of_prior_crimes (Number of prior crimes committed) is the most important feature and has a positive influence on the prediction.,24.65
+26,3,Recidivated (Indicator if the individual has recidivated before) is the second most important feature and has a positive influence on the prediction.,11.22
+26,4,Age (Age of the individual) is the third most important feature and has a negative influence on the prediction.,6.65
+26,5,Black (Indicator if the individual is recorded as Black) is the 4th most important feature and has a positive influence on the prediction.,5.21
+27,1,"For this instance, the model predicted not to recidivate.",74.66
+27,2,Number_of_prior_crimes (Number of prior crimes committed) is the most important feature and has a positive influence on the prediction.,21.71
+27,3,Recidivated (Indicator if the individual has recidivated before) is the second most important feature and has a negative influence on the prediction.,10.75
+27,4,Black (Indicator if the individual is recorded as Black) is the third most important feature and has a positive influence on the prediction.,6.92
+27,5,Months_in_jail (Number of months spent in jail) is the 4th most important feature and has a negative influence on the prediction.,5.24
+28,1,"For this instance, the model predicted not to recidivate.",74.66
+28,2,Number_of_prior_crimes (Number of prior crimes committed) is the most important feature and has a negative influence on the prediction.,22.51
+28,3,Black (Indicator if the individual is recorded as Black) is the second most important feature and has a positive influence on the prediction.,11.53
+28,4,Recidivated (Indicator if the individual has recidivated before) is the third most important feature and has a negative influence on the prediction.,6.94
+28,5,Age (Age of the individual) is the 4th most important feature and has a negative influence on the prediction.,5.17
+29,1,"For this instance, the model predicted not to recidivate.",74.66
+29,2,Number_of_prior_crimes (Number of prior crimes committed) is the most important feature and has a negative influence on the prediction.,22.51
+29,3,Recidivated (Indicator if the individual has recidivated before) is the second most important feature and has a negative influence on the prediction.,11.1
+29,4,Black (Indicator if the individual is recorded as Black) is the third most important feature and has a negative influence on the prediction.,7.04
+29,5,Months_in_jail (Number of months spent in jail) is the 4th most important feature and has a positive influence on the prediction.,5.31

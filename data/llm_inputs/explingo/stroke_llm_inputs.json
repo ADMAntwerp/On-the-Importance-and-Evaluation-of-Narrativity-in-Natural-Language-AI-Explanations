@@ -1,0 +1,572 @@
+[
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 78, 0.3089), (avg_glucose_level (Average glucose level), 93.85, -0.0031), (bmi (Body Mass Index), 22.70, -0.0013), (hypertension (Indicator if the patient has hypertension), No, -0.0001), (gender (Gender of the patient), Male, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 51, -0.0480), (avg_glucose_level (Average glucose level), 98.41, -0.0029), (bmi (Body Mass Index), 32.10, 0.0025), (hypertension (Indicator if the patient has hypertension), No, -0.0001), (gender (Gender of the patient), Male, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 39, -0.3793), (avg_glucose_level (Average glucose level), 89.32, -0.0063), (bmi (Body Mass Index), 31, 0.0053), (hypertension (Indicator if the patient has hypertension), No, -0.0003), (gender (Gender of the patient), Female, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 52, -0.0391), (avg_glucose_level (Average glucose level), 101.30, -0.0029), (bmi (Body Mass Index), 33.10, 0.0025), (hypertension (Indicator if the patient has hypertension), No, -0.0001), (gender (Gender of the patient), Female, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 64, 0.0927), (avg_glucose_level (Average glucose level), 90.07, -0.0031), (bmi (Body Mass Index), 28.60, 0.0014), (hypertension (Indicator if the patient has hypertension), No, -0.0001), (gender (Gender of the patient), Male, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 8, -0.4410), (bmi (Body Mass Index), 18.40, -0.0076), (avg_glucose_level (Average glucose level), 65.32, -0.0005), (hypertension (Indicator if the patient has hypertension), No, -0.0003), (gender (Gender of the patient), Female, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 9, -0.4410), (bmi (Body Mass Index), 16.30, -0.0076), (avg_glucose_level (Average glucose level), 66.11, -0.0005), (hypertension (Indicator if the patient has hypertension), No, -0.0003), (gender (Gender of the patient), Male, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 17, -0.4427), (bmi (Body Mass Index), 19.50, -0.0076), (avg_glucose_level (Average glucose level), 81.51, -0.0040), (hypertension (Indicator if the patient has hypertension), No, -0.0003), (gender (Gender of the patient), Female, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 70, 0.2485), (avg_glucose_level (Average glucose level), 69.04, -0.0016), (bmi (Body Mass Index), 35.90, 0.0014), (hypertension (Indicator if the patient has hypertension), No, -0.0001), (gender (Gender of the patient), Female, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 8, -0.4452), (bmi (Body Mass Index), 16.10, -0.0076), (avg_glucose_level (Average glucose level), 118.66, -0.0051), (hypertension (Indicator if the patient has hypertension), No, -0.0003), (gender (Gender of the patient), Male, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 6, -0.4410), (bmi (Body Mass Index), 20.30, -0.0076), (avg_glucose_level (Average glucose level), 70.78, -0.0005), (hypertension (Indicator if the patient has hypertension), No, -0.0003), (gender (Gender of the patient), Male, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 53, -0.0343), (avg_glucose_level (Average glucose level), 94.78, -0.0027), (bmi (Body Mass Index), 30.10, 0.0025), (hypertension (Indicator if the patient has hypertension), No, -0.0001), (gender (Gender of the patient), Female, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 41, -0.3793), (avg_glucose_level (Average glucose level), 92.49, -0.0063), (bmi (Body Mass Index), 41.60, 0.0053), (hypertension (Indicator if the patient has hypertension), No, -0.0003), (gender (Gender of the patient), Male, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 31, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 9, -0.4427), (bmi (Body Mass Index), 20, -0.0076), (avg_glucose_level (Average glucose level), 81.18, -0.0040), (hypertension (Indicator if the patient has hypertension), No, -0.0003), (gender (Gender of the patient), Female, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 39, -0.3479), (avg_glucose_level (Average glucose level), 55.28, 0.0548), (bmi (Body Mass Index), 31.50, 0.0053), (hypertension (Indicator if the patient has hypertension), No, -0.0003), (gender (Gender of the patient), Female, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 46, -0.2562), (bmi (Body Mass Index), 29.30, 0.0053), (avg_glucose_level (Average glucose level), 137.77, -0.0046), (hypertension (Indicator if the patient has hypertension), No, -0.0001), (gender (Gender of the patient), Male, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 36, -0.4421), (avg_glucose_level (Average glucose level), 100.33, -0.0063), (bmi (Body Mass Index), 23.20, -0.0054), (hypertension (Indicator if the patient has hypertension), No, -0.0003), (gender (Gender of the patient), Female, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 46, -0.2528), (bmi (Body Mass Index), 28.30, 0.0053), (avg_glucose_level (Average glucose level), 59.05, -0.0007), (hypertension (Indicator if the patient has hypertension), No, -0.0001), (gender (Gender of the patient), Male, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 32.70, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 5, -0.4452), (bmi (Body Mass Index), 18.40, -0.0076), (avg_glucose_level (Average glucose level), 163.70, -0.0051), (hypertension (Indicator if the patient has hypertension), No, -0.0003), (gender (Gender of the patient), Male, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 5, -0.4440), (bmi (Body Mass Index), 16.30, -0.0076), (avg_glucose_level (Average glucose level), 93.03, -0.0063), (hypertension (Indicator if the patient has hypertension), No, -0.0003), (gender (Gender of the patient), Female, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 68, 0.2479), (avg_glucose_level (Average glucose level), 85.29, -0.0031), (bmi (Body Mass Index), 27.10, -0.0011), (hypertension (Indicator if the patient has hypertension), No, -0.0001), (gender (Gender of the patient), Female, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 32.70, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 79, 0.3044), (avg_glucose_level (Average glucose level), 92.43, -0.0031), (hypertension (Indicator if the patient has hypertension), Yes, 0.0017), (bmi (Body Mass Index), 28.10, 0.0014), (gender (Gender of the patient), Female, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 32.70, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 8, -0.4447), (bmi (Body Mass Index), 14.60, -0.0076), (avg_glucose_level (Average glucose level), 108.06, -0.0056), (hypertension (Indicator if the patient has hypertension), No, -0.0003), (gender (Gender of the patient), Male, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 53, -0.0347), (bmi (Body Mass Index), 29.90, 0.0025), (avg_glucose_level (Average glucose level), 83.41, -0.0023), (hypertension (Indicator if the patient has hypertension), No, -0.0001), (gender (Gender of the patient), Female, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 32.70, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 23, -0.4428), (bmi (Body Mass Index), 25.60, -0.0044), (avg_glucose_level (Average glucose level), 63.73, -0.0005), (hypertension (Indicator if the patient has hypertension), No, -0.0003), (gender (Gender of the patient), Female, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 38, -0.3800), (avg_glucose_level (Average glucose level), 108.68, -0.0056), (bmi (Body Mass Index), 32.70, 0.0053), (hypertension (Indicator if the patient has hypertension), No, -0.0003), (gender (Gender of the patient), Male, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 9, -0.4458), (avg_glucose_level (Average glucose level), 83.83, -0.0063), (bmi (Body Mass Index), 27.10, -0.0044), (hypertension (Indicator if the patient has hypertension), No, -0.0003), (gender (Gender of the patient), Male, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 28, -0.4411), (avg_glucose_level (Average glucose level), 87.92, -0.0063), (bmi (Body Mass Index), 32.50, 0.0053), (hypertension (Indicator if the patient has hypertension), No, -0.0003), (gender (Gender of the patient), Female, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 41.60, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 46, -0.2545), (avg_glucose_level (Average glucose level), 85.62, -0.0058), (bmi (Body Mass Index), 33.10, 0.0053), (hypertension (Indicator if the patient has hypertension), Yes, 0.0038), (gender (Gender of the patient), Male, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020)",
+                "The features age (Age of the patient) and bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features avg_glucose_level (Average glucose level) and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(bmi (Body Mass Index), 32.70, 0.0053)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the patient), 54, 0.0207), (bmi (Body Mass Index), 28.70, 0.0020), (avg_glucose_level (Average glucose level), 75.52, -0.0016), (hypertension (Indicator if the patient has hypertension), No, -0.0001), (gender (Gender of the patient), Female, 0.0000)",
+        "context": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "example_narratives": [
+            [
+                "(bmi (Body Mass Index), 30.10, 0.0025)",
+                "The features bmi (Body Mass Index) increase the predicted value."
+            ],
+            [
+                "(age (Age of the patient), 53, -0.0343), (avg_glucose_level (Average glucose level), 94.78, -0.0027), (hypertension (Indicator if the patient has hypertension), No, -0.0001)",
+                "The features age (Age of the patient), avg_glucose_level (Average glucose level), and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ],
+            [
+                "(age (Age of the patient), 8, -0.4452), (bmi (Body Mass Index), 16.10, -0.0076), (avg_glucose_level (Average glucose level), 118.66, -0.0051), (hypertension (Indicator if the patient has hypertension), No, -0.0003)",
+                "The features age (Age of the patient), bmi (Body Mass Index), avg_glucose_level (Average glucose level), and hypertension (Indicator if the patient has hypertension) decrease the predicted value."
+            ]
+        ]
+    }
+]

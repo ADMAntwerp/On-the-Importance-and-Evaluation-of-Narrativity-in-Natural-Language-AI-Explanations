@@ -1,0 +1,27 @@
+# Ignore the Python virtual environment folder
+venv/
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files (optional, but useful on Windows/macOS)
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files (optional)
+.vscode/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Local cache files
+local_cache/*
+
+# figure sigmoid
+Figure_sigmoid/*

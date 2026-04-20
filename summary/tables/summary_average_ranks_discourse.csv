@@ -1,0 +1,8 @@
+Method,FDR,CSR,CECPR,DCPR,CCPR,TTCPR,VCPR,Overall
+XAIstories,2.167,4.167,2.333,1.333,1.833,1.917,2.167,2.274
+XAIstories Narratives,2.833,2.75,1.667,2.833,2.833,3.083,3.5,2.786
+Explingo Zero-Shot,3.917,2.0,3.0,3.167,4.167,2.167,3.5,3.131
+Explingo Narratives,1.667,1.583,3.0,3.5,4.667,3.5,4.333,3.179
+Templated Explanation,6.417,4.5,4.833,4.167,1.5,4.333,1.5,3.893
+Explingo,4.417,6.0,4.833,6.0,6.0,6.0,6.0,5.607
+TalkToModel,6.583,6.0,4.833,6.0,6.0,6.0,6.0,5.917

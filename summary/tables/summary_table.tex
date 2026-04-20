@@ -1,0 +1,62 @@
+\begin{table}[th!]
+\centering
+\caption{BIG main summary table of evaluation metrics for generated explanations across datasets and methods.}
+\label{tab:summary_results_big_main}
+\setlength{\tabcolsep}{3pt}
+\renewcommand{\arraystretch}{0.85}
+\resizebox{\textwidth}{!}{
+    \begin{tabular}{llcccccccccccc}
+    \toprule
+    Dataset & Method & PPL $\downarrow$ & $\text{Dist}_2$ $\uparrow$ & TTR $\uparrow$ & VR $\uparrow$ & CD $\uparrow$ & \emph{FDR} $\uparrow$ & \emph{CSR} $\uparrow$ & \emph{CECPR} $\downarrow$ & \emph{DCPR} $\downarrow$ & \emph{CCPR} $\downarrow$ & \emph{TTCPR} $\downarrow$ & \emph{VCPR} $\downarrow$\\
+    \midrule
+    \multirow{7}{*}{Compas} & talktomodel & \textbf{4.50} & 0.60 & 0.36 & 0.17 & 0.09 & 0.24 & - & - & - & - & - & -\\
+     & templated\_narrative & 5.10 & 0.62 & 0.41 & 0.18 & 0.10 & 0.24 & 0.15 & - & 0.59 & \textbf{23.70} & 1.33 & \textbf{7.11}\\
+     & explingo & 11.70 & 0.89 & 0.62 & 0.17 & \textbf{0.14} & 0.32 & - & - & - & - & - & -\\
+     & explingo\_zero\_shot & 11.42 & 0.95 & \textbf{0.69} & \textbf{0.22} & 0.09 & 0.38 & \textbf{0.31} & - & 0.62 & 63.53 & 1.19 & 12.10\\
+     & explingo\_narratives & 7.95 & 0.94 & 0.58 & 0.16 & 0.07 & \textbf{0.43} & 0.26 & 54388.14 & 0.50 & 82.05 & 1.17 & 14.83\\
+     & xaistories & 9.60 & \textbf{0.96} & 0.65 & 0.17 & 0.09 & 0.41 & 0.13 & 17123.10 & 0.44 & 55.96 & 0.97 & 13.46\\
+     & xaistories\_narratives & 9.65 & \textbf{0.96} & 0.65 & 0.17 & 0.08 & 0.41 & 0.17 & \textbf{13738.29} & \textbf{0.42} & 55.42 & \textbf{0.91} & 12.91\\
+    \midrule
+    \multirow{7}{*}{Diabetes} & talktomodel & \textbf{3.71} & 0.59 & 0.40 & 0.14 & 0.06 & 0.27 & - & - & - & - & - & -\\
+     & templated\_narrative & 4.19 & 0.61 & 0.45 & 0.14 & 0.06 & 0.26 & 0.24 & - & 0.52 & 50.62 & 0.97 & 10.52\\
+     & explingo & 8.92 & \textbf{0.98} & \textbf{0.75} & 0.12 & 0.07 & 0.44 & - & - & - & - & - & -\\
+     & explingo\_zero\_shot & 10.17 & 0.96 & 0.65 & 0.15 & \textbf{0.08} & 0.40 & \textbf{0.35} & 8420.33 & 0.39 & 54.64 & 0.83 & 14.79\\
+     & explingo\_narratives & 8.35 & 0.96 & 0.58 & 0.16 & 0.07 & 0.44 & 0.28 & 21767.24 & 0.40 & 66.07 & 0.87 & 11.67\\
+     & xaistories & 7.46 & 0.95 & 0.59 & \textbf{0.17} & \textbf{0.08} & \textbf{0.45} & 0.18 & \textbf{5725.49} & \textbf{0.28} & \textbf{39.51} & \textbf{0.72} & \textbf{8.79}\\
+     & xaistories\_narratives & 8.49 & 0.96 & 0.61 & \textbf{0.17} & \textbf{0.08} & 0.43 & 0.26 & 6661.56 & 0.40 & 52.90 & 0.99 & 13.04\\
+    \midrule
+    \multirow{7}{*}{Fifa} & talktomodel & \textbf{5.05} & 0.61 & 0.36 & 0.14 & 0.06 & 0.23 & - & - & - & - & - & -\\
+     & templated\_narrative & 5.30 & 0.63 & 0.41 & 0.15 & 0.06 & 0.24 & 0.06 & - & 1.00 & 122.43 & 2.30 & 18.11\\
+     & explingo & 9.13 & 0.92 & 0.58 & 0.14 & \textbf{0.07} & 0.38 & - & - & - & - & - & -\\
+     & explingo\_zero\_shot & 9.04 & \textbf{0.95} & \textbf{0.67} & 0.14 & 0.06 & 0.41 & 0.31 & 215779.16 & 0.55 & 139.01 & 1.09 & 25.31\\
+     & explingo\_narratives & 8.49 & 0.94 & 0.63 & 0.15 & \textbf{0.07} & \textbf{0.42} & \textbf{0.33} & 251659.58 & 0.67 & 126.76 & 1.49 & 26.08\\
+     & xaistories & 10.20 & \textbf{0.95} & 0.66 & \textbf{0.17} & \textbf{0.07} & 0.39 & 0.30 & \textbf{70622.24} & \textbf{0.42} & \textbf{67.43} & \textbf{0.86} & \textbf{13.78}\\
+     & xaistories\_narratives & 9.88 & 0.94 & 0.64 & 0.16 & \textbf{0.07} & 0.39 & 0.28 & 185070.68 & 0.63 & 107.10 & 1.37 & 20.98\\
+    \midrule
+    \multirow{7}{*}{German\_credit} & talktomodel & \textbf{4.30} & 0.59 & 0.35 & 0.12 & 0.06 & 0.24 & - & - & - & - & - & -\\
+     & templated\_narrative & 4.48 & 0.61 & 0.40 & 0.13 & 0.06 & 0.25 & 0.18 & - & \textbf{0.38} & \textbf{42.17} & 0.89 & \textbf{8.93}\\
+     & explingo & 11.38 & 0.92 & 0.57 & 0.08 & 0.06 & 0.35 & - & - & - & - & - & -\\
+     & explingo\_zero\_shot & 13.40 & 0.92 & 0.65 & \textbf{0.17} & 0.08 & 0.33 & 0.19 & 43126.59 & 0.45 & 52.08 & \textbf{0.88} & 12.45\\
+     & explingo\_narratives & 8.95 & 0.96 & 0.56 & 0.14 & 0.07 & \textbf{0.42} & \textbf{0.27} & 42351.68 & 0.44 & 54.77 & 0.96 & 15.79\\
+     & xaistories & 9.37 & 0.96 & 0.64 & 0.16 & \textbf{0.09} & \textbf{0.42} & 0.21 & 110339.29 & 0.41 & 47.12 & 0.94 & 15.52\\
+     & xaistories\_narratives & 10.35 & \textbf{0.97} & \textbf{0.66} & 0.16 & \textbf{0.09} & 0.40 & 0.25 & \textbf{31375.34} & 0.44 & 47.43 & 0.94 & 15.42\\
+    \midrule
+    \multirow{7}{*}{Stroke} & talktomodel & \textbf{4.14} & 0.58 & 0.36 & 0.13 & 0.07 & 0.24 & - & - & - & - & - & -\\
+     & templated\_narrative & 4.33 & 0.63 & 0.43 & 0.13 & 0.07 & 0.27 & 0.24 & - & 0.58 & \textbf{43.88} & 1.19 & \textbf{13.05}\\
+     & explingo & 10.79 & 0.94 & 0.64 & 0.10 & 0.07 & 0.37 & - & - & - & - & - & -\\
+     & explingo\_zero\_shot & 10.50 & \textbf{0.97} & \textbf{0.71} & 0.14 & 0.06 & 0.40 & \textbf{0.28} & 68874.37 & 0.40 & 96.27 & \textbf{0.74} & 19.56\\
+     & explingo\_narratives & 8.43 & 0.96 & 0.67 & \textbf{0.16} & 0.08 & 0.43 & 0.27 & 28691.01 & 0.45 & 68.53 & 0.92 & 16.27\\
+     & xaistories & 7.07 & 0.95 & 0.58 & 0.15 & 0.08 & \textbf{0.46} & 0.22 & 16908.83 & \textbf{0.35} & 54.45 & 0.93 & 13.91\\
+     & xaistories\_narratives & 8.12 & 0.96 & 0.62 & 0.15 & \textbf{0.09} & 0.44 & 0.27 & \textbf{5333.97} & 0.48 & 59.36 & 1.14 & 19.80\\
+    \midrule
+    \multirow{7}{*}{Student} & talktomodel & \textbf{4.56} & 0.56 & 0.35 & 0.15 & 0.07 & 0.21 & - & - & - & - & - & -\\
+     & templated\_narrative & 5.24 & 0.58 & 0.41 & 0.15 & 0.07 & 0.20 & 0.14 & - & 0.81 & \textbf{63.36} & 1.64 & 12.84\\
+     & explingo & 22.67 & 0.94 & 0.68 & 0.12 & \textbf{0.08} & 0.28 & - & - & - & - & - & -\\
+     & explingo\_zero\_shot & 12.66 & 0.95 & \textbf{0.71} & 0.15 & \textbf{0.08} & 0.37 & 0.24 & \textbf{13665.11} & 0.60 & 85.17 & 1.08 & 23.71\\
+     & explingo\_narratives & 9.81 & 0.95 & 0.67 & 0.14 & \textbf{0.08} & \textbf{0.40} & \textbf{0.28} & 24857.51 & 0.65 & 103.60 & 1.31 & 30.05\\
+     & xaistories & 12.42 & \textbf{0.97} & 0.69 & \textbf{0.17} & 0.07 & 0.37 & 0.22 & 299401.09 & \textbf{0.40} & 79.99 & \textbf{0.78} & \textbf{12.36}\\
+     & xaistories\_narratives & 12.10 & \textbf{0.97} & 0.69 & \textbf{0.17} & \textbf{0.08} & 0.38 & 0.27 & 85370.84 & 0.54 & 86.44 & 1.06 & 16.71\\
+    \bottomrule
+    \end{tabular}
+}
+\end{table}

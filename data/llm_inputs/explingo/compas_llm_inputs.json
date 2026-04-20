@@ -1,0 +1,572 @@
+[
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the individual), 21, -0.1412), (number_of_prior_crimes (Number of prior crimes committed), 0, 0.1148), (recidivated (Indicator if the individual has recidivated before), yes, -0.0776), (black (Indicator if the individual is recorded as Black), yes, -0.0431), (months_in_jail (Number of months spent in jail), 4, -0.0165)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(age (Age of the individual), 62, 0.1512), (number_of_prior_crimes (Number of prior crimes committed), 0, 0.1009), (black (Indicator if the individual is recorded as Black), no, 0.0750), (recidivated (Indicator if the individual has recidivated before), no, 0.0708), (misdemeanor (Indicator if the current charge is a misdemeanor), yes, 0.0229)",
+                "The features age (Age of the individual), number_of_prior_crimes (Number of prior crimes committed), black (Indicator if the individual is recorded as Black), recidivated (Indicator if the individual has recidivated before), and misdemeanor (Indicator if the current charge is a misdemeanor) increase the predicted value."
+            ],
+            [
+                "(woman (Indicator if the individual is a woman), no, -0.0011)",
+                "The features woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(black (Indicator if the individual is recorded as Black), no, 0.1129), (recidivated (Indicator if the individual has recidivated before), no, 0.0923), (age (Age of the individual), 34, 0.0851), (months_in_jail (Number of months spent in jail), 1, 0.0510), (number_of_prior_crimes (Number of prior crimes committed), 5, -0.0505)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(age (Age of the individual), 62, 0.1512), (number_of_prior_crimes (Number of prior crimes committed), 0, 0.1009), (black (Indicator if the individual is recorded as Black), no, 0.0750), (recidivated (Indicator if the individual has recidivated before), no, 0.0708), (misdemeanor (Indicator if the current charge is a misdemeanor), yes, 0.0229)",
+                "The features age (Age of the individual), number_of_prior_crimes (Number of prior crimes committed), black (Indicator if the individual is recorded as Black), recidivated (Indicator if the individual has recidivated before), and misdemeanor (Indicator if the current charge is a misdemeanor) increase the predicted value."
+            ],
+            [
+                "(woman (Indicator if the individual is a woman), no, -0.0011)",
+                "The features woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(recidivated (Indicator if the individual has recidivated before), no, 0.1139), (number_of_prior_crimes (Number of prior crimes committed), 2, 0.0966), (age (Age of the individual), 34, 0.0689), (black (Indicator if the individual is recorded as Black), yes, -0.0680), (months_in_jail (Number of months spent in jail), 0, 0.0592)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(age (Age of the individual), 62, 0.1512), (number_of_prior_crimes (Number of prior crimes committed), 0, 0.1009), (black (Indicator if the individual is recorded as Black), no, 0.0750), (recidivated (Indicator if the individual has recidivated before), no, 0.0708), (misdemeanor (Indicator if the current charge is a misdemeanor), yes, 0.0229)",
+                "The features age (Age of the individual), number_of_prior_crimes (Number of prior crimes committed), black (Indicator if the individual is recorded as Black), recidivated (Indicator if the individual has recidivated before), and misdemeanor (Indicator if the current charge is a misdemeanor) increase the predicted value."
+            ],
+            [
+                "(woman (Indicator if the individual is a woman), no, -0.0011)",
+                "The features woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(months_in_jail (Number of months spent in jail), 181, -0.1590), (recidivated (Indicator if the individual has recidivated before), no, 0.1158), (black (Indicator if the individual is recorded as Black), no, 0.0731), (age (Age of the individual), 25, -0.0582), (number_of_prior_crimes (Number of prior crimes committed), 2, 0.0554)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(number_of_prior_crimes (Number of prior crimes committed), 1, 0.1167), (recidivated (Indicator if the individual has recidivated before), no, 0.0986), (black (Indicator if the individual is recorded as Black), no, 0.0929), (age (Age of the individual), 36, 0.0871)",
+                "The features number_of_prior_crimes (Number of prior crimes committed), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and age (Age of the individual) increase the predicted value."
+            ],
+            [
+                "(misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0112), (felony (Indicator if the current charge is a felony), yes, -0.0102), (woman (Indicator if the individual is a woman), no, -0.0020)",
+                "The features misdemeanor (Indicator if the current charge is a misdemeanor), felony (Indicator if the current charge is a felony), and woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(number_of_prior_crimes (Number of prior crimes committed), 26, -0.2918), (recidivated (Indicator if the individual has recidivated before), yes, -0.0747), (age (Age of the individual), 36, 0.0552), (black (Indicator if the individual is recorded as Black), yes, -0.0541), (months_in_jail (Number of months spent in jail), 0, 0.0402)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(number_of_prior_crimes (Number of prior crimes committed), 1, 0.1167), (recidivated (Indicator if the individual has recidivated before), no, 0.0986), (black (Indicator if the individual is recorded as Black), no, 0.0929), (age (Age of the individual), 36, 0.0871)",
+                "The features number_of_prior_crimes (Number of prior crimes committed), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and age (Age of the individual) increase the predicted value."
+            ],
+            [
+                "(misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0112), (felony (Indicator if the current charge is a felony), yes, -0.0102), (woman (Indicator if the individual is a woman), no, -0.0020)",
+                "The features misdemeanor (Indicator if the current charge is a misdemeanor), felony (Indicator if the current charge is a felony), and woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the individual), 37, 0.1249), (recidivated (Indicator if the individual has recidivated before), no, 0.1037), (black (Indicator if the individual is recorded as Black), no, 0.0869), (number_of_prior_crimes (Number of prior crimes committed), 3, 0.0733), (months_in_jail (Number of months spent in jail), 2, 0.0457)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(age (Age of the individual), 62, 0.1512), (number_of_prior_crimes (Number of prior crimes committed), 0, 0.1009), (black (Indicator if the individual is recorded as Black), no, 0.0750), (recidivated (Indicator if the individual has recidivated before), no, 0.0708), (misdemeanor (Indicator if the current charge is a misdemeanor), yes, 0.0229)",
+                "The features age (Age of the individual), number_of_prior_crimes (Number of prior crimes committed), black (Indicator if the individual is recorded as Black), recidivated (Indicator if the individual has recidivated before), and misdemeanor (Indicator if the current charge is a misdemeanor) increase the predicted value."
+            ],
+            [
+                "(woman (Indicator if the individual is a woman), no, -0.0011)",
+                "The features woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the individual), 21, -0.1291), (number_of_prior_crimes (Number of prior crimes committed), 1, 0.1281), (recidivated (Indicator if the individual has recidivated before), yes, -0.0712), (black (Indicator if the individual is recorded as Black), yes, -0.0591), (months_in_jail (Number of months spent in jail), 1, 0.0576)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(number_of_prior_crimes (Number of prior crimes committed), 1, 0.1167), (recidivated (Indicator if the individual has recidivated before), no, 0.0986), (black (Indicator if the individual is recorded as Black), no, 0.0929), (age (Age of the individual), 36, 0.0871)",
+                "The features number_of_prior_crimes (Number of prior crimes committed), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and age (Age of the individual) increase the predicted value."
+            ],
+            [
+                "(misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0112), (felony (Indicator if the current charge is a felony), yes, -0.0102), (woman (Indicator if the individual is a woman), no, -0.0020)",
+                "The features misdemeanor (Indicator if the current charge is a misdemeanor), felony (Indicator if the current charge is a felony), and woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the individual), 62, 0.1512), (number_of_prior_crimes (Number of prior crimes committed), 0, 0.1009), (black (Indicator if the individual is recorded as Black), no, 0.0750), (recidivated (Indicator if the individual has recidivated before), no, 0.0708), (months_in_jail (Number of months spent in jail), 1, 0.0419)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(number_of_prior_crimes (Number of prior crimes committed), 1, 0.1167), (recidivated (Indicator if the individual has recidivated before), no, 0.0986), (black (Indicator if the individual is recorded as Black), no, 0.0929), (age (Age of the individual), 36, 0.0871)",
+                "The features number_of_prior_crimes (Number of prior crimes committed), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and age (Age of the individual) increase the predicted value."
+            ],
+            [
+                "(misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0112), (felony (Indicator if the current charge is a felony), yes, -0.0102), (woman (Indicator if the individual is a woman), no, -0.0020)",
+                "The features misdemeanor (Indicator if the current charge is a misdemeanor), felony (Indicator if the current charge is a felony), and woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the individual), 38, 0.1196), (number_of_prior_crimes (Number of prior crimes committed), 2, 0.0825), (black (Indicator if the individual is recorded as Black), no, 0.0790), (recidivated (Indicator if the individual has recidivated before), no, 0.0767), (months_in_jail (Number of months spent in jail), 1, 0.0509)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(age (Age of the individual), 62, 0.1512), (number_of_prior_crimes (Number of prior crimes committed), 0, 0.1009), (black (Indicator if the individual is recorded as Black), no, 0.0750), (recidivated (Indicator if the individual has recidivated before), no, 0.0708), (misdemeanor (Indicator if the current charge is a misdemeanor), yes, 0.0229)",
+                "The features age (Age of the individual), number_of_prior_crimes (Number of prior crimes committed), black (Indicator if the individual is recorded as Black), recidivated (Indicator if the individual has recidivated before), and misdemeanor (Indicator if the current charge is a misdemeanor) increase the predicted value."
+            ],
+            [
+                "(woman (Indicator if the individual is a woman), no, -0.0011)",
+                "The features woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the individual), 21, -0.1428), (number_of_prior_crimes (Number of prior crimes committed), 0, 0.1346), (recidivated (Indicator if the individual has recidivated before), no, 0.1132), (black (Indicator if the individual is recorded as Black), no, 0.0863), (months_in_jail (Number of months spent in jail), 0, 0.0832)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(number_of_prior_crimes (Number of prior crimes committed), 1, 0.1167), (recidivated (Indicator if the individual has recidivated before), no, 0.0986), (black (Indicator if the individual is recorded as Black), no, 0.0929), (age (Age of the individual), 36, 0.0871)",
+                "The features number_of_prior_crimes (Number of prior crimes committed), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and age (Age of the individual) increase the predicted value."
+            ],
+            [
+                "(misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0112), (felony (Indicator if the current charge is a felony), yes, -0.0102), (woman (Indicator if the individual is a woman), no, -0.0020)",
+                "The features misdemeanor (Indicator if the current charge is a misdemeanor), felony (Indicator if the current charge is a felony), and woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(number_of_prior_crimes (Number of prior crimes committed), 1, 0.1167), (recidivated (Indicator if the individual has recidivated before), no, 0.0986), (black (Indicator if the individual is recorded as Black), no, 0.0929), (age (Age of the individual), 36, 0.0871), (months_in_jail (Number of months spent in jail), 0, 0.0578)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(age (Age of the individual), 62, 0.1512), (number_of_prior_crimes (Number of prior crimes committed), 0, 0.1009), (black (Indicator if the individual is recorded as Black), no, 0.0750), (recidivated (Indicator if the individual has recidivated before), no, 0.0708), (misdemeanor (Indicator if the current charge is a misdemeanor), yes, 0.0229)",
+                "The features age (Age of the individual), number_of_prior_crimes (Number of prior crimes committed), black (Indicator if the individual is recorded as Black), recidivated (Indicator if the individual has recidivated before), and misdemeanor (Indicator if the current charge is a misdemeanor) increase the predicted value."
+            ],
+            [
+                "(woman (Indicator if the individual is a woman), no, -0.0011)",
+                "The features woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the individual), 42, 0.1807), (number_of_prior_crimes (Number of prior crimes committed), 1, 0.1291), (recidivated (Indicator if the individual has recidivated before), yes, -0.0821), (months_in_jail (Number of months spent in jail), 17, -0.0549), (black (Indicator if the individual is recorded as Black), yes, -0.0546)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(number_of_prior_crimes (Number of prior crimes committed), 1, 0.1167), (recidivated (Indicator if the individual has recidivated before), no, 0.0986), (black (Indicator if the individual is recorded as Black), no, 0.0929), (age (Age of the individual), 36, 0.0871)",
+                "The features number_of_prior_crimes (Number of prior crimes committed), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and age (Age of the individual) increase the predicted value."
+            ],
+            [
+                "(misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0112), (felony (Indicator if the current charge is a felony), yes, -0.0102), (woman (Indicator if the individual is a woman), no, -0.0020)",
+                "The features misdemeanor (Indicator if the current charge is a misdemeanor), felony (Indicator if the current charge is a felony), and woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(recidivated (Indicator if the individual has recidivated before), no, 0.0972), (age (Age of the individual), 23, -0.0918), (months_in_jail (Number of months spent in jail), 0, 0.0838), (number_of_prior_crimes (Number of prior crimes committed), 2, 0.0762), (black (Indicator if the individual is recorded as Black), no, 0.0712)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(number_of_prior_crimes (Number of prior crimes committed), 1, 0.1167), (recidivated (Indicator if the individual has recidivated before), no, 0.0986), (black (Indicator if the individual is recorded as Black), no, 0.0929), (age (Age of the individual), 36, 0.0871)",
+                "The features number_of_prior_crimes (Number of prior crimes committed), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and age (Age of the individual) increase the predicted value."
+            ],
+            [
+                "(misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0112), (felony (Indicator if the current charge is a felony), yes, -0.0102), (woman (Indicator if the individual is a woman), no, -0.0020)",
+                "The features misdemeanor (Indicator if the current charge is a misdemeanor), felony (Indicator if the current charge is a felony), and woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(number_of_prior_crimes (Number of prior crimes committed), 0, 0.1463), (recidivated (Indicator if the individual has recidivated before), no, 0.1072), (months_in_jail (Number of months spent in jail), 0, 0.0799), (age (Age of the individual), 24, -0.0776), (black (Indicator if the individual is recorded as Black), no, 0.0753)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(number_of_prior_crimes (Number of prior crimes committed), 1, 0.1167), (recidivated (Indicator if the individual has recidivated before), no, 0.0986), (black (Indicator if the individual is recorded as Black), no, 0.0929), (age (Age of the individual), 36, 0.0871)",
+                "The features number_of_prior_crimes (Number of prior crimes committed), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and age (Age of the individual) increase the predicted value."
+            ],
+            [
+                "(misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0112), (felony (Indicator if the current charge is a felony), yes, -0.0102), (woman (Indicator if the individual is a woman), no, -0.0020)",
+                "The features misdemeanor (Indicator if the current charge is a misdemeanor), felony (Indicator if the current charge is a felony), and woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(months_in_jail (Number of months spent in jail), 33, -0.1497), (recidivated (Indicator if the individual has recidivated before), yes, -0.0946), (number_of_prior_crimes (Number of prior crimes committed), 3, 0.0663), (age (Age of the individual), 34, 0.0582), (black (Indicator if the individual is recorded as Black), yes, -0.0509)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(age (Age of the individual), 62, 0.1512), (number_of_prior_crimes (Number of prior crimes committed), 0, 0.1009), (black (Indicator if the individual is recorded as Black), no, 0.0750), (recidivated (Indicator if the individual has recidivated before), no, 0.0708), (misdemeanor (Indicator if the current charge is a misdemeanor), yes, 0.0229)",
+                "The features age (Age of the individual), number_of_prior_crimes (Number of prior crimes committed), black (Indicator if the individual is recorded as Black), recidivated (Indicator if the individual has recidivated before), and misdemeanor (Indicator if the current charge is a misdemeanor) increase the predicted value."
+            ],
+            [
+                "(woman (Indicator if the individual is a woman), no, -0.0011)",
+                "The features woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(number_of_prior_crimes (Number of prior crimes committed), 0, 0.1356), (recidivated (Indicator if the individual has recidivated before), no, 0.0928), (black (Indicator if the individual is recorded as Black), yes, -0.0684), (months_in_jail (Number of months spent in jail), 1, 0.0368), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0155)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (number_of_prior_crimes (Number of prior crimes committed), 4, -0.0273)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and number_of_prior_crimes (Number of prior crimes committed) decrease the predicted value."
+            ],
+            [
+                "(woman (Indicator if the individual is a woman), no, -0.0011)",
+                "The features woman (Indicator if the individual is a woman) decrease the predicted value."
+            ],
+            [
+                "(age (Age of the individual), 61, 0.1954), (recidivated (Indicator if the individual has recidivated before), no, 0.1061), (months_in_jail (Number of months spent in jail), 1, 0.0336)",
+                "The features age (Age of the individual), recidivated (Indicator if the individual has recidivated before), and months_in_jail (Number of months spent in jail) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(number_of_prior_crimes (Number of prior crimes committed), 25, -0.2918), (age (Age of the individual), 61, 0.1954), (recidivated (Indicator if the individual has recidivated before), no, 0.1061), (black (Indicator if the individual is recorded as Black), yes, -0.0623), (months_in_jail (Number of months spent in jail), 1, 0.0336)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(number_of_prior_crimes (Number of prior crimes committed), 1, 0.1167), (recidivated (Indicator if the individual has recidivated before), no, 0.0986), (black (Indicator if the individual is recorded as Black), no, 0.0929), (age (Age of the individual), 36, 0.0871)",
+                "The features number_of_prior_crimes (Number of prior crimes committed), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and age (Age of the individual) increase the predicted value."
+            ],
+            [
+                "(misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0112), (felony (Indicator if the current charge is a felony), yes, -0.0102), (woman (Indicator if the individual is a woman), no, -0.0020)",
+                "The features misdemeanor (Indicator if the current charge is a misdemeanor), felony (Indicator if the current charge is a felony), and woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(months_in_jail (Number of months spent in jail), 82, -0.1462), (age (Age of the individual), 37, 0.1356), (black (Indicator if the individual is recorded as Black), no, 0.0940), (recidivated (Indicator if the individual has recidivated before), yes, -0.0687), (felony (Indicator if the current charge is a felony), no, 0.0387)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (number_of_prior_crimes (Number of prior crimes committed), 4, -0.0273)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and number_of_prior_crimes (Number of prior crimes committed) decrease the predicted value."
+            ],
+            [
+                "(misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0112), (felony (Indicator if the current charge is a felony), yes, -0.0102), (woman (Indicator if the individual is a woman), no, -0.0020)",
+                "The features misdemeanor (Indicator if the current charge is a misdemeanor), felony (Indicator if the current charge is a felony), and woman (Indicator if the individual is a woman) decrease the predicted value."
+            ],
+            [
+                "(age (Age of the individual), 61, 0.1954), (recidivated (Indicator if the individual has recidivated before), no, 0.1061), (months_in_jail (Number of months spent in jail), 1, 0.0336)",
+                "The features age (Age of the individual), recidivated (Indicator if the individual has recidivated before), and months_in_jail (Number of months spent in jail) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (number_of_prior_crimes (Number of prior crimes committed), 4, -0.0273)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(number_of_prior_crimes (Number of prior crimes committed), 0, 0.1356), (recidivated (Indicator if the individual has recidivated before), no, 0.0928), (months_in_jail (Number of months spent in jail), 1, 0.0368)",
+                "The features number_of_prior_crimes (Number of prior crimes committed), recidivated (Indicator if the individual has recidivated before), and months_in_jail (Number of months spent in jail) increase the predicted value."
+            ],
+            [
+                "(black (Indicator if the individual is recorded as Black), yes, -0.0684), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0155), (felony (Indicator if the current charge is a felony), yes, -0.0126), (woman (Indicator if the individual is a woman), no, -0.0050), (age (Age of the individual), 29, -0.0043)",
+                "The features black (Indicator if the individual is recorded as Black), misdemeanor (Indicator if the current charge is a misdemeanor), felony (Indicator if the current charge is a felony), woman (Indicator if the individual is a woman), and age (Age of the individual) decrease the predicted value."
+            ],
+            [
+                "(age (Age of the individual), 62, 0.1512), (number_of_prior_crimes (Number of prior crimes committed), 0, 0.1009), (black (Indicator if the individual is recorded as Black), no, 0.0750), (recidivated (Indicator if the individual has recidivated before), no, 0.0708), (misdemeanor (Indicator if the current charge is a misdemeanor), yes, 0.0229)",
+                "The features age (Age of the individual), number_of_prior_crimes (Number of prior crimes committed), black (Indicator if the individual is recorded as Black), recidivated (Indicator if the individual has recidivated before), and misdemeanor (Indicator if the current charge is a misdemeanor) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the individual), 50, 0.1675), (number_of_prior_crimes (Number of prior crimes committed), 1, 0.1065), (recidivated (Indicator if the individual has recidivated before), no, 0.0865), (black (Indicator if the individual is recorded as Black), no, 0.0744), (months_in_jail (Number of months spent in jail), 1, 0.0453)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(number_of_prior_crimes (Number of prior crimes committed), 1, 0.1167), (recidivated (Indicator if the individual has recidivated before), no, 0.0986), (black (Indicator if the individual is recorded as Black), no, 0.0929), (age (Age of the individual), 36, 0.0871)",
+                "The features number_of_prior_crimes (Number of prior crimes committed), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and age (Age of the individual) increase the predicted value."
+            ],
+            [
+                "(misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0112), (felony (Indicator if the current charge is a felony), yes, -0.0102), (woman (Indicator if the individual is a woman), no, -0.0020)",
+                "The features misdemeanor (Indicator if the current charge is a misdemeanor), felony (Indicator if the current charge is a felony), and woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the individual), 54, 0.1970), (number_of_prior_crimes (Number of prior crimes committed), 0, 0.1281), (recidivated (Indicator if the individual has recidivated before), no, 0.0953), (black (Indicator if the individual is recorded as Black), yes, -0.0498), (months_in_jail (Number of months spent in jail), 1, 0.0469)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(number_of_prior_crimes (Number of prior crimes committed), 1, 0.1167), (recidivated (Indicator if the individual has recidivated before), no, 0.0986), (black (Indicator if the individual is recorded as Black), no, 0.0929), (age (Age of the individual), 36, 0.0871)",
+                "The features number_of_prior_crimes (Number of prior crimes committed), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and age (Age of the individual) increase the predicted value."
+            ],
+            [
+                "(misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0112), (felony (Indicator if the current charge is a felony), yes, -0.0102), (woman (Indicator if the individual is a woman), no, -0.0020)",
+                "The features misdemeanor (Indicator if the current charge is a misdemeanor), felony (Indicator if the current charge is a felony), and woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(number_of_prior_crimes (Number of prior crimes committed), 13, -0.2875), (age (Age of the individual), 53, 0.1938), (black (Indicator if the individual is recorded as Black), yes, -0.0732), (recidivated (Indicator if the individual has recidivated before), no, 0.0720), (misdemeanor (Indicator if the current charge is a misdemeanor), yes, 0.0272)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (number_of_prior_crimes (Number of prior crimes committed), 4, -0.0273)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and number_of_prior_crimes (Number of prior crimes committed) decrease the predicted value."
+            ],
+            [
+                "(misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0112), (felony (Indicator if the current charge is a felony), yes, -0.0102), (woman (Indicator if the individual is a woman), no, -0.0020)",
+                "The features misdemeanor (Indicator if the current charge is a misdemeanor), felony (Indicator if the current charge is a felony), and woman (Indicator if the individual is a woman) decrease the predicted value."
+            ],
+            [
+                "(age (Age of the individual), 61, 0.1954), (recidivated (Indicator if the individual has recidivated before), no, 0.1061), (months_in_jail (Number of months spent in jail), 1, 0.0336)",
+                "The features age (Age of the individual), recidivated (Indicator if the individual has recidivated before), and months_in_jail (Number of months spent in jail) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(number_of_prior_crimes (Number of prior crimes committed), 1, 0.1406), (age (Age of the individual), 23, -0.0691), (recidivated (Indicator if the individual has recidivated before), yes, -0.0674), (black (Indicator if the individual is recorded as Black), yes, -0.0528), (months_in_jail (Number of months spent in jail), 3, 0.0287)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(age (Age of the individual), 62, 0.1512), (number_of_prior_crimes (Number of prior crimes committed), 0, 0.1009), (black (Indicator if the individual is recorded as Black), no, 0.0750), (recidivated (Indicator if the individual has recidivated before), no, 0.0708), (misdemeanor (Indicator if the current charge is a misdemeanor), yes, 0.0229)",
+                "The features age (Age of the individual), number_of_prior_crimes (Number of prior crimes committed), black (Indicator if the individual is recorded as Black), recidivated (Indicator if the individual has recidivated before), and misdemeanor (Indicator if the current charge is a misdemeanor) increase the predicted value."
+            ],
+            [
+                "(woman (Indicator if the individual is a woman), no, -0.0011)",
+                "The features woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the individual), 20, -0.1647), (number_of_prior_crimes (Number of prior crimes committed), 0, 0.1278), (recidivated (Indicator if the individual has recidivated before), yes, -0.1024), (black (Indicator if the individual is recorded as Black), no, 0.0736), (months_in_jail (Number of months spent in jail), 0, 0.0676)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(number_of_prior_crimes (Number of prior crimes committed), 1, 0.1167), (recidivated (Indicator if the individual has recidivated before), no, 0.0986), (black (Indicator if the individual is recorded as Black), no, 0.0929), (age (Age of the individual), 36, 0.0871)",
+                "The features number_of_prior_crimes (Number of prior crimes committed), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and age (Age of the individual) increase the predicted value."
+            ],
+            [
+                "(misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0112), (felony (Indicator if the current charge is a felony), yes, -0.0102), (woman (Indicator if the individual is a woman), no, -0.0020)",
+                "The features misdemeanor (Indicator if the current charge is a misdemeanor), felony (Indicator if the current charge is a felony), and woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(number_of_prior_crimes (Number of prior crimes committed), 0, 0.1234), (black (Indicator if the individual is recorded as Black), no, 0.0926), (recidivated (Indicator if the individual has recidivated before), no, 0.0909), (months_in_jail (Number of months spent in jail), 1, 0.0509), (misdemeanor (Indicator if the current charge is a misdemeanor), yes, 0.0297)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (number_of_prior_crimes (Number of prior crimes committed), 4, -0.0273)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and number_of_prior_crimes (Number of prior crimes committed) decrease the predicted value."
+            ],
+            [
+                "(woman (Indicator if the individual is a woman), no, -0.0011)",
+                "The features woman (Indicator if the individual is a woman) decrease the predicted value."
+            ],
+            [
+                "(age (Age of the individual), 61, 0.1954), (recidivated (Indicator if the individual has recidivated before), no, 0.1061), (months_in_jail (Number of months spent in jail), 1, 0.0336)",
+                "The features age (Age of the individual), recidivated (Indicator if the individual has recidivated before), and months_in_jail (Number of months spent in jail) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(age (Age of the individual), 25, -0.0979), (black (Indicator if the individual is recorded as Black), no, 0.0781), (recidivated (Indicator if the individual has recidivated before), yes, -0.0759), (number_of_prior_crimes (Number of prior crimes committed), 5, -0.0633), (months_in_jail (Number of months spent in jail), 1, 0.0487)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(age (Age of the individual), 62, 0.1512), (number_of_prior_crimes (Number of prior crimes committed), 0, 0.1009), (black (Indicator if the individual is recorded as Black), no, 0.0750), (recidivated (Indicator if the individual has recidivated before), no, 0.0708), (misdemeanor (Indicator if the current charge is a misdemeanor), yes, 0.0229)",
+                "The features age (Age of the individual), number_of_prior_crimes (Number of prior crimes committed), black (Indicator if the individual is recorded as Black), recidivated (Indicator if the individual has recidivated before), and misdemeanor (Indicator if the current charge is a misdemeanor) increase the predicted value."
+            ],
+            [
+                "(woman (Indicator if the individual is a woman), no, -0.0011)",
+                "The features woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(number_of_prior_crimes (Number of prior crimes committed), 0, 0.1360), (recidivated (Indicator if the individual has recidivated before), no, 0.1028), (age (Age of the individual), 24, -0.0886), (black (Indicator if the individual is recorded as Black), no, 0.0843), (months_in_jail (Number of months spent in jail), 2, 0.0378)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(age (Age of the individual), 62, 0.1512), (number_of_prior_crimes (Number of prior crimes committed), 0, 0.1009), (black (Indicator if the individual is recorded as Black), no, 0.0750), (recidivated (Indicator if the individual has recidivated before), no, 0.0708), (misdemeanor (Indicator if the current charge is a misdemeanor), yes, 0.0229)",
+                "The features age (Age of the individual), number_of_prior_crimes (Number of prior crimes committed), black (Indicator if the individual is recorded as Black), recidivated (Indicator if the individual has recidivated before), and misdemeanor (Indicator if the current charge is a misdemeanor) increase the predicted value."
+            ],
+            [
+                "(woman (Indicator if the individual is a woman), no, -0.0011)",
+                "The features woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(number_of_prior_crimes (Number of prior crimes committed), 1, 0.1273), (recidivated (Indicator if the individual has recidivated before), yes, -0.0951), (black (Indicator if the individual is recorded as Black), no, 0.0620), (months_in_jail (Number of months spent in jail), 16, -0.0532), (age (Age of the individual), 26, -0.0374)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(age (Age of the individual), 62, 0.1512), (number_of_prior_crimes (Number of prior crimes committed), 0, 0.1009), (black (Indicator if the individual is recorded as Black), no, 0.0750), (recidivated (Indicator if the individual has recidivated before), no, 0.0708), (misdemeanor (Indicator if the current charge is a misdemeanor), yes, 0.0229)",
+                "The features age (Age of the individual), number_of_prior_crimes (Number of prior crimes committed), black (Indicator if the individual is recorded as Black), recidivated (Indicator if the individual has recidivated before), and misdemeanor (Indicator if the current charge is a misdemeanor) increase the predicted value."
+            ],
+            [
+                "(woman (Indicator if the individual is a woman), no, -0.0011)",
+                "The features woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(number_of_prior_crimes (Number of prior crimes committed), 7, -0.1980), (black (Indicator if the individual is recorded as Black), no, 0.0806), (recidivated (Indicator if the individual has recidivated before), yes, -0.0777), (age (Age of the individual), 29, -0.0572), (misdemeanor (Indicator if the current charge is a misdemeanor), yes, 0.0444)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (number_of_prior_crimes (Number of prior crimes committed), 4, -0.0273)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and number_of_prior_crimes (Number of prior crimes committed) decrease the predicted value."
+            ],
+            [
+                "(misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0112), (felony (Indicator if the current charge is a felony), yes, -0.0102), (woman (Indicator if the individual is a woman), no, -0.0020)",
+                "The features misdemeanor (Indicator if the current charge is a misdemeanor), felony (Indicator if the current charge is a felony), and woman (Indicator if the individual is a woman) decrease the predicted value."
+            ],
+            [
+                "(age (Age of the individual), 61, 0.1954), (recidivated (Indicator if the individual has recidivated before), no, 0.1061), (months_in_jail (Number of months spent in jail), 1, 0.0336)",
+                "The features age (Age of the individual), recidivated (Indicator if the individual has recidivated before), and months_in_jail (Number of months spent in jail) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(number_of_prior_crimes (Number of prior crimes committed), 12, -0.2589), (recidivated (Indicator if the individual has recidivated before), yes, -0.0668), (black (Indicator if the individual is recorded as Black), yes, -0.0411), (months_in_jail (Number of months spent in jail), 0, 0.0402), (age (Age of the individual), 29, -0.0211)",
+        "context": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "example_narratives": [
+            [
+                "(months_in_jail (Number of months spent in jail), 260, -0.1218), (age (Age of the individual), 22, -0.0901), (recidivated (Indicator if the individual has recidivated before), yes, -0.0602), (black (Indicator if the individual is recorded as Black), yes, -0.0395), (misdemeanor (Indicator if the current charge is a misdemeanor), no, -0.0113)",
+                "The features months_in_jail (Number of months spent in jail), age (Age of the individual), recidivated (Indicator if the individual has recidivated before), black (Indicator if the individual is recorded as Black), and misdemeanor (Indicator if the current charge is a misdemeanor) decrease the predicted value."
+            ],
+            [
+                "(age (Age of the individual), 62, 0.1512), (number_of_prior_crimes (Number of prior crimes committed), 0, 0.1009), (black (Indicator if the individual is recorded as Black), no, 0.0750), (recidivated (Indicator if the individual has recidivated before), no, 0.0708), (misdemeanor (Indicator if the current charge is a misdemeanor), yes, 0.0229)",
+                "The features age (Age of the individual), number_of_prior_crimes (Number of prior crimes committed), black (Indicator if the individual is recorded as Black), recidivated (Indicator if the individual has recidivated before), and misdemeanor (Indicator if the current charge is a misdemeanor) increase the predicted value."
+            ],
+            [
+                "(woman (Indicator if the individual is a woman), no, -0.0011)",
+                "The features woman (Indicator if the individual is a woman) decrease the predicted value."
+            ]
+        ]
+    }
+]

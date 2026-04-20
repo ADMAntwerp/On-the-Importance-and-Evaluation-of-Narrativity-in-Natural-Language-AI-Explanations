@@ -1,0 +1,572 @@
+[
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Age (Age of the patient), 53, 0.1131), (Glucose (Plasma glucose concentration), 145, 0.0922), (BMI (Body Mass Index (kg/m^2)), 30.30, 0.0385), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.77, 0.0366), (Insulin (2-Hour serum insulin (mu U/ml)), 165, 0.0304)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the patient), 45, 0.1058), (BMI (Body Mass Index (kg/m^2)), 36.60, 0.0630), (Pregnancies (Number of pregnancies), 13, 0.0324), (SkinThickness (Triceps skin fold thickness (mm)), 54, 0.0024)",
+                "The features Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Glucose (Plasma glucose concentration), 89, -0.2879), (Age (Age of the patient), 38, 0.0780), (Insulin (2-Hour serum insulin (mu U/ml)), 85, -0.0392), (BMI (Body Mass Index (kg/m^2)), 30.40, 0.0267), (SkinThickness (Triceps skin fold thickness (mm)), 16, -0.0209)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 155, 0.1406), (Age (Age of the patient), 51, 0.0990), (BMI (Body Mass Index (kg/m^2)), 33.30, 0.0593), (DiabetesPedigreeFunction (Diabetes pedigree function), 1.35, 0.0394), (Insulin (2-Hour serum insulin (mu U/ml)), 150, 0.0283)",
+                "The features Glucose (Plasma glucose concentration), Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Glucose (Plasma glucose concentration), 88, -0.1972), (Age (Age of the patient), 22, -0.1267), (BMI (Body Mass Index (kg/m^2)), 28.40, -0.0774), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.77, 0.0466), (Pregnancies (Number of pregnancies), 2, -0.0266)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 155, 0.1406), (Age (Age of the patient), 51, 0.0990), (BMI (Body Mass Index (kg/m^2)), 33.30, 0.0593), (DiabetesPedigreeFunction (Diabetes pedigree function), 1.35, 0.0394), (Insulin (2-Hour serum insulin (mu U/ml)), 150, 0.0283)",
+                "The features Glucose (Plasma glucose concentration), Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Glucose (Plasma glucose concentration), 95, -0.2010), (Age (Age of the patient), 24, -0.1357), (BMI (Body Mass Index (kg/m^2)), 37.40, 0.0667), (Insulin (2-Hour serum insulin (mu U/ml)), 36, -0.0330), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.25, -0.0263)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 155, 0.1406), (Age (Age of the patient), 51, 0.0990), (BMI (Body Mass Index (kg/m^2)), 33.30, 0.0593), (DiabetesPedigreeFunction (Diabetes pedigree function), 1.35, 0.0394), (Pregnancies (Number of pregnancies), 11, 0.0187)",
+                "The features Glucose (Plasma glucose concentration), Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), and Pregnancies (Number of pregnancies) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(BMI (Body Mass Index (kg/m^2)), 33.30, 0.0682), (Age (Age of the patient), 28, -0.0554), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.96, 0.0498), (Glucose (Plasma glucose concentration), 125, -0.0392), (Pregnancies (Number of pregnancies), 1, -0.0229)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the patient), 45, 0.1058), (BMI (Body Mass Index (kg/m^2)), 36.60, 0.0630), (Pregnancies (Number of pregnancies), 13, 0.0324), (SkinThickness (Triceps skin fold thickness (mm)), 54, 0.0024)",
+                "The features Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Age (Age of the patient), 21, -0.1585), (BMI (Body Mass Index (kg/m^2)), 35.80, 0.0805), (Glucose (Plasma glucose concentration), 124, -0.0400), (Pregnancies (Number of pregnancies), 1, -0.0221), (Insulin (2-Hour serum insulin (mu U/ml)), 0, 0.0162)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the patient), 45, 0.1058), (BMI (Body Mass Index (kg/m^2)), 36.60, 0.0630), (Pregnancies (Number of pregnancies), 13, 0.0324), (SkinThickness (Triceps skin fold thickness (mm)), 54, 0.0024)",
+                "The features Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Glucose (Plasma glucose concentration), 146, 0.1174), (BMI (Body Mass Index (kg/m^2)), 38.50, 0.0826), (Age (Age of the patient), 67, 0.0686), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.52, 0.0162), (BloodPressure (Diastolic blood pressure (mm Hg)), 78, -0.0132)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the patient), 45, 0.1058), (BMI (Body Mass Index (kg/m^2)), 36.60, 0.0630), (Pregnancies (Number of pregnancies), 13, 0.0324), (SkinThickness (Triceps skin fold thickness (mm)), 54, 0.0024)",
+                "The features Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Glucose (Plasma glucose concentration), 87, -0.2409), (Age (Age of the patient), 25, -0.0644), (BMI (Body Mass Index (kg/m^2)), 32.70, 0.0463), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.17, -0.0443), (Insulin (2-Hour serum insulin (mu U/ml)), 52, -0.0353)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 155, 0.1406), (Age (Age of the patient), 51, 0.0990), (BMI (Body Mass Index (kg/m^2)), 33.30, 0.0593), (DiabetesPedigreeFunction (Diabetes pedigree function), 1.35, 0.0394), (Pregnancies (Number of pregnancies), 11, 0.0187)",
+                "The features Glucose (Plasma glucose concentration), Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), and Pregnancies (Number of pregnancies) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Glucose (Plasma glucose concentration), 95, -0.2070), (BMI (Body Mass Index (kg/m^2)), 37.70, 0.0711), (Age (Age of the patient), 27, -0.0699), (Pregnancies (Number of pregnancies), 5, 0.0135), (SkinThickness (Triceps skin fold thickness (mm)), 33, 0.0079)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the patient), 45, 0.1058), (BMI (Body Mass Index (kg/m^2)), 36.60, 0.0630), (Pregnancies (Number of pregnancies), 13, 0.0324), (SkinThickness (Triceps skin fold thickness (mm)), 54, 0.0024)",
+                "The features Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(BMI (Body Mass Index (kg/m^2)), 25.60, -0.1950), (Glucose (Plasma glucose concentration), 139, 0.1027), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.17, -0.0497), (Pregnancies (Number of pregnancies), 2, -0.0153), (BloodPressure (Diastolic blood pressure (mm Hg)), 75, -0.0105)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the patient), 45, 0.1058), (BMI (Body Mass Index (kg/m^2)), 36.60, 0.0630), (Pregnancies (Number of pregnancies), 13, 0.0324), (SkinThickness (Triceps skin fold thickness (mm)), 54, 0.0024)",
+                "The features Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Age (Age of the patient), 42, 0.1051), (Glucose (Plasma glucose concentration), 106, -0.0944), (BMI (Body Mass Index (kg/m^2)), 31.20, 0.0637), (Pregnancies (Number of pregnancies), 9, 0.0342), (BloodPressure (Diastolic blood pressure (mm Hg)), 52, 0.0085)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the patient), 45, 0.1058), (BMI (Body Mass Index (kg/m^2)), 36.60, 0.0630), (Pregnancies (Number of pregnancies), 13, 0.0324), (SkinThickness (Triceps skin fold thickness (mm)), 54, 0.0024)",
+                "The features Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Glucose (Plasma glucose concentration), 148, 0.1246), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.15, -0.0634), (BMI (Body Mass Index (kg/m^2)), 30.90, 0.0318), (Insulin (2-Hour serum insulin (mu U/ml)), 318, 0.0107), (BloodPressure (Diastolic blood pressure (mm Hg)), 60, 0.0088)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the patient), 45, 0.1058), (BMI (Body Mass Index (kg/m^2)), 36.60, 0.0630), (Pregnancies (Number of pregnancies), 13, 0.0324), (SkinThickness (Triceps skin fold thickness (mm)), 54, 0.0024)",
+                "The features Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Glucose (Plasma glucose concentration), 124, -0.0330), (Age (Age of the patient), 30, 0.0231), (Pregnancies (Number of pregnancies), 2, -0.0202)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(Glucose (Plasma glucose concentration), 148, 0.1246), (BMI (Body Mass Index (kg/m^2)), 30.90, 0.0318), (Insulin (2-Hour serum insulin (mu U/ml)), 318, 0.0107), (BloodPressure (Diastolic blood pressure (mm Hg)), 60, 0.0088)",
+                "The features Glucose (Plasma glucose concentration), BMI (Body Mass Index (kg/m^2)), Insulin (2-Hour serum insulin (mu U/ml)), and BloodPressure (Diastolic blood pressure (mm Hg)) increase the predicted value."
+            ],
+            [
+                "(DiabetesPedigreeFunction (Diabetes pedigree function), 0.15, -0.0634), (SkinThickness (Triceps skin fold thickness (mm)), 27, -0.0083), (Pregnancies (Number of pregnancies), 4, -0.0065), (Age (Age of the patient), 29, -0.0043)",
+                "The features DiabetesPedigreeFunction (Diabetes pedigree function), SkinThickness (Triceps skin fold thickness (mm)), Pregnancies (Number of pregnancies), and Age (Age of the patient) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the patient), 45, 0.1058), (BMI (Body Mass Index (kg/m^2)), 36.60, 0.0630), (Pregnancies (Number of pregnancies), 13, 0.0324), (SkinThickness (Triceps skin fold thickness (mm)), 54, 0.0024)",
+                "The features Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Glucose (Plasma glucose concentration), 104, -0.1094), (Age (Age of the patient), 38, 0.0883), (BMI (Body Mass Index (kg/m^2)), 31.20, 0.0689), (Pregnancies (Number of pregnancies), 13, 0.0290), (BloodPressure (Diastolic blood pressure (mm Hg)), 72, 0.0018)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the patient), 45, 0.1058), (BMI (Body Mass Index (kg/m^2)), 36.60, 0.0630), (Pregnancies (Number of pregnancies), 13, 0.0324), (SkinThickness (Triceps skin fold thickness (mm)), 54, 0.0024)",
+                "The features Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Age (Age of the patient), 45, 0.1058), (Glucose (Plasma glucose concentration), 106, -0.1038), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.18, -0.0736), (BMI (Body Mass Index (kg/m^2)), 36.60, 0.0630), (Pregnancies (Number of pregnancies), 13, 0.0324)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 155, 0.1406), (Age (Age of the patient), 51, 0.0990), (BMI (Body Mass Index (kg/m^2)), 33.30, 0.0593), (DiabetesPedigreeFunction (Diabetes pedigree function), 1.35, 0.0394), (Insulin (2-Hour serum insulin (mu U/ml)), 150, 0.0283)",
+                "The features Glucose (Plasma glucose concentration), Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(BMI (Body Mass Index (kg/m^2)), 19.50, -0.1673), (Glucose (Plasma glucose concentration), 100, -0.1520), (Age (Age of the patient), 28, -0.0409), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.15, -0.0347), (Insulin (2-Hour serum insulin (mu U/ml)), 46, -0.0240)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 155, 0.1406), (Age (Age of the patient), 51, 0.0990), (BMI (Body Mass Index (kg/m^2)), 33.30, 0.0593), (DiabetesPedigreeFunction (Diabetes pedigree function), 1.35, 0.0394), (Pregnancies (Number of pregnancies), 11, 0.0187)",
+                "The features Glucose (Plasma glucose concentration), Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), and Pregnancies (Number of pregnancies) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(BMI (Body Mass Index (kg/m^2)), 0, -0.1928), (Glucose (Plasma glucose concentration), 105, -0.1100), (Age (Age of the patient), 24, -0.1012), (Pregnancies (Number of pregnancies), 7, 0.0449), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.30, -0.0191)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 155, 0.1406), (Age (Age of the patient), 51, 0.0990), (BMI (Body Mass Index (kg/m^2)), 33.30, 0.0593), (DiabetesPedigreeFunction (Diabetes pedigree function), 1.35, 0.0394), (Insulin (2-Hour serum insulin (mu U/ml)), 150, 0.0283)",
+                "The features Glucose (Plasma glucose concentration), Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Age (Age of the patient), 38, 0.0886), (BMI (Body Mass Index (kg/m^2)), 39.40, 0.0804), (Glucose (Plasma glucose concentration), 112, -0.0559), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.24, -0.0380), (BloodPressure (Diastolic blood pressure (mm Hg)), 78, -0.0086)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the patient), 45, 0.1058), (BMI (Body Mass Index (kg/m^2)), 36.60, 0.0630), (Pregnancies (Number of pregnancies), 13, 0.0324), (SkinThickness (Triceps skin fold thickness (mm)), 54, 0.0024)",
+                "The features Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Glucose (Plasma glucose concentration), 135, 0.1016), (BMI (Body Mass Index (kg/m^2)), 40.60, 0.0885), (Age (Age of the patient), 26, -0.0679), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.28, -0.0300), (SkinThickness (Triceps skin fold thickness (mm)), 46, 0.0167)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the patient), 45, 0.1058), (BMI (Body Mass Index (kg/m^2)), 36.60, 0.0630), (Pregnancies (Number of pregnancies), 13, 0.0324), (SkinThickness (Triceps skin fold thickness (mm)), 54, 0.0024)",
+                "The features Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(BMI (Body Mass Index (kg/m^2)), 24.70, -0.2190), (Glucose (Plasma glucose concentration), 96, -0.1750), (Age (Age of the patient), 39, 0.0561), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.94, 0.0392), (SkinThickness (Triceps skin fold thickness (mm)), 34, 0.0149)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 155, 0.1406), (Age (Age of the patient), 51, 0.0990), (BMI (Body Mass Index (kg/m^2)), 33.30, 0.0593), (DiabetesPedigreeFunction (Diabetes pedigree function), 1.35, 0.0394), (Insulin (2-Hour serum insulin (mu U/ml)), 150, 0.0283)",
+                "The features Glucose (Plasma glucose concentration), Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(BMI (Body Mass Index (kg/m^2)), 18.40, -0.2138), (Glucose (Plasma glucose concentration), 104, -0.1344), (Age (Age of the patient), 27, -0.0625), (Pregnancies (Number of pregnancies), 0, -0.0256), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.58, 0.0131)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 155, 0.1406), (Age (Age of the patient), 51, 0.0990), (BMI (Body Mass Index (kg/m^2)), 33.30, 0.0593), (DiabetesPedigreeFunction (Diabetes pedigree function), 1.35, 0.0394), (Insulin (2-Hour serum insulin (mu U/ml)), 150, 0.0283)",
+                "The features Glucose (Plasma glucose concentration), Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Glucose (Plasma glucose concentration), 93, -0.2433), (BMI (Body Mass Index (kg/m^2)), 35.30, 0.0731), (Age (Age of the patient), 25, -0.0624), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.26, -0.0221), (Pregnancies (Number of pregnancies), 0, -0.0178)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 155, 0.1406), (Age (Age of the patient), 51, 0.0990), (BMI (Body Mass Index (kg/m^2)), 33.30, 0.0593), (DiabetesPedigreeFunction (Diabetes pedigree function), 1.35, 0.0394), (Insulin (2-Hour serum insulin (mu U/ml)), 150, 0.0283)",
+                "The features Glucose (Plasma glucose concentration), Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Glucose (Plasma glucose concentration), 173, 0.1922), (BMI (Body Mass Index (kg/m^2)), 46.50, 0.0866), (Age (Age of the patient), 58, 0.0814), (DiabetesPedigreeFunction (Diabetes pedigree function), 1.16, 0.0288), (Insulin (2-Hour serum insulin (mu U/ml)), 265, 0.0167)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 155, 0.1406), (Age (Age of the patient), 51, 0.0990), (BMI (Body Mass Index (kg/m^2)), 33.30, 0.0593), (DiabetesPedigreeFunction (Diabetes pedigree function), 1.35, 0.0394), (Pregnancies (Number of pregnancies), 11, 0.0187)",
+                "The features Glucose (Plasma glucose concentration), Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), and Pregnancies (Number of pregnancies) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Glucose (Plasma glucose concentration), 62, -0.2793), (Age (Age of the patient), 41, 0.0692), (BMI (Body Mass Index (kg/m^2)), 32.60, 0.0485), (Pregnancies (Number of pregnancies), 7, 0.0291), (Insulin (2-Hour serum insulin (mu U/ml)), 0, -0.0100)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 155, 0.1406), (Age (Age of the patient), 51, 0.0990), (BMI (Body Mass Index (kg/m^2)), 33.30, 0.0593), (DiabetesPedigreeFunction (Diabetes pedigree function), 1.35, 0.0394), (Insulin (2-Hour serum insulin (mu U/ml)), 150, 0.0283)",
+                "The features Glucose (Plasma glucose concentration), Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Glucose (Plasma glucose concentration), 97, -0.1742), (Age (Age of the patient), 22, -0.1497), (BMI (Body Mass Index (kg/m^2)), 28.20, -0.0828), (SkinThickness (Triceps skin fold thickness (mm)), 23, -0.0177), (Pregnancies (Number of pregnancies), 4, 0.0048)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 155, 0.1406), (Age (Age of the patient), 51, 0.0990), (BMI (Body Mass Index (kg/m^2)), 33.30, 0.0593), (DiabetesPedigreeFunction (Diabetes pedigree function), 1.35, 0.0394), (Insulin (2-Hour serum insulin (mu U/ml)), 150, 0.0283)",
+                "The features Glucose (Plasma glucose concentration), Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Age (Age of the patient), 21, -0.1501), (Glucose (Plasma glucose concentration), 108, -0.1009), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.16, -0.0461), (BMI (Body Mass Index (kg/m^2)), 30.80, 0.0311), (Pregnancies (Number of pregnancies), 2, -0.0270)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 155, 0.1406), (Age (Age of the patient), 51, 0.0990), (BMI (Body Mass Index (kg/m^2)), 33.30, 0.0593), (DiabetesPedigreeFunction (Diabetes pedigree function), 1.35, 0.0394), (Insulin (2-Hour serum insulin (mu U/ml)), 150, 0.0283)",
+                "The features Glucose (Plasma glucose concentration), Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Glucose (Plasma glucose concentration), 71, -0.1833), (BMI (Body Mass Index (kg/m^2)), 20.40, -0.1475), (Age (Age of the patient), 22, -0.0942), (Pregnancies (Number of pregnancies), 1, -0.0217), (Insulin (2-Hour serum insulin (mu U/ml)), 76, -0.0189)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 155, 0.1406), (Age (Age of the patient), 51, 0.0990), (BMI (Body Mass Index (kg/m^2)), 33.30, 0.0593), (DiabetesPedigreeFunction (Diabetes pedigree function), 1.35, 0.0394), (Insulin (2-Hour serum insulin (mu U/ml)), 150, 0.0283)",
+                "The features Glucose (Plasma glucose concentration), Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Glucose (Plasma glucose concentration), 155, 0.1406), (Age (Age of the patient), 51, 0.0990), (BMI (Body Mass Index (kg/m^2)), 33.30, 0.0593), (DiabetesPedigreeFunction (Diabetes pedigree function), 1.35, 0.0394), (Insulin (2-Hour serum insulin (mu U/ml)), 150, 0.0283)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the patient), 45, 0.1058), (BMI (Body Mass Index (kg/m^2)), 36.60, 0.0630), (Pregnancies (Number of pregnancies), 13, 0.0324), (SkinThickness (Triceps skin fold thickness (mm)), 54, 0.0024)",
+                "The features Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Age (Age of the patient), 22, -0.1902), (Glucose (Plasma glucose concentration), 117, -0.0914), (Pregnancies (Number of pregnancies), 0, -0.0257), (BMI (Body Mass Index (kg/m^2)), 30.80, 0.0221), (Insulin (2-Hour serum insulin (mu U/ml)), 188, 0.0080)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the patient), 45, 0.1058), (BMI (Body Mass Index (kg/m^2)), 36.60, 0.0630), (Pregnancies (Number of pregnancies), 13, 0.0324), (SkinThickness (Triceps skin fold thickness (mm)), 54, 0.0024)",
+                "The features Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Age (Age of the patient), 44, 0.1023), (BMI (Body Mass Index (kg/m^2)), 33.80, 0.0899), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.93, 0.0420), (Glucose (Plasma glucose concentration), 117, -0.0354), (Pregnancies (Number of pregnancies), 0, -0.0161)",
+        "context": "The prediction task is to estimate whether the patient has diabetes.",
+        "example_narratives": [
+            [
+                "(BMI (Body Mass Index (kg/m^2)), 32.90, 0.0675), (DiabetesPedigreeFunction (Diabetes pedigree function), 0.88, 0.0533), (Age (Age of the patient), 30, 0.0231), (Insulin (2-Hour serum insulin (mu U/ml)), 205, 0.0176)",
+                "The features BMI (Body Mass Index (kg/m^2)), DiabetesPedigreeFunction (Diabetes pedigree function), Age (Age of the patient), and Insulin (2-Hour serum insulin (mu U/ml)) increase the predicted value."
+            ],
+            [
+                "(Glucose (Plasma glucose concentration), 124, -0.0330), (Pregnancies (Number of pregnancies), 2, -0.0202), (SkinThickness (Triceps skin fold thickness (mm)), 28, -0.0107)",
+                "The features Glucose (Plasma glucose concentration), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the patient), 45, 0.1058), (BMI (Body Mass Index (kg/m^2)), 36.60, 0.0630), (Pregnancies (Number of pregnancies), 13, 0.0324), (SkinThickness (Triceps skin fold thickness (mm)), 54, 0.0024)",
+                "The features Age (Age of the patient), BMI (Body Mass Index (kg/m^2)), Pregnancies (Number of pregnancies), and SkinThickness (Triceps skin fold thickness (mm)) increase the predicted value."
+            ]
+        ]
+    }
+]

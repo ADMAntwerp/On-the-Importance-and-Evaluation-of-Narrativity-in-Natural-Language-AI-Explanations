@@ -1,0 +1,1158 @@
+{
+  "llm_outputs": {
+    "explingo_narratives/diabetes": {
+      "ppl_values": {
+        "ori_mean": 8.3461,
+        "shuffled_mean": 10.6671,
+        "reversed_mean": 11.3913,
+        "loo_mean": 9.6837
+      },
+      "ratios_shuffled": {
+        "mean": 0.2851,
+        "median": 0.2676,
+        "std": 0.1217,
+        "min": 0.1097,
+        "max": 0.5485,
+        "count": 27
+      },
+      "ratios_reversed": {
+        "mean": 0.3748,
+        "median": 0.3819,
+        "std": 0.1076,
+        "min": 0.1788,
+        "max": 0.5632,
+        "count": 27
+      },
+      "ratios_loo": {
+        "mean": 0.1584,
+        "median": 0.1557,
+        "std": 0.0285,
+        "min": 0.0926,
+        "max": 0.2074,
+        "count": 27
+      }
+    },
+    "explingo_narratives/german_credit": {
+      "ppl_values": {
+        "ori_mean": 8.9482,
+        "shuffled_mean": 11.3653,
+        "reversed_mean": 11.7716,
+        "loo_mean": 10.3048
+      },
+      "ratios_shuffled": {
+        "mean": 0.2755,
+        "median": 0.2814,
+        "std": 0.1172,
+        "min": 0.0952,
+        "max": 0.5598,
+        "count": 26
+      },
+      "ratios_reversed": {
+        "mean": 0.3218,
+        "median": 0.3122,
+        "std": 0.1191,
+        "min": 0.1333,
+        "max": 0.5521,
+        "count": 26
+      },
+      "ratios_loo": {
+        "mean": 0.1534,
+        "median": 0.1495,
+        "std": 0.0427,
+        "min": 0.09,
+        "max": 0.2476,
+        "count": 26
+      }
+    },
+    "explingo_narratives/fifa": {
+      "ppl_values": {
+        "ori_mean": 8.4929,
+        "shuffled_mean": 11.2952,
+        "reversed_mean": 11.2436,
+        "loo_mean": 10.1359
+      },
+      "ratios_shuffled": {
+        "mean": 0.3296,
+        "median": 0.3274,
+        "std": 0.1106,
+        "min": 0.1075,
+        "max": 0.5147,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.3226,
+        "median": 0.3269,
+        "std": 0.1022,
+        "min": 0.0917,
+        "max": 0.5493,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.1938,
+        "median": 0.1771,
+        "std": 0.0679,
+        "min": 0.1213,
+        "max": 0.4473,
+        "count": 30
+      }
+    },
+    "explingo_narratives/student": {
+      "ppl_values": {
+        "ori_mean": 9.8143,
+        "shuffled_mean": 12.5783,
+        "reversed_mean": 13.5074,
+        "loo_mean": 11.478
+      },
+      "ratios_shuffled": {
+        "mean": 0.2838,
+        "median": 0.2641,
+        "std": 0.0928,
+        "min": 0.0652,
+        "max": 0.4547,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.3791,
+        "median": 0.3864,
+        "std": 0.1068,
+        "min": 0.1832,
+        "max": 0.6527,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.1675,
+        "median": 0.1485,
+        "std": 0.0375,
+        "min": 0.1178,
+        "max": 0.2652,
+        "count": 30
+      }
+    },
+    "explingo_narratives/stroke": {
+      "ppl_values": {
+        "ori_mean": 8.4331,
+        "shuffled_mean": 10.7025,
+        "reversed_mean": 11.0216,
+        "loo_mean": 9.809
+      },
+      "ratios_shuffled": {
+        "mean": 0.2743,
+        "median": 0.2715,
+        "std": 0.089,
+        "min": 0.0898,
+        "max": 0.4547,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.316,
+        "median": 0.3045,
+        "std": 0.1189,
+        "min": 0.1074,
+        "max": 0.5628,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.1625,
+        "median": 0.1617,
+        "std": 0.0357,
+        "min": 0.0984,
+        "max": 0.2631,
+        "count": 30
+      }
+    },
+    "explingo_narratives/compas": {
+      "ppl_values": {
+        "ori_mean": 7.9476,
+        "shuffled_mean": 10.0146,
+        "reversed_mean": 10.0234,
+        "loo_mean": 9.1066
+      },
+      "ratios_shuffled": {
+        "mean": 0.2609,
+        "median": 0.2506,
+        "std": 0.084,
+        "min": 0.1261,
+        "max": 0.4353,
+        "count": 28
+      },
+      "ratios_reversed": {
+        "mean": 0.266,
+        "median": 0.2499,
+        "std": 0.1195,
+        "min": 0.0854,
+        "max": 0.5396,
+        "count": 28
+      },
+      "ratios_loo": {
+        "mean": 0.1414,
+        "median": 0.1294,
+        "std": 0.0478,
+        "min": 0.0899,
+        "max": 0.3179,
+        "count": 28
+      }
+    },
+    "explingo_zero_shot/diabetes": {
+      "ppl_values": {
+        "ori_mean": 10.1714,
+        "shuffled_mean": 13.7233,
+        "reversed_mean": 14.3322,
+        "loo_mean": 14.6231
+      },
+      "ratios_shuffled": {
+        "mean": 0.3629,
+        "median": 0.3612,
+        "std": 0.1672,
+        "min": 0.0601,
+        "max": 0.8023,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.4112,
+        "median": 0.3534,
+        "std": 0.2111,
+        "min": 0.1253,
+        "max": 1.1385,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.4306,
+        "median": 0.3162,
+        "std": 0.3518,
+        "min": 0.1608,
+        "max": 1.8266,
+        "count": 30
+      }
+    },
+    "explingo_zero_shot/german_credit": {
+      "ppl_values": {
+        "ori_mean": 13.3987,
+        "shuffled_mean": 15.9752,
+        "reversed_mean": 16.4439,
+        "loo_mean": 18.179
+      },
+      "ratios_shuffled": {
+        "mean": 0.1942,
+        "median": 0.1698,
+        "std": 0.1167,
+        "min": -0.0146,
+        "max": 0.4316,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.236,
+        "median": 0.2077,
+        "std": 0.1409,
+        "min": 0.0169,
+        "max": 0.5229,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.362,
+        "median": 0.3287,
+        "std": 0.124,
+        "min": 0.1806,
+        "max": 0.6482,
+        "count": 30
+      }
+    },
+    "explingo_zero_shot/fifa": {
+      "ppl_values": {
+        "ori_mean": 9.0431,
+        "shuffled_mean": 11.8824,
+        "reversed_mean": 11.1393,
+        "loo_mean": 12.6858
+      },
+      "ratios_shuffled": {
+        "mean": 0.3164,
+        "median": 0.2888,
+        "std": 0.1378,
+        "min": 0.0532,
+        "max": 0.6055,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.242,
+        "median": 0.2272,
+        "std": 0.1564,
+        "min": -0.0028,
+        "max": 0.6353,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.3976,
+        "median": 0.3907,
+        "std": 0.1002,
+        "min": 0.2531,
+        "max": 0.6342,
+        "count": 30
+      }
+    },
+    "explingo_zero_shot/student": {
+      "ppl_values": {
+        "ori_mean": 12.658,
+        "shuffled_mean": 15.6961,
+        "reversed_mean": 15.7054,
+        "loo_mean": 17.9026
+      },
+      "ratios_shuffled": {
+        "mean": 0.2537,
+        "median": 0.2243,
+        "std": 0.125,
+        "min": 0.0623,
+        "max": 0.605,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.2609,
+        "median": 0.2509,
+        "std": 0.1505,
+        "min": 0.02,
+        "max": 0.7023,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.384,
+        "median": 0.3014,
+        "std": 0.2353,
+        "min": 0.1665,
+        "max": 1.0135,
+        "count": 30
+      }
+    },
+    "explingo_zero_shot/stroke": {
+      "ppl_values": {
+        "ori_mean": 10.4952,
+        "shuffled_mean": 13.4622,
+        "reversed_mean": 13.1421,
+        "loo_mean": 14.1185
+      },
+      "ratios_shuffled": {
+        "mean": 0.2886,
+        "median": 0.2644,
+        "std": 0.141,
+        "min": 0.0412,
+        "max": 0.5975,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.2575,
+        "median": 0.2664,
+        "std": 0.1621,
+        "min": -0.0424,
+        "max": 0.6476,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.3325,
+        "median": 0.2874,
+        "std": 0.1728,
+        "min": 0.1822,
+        "max": 1.0644,
+        "count": 30
+      }
+    },
+    "explingo_zero_shot/compas": {
+      "ppl_values": {
+        "ori_mean": 11.418,
+        "shuffled_mean": 14.9059,
+        "reversed_mean": 15.0145,
+        "loo_mean": 14.5737
+      },
+      "ratios_shuffled": {
+        "mean": 0.312,
+        "median": 0.3008,
+        "std": 0.1202,
+        "min": 0.0817,
+        "max": 0.5424,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.3211,
+        "median": 0.3335,
+        "std": 0.1182,
+        "min": 0.0855,
+        "max": 0.6811,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.2634,
+        "median": 0.2492,
+        "std": 0.1148,
+        "min": 0.1175,
+        "max": 0.6193,
+        "count": 30
+      }
+    },
+    "xaistories_narratives/diabetes": {
+      "ppl_values": {
+        "ori_mean": 8.492,
+        "shuffled_mean": 10.7249,
+        "reversed_mean": 11.2766,
+        "loo_mean": 9.8686
+      },
+      "ratios_shuffled": {
+        "mean": 0.2642,
+        "median": 0.2627,
+        "std": 0.096,
+        "min": 0.0847,
+        "max": 0.528,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.3307,
+        "median": 0.3219,
+        "std": 0.1003,
+        "min": 0.1655,
+        "max": 0.5352,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.1633,
+        "median": 0.1625,
+        "std": 0.031,
+        "min": 0.1117,
+        "max": 0.2267,
+        "count": 30
+      }
+    },
+    "xaistories_narratives/german_credit": {
+      "ppl_values": {
+        "ori_mean": 10.3529,
+        "shuffled_mean": 12.8938,
+        "reversed_mean": 13.3949,
+        "loo_mean": 12.0616
+      },
+      "ratios_shuffled": {
+        "mean": 0.2465,
+        "median": 0.2468,
+        "std": 0.0677,
+        "min": 0.1329,
+        "max": 0.3889,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.2971,
+        "median": 0.3289,
+        "std": 0.1089,
+        "min": 0.0519,
+        "max": 0.478,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.1656,
+        "median": 0.156,
+        "std": 0.026,
+        "min": 0.1315,
+        "max": 0.2421,
+        "count": 30
+      }
+    },
+    "xaistories_narratives/fifa": {
+      "ppl_values": {
+        "ori_mean": 9.8826,
+        "shuffled_mean": 12.6474,
+        "reversed_mean": 12.8757,
+        "loo_mean": 11.693
+      },
+      "ratios_shuffled": {
+        "mean": 0.2843,
+        "median": 0.2767,
+        "std": 0.0844,
+        "min": 0.0856,
+        "max": 0.4749,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.3071,
+        "median": 0.3057,
+        "std": 0.0967,
+        "min": 0.164,
+        "max": 0.6052,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.185,
+        "median": 0.1837,
+        "std": 0.0295,
+        "min": 0.1333,
+        "max": 0.2743,
+        "count": 30
+      }
+    },
+    "xaistories_narratives/student": {
+      "ppl_values": {
+        "ori_mean": 12.0978,
+        "shuffled_mean": 15.3805,
+        "reversed_mean": 16.0314,
+        "loo_mean": 14.1721
+      },
+      "ratios_shuffled": {
+        "mean": 0.2719,
+        "median": 0.2837,
+        "std": 0.0883,
+        "min": 0.1014,
+        "max": 0.4331,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.3264,
+        "median": 0.3253,
+        "std": 0.0956,
+        "min": 0.1066,
+        "max": 0.4995,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.1718,
+        "median": 0.1748,
+        "std": 0.023,
+        "min": 0.1372,
+        "max": 0.2304,
+        "count": 30
+      }
+    },
+    "xaistories_narratives/stroke": {
+      "ppl_values": {
+        "ori_mean": 8.1161,
+        "shuffled_mean": 10.3396,
+        "reversed_mean": 10.8368,
+        "loo_mean": 9.5178
+      },
+      "ratios_shuffled": {
+        "mean": 0.2738,
+        "median": 0.2769,
+        "std": 0.0951,
+        "min": 0.0683,
+        "max": 0.4753,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.3336,
+        "median": 0.3534,
+        "std": 0.1229,
+        "min": 0.1431,
+        "max": 0.5938,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.1738,
+        "median": 0.1722,
+        "std": 0.0303,
+        "min": 0.1157,
+        "max": 0.2414,
+        "count": 30
+      }
+    },
+    "xaistories_narratives/compas": {
+      "ppl_values": {
+        "ori_mean": 9.6484,
+        "shuffled_mean": 11.3052,
+        "reversed_mean": 11.5911,
+        "loo_mean": 11.0658
+      },
+      "ratios_shuffled": {
+        "mean": 0.1722,
+        "median": 0.1785,
+        "std": 0.0607,
+        "min": 0.0396,
+        "max": 0.3003,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.2003,
+        "median": 0.1987,
+        "std": 0.075,
+        "min": 0.0379,
+        "max": 0.3435,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.1457,
+        "median": 0.1365,
+        "std": 0.029,
+        "min": 0.11,
+        "max": 0.2512,
+        "count": 30
+      }
+    },
+    "xaistories/diabetes": {
+      "ppl_values": {
+        "ori_mean": 7.4567,
+        "shuffled_mean": 8.8251,
+        "reversed_mean": 9.2682,
+        "loo_mean": 8.6492
+      },
+      "ratios_shuffled": {
+        "mean": 0.1866,
+        "median": 0.18,
+        "std": 0.1016,
+        "min": 0.0548,
+        "max": 0.5318,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.2503,
+        "median": 0.2356,
+        "std": 0.1042,
+        "min": 0.0692,
+        "max": 0.4635,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.1605,
+        "median": 0.1557,
+        "std": 0.0252,
+        "min": 0.112,
+        "max": 0.2162,
+        "count": 30
+      }
+    },
+    "xaistories/german_credit": {
+      "ppl_values": {
+        "ori_mean": 9.3741,
+        "shuffled_mean": 11.3043,
+        "reversed_mean": 11.4492,
+        "loo_mean": 10.8076
+      },
+      "ratios_shuffled": {
+        "mean": 0.2085,
+        "median": 0.2171,
+        "std": 0.0887,
+        "min": 0.0204,
+        "max": 0.361,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.2241,
+        "median": 0.2034,
+        "std": 0.086,
+        "min": 0.0448,
+        "max": 0.404,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.1537,
+        "median": 0.1564,
+        "std": 0.0213,
+        "min": 0.1095,
+        "max": 0.1954,
+        "count": 30
+      }
+    },
+    "xaistories/fifa": {
+      "ppl_values": {
+        "ori_mean": 10.1989,
+        "shuffled_mean": 13.3007,
+        "reversed_mean": 13.3068,
+        "loo_mean": 12.2324
+      },
+      "ratios_shuffled": {
+        "mean": 0.3015,
+        "median": 0.3035,
+        "std": 0.1134,
+        "min": 0.0624,
+        "max": 0.4936,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.3098,
+        "median": 0.2892,
+        "std": 0.1198,
+        "min": 0.1119,
+        "max": 0.5864,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.1989,
+        "median": 0.1972,
+        "std": 0.0392,
+        "min": 0.1082,
+        "max": 0.288,
+        "count": 30
+      }
+    },
+    "xaistories/student": {
+      "ppl_values": {
+        "ori_mean": 12.4226,
+        "shuffled_mean": 15.1865,
+        "reversed_mean": 16.5927,
+        "loo_mean": 14.6038
+      },
+      "ratios_shuffled": {
+        "mean": 0.2233,
+        "median": 0.2146,
+        "std": 0.0769,
+        "min": 0.097,
+        "max": 0.4008,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.3371,
+        "median": 0.3522,
+        "std": 0.0877,
+        "min": 0.1579,
+        "max": 0.534,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.1756,
+        "median": 0.1803,
+        "std": 0.0292,
+        "min": 0.1113,
+        "max": 0.256,
+        "count": 30
+      }
+    },
+    "xaistories/stroke": {
+      "ppl_values": {
+        "ori_mean": 7.0694,
+        "shuffled_mean": 8.6203,
+        "reversed_mean": 9.0185,
+        "loo_mean": 8.1689
+      },
+      "ratios_shuffled": {
+        "mean": 0.2237,
+        "median": 0.2205,
+        "std": 0.0632,
+        "min": 0.1027,
+        "max": 0.3699,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.2767,
+        "median": 0.2734,
+        "std": 0.093,
+        "min": 0.1187,
+        "max": 0.5425,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.1571,
+        "median": 0.1543,
+        "std": 0.0254,
+        "min": 0.1126,
+        "max": 0.2114,
+        "count": 30
+      }
+    },
+    "xaistories/compas": {
+      "ppl_values": {
+        "ori_mean": 9.5968,
+        "shuffled_mean": 10.851,
+        "reversed_mean": 11.1893,
+        "loo_mean": 10.8799
+      },
+      "ratios_shuffled": {
+        "mean": 0.1335,
+        "median": 0.1259,
+        "std": 0.0735,
+        "min": 0.0045,
+        "max": 0.3032,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.1693,
+        "median": 0.1566,
+        "std": 0.1102,
+        "min": 0.0275,
+        "max": 0.4631,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.1347,
+        "median": 0.1334,
+        "std": 0.0235,
+        "min": 0.089,
+        "max": 0.1837,
+        "count": 30
+      }
+    },
+    "xainarratives/diabetes": {
+      "ppl_values": {
+        "ori_mean": 12.161,
+        "shuffled_mean": 15.2506,
+        "reversed_mean": 15.7364,
+        "loo_mean": 14.4733
+      },
+      "ratios_shuffled": {
+        "mean": 0.2579,
+        "median": 0.2534,
+        "std": 0.1091,
+        "min": 0.0982,
+        "max": 0.6199,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.3049,
+        "median": 0.2695,
+        "std": 0.1236,
+        "min": 0.1098,
+        "max": 0.7247,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.1908,
+        "median": 0.1828,
+        "std": 0.0354,
+        "min": 0.1174,
+        "max": 0.2948,
+        "count": 30
+      }
+    },
+    "xainarratives/german_credit": {
+      "ppl_values": {
+        "ori_mean": 12.5922,
+        "shuffled_mean": 14.6576,
+        "reversed_mean": 16.0983,
+        "loo_mean": 14.6713
+      },
+      "ratios_shuffled": {
+        "mean": 0.1666,
+        "median": 0.1817,
+        "std": 0.0981,
+        "min": -0.0032,
+        "max": 0.3545,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.2812,
+        "median": 0.2706,
+        "std": 0.1087,
+        "min": 0.0335,
+        "max": 0.5429,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.1669,
+        "median": 0.167,
+        "std": 0.0366,
+        "min": 0.0949,
+        "max": 0.2809,
+        "count": 30
+      }
+    },
+    "xainarratives/fifa": {
+      "ppl_values": {
+        "ori_mean": 12.1917,
+        "shuffled_mean": 15.4818,
+        "reversed_mean": 16.5909,
+        "loo_mean": 14.481
+      },
+      "ratios_shuffled": {
+        "mean": 0.2698,
+        "median": 0.2751,
+        "std": 0.1262,
+        "min": 0.057,
+        "max": 0.5714,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.3562,
+        "median": 0.3086,
+        "std": 0.128,
+        "min": 0.089,
+        "max": 0.6549,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.1869,
+        "median": 0.1817,
+        "std": 0.0348,
+        "min": 0.1234,
+        "max": 0.2625,
+        "count": 30
+      }
+    },
+    "xainarratives/student": {
+      "ppl_values": {
+        "ori_mean": 13.6357,
+        "shuffled_mean": 17.3133,
+        "reversed_mean": 18.865,
+        "loo_mean": 16.2004
+      },
+      "ratios_shuffled": {
+        "mean": 0.2819,
+        "median": 0.2764,
+        "std": 0.1186,
+        "min": 0.1057,
+        "max": 0.6184,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.3907,
+        "median": 0.3836,
+        "std": 0.1222,
+        "min": 0.1469,
+        "max": 0.6055,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.1919,
+        "median": 0.2005,
+        "std": 0.0358,
+        "min": 0.1249,
+        "max": 0.267,
+        "count": 30
+      }
+    },
+    "xainarratives/stroke": {
+      "ppl_values": {
+        "ori_mean": 11.0895,
+        "shuffled_mean": 14.0776,
+        "reversed_mean": 14.0413,
+        "loo_mean": 13.2631
+      },
+      "ratios_shuffled": {
+        "mean": 0.2694,
+        "median": 0.2524,
+        "std": 0.0824,
+        "min": 0.1238,
+        "max": 0.5074,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.2687,
+        "median": 0.2767,
+        "std": 0.0888,
+        "min": 0.0878,
+        "max": 0.4475,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.196,
+        "median": 0.1904,
+        "std": 0.0393,
+        "min": 0.1249,
+        "max": 0.2632,
+        "count": 30
+      }
+    },
+    "xainarratives/compas": {
+      "ppl_values": {
+        "ori_mean": 10.8964,
+        "shuffled_mean": 12.8005,
+        "reversed_mean": 12.6514,
+        "loo_mean": 12.6475
+      },
+      "ratios_shuffled": {
+        "mean": 0.1792,
+        "median": 0.1711,
+        "std": 0.074,
+        "min": 0.0701,
+        "max": 0.4172,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.1685,
+        "median": 0.1461,
+        "std": 0.0897,
+        "min": 0.0343,
+        "max": 0.4488,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.1624,
+        "median": 0.1568,
+        "std": 0.0378,
+        "min": 0.1022,
+        "max": 0.2479,
+        "count": 30
+      }
+    }
+  },
+  "template_outputs": {
+    "templated_narrative/diabetes": {
+      "ppl_values": {
+        "ori_mean": 4.1853,
+        "shuffled_mean": 5.1713,
+        "reversed_mean": 5.4596,
+        "loo_mean": 5.4217
+      },
+      "ratios_shuffled": {
+        "mean": 0.2367,
+        "median": 0.1746,
+        "std": 0.163,
+        "min": -0.0475,
+        "max": 0.5933,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.3073,
+        "median": 0.2846,
+        "std": 0.1469,
+        "min": -0.0013,
+        "max": 0.5463,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.2954,
+        "median": 0.29,
+        "std": 0.0265,
+        "min": 0.2515,
+        "max": 0.3459,
+        "count": 30
+      }
+    },
+    "templated_narrative/german_credit": {
+      "ppl_values": {
+        "ori_mean": 4.4829,
+        "shuffled_mean": 5.2765,
+        "reversed_mean": 5.1694,
+        "loo_mean": 5.7123
+      },
+      "ratios_shuffled": {
+        "mean": 0.1777,
+        "median": 0.1727,
+        "std": 0.067,
+        "min": 0.037,
+        "max": 0.2897,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.1533,
+        "median": 0.1659,
+        "std": 0.0724,
+        "min": -0.0098,
+        "max": 0.269,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.2748,
+        "median": 0.2753,
+        "std": 0.0201,
+        "min": 0.2238,
+        "max": 0.3118,
+        "count": 30
+      }
+    },
+    "templated_narrative/fifa": {
+      "ppl_values": {
+        "ori_mean": 5.2961,
+        "shuffled_mean": 5.6135,
+        "reversed_mean": 5.9494,
+        "loo_mean": 6.6711
+      },
+      "ratios_shuffled": {
+        "mean": 0.0609,
+        "median": 0.0688,
+        "std": 0.0418,
+        "min": -0.0699,
+        "max": 0.1157,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.1241,
+        "median": 0.1442,
+        "std": 0.0476,
+        "min": 0.0041,
+        "max": 0.2067,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.2597,
+        "median": 0.2685,
+        "std": 0.0148,
+        "min": 0.2298,
+        "max": 0.2706,
+        "count": 30
+      }
+    },
+    "templated_narrative/student": {
+      "ppl_values": {
+        "ori_mean": 5.2419,
+        "shuffled_mean": 5.9818,
+        "reversed_mean": 5.1804,
+        "loo_mean": 7.2697
+      },
+      "ratios_shuffled": {
+        "mean": 0.139,
+        "median": 0.1309,
+        "std": 0.0526,
+        "min": 0.0592,
+        "max": 0.2437,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": -0.0136,
+        "median": -0.0221,
+        "std": 0.0624,
+        "min": -0.124,
+        "max": 0.1173,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.3879,
+        "median": 0.3781,
+        "std": 0.0406,
+        "min": 0.3167,
+        "max": 0.4604,
+        "count": 30
+      }
+    },
+    "templated_narrative/stroke": {
+      "ppl_values": {
+        "ori_mean": 4.3256,
+        "shuffled_mean": 5.3763,
+        "reversed_mean": 6.2539,
+        "loo_mean": 5.4655
+      },
+      "ratios_shuffled": {
+        "mean": 0.2431,
+        "median": 0.2438,
+        "std": 0.0506,
+        "min": 0.1999,
+        "max": 0.4841,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.4457,
+        "median": 0.4434,
+        "std": 0.0588,
+        "min": 0.2681,
+        "max": 0.5331,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.2636,
+        "median": 0.2719,
+        "std": 0.0155,
+        "min": 0.2367,
+        "max": 0.2874,
+        "count": 30
+      }
+    },
+    "templated_narrative/compas": {
+      "ppl_values": {
+        "ori_mean": 5.1034,
+        "shuffled_mean": 5.8878,
+        "reversed_mean": 5.6075,
+        "loo_mean": 6.4623
+      },
+      "ratios_shuffled": {
+        "mean": 0.1552,
+        "median": 0.1758,
+        "std": 0.0704,
+        "min": 0.0079,
+        "max": 0.2559,
+        "count": 30
+      },
+      "ratios_reversed": {
+        "mean": 0.0998,
+        "median": 0.1092,
+        "std": 0.0733,
+        "min": -0.04,
+        "max": 0.1934,
+        "count": 30
+      },
+      "ratios_loo": {
+        "mean": 0.2663,
+        "median": 0.265,
+        "std": 0.0113,
+        "min": 0.2535,
+        "max": 0.3051,
+        "count": 30
+      }
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "template_outputs": {
+    "templated_narrative/compas": {
+      "fitted_parameters": {
+        "A": 408.648613,
+        "r": 0.226281,
+        "C": 5.093424,
+        "b_decay": 1.485977,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.999877,
+        "rmse": 0.388404,
+        "mape": 3.720744,
+        "residual_mean": 0.107214,
+        "residual_std": 0.373313
+      },
+      "rho_metric": 0.588266,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.620208
+      }
+    },
+    "templated_narrative/fifa": {
+      "fitted_parameters": {
+        "A": 149.090848,
+        "r": 0.398702,
+        "C": 3.202777,
+        "b_decay": 0.919541,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.998377,
+        "rmse": 0.862108,
+        "mape": 6.008619,
+        "residual_mean": -0.0,
+        "residual_std": 0.862108
+      },
+      "rho_metric": 1.001445,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.630973
+      }
+    },
+    "templated_narrative/stroke": {
+      "fitted_parameters": {
+        "A": 331.118544,
+        "r": 0.22496,
+        "C": 4.315582,
+        "b_decay": 1.491833,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.999865,
+        "rmse": 0.32823,
+        "mape": 3.664145,
+        "residual_mean": 0.09205,
+        "residual_std": 0.315058
+      },
+      "rho_metric": 0.575871,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.625014
+      }
+    },
+    "templated_narrative/student": {
+      "fitted_parameters": {
+        "A": 562.215129,
+        "r": 0.272149,
+        "C": 3.203161,
+        "b_decay": 1.301406,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.99911,
+        "rmse": 1.712969,
+        "mape": 13.012422,
+        "residual_mean": 0.0,
+        "residual_std": 1.712969
+      },
+      "rho_metric": 0.813906,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.578251
+      }
+    },
+    "templated_narrative/diabetes": {
+      "fitted_parameters": {
+        "A": 506.864426,
+        "r": 0.194978,
+        "C": 4.175298,
+        "b_decay": 1.634871,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.999824,
+        "rmse": 0.500096,
+        "mape": 5.010114,
+        "residual_mean": 0.187544,
+        "residual_std": 0.463598
+      },
+      "rho_metric": 0.516676,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.614304
+      }
+    },
+    "templated_narrative/german_credit": {
+      "fitted_parameters": {
+        "A": 1101.136616,
+        "r": 0.141711,
+        "C": 4.472878,
+        "b_decay": 1.953967,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.999773,
+        "rmse": 0.90673,
+        "mape": 7.300441,
+        "residual_mean": 0.405472,
+        "residual_std": 0.811019
+      },
+      "rho_metric": 0.376911,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.613172
+      }
+    }
+  }
+}

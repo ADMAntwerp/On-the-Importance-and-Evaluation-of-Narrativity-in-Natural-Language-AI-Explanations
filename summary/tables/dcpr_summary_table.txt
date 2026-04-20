@@ -1,0 +1,45 @@
++------------------------------------------------------------------------+
+|                                     Fitted ho example of DCPR Metrics                                      |
++---------------+-----------------------+------+------+------+-----------+
+| Dataset       | Method                | DCPR | R²   | RMSE | Num_texts |
++---------------+-----------------------+------+------+------+-----------+
+| compas        | explingo              | 0.1  | 1.0  | 0.0  | 1         |
+| compas        | explingo_narratives   | 0.5  | 0.99 | 0.44 | 28        |
+| compas        | explingo_zero_shot    | 0.62 | 1.0  | 0.32 | 30        |
+| compas        | templated_narrative   | 0.59 | 1.0  | 0.39 | 30        |
+| compas        | xainarratives         | 0.81 | 0.99 | 0.25 | 30        |
+| compas        | xaistories            | 0.44 | 1.0  | 0.16 | 30        |
+| compas        | xaistories_narratives | 0.42 | 0.99 | 0.39 | 30        |
+| diabetes      | explingo_narratives   | 0.4  | 0.98 | 1.51 | 27        |
+| diabetes      | explingo_zero_shot    | 0.39 | 1.0  | 0.24 | 30        |
+| diabetes      | templated_narrative   | 0.52 | 1.0  | 0.5  | 30        |
+| diabetes      | xainarratives         | 0.51 | 1.0  | 0.34 | 30        |
+| diabetes      | xaistories            | 0.28 | 1.0  | 0.4  | 30        |
+| diabetes      | xaistories_narratives | 0.4  | 1.0  | 0.2  | 30        |
+| fifa          | explingo              | 0.26 | 1.0  | 0.0  | 3         |
+| fifa          | explingo_narratives   | 0.67 | 1.0  | 0.19 | 30        |
+| fifa          | explingo_zero_shot    | 0.55 | 1.0  | 0.14 | 30        |
+| fifa          | templated_narrative   | 1.0  | 1.0  | 0.86 | 30        |
+| fifa          | xainarratives         | 0.34 | 0.99 | 1.02 | 30        |
+| fifa          | xaistories            | 0.42 | 0.99 | 0.54 | 30        |
+| fifa          | xaistories_narratives | 0.63 | 1.0  | 0.3  | 30        |
+| german_credit | explingo_narratives   | 0.44 | 1.0  | 0.38 | 26        |
+| german_credit | explingo_zero_shot    | 0.45 | 0.99 | 0.8  | 30        |
+| german_credit | templated_narrative   | 0.38 | 1.0  | 0.91 | 30        |
+| german_credit | xainarratives         | 0.39 | 1.0  | 0.58 | 30        |
+| german_credit | xaistories            | 0.41 | 1.0  | 0.3  | 30        |
+| german_credit | xaistories_narratives | 0.44 | 1.0  | 0.42 | 30        |
+| stroke        | explingo              | 0.16 | 1.0  | 0.0  | 23        |
+| stroke        | explingo_narratives   | 0.45 | 0.99 | 0.63 | 30        |
+| stroke        | explingo_zero_shot    | 0.4  | 0.99 | 1.41 | 30        |
+| stroke        | templated_narrative   | 0.58 | 1.0  | 0.33 | 30        |
+| stroke        | xainarratives         | 0.64 | 1.0  | 0.42 | 30        |
+| stroke        | xaistories            | 0.35 | 0.99 | 0.38 | 30        |
+| stroke        | xaistories_narratives | 0.48 | 1.0  | 0.16 | 30        |
+| student       | explingo_narratives   | 0.65 | 0.98 | 0.99 | 30        |
+| student       | explingo_zero_shot    | 0.6  | 0.99 | 0.89 | 30        |
+| student       | templated_narrative   | 0.81 | 1.0  | 1.71 | 30        |
+| student       | xainarratives         | 0.38 | 1.0  | 0.41 | 30        |
+| student       | xaistories            | 0.4  | 1.0  | 0.34 | 30        |
+| student       | xaistories_narratives | 0.54 | 1.0  | 0.36 | 30        |
++---------------+-----------------------+------+------+------+-----------+

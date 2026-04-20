@@ -1,0 +1,121 @@
+text_id_rev,num_sentences_rev,last_sentence_rev,ppl_rev
+0,1,"Overall, scoring goals played the most significant role in the model's decision.",71.86
+0,2,"The number of off-target attempts had a small positive effect, while the percentage of ball possession had a minimal negative impact on the prediction.",17.51
+0,3,"However, the number of corner kicks and the total number of passes slightly decreased this likelihood.",14.62
+0,4,"The model's prediction was most strongly influenced by the number of goals scored, which increased the likelihood of a player from the team receiving the 'Man of the Match' award.",10.1
+1,1,"Overall, scoring a goal was the most significant positive factor in the model's decision.",57.63
+1,2,"The 5 off-target attempts contributed a small positive effect, while the team's 28% ball possession had a minimal negative impact on the prediction.",26.72
+1,3,"However, having 2 corner kicks and 189 total passes slightly decreased the chances.",21.21
+1,4,"The model's prediction was most strongly influenced by the fact that the team scored 1 goal, which increased the likelihood of receiving the 'Man of the Match' award.",12.59
+2,1,"Overall, scoring goals played the most significant role in the model's decision.",71.86
+2,2,"Additionally, more off-target attempts had a small positive effect, while ball possession percentage had a minimal negative impact on the prediction.",25.21
+2,3,"However, having more corner kicks and a higher number of passes slightly decreased this likelihood.",20.82
+2,4,"The model's prediction was most strongly influenced by the number of goals scored, which increased the likelihood of a player from the team receiving the 'Man of the Match' award.",12.61
+3,1,"Overall, scoring a goal was the most significant positive factor in the model's decision.",57.63
+3,2,The total number of passes (281) and ball possession percentage (40%) both had minor negative impacts on the prediction.,27.06
+3,3,"The team also had six off-target attempts, which contributed a small positive effect.",20.99
+3,4,"However, having one corner kick slightly decreased the chances.",18.44
+3,5,"The model's prediction was most strongly influenced by the team scoring one goal, which increased the likelihood of a player receiving the 'Man of the Match' award.",12.13
+4,1,"Other factors, such as the number of corner kicks (5), total passes (433), and off-target attempts (6), had minor positive or negative effects, but none were enough to outweigh the negative impact of not scoring any goals.",15.83
+4,2,"Although the team had a high ball possession percentage (64%), this only slightly increased the chances.",14.49
+4,3,"The main reason for this prediction is that the team did not score any goals, which had a strong negative impact.",10.15
+4,4,The model predicts that the team will not receive the 'Man of the Match' award for its player.,9.7
+5,1,"Overall, not scoring goals was the most significant reason for the lower likelihood of receiving the award.",54.71
+5,2,The high number of passes and a ball possession rate of 48% both contributed slightly negatively to the prediction.,31.56
+5,3,"Although the team had 7 corner kicks and 7 off-target attempts, these factors only slightly increased the chances.",21.07
+5,4,"The model predicts that the team is less likely to have a player win the 'Man of the Match' award mainly because they did not score any goals, which had the largest negative impact on the prediction.",11.38
+6,1,"Overall, the lack of goals was the most significant factor in the model's decision.",43.76
+6,2,The total number of passes and a ball possession rate of 44% also had small negative effects on the prediction.,21.54
+6,3,"Although the team had 5 corner kicks and 5 off-target attempts, these contributed only slightly in favor of winning the award.",18.71
+6,4,"The model predicts that the team is less likely to have a player win the 'Man of the Match' award mainly because they did not score any goals, which had the largest negative impact on the prediction.",10.72
+7,1,"Overall, scoring a goal was the most significant positive factor in the model's decision.",57.63
+7,2,"Five off-target attempts contributed a small positive effect, while the total number of passes and the percentage of ball possession had minor negative impacts on the prediction.",23.53
+7,3,"However, having one corner kick slightly decreased the chances.",21.78
+7,4,"The model's prediction was most strongly influenced by the team scoring a goal, which increased the likelihood of a player receiving the 'Man of the Match' award.",12.85
+8,1,"Overall, the low number of goals scored was the main reason the model predicted that a player from this team would not receive the award.",29.98
+8,2,The percentage of ball possession had a slight negative influence on the prediction.,24.1
+8,3,The number of corner kicks and off-target attempts also had small positive effects.,19.42
+8,4,"The high number of passes contributed positively, but to a lesser extent.",15.16
+8,5,"The model's prediction was most strongly influenced by the number of goals scored, which had a negative impact on the likelihood of a player from the team receiving the 'Man of the Match' award.",8.67
+9,1,"Overall, the low number of goals scored was the main reason the model predicted against a player from this team receiving the award.",49.44
+9,2,"The number of corner kicks and off-target attempts contributed slightly positively, while the total number of passes and the percentage of ball possession had small negative effects on the prediction.",19.75
+9,3,"The model's prediction was most strongly influenced by the number of goals scored, which had a significant negative impact on the likelihood of a player from the team receiving the 'Man of the Match' award.",9.12
+10,1,"Overall, scoring a goal was the most influential factor in the model's decision.",49.25
+10,2,"On the other hand, the total number of passes and the percentage of ball possession had very minimal negative effects on the prediction, slightly decreasing the chances of receiving the award.",17.82
+10,3,"Having 10 corner kicks and 8 off-target attempts also contributed positively, though to a lesser extent.",15.62
+10,4,"Scoring a goal had the most significant positive impact on the prediction, strongly increasing the likelihood of winning the award.",10.72
+10,5,The model predicts whether a player from the football team will receive the 'Man of the Match' award based on several factors.,9.46
+11,1,"Overall, the team's strong attacking performance, especially in scoring goals, played the most significant role in the model's decision.",33.86
+11,2,"On the other hand, the total number of passes (306) and the percentage of ball possession (40%) had a small negative effect on the prediction.",15.02
+11,3,"The number of corner kicks (6) and off-target attempts (3) also contributed positively, though to a lesser extent.",10.43
+11,4,"The model's prediction that the team will receive the 'Man of the Match' award was mainly influenced by the high number of goals scored (5), which had the strongest positive impact.",8.33
+12,1,"On the other hand, making four off-target attempts had a small positive effect, but it was not enough to outweigh the negative factors.",31.41
+12,2,"Additionally, having only one corner kick, a relatively low number of passes, and just 34% ball possession all contributed slightly against the likelihood of winning the award.",22.22
+12,3,"This is mainly because the team did not score any goals, which had the largest negative impact on the prediction.",17.29
+12,4,The model predicts that the team is less likely to have a player receive the 'Man of the Match' award.,12.93
+13,1,"On the other hand, making 485 passes and having 59% ball possession had a slight negative impact on the prediction, but their effects were minimal compared to the positive contributions from goals, corners, and off-target attempts.",38.26
+13,2,"Having 5 corner kicks and 6 off-target attempts also contributed positively, though to a lesser extent.",20.61
+13,3,"Scoring 2 goals had the strongest positive influence on the prediction, making it more likely for the team to have a player win the award.",14.86
+13,4,The model predicts whether a player from the football team will receive the 'Man of the Match' award based on several factors.,12.55
+14,1,"Additionally, the total number of passes and the percentage of ball possession had only minor negative influences on the prediction.",37.78
+14,2,"Although the team scored two goals, which had a positive impact, this was not enough to outweigh the negative effects.",19.62
+14,3,"The model predicts that the team is less likely to have a player win the 'Man of the Match' award mainly because they had a higher number of off-target attempts and fewer corner kicks, both of which contributed negatively to the prediction.",11.61
+15,1,"Overall, scoring more goals was the most significant factor in the prediction.",57.54
+15,2,"Additionally, the 6 off-target attempts provided a small positive contribution.",47.52
+15,3,"However, having 2 corner kicks slightly decreased the chances, as did the total number of passes (372) and the percentage of ball possession (42%), though these had much smaller negative effects.",18.02
+15,4,"The team scored 3 goals, which had the largest positive impact.",15.12
+15,5,"The model's prediction was most strongly influenced by the number of goals scored, which contributed positively to the likelihood of a player from the team receiving the 'Man of the Match' award.",11.61
+16,1,"Overall, scoring goals was the most significant factor in the model's decision.",61.39
+16,2,"The number of off-target attempts had a small positive effect, while ball possession percentage had a minimal negative impact on the prediction.",18.99
+16,3,"However, having more corner kicks and a higher number of passes slightly decreased this likelihood.",17.64
+16,4,"The model's prediction was most strongly influenced by the number of goals scored, which increased the likelihood of a player from the team receiving the 'Man of the Match' award.",11.11
+17,1,"Overall, while the team's control and activity on the field were favorable, the lack of goals was the main factor working against the prediction.",49.59
+17,2,"Additionally, the number of off-target attempts (9) had a small positive impact on the prediction.",25.28
+17,3,"However, the team's high number of passes (595), strong ball possession (60%), and several corner kicks (8) all contributed positively, albeit to a lesser extent.",14.02
+17,4,"The model's prediction was most strongly influenced by the fact that the team did not score any goals, which significantly reduced the likelihood of a player receiving the 'Man of the Match' award.",9.72
+18,1,"The number of off-target attempts had a small positive effect, while a higher percentage of ball possession had a minimal negative impact on the prediction.",36.02
+18,2,"However, having more corner kicks and a higher number of passes slightly decreased this likelihood.",25.53
+18,3,"The model's prediction was most strongly influenced by the number of goals scored, which increased the likelihood of a player from the team receiving the 'Man of the Match' award.",13.84
+19,1,"Additionally, the number of corner kicks and off-target attempts had small positive effects on the prediction, but their impact was much less significant compared to the number of goals scored.",17.7
+19,2,"However, the team's high number of passes and high ball possession percentage contributed positively, slightly increasing the chances.",17.91
+19,3,"The model's prediction was most strongly influenced by the team's low number of goals scored, which significantly decreased the likelihood of a player receiving the 'Man of the Match' award.",10.55
+20,1,"Overall, the high number of goals scored was the most important factor in the model's decision.",28.68
+20,2,The total number of passes (351) and a ball possession rate of 41% both had minor negative effects on the prediction.,18.76
+20,3,"Having no corner kicks slightly decreased the chances, while making 4 off-target attempts provided a small positive contribution.",17.49
+20,4,"The model's prediction was most strongly influenced by the number of goals scored, with scoring 4 goals significantly increasing the likelihood of a player from the team receiving the 'Man of the Match' award.",10.94
+21,1,"On the other hand, making 492 passes and having 59% ball possession had a slight negative impact on the prediction, but their effects were minimal compared to the influence of goals scored.",39.57
+21,2,"Having 7 corner kicks and 7 off-target attempts also contributed positively, though to a lesser extent.",27.62
+21,3,"Scoring 2 goals had the strongest positive influence on the prediction, making it more likely for the team to have a player win the award.",17.44
+21,4,The model predicts whether a player from the football team will receive the 'Man of the Match' award based on several match statistics.,14.47
+22,1,"Overall, scoring more goals increased the chances of winning the award, while more corners, passes, and lower possession slightly decreased those chances.",38.44
+22,2,"The number of off-target attempts provided a small positive contribution, while the percentage of ball possession had a slight negative effect.",20.24
+22,3,"However, the number of corner kicks and the total number of passes both had a negative impact on the prediction.",12.9
+22,4,"The model's prediction was most strongly influenced by the number of goals scored, which contributed positively to the likelihood of a player from the team receiving the 'Man of the Match' award.",9.31
+23,1,"Overall, the team's attacking performance, especially scoring goals, played the most significant role in the model's decision.",39.61
+23,2,"On the other hand, the total number of passes and the percentage of ball possession had a very small negative effect on the prediction.",14.13
+23,3,"The high number of corner kicks and off-target attempts also contributed positively, though to a lesser extent.",12.39
+23,4,"The model's prediction that a player from the team will receive the 'Man of the Match' award was mainly influenced by the number of goals scored, which had the strongest positive impact.",9.02
+24,1,"Overall, strong offensive performance and control of the game increased the likelihood of a player from this team being awarded 'Man of the Match'.",35.44
+24,2,"The high number of passes (699) and a strong ball possession percentage (71%) also played a role, though their influence was smaller compared to goals scored.",23.76
+24,3,"Additionally, the team earned 8 corner kicks and made 4 off-target attempts, both contributing positively to the prediction.",18.41
+24,4,"The model's prediction that a player from this football team will receive the 'Man of the Match' award is mainly influenced by the team scoring 2 goals, which had the largest positive impact.",12.72
+25,1,"Overall, scoring goals was the most significant factor in the model's decision.",61.39
+25,2,The total number of passes and the percentage of ball possession both had minimal negative effects on the prediction.,23.73
+25,3,"Having more corner kicks slightly decreased the chances, while a higher number of off-target attempts provided a small positive contribution.",16.86
+25,4,"The model's prediction was most strongly influenced by the number of goals scored, which increased the likelihood of a player from the team receiving the 'Man of the Match' award.",10.91
+26,1,"The team's high total number of passes and strong ball possession percentage also played a role, but their influence was smaller compared to the other factors.",35.25
+26,2,"Additionally, the high number of corner kicks and off-target attempts contributed positively, though to a lesser extent.",20.79
+26,3,"The model's prediction that a player from the team will receive the 'Man of the Match' award is mainly influenced by the number of goals scored, which had the largest positive impact.",13.29
+27,1,"Overall, the negative contributions from off-target attempts and corner kicks outweighed the positive effect of goals scored.",55.37
+27,2,"However, the total number of passes (269) and a ball possession rate of 39% had only minor negative effects on the outcome.",24.9
+27,3,"Scoring 2 goals had a positive impact on the prediction, increasing the chances of winning the award.",20.43
+27,4,"The team had 2 off-target attempts and 2 corner kicks, both of which contributed negatively to the likelihood of receiving the 'Man of the Match' award.",12.18
+27,5,The model's prediction was influenced by several key factors.,11.93
+28,1,"Overall, scoring goals was the most significant factor in the model's decision.",61.39
+28,2,"On the other hand, the total number of passes and the percentage of ball possession had a slight negative effect on the prediction.",14.76
+28,3,"The number of corner kicks and off-target attempts also contributed positively, though to a lesser extent.",11.04
+28,4,"The model's prediction that a player from the team will receive the 'Man of the Match' award is mainly influenced by the number of goals scored, which had the strongest positive impact.",8.52
+29,1,"Overall, scoring goals played the most significant role in the model's decision.",71.86
+29,2,"Additionally, more off-target attempts had a small positive effect, while a lower percentage of ball possession had a minimal negative impact on the prediction.",21.5
+29,3,"However, having more corner kicks and a higher number of passes slightly decreased this likelihood.",17.83
+29,4,"The model's prediction was most strongly influenced by the number of goals scored, which increased the likelihood of a player from the team receiving the 'Man of the Match' award.",11.5

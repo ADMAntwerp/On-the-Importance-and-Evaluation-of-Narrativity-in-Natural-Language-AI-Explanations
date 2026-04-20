@@ -1,0 +1,22 @@
+\begin{table}[!htb]
+\centering
+\caption{Average rank per metric across datasets (lower is better). Missing values are penalised with equal last rank within each block. Overall = mean of per-metric average ranks. Best value per column in \textbf{bold}.}
+\label{tab:average_ranks_by_method_metric}
+\setlength{\tabcolsep}{2.5pt}
+\renewcommand{\arraystretch}{0.85}
+\resizebox{\textwidth}{!}{
+    \begin{tabular}{lrrrrrrrrrrrrr}
+    \toprule
+    Method & PPL & Dist$_2$ & TTR & VR & CD & FDR & CSR & CECPR & DCPR & CCPR & TTCPR & VCPR & \textbf{Overall} \\
+    \midrule
+    xaistories & 4.333 & 2.667 & 3.167 & \textbf{2.250} & 3.083 & 2.167 & 4.167 & 2.333 & \textbf{1.333} & 1.833 & \textbf{1.917} & 2.167 & \textbf{2.618} \\
+    xaistories\_narratives & 4.833 & \textbf{2.167} & 2.667 & 2.417 & \textbf{2.583} & 2.833 & 2.750 & \textbf{1.667} & 2.833 & 2.833 & 3.083 & 3.500 & 2.847 \\
+    explingo\_zero\_shot & 6.000 & 2.750 & \textbf{1.333} & 3.333 & 4.083 & 3.917 & 2.000 & 3.000 & 3.167 & 4.167 & 2.167 & 3.500 & 3.285 \\
+    explingo\_narratives & 3.500 & 3.167 & 4.333 & 4.083 & 3.833 & \textbf{1.667} & \textbf{1.583} & 3.000 & 3.500 & 4.667 & 3.500 & 4.333 & 3.430 \\
+    templated\_narrative & 2.000 & 6.000 & 6.000 & 4.250 & 5.250 & 6.417 & 4.500 & 4.833 & 4.167 & \textbf{1.500} & 4.333 & \textbf{1.500} & 4.229 \\
+    explingo & 6.333 & 4.250 & 3.500 & 6.417 & 3.583 & 4.417 & 6.000 & 4.833 & 6.000 & 6.000 & 6.000 & 6.000 & 5.278 \\
+    talktomodel & \textbf{1.000} & 7.000 & 7.000 & 5.250 & 5.583 & 6.583 & 6.000 & 4.833 & 6.000 & 6.000 & 6.000 & 6.000 & 5.604 \\
+    \bottomrule
+    \end{tabular}
+}
+\end{table}

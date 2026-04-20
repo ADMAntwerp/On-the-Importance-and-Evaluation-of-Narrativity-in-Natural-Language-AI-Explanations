@@ -1,0 +1,572 @@
+[
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Purpose (Purpose of the loan), radio/TV, 0.0664), (Credit amount (Amount of credit requested), 1880, 0.0620), (Age (Age of the applicant), 32, 0.0360), (Checking account (Status of the applicant's checking account), little, 0.0349), (Housing (Housing status (Own, Rent, etc.)), own, 0.0332)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Credit amount (Amount of credit requested), 2859, 0.1051), (Age (Age of the applicant), 38, 0.0766), (Housing (Housing status (Own, Rent, etc.)), own, 0.0269), (Duration (Duration of the loan in months), 12, 0.0168), (Sex (Gender of the applicant), male, 0.0153)",
+                "The features Credit amount (Amount of credit requested), Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Duration (Duration of the loan in months), and Sex (Gender of the applicant) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Age (Age of the applicant), 55, 0.1298), (Credit amount (Amount of credit requested), 1603, 0.0806), (Purpose (Purpose of the loan), radio/TV, 0.0663), (Housing (Housing status (Own, Rent, etc.)), own, 0.0333), (Sex (Gender of the applicant), female, -0.0232)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the applicant), 35, 0.0669), (Sex (Gender of the applicant), male, 0.0134), (Checking account (Status of the applicant's checking account), little, 0.0123)",
+                "The features Age (Age of the applicant), Sex (Gender of the applicant), and Checking account (Status of the applicant's checking account) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Duration (Duration of the loan in months), 4, 0.1841), (Credit amount (Amount of credit requested), 1494, 0.0594), (Age (Age of the applicant), 29, -0.0375), (Purpose (Purpose of the loan), car, -0.0309), (Sex (Gender of the applicant), male, 0.0241)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the applicant), 35, 0.0669), (Sex (Gender of the applicant), male, 0.0134), (Checking account (Status of the applicant's checking account), little, 0.0123)",
+                "The features Age (Age of the applicant), Sex (Gender of the applicant), and Checking account (Status of the applicant's checking account) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Duration (Duration of the loan in months), 6, 0.1928), (Purpose (Purpose of the loan), car, -0.0640), (Age (Age of the applicant), 26, -0.0567), (Credit amount (Amount of credit requested), 783, -0.0394), (Housing (Housing status (Own, Rent, etc.)), own, 0.0198)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the applicant), 35, 0.0669), (Sex (Gender of the applicant), male, 0.0134), (Checking account (Status of the applicant's checking account), little, 0.0123)",
+                "The features Age (Age of the applicant), Sex (Gender of the applicant), and Checking account (Status of the applicant's checking account) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Age (Age of the applicant), 40, 0.0926), (Purpose (Purpose of the loan), radio/TV, 0.0789), (Credit amount (Amount of credit requested), 3077, 0.0703), (Duration (Duration of the loan in months), 30, -0.0645), (Housing (Housing status (Own, Rent, etc.)), own, 0.0304)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the applicant), 35, 0.0669), (Sex (Gender of the applicant), male, 0.0134), (Checking account (Status of the applicant's checking account), little, 0.0123)",
+                "The features Age (Age of the applicant), Sex (Gender of the applicant), and Checking account (Status of the applicant's checking account) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Age (Age of the applicant), 24, -0.0848), (Purpose (Purpose of the loan), radio/TV, 0.0823), (Duration (Duration of the loan in months), 9, 0.0776), (Checking account (Status of the applicant's checking account), moderate, -0.0305), (Housing (Housing status (Own, Rent, etc.)), own, 0.0200)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the applicant), 35, 0.0669), (Sex (Gender of the applicant), male, 0.0134), (Checking account (Status of the applicant's checking account), little, 0.0123)",
+                "The features Age (Age of the applicant), Sex (Gender of the applicant), and Checking account (Status of the applicant's checking account) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Duration (Duration of the loan in months), 9, 0.1054), (Age (Age of the applicant), 29, -0.0540), (Checking account (Status of the applicant's checking account), moderate, -0.0369), (Sex (Gender of the applicant), female, -0.0363), (Housing (Housing status (Own, Rent, etc.)), own, 0.0183)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Credit amount (Amount of credit requested), 2859, 0.1051), (Age (Age of the applicant), 38, 0.0766), (Housing (Housing status (Own, Rent, etc.)), own, 0.0269), (Duration (Duration of the loan in months), 12, 0.0168), (Sex (Gender of the applicant), male, 0.0153)",
+                "The features Credit amount (Amount of credit requested), Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Duration (Duration of the loan in months), and Sex (Gender of the applicant) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Age (Age of the applicant), 20, -0.1254), (Purpose (Purpose of the loan), radio/TV, 0.0697), (Housing (Housing status (Own, Rent, etc.)), rent, -0.0454), (Duration (Duration of the loan in months), 12, 0.0403), (Credit amount (Amount of credit requested), 585, 0.0204)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the applicant), 35, 0.0669), (Sex (Gender of the applicant), male, 0.0134), (Checking account (Status of the applicant's checking account), little, 0.0123)",
+                "The features Age (Age of the applicant), Sex (Gender of the applicant), and Checking account (Status of the applicant's checking account) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Duration (Duration of the loan in months), 72, -0.1595), (Age (Age of the applicant), 24, -0.0756), (Checking account (Status of the applicant's checking account), moderate, -0.0272), (Purpose (Purpose of the loan), radio/TV, 0.0238), (Housing (Housing status (Own, Rent, etc.)), own, 0.0155)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the applicant), 35, 0.0669), (Sex (Gender of the applicant), male, 0.0134), (Checking account (Status of the applicant's checking account), little, 0.0123)",
+                "The features Age (Age of the applicant), Sex (Gender of the applicant), and Checking account (Status of the applicant's checking account) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Age (Age of the applicant), 54, 0.0904), (Housing (Housing status (Own, Rent, etc.)), free, -0.0813), (Credit amount (Amount of credit requested), 1597, 0.0667), (Purpose (Purpose of the loan), education, -0.0193), (Checking account (Status of the applicant's checking account), little, 0.0127)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Credit amount (Amount of credit requested), 2859, 0.1051), (Age (Age of the applicant), 38, 0.0766), (Housing (Housing status (Own, Rent, etc.)), own, 0.0269), (Duration (Duration of the loan in months), 12, 0.0168), (Sex (Gender of the applicant), male, 0.0153)",
+                "The features Credit amount (Amount of credit requested), Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Duration (Duration of the loan in months), and Sex (Gender of the applicant) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Credit amount (Amount of credit requested), 3190, 0.1118), (Purpose (Purpose of the loan), radio/TV, 0.0939), (Age (Age of the applicant), 24, -0.0386), (Housing (Housing status (Own, Rent, etc.)), own, 0.0338), (Duration (Duration of the loan in months), 18, 0.0217)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the applicant), 35, 0.0669), (Sex (Gender of the applicant), male, 0.0134), (Checking account (Status of the applicant's checking account), little, 0.0123)",
+                "The features Age (Age of the applicant), Sex (Gender of the applicant), and Checking account (Status of the applicant's checking account) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Purpose (Purpose of the loan), radio/TV, 0.0743), (Credit amount (Amount of credit requested), 2831, 0.0728), (Duration (Duration of the loan in months), 30, -0.0595), (Sex (Gender of the applicant), female, -0.0389), (Housing (Housing status (Own, Rent, etc.)), own, 0.0285)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the applicant), 35, 0.0669), (Sex (Gender of the applicant), male, 0.0134), (Checking account (Status of the applicant's checking account), little, 0.0123)",
+                "The features Age (Age of the applicant), Sex (Gender of the applicant), and Checking account (Status of the applicant's checking account) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Duration (Duration of the loan in months), 8, 0.1919), (Age (Age of the applicant), 47, 0.1193), (Purpose (Purpose of the loan), car, -0.0408), (Credit amount (Amount of credit requested), 731, -0.0374), (Housing (Housing status (Own, Rent, etc.)), own, 0.0234)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the applicant), 35, 0.0669), (Sex (Gender of the applicant), male, 0.0134), (Checking account (Status of the applicant's checking account), little, 0.0123)",
+                "The features Age (Age of the applicant), Sex (Gender of the applicant), and Checking account (Status of the applicant's checking account) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Credit amount (Amount of credit requested), 3414, 0.0926), (Purpose (Purpose of the loan), education, -0.0342), (Duration (Duration of the loan in months), 21, 0.0320), (Housing (Housing status (Own, Rent, etc.)), own, 0.0307), (Sex (Gender of the applicant), male, 0.0264)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Credit amount (Amount of credit requested), 2859, 0.1051), (Age (Age of the applicant), 38, 0.0766), (Housing (Housing status (Own, Rent, etc.)), own, 0.0269), (Duration (Duration of the loan in months), 12, 0.0168), (Sex (Gender of the applicant), male, 0.0153)",
+                "The features Credit amount (Amount of credit requested), Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Duration (Duration of the loan in months), and Sex (Gender of the applicant) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Duration (Duration of the loan in months), 42, -0.1272), (Purpose (Purpose of the loan), radio/TV, 0.0559), (Age (Age of the applicant), 34, 0.0299), (Credit amount (Amount of credit requested), 3965, 0.0279), (Housing (Housing status (Own, Rent, etc.)), own, 0.0224)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the applicant), 35, 0.0669), (Sex (Gender of the applicant), male, 0.0134), (Checking account (Status of the applicant's checking account), little, 0.0123)",
+                "The features Age (Age of the applicant), Sex (Gender of the applicant), and Checking account (Status of the applicant's checking account) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Credit amount (Amount of credit requested), 2896, 0.0939), (Purpose (Purpose of the loan), radio/TV, 0.0421), (Housing (Housing status (Own, Rent, etc.)), own, 0.0331), (Checking account (Status of the applicant's checking account), moderate, -0.0322), (Age (Age of the applicant), 29, -0.0252)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Credit amount (Amount of credit requested), 2859, 0.1051), (Age (Age of the applicant), 38, 0.0766), (Housing (Housing status (Own, Rent, etc.)), own, 0.0269), (Duration (Duration of the loan in months), 12, 0.0168), (Sex (Gender of the applicant), male, 0.0153)",
+                "The features Credit amount (Amount of credit requested), Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Duration (Duration of the loan in months), and Sex (Gender of the applicant) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Age (Age of the applicant), 23, -0.0907), (Purpose (Purpose of the loan), radio/TV, 0.0875), (Duration (Duration of the loan in months), 13, 0.0505), (Checking account (Status of the applicant's checking account), moderate, -0.0257), (Housing (Housing status (Own, Rent, etc.)), own, 0.0233)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Credit amount (Amount of credit requested), 2859, 0.1051), (Age (Age of the applicant), 38, 0.0766), (Housing (Housing status (Own, Rent, etc.)), own, 0.0269), (Duration (Duration of the loan in months), 12, 0.0168), (Sex (Gender of the applicant), male, 0.0153)",
+                "The features Credit amount (Amount of credit requested), Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Duration (Duration of the loan in months), and Sex (Gender of the applicant) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Age (Age of the applicant), 47, 0.0930), (Credit amount (Amount of credit requested), 1393, 0.0678), (Duration (Duration of the loan in months), 12, 0.0556), (Purpose (Purpose of the loan), education, -0.0367), (Housing (Housing status (Own, Rent, etc.)), own, 0.0263)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the applicant), 35, 0.0669), (Sex (Gender of the applicant), male, 0.0134), (Checking account (Status of the applicant's checking account), little, 0.0123)",
+                "The features Age (Age of the applicant), Sex (Gender of the applicant), and Checking account (Status of the applicant's checking account) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Purpose (Purpose of the loan), car, -0.0176)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Purpose (Purpose of the loan), radio/TV, 0.0622), (Age (Age of the applicant), 33, 0.0407), (Housing (Housing status (Own, Rent, etc.)), own, 0.0270), (Sex (Gender of the applicant), male, 0.0254), (Duration (Duration of the loan in months), 18, 0.0174)",
+                "The features Purpose (Purpose of the loan), Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Sex (Gender of the applicant), and Duration (Duration of the loan in months) increase the predicted value."
+            ],
+            [
+                "(Saving accounts (Status of the applicant's saving accounts), little, -0.0066)",
+                "The features Saving accounts (Status of the applicant's saving accounts) decrease the predicted value."
+            ],
+            [
+                "(Credit amount (Amount of credit requested), 2859, 0.1051), (Age (Age of the applicant), 38, 0.0766), (Housing (Housing status (Own, Rent, etc.)), own, 0.0269), (Duration (Duration of the loan in months), 12, 0.0168), (Sex (Gender of the applicant), male, 0.0153)",
+                "The features Credit amount (Amount of credit requested), Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Duration (Duration of the loan in months), and Sex (Gender of the applicant) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Duration (Duration of the loan in months), 9, 0.1563), (Age (Age of the applicant), 41, 0.1233), (Purpose (Purpose of the loan), education, -0.0314), (Credit amount (Amount of credit requested), 1244, -0.0305), (Sex (Gender of the applicant), female, -0.0267)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the applicant), 35, 0.0669), (Sex (Gender of the applicant), male, 0.0134), (Checking account (Status of the applicant's checking account), little, 0.0123)",
+                "The features Age (Age of the applicant), Sex (Gender of the applicant), and Checking account (Status of the applicant's checking account) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Age (Age of the applicant), 24, -0.0642), (Housing (Housing status (Own, Rent, etc.)), rent, -0.0638), (Credit amount (Amount of credit requested), 3021, 0.0425), (Sex (Gender of the applicant), male, 0.0206), (Duration (Duration of the loan in months), 24, -0.0206)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Credit amount (Amount of credit requested), 2859, 0.1051), (Age (Age of the applicant), 38, 0.0766), (Housing (Housing status (Own, Rent, etc.)), own, 0.0269), (Duration (Duration of the loan in months), 12, 0.0168), (Checking account (Status of the applicant's checking account), little, 0.0108)",
+                "The features Credit amount (Amount of credit requested), Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Duration (Duration of the loan in months), and Checking account (Status of the applicant's checking account) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Credit amount (Amount of credit requested), 3632, 0.1346), (Age (Age of the applicant), 22, -0.1174), (Housing (Housing status (Own, Rent, etc.)), rent, -0.0355), (Duration (Duration of the loan in months), 24, -0.0267), (Sex (Gender of the applicant), female, -0.0250)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the applicant), 35, 0.0669), (Sex (Gender of the applicant), male, 0.0134), (Checking account (Status of the applicant's checking account), little, 0.0123)",
+                "The features Age (Age of the applicant), Sex (Gender of the applicant), and Checking account (Status of the applicant's checking account) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Duration (Duration of the loan in months), 48, -0.0734), (Age (Age of the applicant), 35, 0.0669), (Housing (Housing status (Own, Rent, etc.)), free, -0.0592), (Credit amount (Amount of credit requested), 8858, -0.0432), (Purpose (Purpose of the loan), car, -0.0186)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Credit amount (Amount of credit requested), 2859, 0.1051), (Age (Age of the applicant), 38, 0.0766), (Housing (Housing status (Own, Rent, etc.)), own, 0.0269), (Duration (Duration of the loan in months), 12, 0.0168), (Sex (Gender of the applicant), male, 0.0153)",
+                "The features Credit amount (Amount of credit requested), Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Duration (Duration of the loan in months), and Sex (Gender of the applicant) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Credit amount (Amount of credit requested), 701, -0.0901), (Purpose (Purpose of the loan), education, -0.0471), (Sex (Gender of the applicant), male, 0.0241), (Saving accounts (Status of the applicant's saving accounts), little, -0.0204), (Housing (Housing status (Own, Rent, etc.)), own, 0.0184)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Credit amount (Amount of credit requested), 2859, 0.1051), (Age (Age of the applicant), 38, 0.0766), (Housing (Housing status (Own, Rent, etc.)), own, 0.0269), (Duration (Duration of the loan in months), 12, 0.0168), (Sex (Gender of the applicant), male, 0.0153)",
+                "The features Credit amount (Amount of credit requested), Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Duration (Duration of the loan in months), and Sex (Gender of the applicant) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Credit amount (Amount of credit requested), 2859, 0.1051), (Age (Age of the applicant), 38, 0.0766), (Housing (Housing status (Own, Rent, etc.)), own, 0.0269), (Purpose (Purpose of the loan), car, -0.0235), (Job (Job type or category), highly skilled, -0.0202)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Age (Age of the applicant), 35, 0.0669), (Sex (Gender of the applicant), male, 0.0134), (Checking account (Status of the applicant's checking account), little, 0.0123)",
+                "The features Age (Age of the applicant), Sex (Gender of the applicant), and Checking account (Status of the applicant's checking account) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Age (Age of the applicant), 55, 0.0988), (Housing (Housing status (Own, Rent, etc.)), free, -0.0559), (Purpose (Purpose of the loan), repairs, 0.0427), (Credit amount (Amount of credit requested), 1190, -0.0250), (Duration (Duration of the loan in months), 18, -0.0240)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Credit amount (Amount of credit requested), 2859, 0.1051), (Age (Age of the applicant), 38, 0.0766), (Housing (Housing status (Own, Rent, etc.)), own, 0.0269), (Duration (Duration of the loan in months), 12, 0.0168), (Sex (Gender of the applicant), male, 0.0153)",
+                "The features Credit amount (Amount of credit requested), Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Duration (Duration of the loan in months), and Sex (Gender of the applicant) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Purpose (Purpose of the loan), radio/TV, 0.0622), (Age (Age of the applicant), 33, 0.0407), (Housing (Housing status (Own, Rent, etc.)), own, 0.0270), (Sex (Gender of the applicant), male, 0.0254), (Duration (Duration of the loan in months), 18, 0.0174)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Credit amount (Amount of credit requested), 2859, 0.1051), (Age (Age of the applicant), 38, 0.0766), (Housing (Housing status (Own, Rent, etc.)), own, 0.0269), (Duration (Duration of the loan in months), 12, 0.0168), (Sex (Gender of the applicant), male, 0.0153)",
+                "The features Credit amount (Amount of credit requested), Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Duration (Duration of the loan in months), and Sex (Gender of the applicant) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Credit amount (Amount of credit requested), 3749, 0.1092), (Sex (Gender of the applicant), female, -0.0424), (Housing (Housing status (Own, Rent, etc.)), own, 0.0247), (Age (Age of the applicant), 26, -0.0223), (Checking account (Status of the applicant's checking account), rich, 0.0180)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Credit amount (Amount of credit requested), 2859, 0.1051), (Age (Age of the applicant), 38, 0.0766), (Housing (Housing status (Own, Rent, etc.)), own, 0.0269), (Duration (Duration of the loan in months), 12, 0.0168), (Sex (Gender of the applicant), male, 0.0153)",
+                "The features Credit amount (Amount of credit requested), Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Duration (Duration of the loan in months), and Sex (Gender of the applicant) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Purpose (Purpose of the loan), radio/TV, 0.0945), (Credit amount (Amount of credit requested), 1453, 0.0642), (Housing (Housing status (Own, Rent, etc.)), own, 0.0344), (Sex (Gender of the applicant), female, -0.0267), (Checking account (Status of the applicant's checking account), little, 0.0242)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Credit amount (Amount of credit requested), 2859, 0.1051), (Age (Age of the applicant), 38, 0.0766), (Housing (Housing status (Own, Rent, etc.)), own, 0.0269), (Duration (Duration of the loan in months), 12, 0.0168), (Sex (Gender of the applicant), male, 0.0153)",
+                "The features Credit amount (Amount of credit requested), Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Duration (Duration of the loan in months), and Sex (Gender of the applicant) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Credit amount (Amount of credit requested), 1823, 0.0651), (Purpose (Purpose of the loan), radio/TV, 0.0486), (Checking account (Status of the applicant's checking account), little, 0.0335), (Housing (Housing status (Own, Rent, etc.)), own, 0.0316), (Sex (Gender of the applicant), male, 0.0294)",
+        "context": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "example_narratives": [
+            [
+                "(Age (Age of the applicant), 35, 0.0558), (Housing (Housing status (Own, Rent, etc.)), own, 0.0227), (Saving accounts (Status of the applicant's saving accounts), moderate, 0.0201), (Sex (Gender of the applicant), male, 0.0190), (Credit amount (Amount of credit requested), 4380, 0.0124)",
+                "The features Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Saving accounts (Status of the applicant's saving accounts), Sex (Gender of the applicant), and Credit amount (Amount of credit requested) increase the predicted value."
+            ],
+            [
+                "(Purpose (Purpose of the loan), car, -0.0176), (Duration (Duration of the loan in months), 18, -0.0168), (Job (Job type or category), unskilled and resident, -0.0021)",
+                "The features Purpose (Purpose of the loan), Duration (Duration of the loan in months), and Job (Job type or category) decrease the predicted value."
+            ],
+            [
+                "(Credit amount (Amount of credit requested), 2859, 0.1051), (Age (Age of the applicant), 38, 0.0766), (Housing (Housing status (Own, Rent, etc.)), own, 0.0269), (Duration (Duration of the loan in months), 12, 0.0168), (Sex (Gender of the applicant), male, 0.0153)",
+                "The features Credit amount (Amount of credit requested), Age (Age of the applicant), Housing (Housing status (Own, Rent, etc.)), Duration (Duration of the loan in months), and Sex (Gender of the applicant) increase the predicted value."
+            ]
+        ]
+    }
+]

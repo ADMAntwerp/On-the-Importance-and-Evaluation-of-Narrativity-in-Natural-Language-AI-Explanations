@@ -1,0 +1,151 @@
+text_id,num_sentences,last_sentence,ppl
+0,1,"For this instance, the model predicted bad credit risk.",167.79
+0,2,Purpose (Purpose of the loan) is the most important feature and has a positive influence on the prediction.,32.51
+0,3,Credit amount (Amount of credit requested) is the second most important feature and has a positive influence on the prediction.,11.03
+0,4,Age (Age of the applicant) is the third most important feature and has a positive influence on the prediction.,6.2
+0,5,Checking account (Status of the applicant's checking account) is the 4th most important feature and has a positive influence on the prediction.,4.75
+1,1,"For this instance, the model predicted bad credit risk.",167.79
+1,2,Age (Age of the applicant) is the most important feature and has a positive influence on the prediction.,25.73
+1,3,Credit amount (Amount of credit requested) is the second most important feature and has a positive influence on the prediction.,9.08
+1,4,Purpose (Purpose of the loan) is the third most important feature and has a positive influence on the prediction.,5.48
+1,5,"Housing (Housing status (Own, Rent, etc.)) is the 4th most important feature and has a positive influence on the prediction.",4.46
+2,1,"For this instance, the model predicted bad credit risk.",167.79
+2,2,Duration (Duration of the loan in months) is the most important feature and has a positive influence on the prediction.,25.51
+2,3,Credit amount (Amount of credit requested) is the second most important feature and has a positive influence on the prediction.,9.73
+2,4,Age (Age of the applicant) is the third most important feature and has a negative influence on the prediction.,5.71
+2,5,Purpose (Purpose of the loan) is the 4th most important feature and has a negative influence on the prediction.,4.32
+3,1,"For this instance, the model predicted bad credit risk.",167.79
+3,2,Duration (Duration of the loan in months) is the most important feature and has a positive influence on the prediction.,25.51
+3,3,Purpose (Purpose of the loan) is the second most important feature and has a negative influence on the prediction.,9.28
+3,4,Age (Age of the applicant) is the third most important feature and has a negative influence on the prediction.,5.44
+3,5,Credit amount (Amount of credit requested) is the 4th most important feature and has a negative influence on the prediction.,4.27
+4,1,"For this instance, the model predicted bad credit risk.",167.79
+4,2,Age (Age of the applicant) is the most important feature and has a positive influence on the prediction.,25.73
+4,3,Purpose (Purpose of the loan) is the second most important feature and has a positive influence on the prediction.,9.25
+4,4,Credit amount (Amount of credit requested) is the third most important feature and has a positive influence on the prediction.,5.52
+4,5,Duration (Duration of the loan in months) is the 4th most important feature and has a negative influence on the prediction.,4.1
+5,1,"For this instance, the model predicted bad credit risk.",167.79
+5,2,Age (Age of the applicant) is the most important feature and has a negative influence on the prediction.,26.4
+5,3,Purpose (Purpose of the loan) is the second most important feature and has a positive influence on the prediction.,9.46
+5,4,Duration (Duration of the loan in months) is the third most important feature and has a positive influence on the prediction.,5.38
+5,5,Checking account (Status of the applicant's checking account) is the 4th most important feature and has a negative influence on the prediction.,4.28
+6,1,"For this instance, the model predicted bad credit risk.",167.79
+6,2,Duration (Duration of the loan in months) is the most important feature and has a positive influence on the prediction.,25.51
+6,3,Age (Age of the applicant) is the second most important feature and has a negative influence on the prediction.,8.8
+6,4,Checking account (Status of the applicant's checking account) is the third most important feature and has a negative influence on the prediction.,5.58
+6,5,Sex (Gender of the applicant) is the 4th most important feature and has a negative influence on the prediction.,4.38
+7,1,"For this instance, the model predicted good credit risk.",131.6
+7,2,Age (Age of the applicant) is the most important feature and has a negative influence on the prediction.,25.3
+7,3,Purpose (Purpose of the loan) is the second most important feature and has a positive influence on the prediction.,9.23
+7,4,"Housing (Housing status (Own, Rent, etc.)) is the third most important feature and has a negative influence on the prediction.",5.94
+7,5,Duration (Duration of the loan in months) is the 4th most important feature and has a positive influence on the prediction.,4.49
+8,1,"For this instance, the model predicted good credit risk.",131.6
+8,2,Duration (Duration of the loan in months) is the most important feature and has a negative influence on the prediction.,24.7
+8,3,Age (Age of the applicant) is the second most important feature and has a negative influence on the prediction.,8.94
+8,4,Checking account (Status of the applicant's checking account) is the third most important feature and has a negative influence on the prediction.,5.64
+8,5,Purpose (Purpose of the loan) is the 4th most important feature and has a positive influence on the prediction.,4.31
+9,1,"For this instance, the model predicted bad credit risk.",167.79
+9,2,Age (Age of the applicant) is the most important feature and has a positive influence on the prediction.,25.73
+9,3,"Housing (Housing status (Own, Rent, etc.)) is the second most important feature and has a negative influence on the prediction.",9.64
+9,4,Credit amount (Amount of credit requested) is the third most important feature and has a positive influence on the prediction.,6.06
+9,5,Purpose (Purpose of the loan) is the 4th most important feature and has a negative influence on the prediction.,4.64
+10,1,"For this instance, the model predicted bad credit risk.",167.79
+10,2,Credit amount (Amount of credit requested) is the most important feature and has a positive influence on the prediction.,24.04
+10,3,Purpose (Purpose of the loan) is the second most important feature and has a positive influence on the prediction.,8.96
+10,4,Age (Age of the applicant) is the third most important feature and has a negative influence on the prediction.,5.3
+10,5,"Housing (Housing status (Own, Rent, etc.)) is the 4th most important feature and has a positive influence on the prediction.",4.38
+11,1,"For this instance, the model predicted bad credit risk.",167.79
+11,2,Purpose (Purpose of the loan) is the most important feature and has a positive influence on the prediction.,32.51
+11,3,Credit amount (Amount of credit requested) is the second most important feature and has a positive influence on the prediction.,11.03
+11,4,Duration (Duration of the loan in months) is the third most important feature and has a negative influence on the prediction.,6.15
+11,5,Sex (Gender of the applicant) is the 4th most important feature and has a negative influence on the prediction.,4.72
+12,1,"For this instance, the model predicted bad credit risk.",167.79
+12,2,Duration (Duration of the loan in months) is the most important feature and has a positive influence on the prediction.,25.51
+12,3,Age (Age of the applicant) is the second most important feature and has a positive influence on the prediction.,8.92
+12,4,Purpose (Purpose of the loan) is the third most important feature and has a negative influence on the prediction.,5.38
+12,5,Credit amount (Amount of credit requested) is the 4th most important feature and has a negative influence on the prediction.,4.22
+13,1,"For this instance, the model predicted bad credit risk.",167.79
+13,2,Credit amount (Amount of credit requested) is the most important feature and has a positive influence on the prediction.,24.04
+13,3,Purpose (Purpose of the loan) is the second most important feature and has a negative influence on the prediction.,8.87
+13,4,Duration (Duration of the loan in months) is the third most important feature and has a positive influence on the prediction.,5.29
+13,5,"Housing (Housing status (Own, Rent, etc.)) is the 4th most important feature and has a positive influence on the prediction.",4.49
+14,1,"For this instance, the model predicted bad credit risk.",167.79
+14,2,Duration (Duration of the loan in months) is the most important feature and has a negative influence on the prediction.,26.04
+14,3,Purpose (Purpose of the loan) is the second most important feature and has a positive influence on the prediction.,9.54
+14,4,Age (Age of the applicant) is the third most important feature and has a positive influence on the prediction.,5.57
+14,5,Credit amount (Amount of credit requested) is the 4th most important feature and has a positive influence on the prediction.,4.34
+15,1,"For this instance, the model predicted bad credit risk.",167.79
+15,2,Credit amount (Amount of credit requested) is the most important feature and has a positive influence on the prediction.,24.04
+15,3,Purpose (Purpose of the loan) is the second most important feature and has a positive influence on the prediction.,8.96
+15,4,"Housing (Housing status (Own, Rent, etc.)) is the third most important feature and has a positive influence on the prediction.",5.8
+15,5,Checking account (Status of the applicant's checking account) is the 4th most important feature and has a negative influence on the prediction.,4.64
+16,1,"For this instance, the model predicted bad credit risk.",167.79
+16,2,Age (Age of the applicant) is the most important feature and has a negative influence on the prediction.,26.4
+16,3,Purpose (Purpose of the loan) is the second most important feature and has a positive influence on the prediction.,9.46
+16,4,Duration (Duration of the loan in months) is the third most important feature and has a positive influence on the prediction.,5.38
+16,5,Checking account (Status of the applicant's checking account) is the 4th most important feature and has a negative influence on the prediction.,4.28
+17,1,"For this instance, the model predicted bad credit risk.",167.79
+17,2,Age (Age of the applicant) is the most important feature and has a positive influence on the prediction.,25.73
+17,3,Credit amount (Amount of credit requested) is the second most important feature and has a positive influence on the prediction.,9.08
+17,4,Duration (Duration of the loan in months) is the third most important feature and has a positive influence on the prediction.,5.25
+17,5,Purpose (Purpose of the loan) is the 4th most important feature and has a negative influence on the prediction.,4.01
+18,1,"For this instance, the model predicted bad credit risk.",167.79
+18,2,Age (Age of the applicant) is the most important feature and has a positive influence on the prediction.,25.73
+18,3,"Housing (Housing status (Own, Rent, etc.)) is the second most important feature and has a positive influence on the prediction.",9.67
+18,4,Saving accounts (Status of the applicant's saving accounts) is the third most important feature and has a positive influence on the prediction.,6.34
+18,5,Sex (Gender of the applicant) is the 4th most important feature and has a positive influence on the prediction.,4.8
+19,1,"For this instance, the model predicted bad credit risk.",167.79
+19,2,Duration (Duration of the loan in months) is the most important feature and has a positive influence on the prediction.,25.51
+19,3,Age (Age of the applicant) is the second most important feature and has a positive influence on the prediction.,8.92
+19,4,Purpose (Purpose of the loan) is the third most important feature and has a negative influence on the prediction.,5.38
+19,5,Credit amount (Amount of credit requested) is the 4th most important feature and has a negative influence on the prediction.,4.22
+20,1,"For this instance, the model predicted good credit risk.",131.6
+20,2,Age (Age of the applicant) is the most important feature and has a negative influence on the prediction.,25.3
+20,3,"Housing (Housing status (Own, Rent, etc.)) is the second most important feature and has a negative influence on the prediction.",9.77
+20,4,Credit amount (Amount of credit requested) is the third most important feature and has a positive influence on the prediction.,6.08
+20,5,Sex (Gender of the applicant) is the 4th most important feature and has a positive influence on the prediction.,4.63
+21,1,"For this instance, the model predicted good credit risk.",131.6
+21,2,Credit amount (Amount of credit requested) is the most important feature and has a positive influence on the prediction.,22.29
+21,3,Age (Age of the applicant) is the second most important feature and has a negative influence on the prediction.,8.12
+21,4,"Housing (Housing status (Own, Rent, etc.)) is the third most important feature and has a negative influence on the prediction.",5.47
+21,5,Duration (Duration of the loan in months) is the 4th most important feature and has a negative influence on the prediction.,4.28
+22,1,"For this instance, the model predicted good credit risk.",131.6
+22,2,Duration (Duration of the loan in months) is the most important feature and has a negative influence on the prediction.,24.7
+22,3,Age (Age of the applicant) is the second most important feature and has a positive influence on the prediction.,8.77
+22,4,"Housing (Housing status (Own, Rent, etc.)) is the third most important feature and has a negative influence on the prediction.",5.82
+22,5,Credit amount (Amount of credit requested) is the 4th most important feature and has a negative influence on the prediction.,4.65
+23,1,"For this instance, the model predicted good credit risk.",131.6
+23,2,Credit amount (Amount of credit requested) is the most important feature and has a negative influence on the prediction.,23.69
+23,3,Purpose (Purpose of the loan) is the second most important feature and has a negative influence on the prediction.,9.41
+23,4,Sex (Gender of the applicant) is the third most important feature and has a positive influence on the prediction.,5.64
+23,5,Saving accounts (Status of the applicant's saving accounts) is the 4th most important feature and has a negative influence on the prediction.,4.68
+24,1,"For this instance, the model predicted bad credit risk.",167.79
+24,2,Credit amount (Amount of credit requested) is the most important feature and has a positive influence on the prediction.,24.04
+24,3,Age (Age of the applicant) is the second most important feature and has a positive influence on the prediction.,8.6
+24,4,"Housing (Housing status (Own, Rent, etc.)) is the third most important feature and has a positive influence on the prediction.",5.55
+24,5,Purpose (Purpose of the loan) is the 4th most important feature and has a negative influence on the prediction.,4.3
+25,1,"For this instance, the model predicted bad credit risk.",167.79
+25,2,Age (Age of the applicant) is the most important feature and has a positive influence on the prediction.,25.73
+25,3,"Housing (Housing status (Own, Rent, etc.)) is the second most important feature and has a negative influence on the prediction.",9.64
+25,4,Purpose (Purpose of the loan) is the third most important feature and has a positive influence on the prediction.,5.87
+25,5,Credit amount (Amount of credit requested) is the 4th most important feature and has a negative influence on the prediction.,4.62
+26,1,"For this instance, the model predicted bad credit risk.",167.79
+26,2,Purpose (Purpose of the loan) is the most important feature and has a positive influence on the prediction.,32.51
+26,3,Age (Age of the applicant) is the second most important feature and has a positive influence on the prediction.,10.18
+26,4,"Housing (Housing status (Own, Rent, etc.)) is the third most important feature and has a positive influence on the prediction.",6.3
+26,5,Sex (Gender of the applicant) is the 4th most important feature and has a positive influence on the prediction.,4.73
+27,1,"For this instance, the model predicted bad credit risk.",167.79
+27,2,Credit amount (Amount of credit requested) is the most important feature and has a positive influence on the prediction.,24.04
+27,3,Sex (Gender of the applicant) is the second most important feature and has a negative influence on the prediction.,8.97
+27,4,"Housing (Housing status (Own, Rent, etc.)) is the third most important feature and has a positive influence on the prediction.",6.0
+27,5,Age (Age of the applicant) is the 4th most important feature and has a negative influence on the prediction.,4.43
+28,1,"For this instance, the model predicted bad credit risk.",167.79
+28,2,Purpose (Purpose of the loan) is the most important feature and has a positive influence on the prediction.,32.51
+28,3,Credit amount (Amount of credit requested) is the second most important feature and has a positive influence on the prediction.,11.03
+28,4,"Housing (Housing status (Own, Rent, etc.)) is the third most important feature and has a positive influence on the prediction.",6.92
+28,5,Sex (Gender of the applicant) is the 4th most important feature and has a negative influence on the prediction.,5.26
+29,1,"For this instance, the model predicted bad credit risk.",167.79
+29,2,Credit amount (Amount of credit requested) is the most important feature and has a positive influence on the prediction.,24.04
+29,3,Purpose (Purpose of the loan) is the second most important feature and has a positive influence on the prediction.,8.96
+29,4,Checking account (Status of the applicant's checking account) is the third most important feature and has a positive influence on the prediction.,5.7
+29,5,"Housing (Housing status (Own, Rent, etc.)) is the 4th most important feature and has a positive influence on the prediction.",4.78

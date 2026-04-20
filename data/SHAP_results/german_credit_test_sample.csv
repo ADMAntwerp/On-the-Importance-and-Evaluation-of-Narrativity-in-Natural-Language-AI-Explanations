@@ -1,0 +1,31 @@
+Age,Sex,Job,Housing,Saving accounts,Checking account,Credit amount,Duration,Purpose,predicted_y
+32,male,highly skilled,own,little,little,1880,18,radio/TV,Predicted bad credit risk
+55,female,skilled,own,little,little,1603,24,radio/TV,Predicted bad credit risk
+29,male,unskilled and resident,own,little,rich,1494,4,car,Predicted bad credit risk
+26,male,unskilled and resident,own,little,little,783,6,car,Predicted bad credit risk
+40,male,skilled,own,little,little,3077,30,radio/TV,Predicted bad credit risk
+24,male,skilled,own,little,moderate,458,9,radio/TV,Predicted bad credit risk
+29,female,skilled,own,little,moderate,959,9,furniture/equipment,Predicted bad credit risk
+20,male,skilled,rent,little,moderate,585,12,radio/TV,Predicted good credit risk
+24,male,skilled,own,moderate,moderate,5595,72,radio/TV,Predicted good credit risk
+54,male,skilled,free,little,little,1597,24,education,Predicted bad credit risk
+24,female,skilled,own,little,little,3190,18,radio/TV,Predicted bad credit risk
+33,female,skilled,own,little,little,2831,30,radio/TV,Predicted bad credit risk
+47,male,unskilled and resident,own,little,little,731,8,car,Predicted bad credit risk
+26,male,skilled,own,little,little,3414,21,education,Predicted bad credit risk
+34,male,skilled,own,little,little,3965,42,radio/TV,Predicted bad credit risk
+29,male,skilled,own,moderate,moderate,2896,24,radio/TV,Predicted bad credit risk
+23,male,skilled,own,little,moderate,882,13,radio/TV,Predicted bad credit risk
+47,male,skilled,own,little,little,1393,12,education,Predicted bad credit risk
+35,male,unskilled and resident,own,moderate,little,4380,18,car,Predicted bad credit risk
+41,female,unskilled and resident,rent,little,little,1244,9,education,Predicted bad credit risk
+24,male,unskilled and resident,rent,little,little,3021,24,furniture/equipment,Predicted good credit risk
+22,female,skilled,rent,little,little,3632,24,car,Predicted good credit risk
+35,male,skilled,free,little,little,8858,48,car,Predicted good credit risk
+32,male,skilled,own,little,little,701,12,education,Predicted good credit risk
+38,male,highly skilled,own,little,little,2859,12,car,Predicted bad credit risk
+55,female,unskilled and non-resident,free,little,little,1190,18,repairs,Predicted bad credit risk
+33,male,skilled,own,little,little,6070,18,radio/TV,Predicted bad credit risk
+26,female,skilled,own,little,rich,3749,24,furniture/equipment,Predicted bad credit risk
+26,female,skilled,own,little,little,1453,18,radio/TV,Predicted bad credit risk
+30,male,highly skilled,own,little,little,1823,24,radio/TV,Predicted bad credit risk

@@ -1,0 +1,32 @@
+{
+  "ppl_values": {
+    "ori_mean": 12.4226,
+    "shuffled_mean": 15.1865,
+    "reversed_mean": 16.5927,
+    "loo_mean": 14.6038
+  },
+  "ratios_shuffled": {
+    "mean": 0.2233,
+    "median": 0.2146,
+    "std": 0.0769,
+    "min": 0.097,
+    "max": 0.4008,
+    "count": 30
+  },
+  "ratios_reversed": {
+    "mean": 0.3371,
+    "median": 0.3522,
+    "std": 0.0877,
+    "min": 0.1579,
+    "max": 0.534,
+    "count": 30
+  },
+  "ratios_loo": {
+    "mean": 0.1756,
+    "median": 0.1803,
+    "std": 0.0292,
+    "min": 0.1113,
+    "max": 0.256,
+    "count": 30
+  }
+}

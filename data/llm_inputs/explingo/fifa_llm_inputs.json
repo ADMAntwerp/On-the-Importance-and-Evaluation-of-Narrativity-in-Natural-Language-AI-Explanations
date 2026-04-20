@@ -1,0 +1,572 @@
+[
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 2, 0.1501), (Corners (Number of corner kicks), 3, -0.1276), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 328, -0.0053), (Ball Possession % (Percentage of ball possession), 43, -0.0027)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 6, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 1, -0.1276), (Passes (Total number of passes), 281, -0.0053), (Ball Possession % (Percentage of ball possession), 40, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 1, 0.1501), (Corners (Number of corner kicks), 2, -0.1276), (Off-Target (Number of off-target attempts), 5, 0.0482), (Passes (Total number of passes), 189, -0.0053), (Ball Possession % (Percentage of ball possession), 28, -0.0027)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 6, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 1, -0.1276), (Passes (Total number of passes), 281, -0.0053), (Ball Possession % (Percentage of ball possession), 40, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 1, 0.1501), (Corners (Number of corner kicks), 3, -0.1276), (Off-Target (Number of off-target attempts), 5, 0.0482), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 6, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 1, -0.1276), (Passes (Total number of passes), 281, -0.0053), (Ball Possession % (Percentage of ball possession), 40, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 1, 0.1501), (Corners (Number of corner kicks), 1, -0.1276), (Off-Target (Number of off-target attempts), 6, 0.0482), (Passes (Total number of passes), 281, -0.0053), (Ball Possession % (Percentage of ball possession), 40, -0.0027)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 0, -0.4849), (Ball Possession % (Percentage of ball possession), 64, 0.0974), (Corners (Number of corner kicks), 5, 0.0297), (Passes (Total number of passes), 433, -0.0277), (Off-Target (Number of off-target attempts), 6, 0.0209)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 0, -0.5503), (Corners (Number of corner kicks), 7, 0.0297), (Passes (Total number of passes), 484, -0.0277), (Off-Target (Number of off-target attempts), 7, 0.0209), (Ball Possession % (Percentage of ball possession), 48, -0.0131)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 0, -0.5503), (Corners (Number of corner kicks), 5, 0.0297), (Passes (Total number of passes), 467, -0.0277), (Off-Target (Number of off-target attempts), 5, 0.0209), (Ball Possession % (Percentage of ball possession), 44, -0.0131)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 1, 0.1501), (Corners (Number of corner kicks), 1, -0.1276), (Off-Target (Number of off-target attempts), 5, 0.0482), (Passes (Total number of passes), 226, -0.0053), (Ball Possession % (Percentage of ball possession), 32, -0.0027)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 0, -0.4509), (Passes (Total number of passes), 698, 0.1330), (Corners (Number of corner kicks), 5, 0.0297), (Off-Target (Number of off-target attempts), 7, 0.0209), (Ball Possession % (Percentage of ball possession), 57, -0.0131)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 0, -0.5503), (Corners (Number of corner kicks), 7, 0.0297), (Passes (Total number of passes), 424, -0.0277), (Off-Target (Number of off-target attempts), 4, 0.0209), (Ball Possession % (Percentage of ball possession), 53, -0.0131)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 1, 0.1790), (Corners (Number of corner kicks), 10, 0.0695), (Off-Target (Number of off-target attempts), 8, 0.0482), (Passes (Total number of passes), 324, -0.0053), (Ball Possession % (Percentage of ball possession), 41, -0.0027)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 5, 0.1790), (Corners (Number of corner kicks), 6, 0.0695), (Off-Target (Number of off-target attempts), 3, 0.0482), (Passes (Total number of passes), 306, -0.0053), (Ball Possession % (Percentage of ball possession), 40, -0.0027)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 0, -0.4662), (Corners (Number of corner kicks), 1, -0.0545), (Passes (Total number of passes), 271, -0.0277), (Off-Target (Number of off-target attempts), 4, 0.0209), (Ball Possession % (Percentage of ball possession), 34, -0.0131)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 2, 0.1790), (Corners (Number of corner kicks), 5, 0.0695), (Off-Target (Number of off-target attempts), 6, 0.0482), (Passes (Total number of passes), 485, -0.0053), (Ball Possession % (Percentage of ball possession), 59, -0.0027)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Off-Target (Number of off-target attempts), 2, -0.1983), (Corners (Number of corner kicks), 1, -0.1276), (Goal Scored (Number of goals scored), 2, 0.1172), (Passes (Total number of passes), 247, -0.0053), (Ball Possession % (Percentage of ball possession), 32, -0.0027)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 3, 0.1501), (Corners (Number of corner kicks), 2, -0.1276), (Off-Target (Number of off-target attempts), 6, 0.0482), (Passes (Total number of passes), 372, -0.0053), (Ball Possession % (Percentage of ball possession), 42, -0.0027)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 1, 0.1501), (Corners (Number of corner kicks), 2, -0.1276), (Off-Target (Number of off-target attempts), 3, 0.0482), (Passes (Total number of passes), 326, -0.0053), (Ball Possession % (Percentage of ball possession), 41, -0.0027)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 0, -0.3854), (Passes (Total number of passes), 595, 0.1330), (Ball Possession % (Percentage of ball possession), 60, 0.0974), (Corners (Number of corner kicks), 8, 0.0297), (Off-Target (Number of off-target attempts), 9, 0.0209)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 3, 0.1501), (Corners (Number of corner kicks), 4, -0.1276), (Off-Target (Number of off-target attempts), 6, 0.0482), (Passes (Total number of passes), 492, -0.0053), (Ball Possession % (Percentage of ball possession), 56, -0.0027)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 0, -0.3854), (Passes (Total number of passes), 719, 0.1330), (Ball Possession % (Percentage of ball possession), 70, 0.0974), (Corners (Number of corner kicks), 9, 0.0297), (Off-Target (Number of off-target attempts), 11, 0.0209)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 4, 0.1501), (Corners (Number of corner kicks), 0, -0.1276), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 351, -0.0053), (Ball Possession % (Percentage of ball possession), 41, -0.0027)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 2, 0.1790), (Corners (Number of corner kicks), 7, 0.0695), (Off-Target (Number of off-target attempts), 7, 0.0482), (Passes (Total number of passes), 492, -0.0053), (Ball Possession % (Percentage of ball possession), 59, -0.0027)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 2, 0.1501), (Corners (Number of corner kicks), 3, -0.1276), (Off-Target (Number of off-target attempts), 5, 0.0482), (Passes (Total number of passes), 237, -0.0053), (Ball Possession % (Percentage of ball possession), 30, -0.0027)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 2, 0.1790), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 7, 0.0482), (Passes (Total number of passes), 398, -0.0053), (Ball Possession % (Percentage of ball possession), 47, -0.0027)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253), (Ball Possession % (Percentage of ball possession), 71, 0.0198)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1258), (Corners (Number of corner kicks), 10, 0.0695), (Off-Target (Number of off-target attempts), 9, 0.0482), (Passes (Total number of passes), 718, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 2, 0.1501), (Corners (Number of corner kicks), 3, -0.1276), (Off-Target (Number of off-target attempts), 7, 0.0482), (Passes (Total number of passes), 524, -0.0053), (Ball Possession % (Percentage of ball possession), 58, -0.0027)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 1, 0.1258), (Corners (Number of corner kicks), 10, 0.0695), (Off-Target (Number of off-target attempts), 9, 0.0482), (Passes (Total number of passes), 718, 0.0253), (Ball Possession % (Percentage of ball possession), 72, 0.0198)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Off-Target (Number of off-target attempts), 2, -0.1983), (Corners (Number of corner kicks), 2, -0.1276), (Goal Scored (Number of goals scored), 2, 0.1172), (Passes (Total number of passes), 269, -0.0053), (Ball Possession % (Percentage of ball possession), 39, -0.0027)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 2, 0.1790), (Corners (Number of corner kicks), 6, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 399, -0.0053), (Ball Possession % (Percentage of ball possession), 38, -0.0027)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(Goal Scored (Number of goals scored), 1, 0.1501), (Corners (Number of corner kicks), 3, -0.1276), (Off-Target (Number of off-target attempts), 6, 0.0482), (Passes (Total number of passes), 521, -0.0053), (Ball Possession % (Percentage of ball possession), 47, -0.0027)",
+        "context": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "example_narratives": [
+            [
+                "(Goal Scored (Number of goals scored), 2, 0.1258), (Corners (Number of corner kicks), 8, 0.0695), (Off-Target (Number of off-target attempts), 4, 0.0482), (Passes (Total number of passes), 699, 0.0253)",
+                "The features Goal Scored (Number of goals scored), Corners (Number of corner kicks), Off-Target (Number of off-target attempts), and Passes (Total number of passes) increase the predicted value."
+            ],
+            [
+                "(Goal Scored (Number of goals scored), 1, 0.1501), (Off-Target (Number of off-target attempts), 5, 0.0482)",
+                "The features Goal Scored (Number of goals scored) and Off-Target (Number of off-target attempts) increase the predicted value."
+            ],
+            [
+                "(Corners (Number of corner kicks), 3, -0.1276), (Passes (Total number of passes), 458, -0.0053), (Ball Possession % (Percentage of ball possession), 49, -0.0027)",
+                "The features Corners (Number of corner kicks), Passes (Total number of passes), and Ball Possession % (Percentage of ball possession) decrease the predicted value."
+            ]
+        ]
+    }
+]

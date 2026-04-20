@@ -1,0 +1,125 @@
+text_id,sentence_index,removed_sentence,ppl_without_sentence,original_ppl,ppl_change
+0,0,"The model's prediction was influenced most by the purpose of the loan, which was for radio or TV, contributing positively to the assessment.",26.47,19.19,7.28
+0,1,"The amount of credit requested, which was 1880, also played a significant role.",26.17,19.19,6.98
+0,2,"The applicant's age of 32, having a little amount in their checking account, and owning their housing further contributed to the model's decision, though to a lesser extent.",30.52,19.19,11.33
+1,0,"The model's prediction was most strongly influenced by the applicant's age of 55, which increased the likelihood of being classified as a good credit risk.",26.73,13.24,13.49
+1,1,Requesting a credit amount of 1603 and applying for a loan with the purpose of buying a radio or TV also contributed positively to the prediction.,13.41,13.24,0.17
+1,2,"Additionally, owning their housing slightly increased the chance of being seen as a good credit risk.",14.66,13.24,1.42
+1,3,"However, being female had a small negative impact on the prediction.",16.07,13.24,2.83
+2,0,"The model's prediction was most strongly influenced by the duration of the loan, with a longer loan duration (4 months) increasing the likelihood of being classified as a 'bad' credit risk.",11.88,7.43,4.46
+2,1,"The amount of credit requested (1494) also contributed to a higher risk classification, though to a lesser extent.",8.36,7.43,0.94
+2,2,"The applicant's age (29) and the purpose of the loan (car) both slightly decreased the risk, making the applicant appear more favorable.",8.17,7.43,0.74
+2,3,"Finally, being male had a small positive effect on the risk classification, slightly increasing the likelihood of being considered a 'bad' credit risk.",9.77,7.43,2.34
+3,0,The model predicts the applicant's credit risk by considering several factors.,10.75,10.14,0.6
+3,1,The duration of the loan (6 months) increases the likelihood of being classified as a good credit risk.,15.0,10.14,4.85
+3,2,"The fact that the loan is for a car, the applicant's age (26), and the requested credit amount (783) each slightly decrease the likelihood of being seen as a good credit risk.",16.16,10.14,6.01
+3,3,"However, owning their housing slightly increases the chances of being classified as a good credit risk.",10.9,10.14,0.75
+4,0,"The model predicts this applicant as a 'good' credit risk mainly because of their age (40 years old), which contributes positively to the prediction.",23.65,14.25,9.41
+4,1,The purpose of the loan being for radio/TV and the applicant's request for a credit amount of 3077 also add to the likelihood of being considered a good risk.,13.11,14.25,-1.13
+4,2,"Additionally, owning their housing status has a smaller positive effect.",12.59,14.25,-1.65
+4,3,"However, the duration of the loan (30 months) slightly decreases the probability of being classified as a good credit risk.",21.23,14.25,6.98
+4,4,"Overall, the positive factors outweigh the negative, leading to a favorable prediction.",17.09,14.25,2.84
+5,0,The model considered several factors in its prediction.,26.17,23.02,3.14
+5,1,The applicant's age of 24 slightly decreased their credit risk score.,29.02,23.02,6.0
+5,2,Taking a loan for the purpose of radio/TV purchases and having a loan duration of 9 months both contributed to a higher credit risk score.,35.84,23.02,12.82
+5,3,"Having a moderate checking account status slightly reduced the risk, while owning their housing provided a small positive contribution to their creditworthiness.",26.32,23.02,3.3
+6,0,The model predicts the applicant's credit risk by considering several factors.,14.13,12.06,2.07
+6,1,The duration of the loan (9 months) increases the likelihood of being classified as a 'good' credit risk.,22.93,12.06,10.87
+6,2,"However, the applicant's age (29 years), having a moderate checking account status, being female, and owning their housing each slightly decrease the likelihood of being considered a 'good' credit risk.",15.63,12.06,3.57
+6,3,"Overall, the loan duration has the most significant positive impact on the prediction.",13.45,12.06,1.39
+7,0,The model considered several factors in making its prediction.,12.64,10.89,1.74
+7,1,"The applicant's age of 20 had the largest negative impact on the prediction, making it less likely they would be classified as a good credit risk.",20.79,10.89,9.9
+7,2,"Applying for a loan with the purpose of radio/TV contributed positively, slightly increasing the likelihood of being seen as a good credit risk.",11.54,10.89,0.65
+7,3,Renting their housing had a small negative effect.,11.57,10.89,0.68
+7,4,"The loan duration of 12 months and the requested credit amount of 585 both contributed positively, but only to a minor extent.",13.6,10.89,2.71
+7,5,"Overall, the applicant's young age and renting status weighed against them, while the loan purpose, duration, and amount provided small positive influences.",13.16,10.89,2.26
+8,0,"The model predicts this applicant as a 'bad' credit risk mainly because they are applying for a relatively long loan duration (72 months), which has the largest negative impact on the prediction.",23.08,13.54,9.54
+8,1,"The applicant's young age (24 years old) and having only a moderate checking account status also contribute negatively, though to a lesser extent.",18.22,13.54,4.67
+8,2,"On the other hand, the purpose of the loan (for radio/TV) and owning their housing provide small positive contributions, but these are not enough to outweigh the negative factors.",16.9,13.54,3.36
+9,0,The model predicts the applicant's credit risk by considering several factors.,15.64,13.04,2.6
+9,1,The applicant's age of 54 increases the likelihood of being classified as a good credit risk.,20.12,13.04,7.08
+9,2,Having 'free' housing slightly decreases this likelihood.,11.66,13.04,-1.38
+9,3,Requesting a credit amount of 1597 also contributes positively to the prediction.,14.78,13.04,1.74
+9,4,"However, applying for a loan with the purpose of 'education' slightly reduces the chance of being seen as a good credit risk.",20.15,13.04,7.11
+9,5,"Lastly, having 'little' in the checking account provides a small positive contribution to the prediction.",13.46,13.04,0.42
+10,0,The model predicts the applicant's credit risk based on several factors.,12.5,11.28,1.22
+10,1,"The amount of credit requested (3190) had the largest positive influence on the prediction, making it more likely the applicant is considered a good credit risk.",17.94,11.28,6.66
+10,2,The purpose of the loan being for radio/TV also contributed positively.,10.61,11.28,-0.67
+10,3,"The applicant's age (24) had a small negative effect, slightly decreasing the likelihood of being classified as a good credit risk.",16.96,11.28,5.68
+10,4,"Owning their housing had a modest positive impact, while the loan duration of 18 months contributed a small positive effect as well.",11.65,11.28,0.38
+11,0,The model predicts the applicant's credit risk based on several factors.,23.32,14.82,8.5
+11,1,The fact that the loan is for radio/TV purposes and that the applicant requested a credit amount of 2831 both contribute positively to being classified as a good credit risk.,19.42,14.82,4.6
+11,2,"However, the loan's duration of 30 months and the applicant being female slightly decrease the likelihood of being considered a good credit risk.",25.12,14.82,10.29
+11,3,"Additionally, owning housing has a small positive effect on the prediction.",14.97,14.82,0.15
+12,0,"The model predicts this applicant as a 'good' credit risk mainly because the loan duration is 8 months, which strongly increases the likelihood of a good outcome.",19.4,13.35,6.05
+12,1,The applicant's age of 47 also contributes positively to the prediction.,18.01,13.35,4.66
+12,2,"On the other hand, applying for a car loan and requesting a credit amount of 731 slightly decrease the chances of being classified as a good credit risk.",17.13,13.35,3.78
+12,3,"Finally, owning their housing has a small positive effect on the prediction.",13.97,13.35,0.62
+13,0,"The model predicts this applicant as a 'good' credit risk mainly because they requested a moderate credit amount, which contributed positively to the prediction.",22.03,13.89,8.14
+13,1,"Additionally, the loan duration, owning their housing, and being male also contributed positively, though to a lesser extent.",18.03,13.89,4.14
+13,2,The purpose of the loan being for education had a small negative impact on the prediction.,18.59,13.89,4.7
+13,3,"Overall, the positive factors outweighed the negative, leading to a favorable assessment.",18.81,13.89,4.92
+14,0,"The model's prediction was most strongly influenced by the duration of the loan, with a longer loan duration (42 months) decreasing the likelihood of being classified as a good credit risk.",36.54,15.06,21.47
+14,1,"The purpose of the loan being for radio/TV, the applicant's age (34), the requested credit amount (3965), and owning their housing each contributed slightly to increasing the likelihood of being considered a good credit risk.",14.73,15.06,-0.33
+14,2,"Overall, the longer loan duration had the largest negative impact on the prediction.",16.63,15.06,1.57
+15,0,"The model's prediction was most strongly influenced by the applicant requesting a relatively high credit amount, which increased the likelihood of being classified as a 'bad' credit risk.",29.29,14.16,15.12
+15,1,The purpose of the loan being for radio/TV and the applicant owning their housing also contributed slightly towards a 'bad' credit risk classification.,13.21,14.16,-0.95
+15,2,"However, having a moderate checking account status and being 29 years old both slightly decreased the likelihood of being classified as a 'bad' credit risk.",22.05,14.16,7.89
+16,0,The model considered several factors in making its prediction.,24.53,21.25,3.28
+16,1,The applicant's age of 23 slightly decreased their credit risk score.,27.69,21.25,6.44
+16,2,"Taking a loan for the purpose of radio/TV purchases increased the score, as did the loan duration of 13 months.",28.94,21.25,7.69
+16,3,"Having a moderate checking account status slightly reduced the score, while owning their housing contributed positively.",20.7,21.25,-0.56
+16,4,"Overall, these features combined to influence the model's assessment of the applicant's credit risk.",28.5,21.25,7.24
+17,0,"The model predicts this applicant as a 'good' credit risk mainly because of their age (47 years old), which contributes positively to the prediction.",19.27,13.16,6.11
+17,1,The amount of credit requested (1393) and the loan duration (12 months) also add to the likelihood of being considered a good risk.,19.48,13.16,6.33
+17,2,"Additionally, owning their housing further supports this positive assessment.",11.87,13.16,-1.28
+17,3,"However, the purpose of the loan being for education slightly decreases the probability of being classified as a good credit risk.",18.16,13.16,5.0
+18,0,The model predicts the applicant's credit risk by considering several factors.,13.68,11.65,2.03
+18,1,The applicant's age of 35 contributes positively to being classified as a good credit risk.,16.11,11.65,4.46
+18,2,"Owning their housing and having a moderate amount in saving accounts also support a good credit risk classification, though to a lesser extent.",10.66,11.65,-0.99
+18,3,Being male has a small positive influence.,11.91,11.65,0.26
+18,4,"However, applying for a loan with the purpose of buying a car slightly decreases the likelihood of being considered a good credit risk.",18.14,11.65,6.5
+19,0,"The model's prediction was most strongly influenced by the duration of the loan, with a loan term of 9 months increasing the likelihood of being classified as a good credit risk.",16.58,8.44,8.13
+19,1,The applicant's age of 41 also contributed positively to the prediction.,10.92,8.44,2.47
+19,2,"On the other hand, applying for a loan for education, requesting a credit amount of 1244, and being female each slightly decreased the likelihood of being classified as a good credit risk, but their effects were smaller compared to the positive contributions from loan duration and age.",14.26,8.44,5.82
+20,0,The model's prediction was influenced by several factors.,8.58,7.47,1.12
+20,1,"The applicant's age of 24 and their housing status as 'rent' both contributed negatively to the credit risk assessment, making them more likely to be classified as a 'bad' credit risk.",15.14,7.47,7.68
+20,2,"The requested credit amount of 3021 and the applicant's gender (male) contributed positively, slightly improving their credit risk profile.",9.92,7.47,2.45
+20,3,"However, the loan duration of 24 months had a small negative impact on the prediction.",8.79,7.47,1.32
+20,4,"Overall, the negative contributions from age and housing status outweighed the positive effects of credit amount and gender.",9.21,7.47,1.75
+21,0,"The model's prediction was most strongly influenced by the amount of credit requested, which increased the likelihood of being classified as a 'bad' credit risk.",18.53,9.27,9.26
+21,1,The applicant's young age also contributed to a higher risk classification.,9.72,9.27,0.45
+21,2,"Additionally, renting rather than owning a home, the loan's duration, and the applicant's gender (female) each had smaller negative impacts on the prediction, making the applicant more likely to be considered a 'bad' credit risk.",16.29,9.27,7.02
+22,0,The model's prediction was influenced by several factors.,16.66,11.2,5.47
+22,1,The applicant's loan duration of 48 months decreased the likelihood of being classified as a good credit risk.,16.76,11.2,5.56
+22,2,The applicant's age of 35 years slightly increased their chances of being seen as a good credit risk.,15.83,11.2,4.63
+22,3,Having 'free' housing status reduced the likelihood of a good credit classification.,10.26,11.2,-0.94
+22,4,"Requesting a credit amount of 8,858 also contributed negatively to the prediction.",10.66,11.2,-0.54
+22,5,"Lastly, applying for a loan with the purpose of buying a car had a small negative impact on the assessment.",13.5,11.2,2.31
+23,0,The model's prediction was influenced by several factors.,24.44,18.55,5.9
+23,1,"The applicant requested a credit amount of 701, which decreased their likelihood of being classified as a good credit risk.",27.96,18.55,9.41
+23,2,Applying for a loan with the purpose of education also slightly reduced their chances.,20.84,18.55,2.29
+23,3,"Being male contributed positively, albeit modestly, to the prediction.",21.76,18.55,3.22
+23,4,"Having little in their saving accounts slightly decreased their likelihood of being seen as a good credit risk, while owning their housing provided a small positive contribution.",22.91,18.55,4.36
+24,0,"The model's prediction was most strongly influenced by the amount of credit requested, with a higher requested amount increasing the likelihood of being classified as a 'bad' credit risk.",15.65,8.66,6.99
+24,1,"The applicant's age also contributed to the prediction, with being 38 years old slightly increasing the risk.",9.76,8.66,1.1
+24,2,Owning a home had a small positive effect on the risk assessment.,9.28,8.66,0.62
+24,3,"On the other hand, applying for a car loan and being highly skilled in their job both slightly decreased the likelihood of being considered a 'bad' credit risk.",10.99,8.66,2.33
+25,0,"The model's prediction was most positively influenced by the applicant's age of 55, which increased the likelihood of being classified as a good credit risk.",23.9,11.78,12.12
+25,1,The fact that the applicant's housing status is 'free' and the requested credit amount of 1190 both slightly decreased the likelihood of a good credit risk classification.,14.68,11.78,2.91
+25,2,"The purpose of the loan being 'repairs' had a small positive effect, while the loan duration of 18 months had a minor negative impact on the prediction.",17.1,11.78,5.32
+26,0,"The model's prediction was most influenced by the purpose of the loan, with loans for radio/TV purchases contributing positively to the applicant being classified as a good credit risk.",29.58,16.18,13.4
+26,1,"The applicant's age of 33 years also contributed positively, as did their housing status of owning their home.",24.04,16.18,7.86
+26,2,"Additionally, being male and the loan duration of 18 months both had smaller positive impacts on the prediction.",19.58,16.18,3.4
+27,0,"The model's prediction was most strongly influenced by the amount of credit requested, which increased the likelihood of being classified as a 'good' credit risk.",17.31,9.47,7.84
+27,1,Being female and being 26 years old both slightly decreased the likelihood of a 'good' credit risk classification.,12.4,9.47,2.93
+27,2,Owning a home and having a 'rich' checking account status both contributed modestly to increasing the likelihood of being considered a 'good' credit risk.,11.33,9.47,1.86
+28,0,The model predicts the applicant's credit risk by considering several factors.,18.21,14.46,3.76
+28,1,The fact that the loan is for radio/TV purposes increases the likelihood of being classified as a good credit risk.,20.06,14.46,5.61
+28,2,Requesting a credit amount of 1453 also contributes positively to the prediction.,14.6,14.46,0.14
+28,3,Owning a home further supports a good credit risk classification.,15.46,14.46,1.0
+28,4,"However, being female slightly decreases the likelihood of being seen as a good credit risk.",19.49,14.46,5.03
+28,5,Having little in the checking account provides a small positive contribution to the prediction.,14.58,14.46,0.12
+29,0,"The model's prediction was most influenced by the amount of credit requested, with a higher amount (1823) increasing the likelihood of the predicted outcome.",40.65,21.07,19.58
+29,1,"The purpose of the loan, specifically for radio/TV, also contributed to the prediction.",20.84,21.07,-0.23
+29,2,"Additionally, the applicant's checking account status being 'little', their housing status as 'own', and their gender being male each played a smaller but notable role in shaping the model's decision.",28.93,21.07,7.86

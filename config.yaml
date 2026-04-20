@@ -1,0 +1,131 @@
+DATASET_FOLDER: "data/datasets"
+SHAP_RESULTS_FOLDER: "data/SHAP_results"
+LLM_INPUTS_FOLDER: "data/llm_inputs"
+LLM_OUTPUTS_FOLDER: "data/llm_outputs"
+TEMPLATE_INPUTS_FOLDER: "data/template_inputs"
+TEMPLATE_OUTPUTS_FOLDER: "data/template_outputs"
+SUMMARY_FOLDER: "summary"
+RESULTS: "results"
+TOP_FEATURES: 5
+N_SENTENCES: 5
+INSTANCE_LIMIT: 30  # Set to limit the number of instances processed
+MODEL: "gpt-4.1"
+TEMPERATURE: 0.0
+NUCLEUS_TOP_P: 0.95
+MODEL_PPL: "meta-llama/Llama-3.1-8B" # alternatively Llama-3.2-3B, or Llama-3.1-8B
+ONE_SENTENCE_EXPLAINATION_METHODS: ["explingo", "talktomodel"] # to exclude from continuity shuffled PPL variants, that require multiple sentences
+
+
+DATASETS_INFO:
+  compas:
+    filename: "compas.csv"
+    target: "y"
+    drop_cols: ["id", "man"]
+    encode_cols: []
+  diabetes:
+    filename: "diabetes.csv"
+    target: "y"
+    drop_cols: []
+    encode_cols: []
+  fifa:
+    filename: "fifa.csv"
+    target: "Man of the Match"
+    drop_cols: ["Date"]
+    encode_cols: ["Team", "Opponent", "Round", "PSO"]
+  german_credit:
+    filename: "german_credit.csv"
+    target: "Risk"
+    drop_cols: []
+    encode_cols: ["Sex", "Housing", "Saving accounts", "Checking account", "Purpose"]
+  student:
+    filename: "student.csv"
+    target: "G3_binary"
+    drop_cols: ["G3"]
+    encode_cols:
+      - school
+      - Pstatus
+      - sex
+      - address
+      - famsize
+      - Medu
+      - Fedu
+      - Mjob
+      - Fjob
+      - reason
+      - guardian
+      - schoolsup
+      - famsup
+      - paid
+      - activities
+      - nursery
+      - higher
+      - internet
+      - romantic
+  stroke:
+    filename: "stroke.csv"
+    target: "stroke"
+    drop_cols: ["id"]
+    encode_cols:
+      - gender
+      - ever_married
+      - work_type
+      - Residence_type
+      - smoking_status
+
+TARGET_MAPPINGS:
+  compas:
+    0: "Not predicted to recidivate"
+    1: "Predicted to recidivate"
+  diabetes:
+    0: "Not predicted to have diabetes"
+    1: "Predicted to have diabetes"
+  fifa:
+    0: "Not predicted to get a Man of the Match award"
+    1: "Predicted to get a Man of the Match award"
+  german_credit:
+    0: "Predicted good credit risk"
+    1: "Predicted bad credit risk"
+  student:
+    0: "Predicted to fail"
+    1: "Predicted to pass"
+  stroke:
+    0: "Not predicted to have a stroke"
+    1: "Predicted to have a stroke"
+
+FIXED_HP:
+  compas:
+    max_depth: 7
+    max_features: "sqrt"
+    min_samples_leaf: 8
+    min_samples_split: 2
+    n_estimators: 150
+  diabetes:
+    max_depth: 5
+    max_features: "log2"
+    min_samples_leaf: 10
+    min_samples_split: 2
+    n_estimators: 150
+  fifa:
+    max_depth: 2
+    max_features: null
+    min_samples_leaf: 3
+    min_samples_split: 2
+    n_estimators: 2
+  german_credit:
+    max_depth: null
+    max_features: "sqrt"
+    min_samples_leaf: 6
+    min_samples_split: 13
+    n_estimators: 100
+  stroke:
+    max_depth: 2
+    max_features: null
+    min_samples_leaf: 8
+    min_samples_split: 2
+    n_estimators: 100
+  student:
+    max_depth: null
+    max_features: "sqrt"
+    min_samples_leaf: 1
+    min_samples_split: 2
+    n_estimators: 150

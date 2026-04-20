@@ -1,0 +1,1292 @@
+[
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": 0.3089,
+                "feature_value": 78.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0031,
+                "feature_value": 93.85,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": -0.0013,
+                "feature_value": 22.7,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0001,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Male",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.048,
+                "feature_value": 51.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0029,
+                "feature_value": 98.41,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": 0.0025,
+                "feature_value": 32.1,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0001,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Male",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.3793,
+                "feature_value": 39.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0063,
+                "feature_value": 89.32,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": 0.0053,
+                "feature_value": 31.0,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0003,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.0391,
+                "feature_value": 52.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0029,
+                "feature_value": 101.3,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": 0.0025,
+                "feature_value": 33.1,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0001,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": 0.0927,
+                "feature_value": 64.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0031,
+                "feature_value": 90.07,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": 0.0014,
+                "feature_value": 28.6,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0001,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Male",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.441,
+                "feature_value": 8.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": -0.0076,
+                "feature_value": 18.4,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0005,
+                "feature_value": 65.32,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0003,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.441,
+                "feature_value": 9.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": -0.0076,
+                "feature_value": 16.3,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0005,
+                "feature_value": 66.11,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0003,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Male",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.4427,
+                "feature_value": 17.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": -0.0076,
+                "feature_value": 19.5,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.004,
+                "feature_value": 81.51,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0003,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": 0.2485,
+                "feature_value": 70.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0016,
+                "feature_value": 69.04,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": 0.0014,
+                "feature_value": 35.9,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0001,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.4452,
+                "feature_value": 8.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": -0.0076,
+                "feature_value": 16.1,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0051,
+                "feature_value": 118.66,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0003,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Male",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.441,
+                "feature_value": 6.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": -0.0076,
+                "feature_value": 20.3,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0005,
+                "feature_value": 70.78,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0003,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Male",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.0343,
+                "feature_value": 53.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0027,
+                "feature_value": 94.78,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": 0.0025,
+                "feature_value": 30.1,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0001,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.3793,
+                "feature_value": 41.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0063,
+                "feature_value": 92.49,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": 0.0053,
+                "feature_value": 41.6,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0003,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Male",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.4427,
+                "feature_value": 9.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": -0.0076,
+                "feature_value": 20.0,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.004,
+                "feature_value": 81.18,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0003,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.3479,
+                "feature_value": 39.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": 0.0548,
+                "feature_value": 55.28,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": 0.0053,
+                "feature_value": 31.5,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0003,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.2562,
+                "feature_value": 46.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": 0.0053,
+                "feature_value": 29.3,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0046,
+                "feature_value": 137.77,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0001,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Male",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.4421,
+                "feature_value": 36.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0063,
+                "feature_value": 100.33,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": -0.0054,
+                "feature_value": 23.2,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0003,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.2528,
+                "feature_value": 46.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": 0.0053,
+                "feature_value": 28.3,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0007,
+                "feature_value": 59.05,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0001,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Male",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.4452,
+                "feature_value": 5.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": -0.0076,
+                "feature_value": 18.4,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0051,
+                "feature_value": 163.7,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0003,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Male",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.444,
+                "feature_value": 5.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": -0.0076,
+                "feature_value": 16.3,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0063,
+                "feature_value": 93.03,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0003,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": 0.2479,
+                "feature_value": 68.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0031,
+                "feature_value": 85.29,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": -0.0011,
+                "feature_value": 27.1,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0001,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": 0.3044,
+                "feature_value": 79.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0031,
+                "feature_value": 92.43,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": 0.0017,
+                "feature_value": "Yes",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": 0.0014,
+                "feature_value": 28.1,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.4447,
+                "feature_value": 8.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": -0.0076,
+                "feature_value": 14.6,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0056,
+                "feature_value": 108.06,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0003,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Male",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.0347,
+                "feature_value": 53.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": 0.0025,
+                "feature_value": 29.9,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0023,
+                "feature_value": 83.41,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0001,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.4428,
+                "feature_value": 23.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": -0.0044,
+                "feature_value": 25.6,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0005,
+                "feature_value": 63.73,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0003,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.38,
+                "feature_value": 38.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0056,
+                "feature_value": 108.68,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": 0.0053,
+                "feature_value": 32.7,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0003,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Male",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.4458,
+                "feature_value": 9.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0063,
+                "feature_value": 83.83,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": -0.0044,
+                "feature_value": 27.1,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0003,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Male",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.4411,
+                "feature_value": 28.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0063,
+                "feature_value": 87.92,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": 0.0053,
+                "feature_value": 32.5,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0003,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Not predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.2545,
+                "feature_value": 46.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0058,
+                "feature_value": 85.62,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": 0.0053,
+                "feature_value": 33.1,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": 0.0038,
+                "feature_value": "Yes",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Male",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    },
+    {
+        "task_description": "The taks was to predict a risk of stroke for individuals based on their health records.",
+        "predicted_class": "Predicted to have a stroke",
+        "dataset_description": "This dataset contains patient demographic and health information, including lifestyle and medical history factors. ",
+        "target_description": "A patient whose health and lifestyle factors are used to predict stroke risk.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": 0.0207,
+                "feature_value": 54.0,
+                "feature_average": 36.27,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "bmi",
+                "feature_importance": 0.002,
+                "feature_value": 28.7,
+                "feature_average": 26.4,
+                "feature_description": "Body Mass Index"
+            },
+            {
+                "feature_name": "avg_glucose_level",
+                "feature_importance": -0.0016,
+                "feature_value": 75.52,
+                "feature_average": 89.88,
+                "feature_description": "Average glucose level"
+            },
+            {
+                "feature_name": "hypertension",
+                "feature_importance": -0.0001,
+                "feature_value": "No",
+                "feature_average": "N/A",
+                "feature_description": "Indicator if the patient has hypertension"
+            },
+            {
+                "feature_name": "gender",
+                "feature_importance": 0.0,
+                "feature_value": "Female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the patient"
+            }
+        ]
+    }
+]

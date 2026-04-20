@@ -1,0 +1,1292 @@
+[
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.1131,
+                "feature_value": "53",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "Glucose",
+                "feature_importance": 0.0922,
+                "feature_value": "145",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": 0.0385,
+                "feature_value": 30.3,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "DiabetesPedigreeFunction",
+                "feature_importance": 0.0366,
+                "feature_value": 0.771,
+                "feature_average": 0.5,
+                "feature_description": "Diabetes pedigree function"
+            },
+            {
+                "feature_name": "Insulin",
+                "feature_importance": 0.0304,
+                "feature_value": "165",
+                "feature_average": 67.63,
+                "feature_description": "2-Hour serum insulin (mu U/ml)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Not predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.2879,
+                "feature_value": "89",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.078,
+                "feature_value": "38",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "Insulin",
+                "feature_importance": -0.0392,
+                "feature_value": "85",
+                "feature_average": 67.63,
+                "feature_description": "2-Hour serum insulin (mu U/ml)"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": 0.0267,
+                "feature_value": 30.4,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "SkinThickness",
+                "feature_importance": -0.0209,
+                "feature_value": "16",
+                "feature_average": 19.83,
+                "feature_description": "Triceps skin fold thickness (mm)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Not predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.1972,
+                "feature_value": "88",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.1267,
+                "feature_value": "22",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": -0.0774,
+                "feature_value": 28.4,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "DiabetesPedigreeFunction",
+                "feature_importance": 0.0466,
+                "feature_value": 0.766,
+                "feature_average": 0.5,
+                "feature_description": "Diabetes pedigree function"
+            },
+            {
+                "feature_name": "Pregnancies",
+                "feature_importance": -0.0266,
+                "feature_value": "2",
+                "feature_average": 3.67,
+                "feature_description": "Number of pregnancies"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Not predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.201,
+                "feature_value": "95",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.1357,
+                "feature_value": "24",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": 0.0667,
+                "feature_value": 37.4,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "Insulin",
+                "feature_importance": -0.033,
+                "feature_value": "36",
+                "feature_average": 67.63,
+                "feature_description": "2-Hour serum insulin (mu U/ml)"
+            },
+            {
+                "feature_name": "DiabetesPedigreeFunction",
+                "feature_importance": -0.0263,
+                "feature_value": 0.247,
+                "feature_average": 0.5,
+                "feature_description": "Diabetes pedigree function"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "BMI",
+                "feature_importance": 0.0682,
+                "feature_value": 33.3,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.0554,
+                "feature_value": "28",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "DiabetesPedigreeFunction",
+                "feature_importance": 0.0498,
+                "feature_value": 0.962,
+                "feature_average": 0.5,
+                "feature_description": "Diabetes pedigree function"
+            },
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.0392,
+                "feature_value": "125",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "Pregnancies",
+                "feature_importance": -0.0229,
+                "feature_value": "1",
+                "feature_average": 3.67,
+                "feature_description": "Number of pregnancies"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Not predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.1585,
+                "feature_value": "21",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": 0.0805,
+                "feature_value": 35.8,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.04,
+                "feature_value": "124",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "Pregnancies",
+                "feature_importance": -0.0221,
+                "feature_value": "1",
+                "feature_average": 3.67,
+                "feature_description": "Number of pregnancies"
+            },
+            {
+                "feature_name": "Insulin",
+                "feature_importance": 0.0162,
+                "feature_value": "0",
+                "feature_average": 67.63,
+                "feature_description": "2-Hour serum insulin (mu U/ml)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Glucose",
+                "feature_importance": 0.1174,
+                "feature_value": "146",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": 0.0826,
+                "feature_value": 38.5,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.0686,
+                "feature_value": "67",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "DiabetesPedigreeFunction",
+                "feature_importance": 0.0162,
+                "feature_value": 0.52,
+                "feature_average": 0.5,
+                "feature_description": "Diabetes pedigree function"
+            },
+            {
+                "feature_name": "BloodPressure",
+                "feature_importance": -0.0132,
+                "feature_value": "78",
+                "feature_average": 64.33,
+                "feature_description": "Diastolic blood pressure (mm Hg)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Not predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.2409,
+                "feature_value": "87",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.0644,
+                "feature_value": "25",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": 0.0463,
+                "feature_value": 32.7,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "DiabetesPedigreeFunction",
+                "feature_importance": -0.0443,
+                "feature_value": 0.166,
+                "feature_average": 0.5,
+                "feature_description": "Diabetes pedigree function"
+            },
+            {
+                "feature_name": "Insulin",
+                "feature_importance": -0.0353,
+                "feature_value": "52",
+                "feature_average": 67.63,
+                "feature_description": "2-Hour serum insulin (mu U/ml)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Not predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.207,
+                "feature_value": "95",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": 0.0711,
+                "feature_value": 37.7,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.0699,
+                "feature_value": "27",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "Pregnancies",
+                "feature_importance": 0.0135,
+                "feature_value": "5",
+                "feature_average": 3.67,
+                "feature_description": "Number of pregnancies"
+            },
+            {
+                "feature_name": "SkinThickness",
+                "feature_importance": 0.0079,
+                "feature_value": "33",
+                "feature_average": 19.83,
+                "feature_description": "Triceps skin fold thickness (mm)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Not predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "BMI",
+                "feature_importance": -0.195,
+                "feature_value": 25.6,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "Glucose",
+                "feature_importance": 0.1027,
+                "feature_value": "139",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "DiabetesPedigreeFunction",
+                "feature_importance": -0.0497,
+                "feature_value": 0.167,
+                "feature_average": 0.5,
+                "feature_description": "Diabetes pedigree function"
+            },
+            {
+                "feature_name": "Pregnancies",
+                "feature_importance": -0.0153,
+                "feature_value": "2",
+                "feature_average": 3.67,
+                "feature_description": "Number of pregnancies"
+            },
+            {
+                "feature_name": "BloodPressure",
+                "feature_importance": -0.0105,
+                "feature_value": "75",
+                "feature_average": 64.33,
+                "feature_description": "Diastolic blood pressure (mm Hg)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.1051,
+                "feature_value": "42",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.0944,
+                "feature_value": "106",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": 0.0637,
+                "feature_value": 31.2,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "Pregnancies",
+                "feature_importance": 0.0342,
+                "feature_value": "9",
+                "feature_average": 3.67,
+                "feature_description": "Number of pregnancies"
+            },
+            {
+                "feature_name": "BloodPressure",
+                "feature_importance": 0.0085,
+                "feature_value": "52",
+                "feature_average": 64.33,
+                "feature_description": "Diastolic blood pressure (mm Hg)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Glucose",
+                "feature_importance": 0.1246,
+                "feature_value": "148",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "DiabetesPedigreeFunction",
+                "feature_importance": -0.0634,
+                "feature_value": 0.15,
+                "feature_average": 0.5,
+                "feature_description": "Diabetes pedigree function"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": 0.0318,
+                "feature_value": 30.9,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "Insulin",
+                "feature_importance": 0.0107,
+                "feature_value": "318",
+                "feature_average": 67.63,
+                "feature_description": "2-Hour serum insulin (mu U/ml)"
+            },
+            {
+                "feature_name": "BloodPressure",
+                "feature_importance": 0.0088,
+                "feature_value": "60",
+                "feature_average": 64.33,
+                "feature_description": "Diastolic blood pressure (mm Hg)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "BMI",
+                "feature_importance": 0.0675,
+                "feature_value": 32.9,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "DiabetesPedigreeFunction",
+                "feature_importance": 0.0533,
+                "feature_value": 0.875,
+                "feature_average": 0.5,
+                "feature_description": "Diabetes pedigree function"
+            },
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.033,
+                "feature_value": "124",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.0231,
+                "feature_value": "30",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "Pregnancies",
+                "feature_importance": -0.0202,
+                "feature_value": "2",
+                "feature_average": 3.67,
+                "feature_description": "Number of pregnancies"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.1094,
+                "feature_value": "104",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.0883,
+                "feature_value": "38",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": 0.0689,
+                "feature_value": 31.2,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "Pregnancies",
+                "feature_importance": 0.029,
+                "feature_value": "13",
+                "feature_average": 3.67,
+                "feature_description": "Number of pregnancies"
+            },
+            {
+                "feature_name": "BloodPressure",
+                "feature_importance": 0.0018,
+                "feature_value": "72",
+                "feature_average": 64.33,
+                "feature_description": "Diastolic blood pressure (mm Hg)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.1058,
+                "feature_value": "45",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.1038,
+                "feature_value": "106",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "DiabetesPedigreeFunction",
+                "feature_importance": -0.0736,
+                "feature_value": 0.178,
+                "feature_average": 0.5,
+                "feature_description": "Diabetes pedigree function"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": 0.063,
+                "feature_value": 36.6,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "Pregnancies",
+                "feature_importance": 0.0324,
+                "feature_value": "13",
+                "feature_average": 3.67,
+                "feature_description": "Number of pregnancies"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Not predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "BMI",
+                "feature_importance": -0.1673,
+                "feature_value": 19.5,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.152,
+                "feature_value": "100",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.0409,
+                "feature_value": "28",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "DiabetesPedigreeFunction",
+                "feature_importance": -0.0347,
+                "feature_value": 0.149,
+                "feature_average": 0.5,
+                "feature_description": "Diabetes pedigree function"
+            },
+            {
+                "feature_name": "Insulin",
+                "feature_importance": -0.024,
+                "feature_value": "46",
+                "feature_average": 67.63,
+                "feature_description": "2-Hour serum insulin (mu U/ml)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Not predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "BMI",
+                "feature_importance": -0.1928,
+                "feature_value": 0.0,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.11,
+                "feature_value": "105",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.1012,
+                "feature_value": "24",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "Pregnancies",
+                "feature_importance": 0.0449,
+                "feature_value": "7",
+                "feature_average": 3.67,
+                "feature_description": "Number of pregnancies"
+            },
+            {
+                "feature_name": "DiabetesPedigreeFunction",
+                "feature_importance": -0.0191,
+                "feature_value": 0.305,
+                "feature_average": 0.5,
+                "feature_description": "Diabetes pedigree function"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.0886,
+                "feature_value": "38",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": 0.0804,
+                "feature_value": 39.4,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.0559,
+                "feature_value": "112",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "DiabetesPedigreeFunction",
+                "feature_importance": -0.038,
+                "feature_value": 0.236,
+                "feature_average": 0.5,
+                "feature_description": "Diabetes pedigree function"
+            },
+            {
+                "feature_name": "BloodPressure",
+                "feature_importance": -0.0086,
+                "feature_value": "78",
+                "feature_average": 64.33,
+                "feature_description": "Diastolic blood pressure (mm Hg)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Glucose",
+                "feature_importance": 0.1016,
+                "feature_value": "135",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": 0.0885,
+                "feature_value": 40.6,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.0679,
+                "feature_value": "26",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "DiabetesPedigreeFunction",
+                "feature_importance": -0.03,
+                "feature_value": 0.284,
+                "feature_average": 0.5,
+                "feature_description": "Diabetes pedigree function"
+            },
+            {
+                "feature_name": "SkinThickness",
+                "feature_importance": 0.0167,
+                "feature_value": "46",
+                "feature_average": 19.83,
+                "feature_description": "Triceps skin fold thickness (mm)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Not predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "BMI",
+                "feature_importance": -0.219,
+                "feature_value": 24.7,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.175,
+                "feature_value": "96",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.0561,
+                "feature_value": "39",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "DiabetesPedigreeFunction",
+                "feature_importance": 0.0392,
+                "feature_value": 0.944,
+                "feature_average": 0.5,
+                "feature_description": "Diabetes pedigree function"
+            },
+            {
+                "feature_name": "SkinThickness",
+                "feature_importance": 0.0149,
+                "feature_value": "34",
+                "feature_average": 19.83,
+                "feature_description": "Triceps skin fold thickness (mm)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Not predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "BMI",
+                "feature_importance": -0.2138,
+                "feature_value": 18.4,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.1344,
+                "feature_value": "104",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.0625,
+                "feature_value": "27",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "Pregnancies",
+                "feature_importance": -0.0256,
+                "feature_value": "0",
+                "feature_average": 3.67,
+                "feature_description": "Number of pregnancies"
+            },
+            {
+                "feature_name": "DiabetesPedigreeFunction",
+                "feature_importance": 0.0131,
+                "feature_value": 0.582,
+                "feature_average": 0.5,
+                "feature_description": "Diabetes pedigree function"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Not predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.2433,
+                "feature_value": "93",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": 0.0731,
+                "feature_value": 35.3,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.0624,
+                "feature_value": "25",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "DiabetesPedigreeFunction",
+                "feature_importance": -0.0221,
+                "feature_value": 0.263,
+                "feature_average": 0.5,
+                "feature_description": "Diabetes pedigree function"
+            },
+            {
+                "feature_name": "Pregnancies",
+                "feature_importance": -0.0178,
+                "feature_value": "0",
+                "feature_average": 3.67,
+                "feature_description": "Number of pregnancies"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Glucose",
+                "feature_importance": 0.1922,
+                "feature_value": "173",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": 0.0866,
+                "feature_value": 46.5,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.0814,
+                "feature_value": "58",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "DiabetesPedigreeFunction",
+                "feature_importance": 0.0288,
+                "feature_value": 1.159,
+                "feature_average": 0.5,
+                "feature_description": "Diabetes pedigree function"
+            },
+            {
+                "feature_name": "Insulin",
+                "feature_importance": 0.0167,
+                "feature_value": "265",
+                "feature_average": 67.63,
+                "feature_description": "2-Hour serum insulin (mu U/ml)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Not predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.2793,
+                "feature_value": "62",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.0692,
+                "feature_value": "41",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": 0.0485,
+                "feature_value": 32.6,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "Pregnancies",
+                "feature_importance": 0.0291,
+                "feature_value": "7",
+                "feature_average": 3.67,
+                "feature_description": "Number of pregnancies"
+            },
+            {
+                "feature_name": "Insulin",
+                "feature_importance": -0.01,
+                "feature_value": "0",
+                "feature_average": 67.63,
+                "feature_description": "2-Hour serum insulin (mu U/ml)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Not predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.1742,
+                "feature_value": "97",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.1497,
+                "feature_value": "22",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": -0.0828,
+                "feature_value": 28.2,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "SkinThickness",
+                "feature_importance": -0.0177,
+                "feature_value": "23",
+                "feature_average": 19.83,
+                "feature_description": "Triceps skin fold thickness (mm)"
+            },
+            {
+                "feature_name": "Pregnancies",
+                "feature_importance": 0.0048,
+                "feature_value": "4",
+                "feature_average": 3.67,
+                "feature_description": "Number of pregnancies"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Not predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.1501,
+                "feature_value": "21",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.1009,
+                "feature_value": "108",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "DiabetesPedigreeFunction",
+                "feature_importance": -0.0461,
+                "feature_value": 0.158,
+                "feature_average": 0.5,
+                "feature_description": "Diabetes pedigree function"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": 0.0311,
+                "feature_value": 30.8,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "Pregnancies",
+                "feature_importance": -0.027,
+                "feature_value": "2",
+                "feature_average": 3.67,
+                "feature_description": "Number of pregnancies"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Not predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.1833,
+                "feature_value": "71",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": -0.1475,
+                "feature_value": 20.4,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.0942,
+                "feature_value": "22",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "Pregnancies",
+                "feature_importance": -0.0217,
+                "feature_value": "1",
+                "feature_average": 3.67,
+                "feature_description": "Number of pregnancies"
+            },
+            {
+                "feature_name": "Insulin",
+                "feature_importance": -0.0189,
+                "feature_value": "76",
+                "feature_average": 67.63,
+                "feature_description": "2-Hour serum insulin (mu U/ml)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Glucose",
+                "feature_importance": 0.1406,
+                "feature_value": "155",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.099,
+                "feature_value": "51",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": 0.0593,
+                "feature_value": 33.3,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "DiabetesPedigreeFunction",
+                "feature_importance": 0.0394,
+                "feature_value": 1.353,
+                "feature_average": 0.5,
+                "feature_description": "Diabetes pedigree function"
+            },
+            {
+                "feature_name": "Insulin",
+                "feature_importance": 0.0283,
+                "feature_value": "150",
+                "feature_average": 67.63,
+                "feature_description": "2-Hour serum insulin (mu U/ml)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Not predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.1902,
+                "feature_value": "22",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.0914,
+                "feature_value": "117",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "Pregnancies",
+                "feature_importance": -0.0257,
+                "feature_value": "0",
+                "feature_average": 3.67,
+                "feature_description": "Number of pregnancies"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": 0.0221,
+                "feature_value": 30.8,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "Insulin",
+                "feature_importance": 0.008,
+                "feature_value": "188",
+                "feature_average": 67.63,
+                "feature_description": "2-Hour serum insulin (mu U/ml)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate whether the patient has diabetes.",
+        "predicted_class": "Predicted to have diabetes",
+        "dataset_description": "This dataset contains health records of patients, including clinical measures and demographic information. ",
+        "target_description": "A patient whose clinical and demographic data are used to predict diabetes risk",
+        "feature_desc": [
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.1023,
+                "feature_value": "44",
+                "feature_average": 33.53,
+                "feature_description": "Age of the patient"
+            },
+            {
+                "feature_name": "BMI",
+                "feature_importance": 0.0899,
+                "feature_value": 33.8,
+                "feature_average": 30.91,
+                "feature_description": "Body Mass Index (kg/m^2)"
+            },
+            {
+                "feature_name": "DiabetesPedigreeFunction",
+                "feature_importance": 0.042,
+                "feature_value": 0.932,
+                "feature_average": 0.5,
+                "feature_description": "Diabetes pedigree function"
+            },
+            {
+                "feature_name": "Glucose",
+                "feature_importance": -0.0354,
+                "feature_value": "117",
+                "feature_average": 112.2,
+                "feature_description": "Plasma glucose concentration"
+            },
+            {
+                "feature_name": "Pregnancies",
+                "feature_importance": -0.0161,
+                "feature_value": "0",
+                "feature_average": 3.67,
+                "feature_description": "Number of pregnancies"
+            }
+        ]
+    }
+]

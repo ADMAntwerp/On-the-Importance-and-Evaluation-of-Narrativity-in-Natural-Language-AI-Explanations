@@ -1,0 +1,2 @@
+text_id,num_sentences,distinct_2gram_ratio,ttr,verb_ratio,connectives_ratio,cumulative_ppls
+22,2,0.854167,0.574468,0.170213,0.12766,"[23.2793, 9.5535]"

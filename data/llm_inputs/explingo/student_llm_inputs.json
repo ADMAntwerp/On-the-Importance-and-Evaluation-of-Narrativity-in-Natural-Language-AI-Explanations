@@ -1,0 +1,572 @@
+[
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 9, -0.1652), (G1 (First period grade), 8, -0.1048), (absences (Number of school absences), 8, 0.0351), (goout (Frequency of going out with friends), low, 0.0287), (failures (Number of past class failures), 0, 0.0256)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(paid (Extra paid classes), yes, 0.0283), (age (Age of the student), 16, 0.0251), (goout (Frequency of going out with friends), low, 0.0223), (studytime (Weekly study time), <2 hours, 0.0172), (health (Current health status), very good, 0.0100)",
+                "The features paid (Extra paid classes), age (Age of the student), goout (Frequency of going out with friends), studytime (Weekly study time), and health (Current health status) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 6, -0.2239), (G1 (First period grade), 5, -0.1378), (Pstatus (Parent's cohabitation status), living apart, 0.0220), (absences (Number of school absences), 6, 0.0211), (Mjob (Mother's job), at_home, 0.0191)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 12, 0.2265), (G1 (First period grade), 12, 0.1424), (failures (Number of past class failures), 0, 0.0216), (absences (Number of school absences), 2, 0.0179), (goout (Frequency of going out with friends), low, 0.0160)",
+                "The features G2 (Second period grade), G1 (First period grade), failures (Number of past class failures), absences (Number of school absences), and goout (Frequency of going out with friends) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 13, 0.2363), (absences (Number of school absences), 6, 0.0407), (G1 (First period grade), 10, -0.0326), (age (Age of the student), 15, 0.0306), (failures (Number of past class failures), 0, 0.0236)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(paid (Extra paid classes), yes, 0.0283), (age (Age of the student), 16, 0.0251), (goout (Frequency of going out with friends), low, 0.0223), (studytime (Weekly study time), <2 hours, 0.0172), (health (Current health status), very good, 0.0100)",
+                "The features paid (Extra paid classes), age (Age of the student), goout (Frequency of going out with friends), studytime (Weekly study time), and health (Current health status) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 14, 0.2364), (G1 (First period grade), 15, 0.1375), (absences (Number of school absences), 2, 0.0191), (failures (Number of past class failures), 0, 0.0178), (age (Age of the student), 15, 0.0175)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(paid (Extra paid classes), yes, 0.0283), (age (Age of the student), 16, 0.0251), (goout (Frequency of going out with friends), low, 0.0223), (studytime (Weekly study time), <2 hours, 0.0172), (health (Current health status), very good, 0.0100)",
+                "The features paid (Extra paid classes), age (Age of the student), goout (Frequency of going out with friends), studytime (Weekly study time), and health (Current health status) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 8, -0.2306), (G1 (First period grade), 11, 0.1309), (paid (Extra paid classes), yes, 0.0306), (health (Current health status), very bad, 0.0295), (absences (Number of school absences), 2, 0.0168)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 12, 0.2265), (G1 (First period grade), 12, 0.1424), (failures (Number of past class failures), 0, 0.0216), (absences (Number of school absences), 2, 0.0179), (goout (Frequency of going out with friends), low, 0.0160)",
+                "The features G2 (Second period grade), G1 (First period grade), failures (Number of past class failures), absences (Number of school absences), and goout (Frequency of going out with friends) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 11, 0.2083), (G1 (First period grade), 11, 0.1222), (failures (Number of past class failures), 0, 0.0235), (absences (Number of school absences), 0, -0.0210), (reason (Reason for choosing the school), reputation, 0.0159)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(paid (Extra paid classes), yes, 0.0283), (age (Age of the student), 16, 0.0251), (goout (Frequency of going out with friends), low, 0.0223), (studytime (Weekly study time), <2 hours, 0.0172), (health (Current health status), very good, 0.0100)",
+                "The features paid (Extra paid classes), age (Age of the student), goout (Frequency of going out with friends), studytime (Weekly study time), and health (Current health status) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 13, 0.2006), (G1 (First period grade), 15, 0.1542), (absences (Number of school absences), 9, 0.0209), (failures (Number of past class failures), 0, 0.0174), (reason (Reason for choosing the school), reputation, 0.0122)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(paid (Extra paid classes), yes, 0.0283), (age (Age of the student), 16, 0.0251), (goout (Frequency of going out with friends), low, 0.0223), (studytime (Weekly study time), <2 hours, 0.0172), (health (Current health status), very good, 0.0100)",
+                "The features paid (Extra paid classes), age (Age of the student), goout (Frequency of going out with friends), studytime (Weekly study time), and health (Current health status) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 15, 0.2280), (G1 (First period grade), 16, 0.1854), (Fjob (Father's job), at_home, -0.0272), (absences (Number of school absences), 0, -0.0214), (failures (Number of past class failures), 0, 0.0209)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 12, 0.2265), (G1 (First period grade), 12, 0.1424), (failures (Number of past class failures), 0, 0.0216), (absences (Number of school absences), 2, 0.0179), (goout (Frequency of going out with friends), low, 0.0160)",
+                "The features G2 (Second period grade), G1 (First period grade), failures (Number of past class failures), absences (Number of school absences), and goout (Frequency of going out with friends) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 14, 0.2335), (G1 (First period grade), 14, 0.1546), (absences (Number of school absences), 4, 0.0289), (failures (Number of past class failures), 0, 0.0185), (paid (Extra paid classes), yes, 0.0119)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(paid (Extra paid classes), yes, 0.0283), (age (Age of the student), 16, 0.0251), (goout (Frequency of going out with friends), low, 0.0223), (studytime (Weekly study time), <2 hours, 0.0172), (health (Current health status), very good, 0.0100)",
+                "The features paid (Extra paid classes), age (Age of the student), goout (Frequency of going out with friends), studytime (Weekly study time), and health (Current health status) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 5, -0.2311), (G1 (First period grade), 6, -0.1362), (absences (Number of school absences), 7, 0.0287), (paid (Extra paid classes), yes, 0.0218), (failures (Number of past class failures), 0, 0.0208)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 12, 0.2265), (G1 (First period grade), 12, 0.1424), (failures (Number of past class failures), 0, 0.0216), (absences (Number of school absences), 2, 0.0179), (goout (Frequency of going out with friends), low, 0.0160)",
+                "The features G2 (Second period grade), G1 (First period grade), failures (Number of past class failures), absences (Number of school absences), and goout (Frequency of going out with friends) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 14, 0.2383), (G1 (First period grade), 14, 0.1676), (absences (Number of school absences), 4, 0.0225), (failures (Number of past class failures), 0, 0.0204), (age (Age of the student), 16, 0.0096)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(paid (Extra paid classes), yes, 0.0283), (age (Age of the student), 16, 0.0251), (goout (Frequency of going out with friends), low, 0.0223), (studytime (Weekly study time), <2 hours, 0.0172), (health (Current health status), very good, 0.0100)",
+                "The features paid (Extra paid classes), age (Age of the student), goout (Frequency of going out with friends), studytime (Weekly study time), and health (Current health status) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 15, 0.2283), (G1 (First period grade), 15, 0.1457), (goout (Frequency of going out with friends), very low, 0.0208), (failures (Number of past class failures), 0, 0.0186), (absences (Number of school absences), 2, 0.0165)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(paid (Extra paid classes), yes, 0.0283), (age (Age of the student), 16, 0.0251), (goout (Frequency of going out with friends), low, 0.0223), (studytime (Weekly study time), <2 hours, 0.0172), (health (Current health status), very good, 0.0100)",
+                "The features paid (Extra paid classes), age (Age of the student), goout (Frequency of going out with friends), studytime (Weekly study time), and health (Current health status) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 9, -0.1110), (G1 (First period grade), 9, -0.0677), (failures (Number of past class failures), 2, -0.0524), (Pstatus (Parent's cohabitation status), living apart, 0.0349), (age (Age of the student), 20, -0.0283)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(paid (Extra paid classes), yes, 0.0283), (age (Age of the student), 16, 0.0251), (goout (Frequency of going out with friends), low, 0.0223), (studytime (Weekly study time), <2 hours, 0.0172), (health (Current health status), very good, 0.0100)",
+                "The features paid (Extra paid classes), age (Age of the student), goout (Frequency of going out with friends), studytime (Weekly study time), and health (Current health status) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(Pstatus (Parent's cohabitation status), living apart, 0.0349), (paid (Extra paid classes), yes, 0.0257), (internet (Internet access at home), no, 0.0249), (freetime (Amount of free time after school), very high, 0.0221), (famrel (Quality of family relationships), excellent, 0.0188)",
+                "The features Pstatus (Parent's cohabitation status), paid (Extra paid classes), internet (Internet access at home), freetime (Amount of free time after school), and famrel (Quality of family relationships) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1110), (G1 (First period grade), 9, -0.0677), (failures (Number of past class failures), 2, -0.0524), (age (Age of the student), 20, -0.0283), (reason (Reason for choosing the school), course, -0.0086)",
+                "The features G2 (Second period grade), G1 (First period grade), failures (Number of past class failures), age (Age of the student), and reason (Reason for choosing the school) decrease the predicted value."
+            ],
+            [
+                "(paid (Extra paid classes), yes, 0.0283), (age (Age of the student), 16, 0.0251), (goout (Frequency of going out with friends), low, 0.0223), (studytime (Weekly study time), <2 hours, 0.0172), (health (Current health status), very good, 0.0100)",
+                "The features paid (Extra paid classes), age (Age of the student), goout (Frequency of going out with friends), studytime (Weekly study time), and health (Current health status) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 10, 0.1637), (G1 (First period grade), 12, 0.1515), (failures (Number of past class failures), 0, 0.0234), (absences (Number of school absences), 2, 0.0217), (paid (Extra paid classes), yes, 0.0201)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(paid (Extra paid classes), yes, 0.0283), (age (Age of the student), 16, 0.0251), (goout (Frequency of going out with friends), low, 0.0223), (studytime (Weekly study time), <2 hours, 0.0172), (health (Current health status), very good, 0.0100)",
+                "The features paid (Extra paid classes), age (Age of the student), goout (Frequency of going out with friends), studytime (Weekly study time), and health (Current health status) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 7, -0.2335), (G1 (First period grade), 9, -0.0787), (Medu (Mother's education level), primary education (4th grade), 0.0327), (paid (Extra paid classes), yes, 0.0283), (age (Age of the student), 16, 0.0233)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 12, 0.2265), (G1 (First period grade), 12, 0.1424), (failures (Number of past class failures), 0, 0.0216), (absences (Number of school absences), 2, 0.0179), (goout (Frequency of going out with friends), low, 0.0160)",
+                "The features G2 (Second period grade), G1 (First period grade), failures (Number of past class failures), absences (Number of school absences), and goout (Frequency of going out with friends) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 14, 0.2443), (G1 (First period grade), 15, 0.1909), (failures (Number of past class failures), 1, -0.0210), (age (Age of the student), 19, -0.0133), (goout (Frequency of going out with friends), high, -0.0096)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (health (Current health status), good, -0.0071)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and health (Current health status) decrease the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 12, 0.2265), (G1 (First period grade), 12, 0.1424), (failures (Number of past class failures), 0, 0.0216), (absences (Number of school absences), 2, 0.0179), (goout (Frequency of going out with friends), low, 0.0160)",
+                "The features G2 (Second period grade), G1 (First period grade), failures (Number of past class failures), absences (Number of school absences), and goout (Frequency of going out with friends) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 9, -0.1351), (G1 (First period grade), 9, -0.0816), (failures (Number of past class failures), 2, -0.0709), (absences (Number of school absences), 8, 0.0373), (paid (Extra paid classes), no, -0.0255)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(paid (Extra paid classes), yes, 0.0283), (age (Age of the student), 16, 0.0251), (goout (Frequency of going out with friends), low, 0.0223), (studytime (Weekly study time), <2 hours, 0.0172), (health (Current health status), very good, 0.0100)",
+                "The features paid (Extra paid classes), age (Age of the student), goout (Frequency of going out with friends), studytime (Weekly study time), and health (Current health status) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 6, -0.2088), (G1 (First period grade), 8, -0.0868), (failures (Number of past class failures), 2, -0.0632), (age (Age of the student), 15, 0.0359), (schoolsup (Extra educational support provided by school), yes, 0.0228)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 12, 0.2265), (G1 (First period grade), 12, 0.1424), (failures (Number of past class failures), 0, 0.0216), (absences (Number of school absences), 2, 0.0179), (goout (Frequency of going out with friends), low, 0.0160)",
+                "The features G2 (Second period grade), G1 (First period grade), failures (Number of past class failures), absences (Number of school absences), and goout (Frequency of going out with friends) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 15, 0.2303), (G1 (First period grade), 14, 0.1363), (absences (Number of school absences), 4, 0.0236), (age (Age of the student), 15, 0.0184), (goout (Frequency of going out with friends), low, 0.0182)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 12, 0.2265), (G1 (First period grade), 12, 0.1424), (failures (Number of past class failures), 0, 0.0216), (absences (Number of school absences), 2, 0.0179), (goout (Frequency of going out with friends), low, 0.0160)",
+                "The features G2 (Second period grade), G1 (First period grade), failures (Number of past class failures), absences (Number of school absences), and goout (Frequency of going out with friends) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 9, -0.1615), (G1 (First period grade), 7, -0.1146), (age (Age of the student), 15, 0.0340), (goout (Frequency of going out with friends), low, 0.0313), (sex (Gender of the student), M, 0.0219)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(paid (Extra paid classes), yes, 0.0283), (age (Age of the student), 16, 0.0251), (goout (Frequency of going out with friends), low, 0.0223), (studytime (Weekly study time), <2 hours, 0.0172), (health (Current health status), very good, 0.0100)",
+                "The features paid (Extra paid classes), age (Age of the student), goout (Frequency of going out with friends), studytime (Weekly study time), and health (Current health status) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 13, 0.2236), (G1 (First period grade), 11, 0.1252), (absences (Number of school absences), 6, 0.0299), (age (Age of the student), 15, 0.0191), (failures (Number of past class failures), 0, 0.0162)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(paid (Extra paid classes), yes, 0.0283), (age (Age of the student), 16, 0.0251), (goout (Frequency of going out with friends), low, 0.0223), (studytime (Weekly study time), <2 hours, 0.0172), (health (Current health status), very good, 0.0100)",
+                "The features paid (Extra paid classes), age (Age of the student), goout (Frequency of going out with friends), studytime (Weekly study time), and health (Current health status) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 6, -0.2421), (G1 (First period grade), 7, -0.1463), (age (Age of the student), 15, 0.0385), (reason (Reason for choosing the school), reputation, 0.0206), (health (Current health status), very good, 0.0164)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 12, 0.2265), (G1 (First period grade), 12, 0.1424), (failures (Number of past class failures), 0, 0.0216), (absences (Number of school absences), 2, 0.0179), (goout (Frequency of going out with friends), low, 0.0160)",
+                "The features G2 (Second period grade), G1 (First period grade), failures (Number of past class failures), absences (Number of school absences), and goout (Frequency of going out with friends) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 12, 0.2015), (G1 (First period grade), 14, 0.1714), (higher (Desire to pursue higher education), no, -0.0345), (absences (Number of school absences), 3, 0.0232), (failures (Number of past class failures), 0, 0.0212)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 12, 0.2265), (G1 (First period grade), 12, 0.1424), (failures (Number of past class failures), 0, 0.0216), (absences (Number of school absences), 2, 0.0179), (goout (Frequency of going out with friends), low, 0.0160)",
+                "The features G2 (Second period grade), G1 (First period grade), failures (Number of past class failures), absences (Number of school absences), and goout (Frequency of going out with friends) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 10, 0.1986), (G1 (First period grade), 9, -0.1100), (absences (Number of school absences), 9, 0.0469), (age (Age of the student), 18, -0.0436), (failures (Number of past class failures), 0, 0.0270)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 12, 0.2265), (G1 (First period grade), 12, 0.1424), (failures (Number of past class failures), 0, 0.0216), (absences (Number of school absences), 2, 0.0179), (goout (Frequency of going out with friends), low, 0.0160)",
+                "The features G2 (Second period grade), G1 (First period grade), failures (Number of past class failures), absences (Number of school absences), and goout (Frequency of going out with friends) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 9, -0.1668), (G1 (First period grade), 6, -0.1173), (failures (Number of past class failures), 2, -0.0694), (paid (Extra paid classes), yes, 0.0283), (age (Age of the student), 16, 0.0251)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 12, 0.2265), (G1 (First period grade), 12, 0.1424), (failures (Number of past class failures), 0, 0.0216), (absences (Number of school absences), 2, 0.0179), (goout (Frequency of going out with friends), low, 0.0160)",
+                "The features G2 (Second period grade), G1 (First period grade), failures (Number of past class failures), absences (Number of school absences), and goout (Frequency of going out with friends) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 12, 0.2265), (G1 (First period grade), 12, 0.1424), (failures (Number of past class failures), 0, 0.0216), (absences (Number of school absences), 2, 0.0179), (goout (Frequency of going out with friends), low, 0.0160)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(paid (Extra paid classes), yes, 0.0283), (age (Age of the student), 16, 0.0251), (goout (Frequency of going out with friends), low, 0.0223), (studytime (Weekly study time), <2 hours, 0.0172), (health (Current health status), very good, 0.0100)",
+                "The features paid (Extra paid classes), age (Age of the student), goout (Frequency of going out with friends), studytime (Weekly study time), and health (Current health status) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 11, 0.2450), (G1 (First period grade), 8, -0.1033), (age (Age of the student), 15, 0.0392), (absences (Number of school absences), 0, -0.0357), (goout (Frequency of going out with friends), low, 0.0280)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 12, 0.2265), (G1 (First period grade), 12, 0.1424), (failures (Number of past class failures), 0, 0.0216), (absences (Number of school absences), 2, 0.0179), (goout (Frequency of going out with friends), low, 0.0160)",
+                "The features G2 (Second period grade), G1 (First period grade), failures (Number of past class failures), absences (Number of school absences), and goout (Frequency of going out with friends) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 11, 0.2308), (G1 (First period grade), 9, -0.0794), (age (Age of the student), 15, 0.0396), (absences (Number of school absences), 0, -0.0341), (goout (Frequency of going out with friends), low, 0.0297)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 12, 0.2265), (G1 (First period grade), 12, 0.1424), (failures (Number of past class failures), 0, 0.0216), (absences (Number of school absences), 2, 0.0179), (goout (Frequency of going out with friends), low, 0.0160)",
+                "The features G2 (Second period grade), G1 (First period grade), failures (Number of past class failures), absences (Number of school absences), and goout (Frequency of going out with friends) increase the predicted value."
+            ]
+        ]
+    },
+    {
+        "explanation_format": "(feature name, feature value, SHAP feature contribution)",
+        "explanation": "(G2 (Second period grade), 8, -0.2192), (G1 (First period grade), 8, -0.1193), (health (Current health status), very bad, 0.0419), (famrel (Quality of family relationships), excellent, 0.0323), (absences (Number of school absences), 0, -0.0293)",
+        "context": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "example_narratives": [
+            [
+                "(paid (Extra paid classes), yes, 0.0191), (sex (Gender of the student), M, 0.0181), (studytime (Weekly study time), <2 hours, 0.0178), (reason (Reason for choosing the school), reputation, 0.0163), (Walc (Weekend alcohol consumption), very low, 0.0132)",
+                "The features paid (Extra paid classes), sex (Gender of the student), studytime (Weekly study time), reason (Reason for choosing the school), and Walc (Weekend alcohol consumption) increase the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 9, -0.1269), (G1 (First period grade), 8, -0.1078), (age (Age of the student), 19, -0.0208), (failures (Number of past class failures), 1, -0.0163), (goout (Frequency of going out with friends), high, -0.0156)",
+                "The features G2 (Second period grade), G1 (First period grade), age (Age of the student), failures (Number of past class failures), and goout (Frequency of going out with friends) decrease the predicted value."
+            ],
+            [
+                "(G2 (Second period grade), 12, 0.2265), (G1 (First period grade), 12, 0.1424), (failures (Number of past class failures), 0, 0.0216), (absences (Number of school absences), 2, 0.0179), (goout (Frequency of going out with friends), low, 0.0160)",
+                "The features G2 (Second period grade), G1 (First period grade), failures (Number of past class failures), absences (Number of school absences), and goout (Frequency of going out with friends) increase the predicted value."
+            ]
+        ]
+    }
+]

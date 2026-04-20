@@ -1,0 +1,25 @@
+\begin{table}[!htb]
+\centering
+\caption{Friedman test summary. For each metric, tests the null hypothesis that all frameworks have equal average ranks. Methods with missing results receive an equal last rank penalty. $p < 0.05$ indicates significant differences exist.}
+\label{tab:friedman_summary}
+\setlength{\tabcolsep}{5pt}
+\renewcommand{\arraystretch}{1.0}
+\begin{tabular}{lrrrr}
+    \toprule
+    Metric & $\chi^2$ & $df$ & $p$-value & Significant \\
+    \midrule
+    PPL & 30.21 & 6 & 0.000 & \checkmark \\
+    Dist$_2$ & 27.28 & 6 & 0.000 & \checkmark \\
+    TTR & 29.68 & 6 & 0.000 & \checkmark \\
+    VR & 18.73 & 6 & 0.005 & \checkmark \\
+    CD & 10.69 & 6 & 0.099 & — \\
+    FDR & 29.93 & 6 & 0.000 & \checkmark \\
+    CSR & 31.75 & 6 & 0.000 & \checkmark \\
+    CECPR & 29.37 & 6 & 0.000 & \checkmark \\
+    DCPR & 28.90 & 6 & 0.000 & \checkmark \\
+    CCPR & 33.09 & 6 & 0.000 & \checkmark \\
+    TTCPR & 28.10 & 6 & 0.000 & \checkmark \\
+    VCPR & 29.75 & 6 & 0.000 & \checkmark \\
+    \bottomrule
+    \end{tabular}
+\end{table}

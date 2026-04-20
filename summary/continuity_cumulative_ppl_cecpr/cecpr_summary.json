@@ -1,0 +1,1164 @@
+{
+  "llm_outputs": {
+    "explingo_narratives/diabetes": {
+      "fitted_parameters": {
+        "A": 104.491007,
+        "r": 0.366317,
+        "C": 6.502476,
+        "b_decay": 1.004256,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.984278,
+        "rmse": 1.505619,
+        "mape": 12.080363,
+        "residual_mean": 0.794963,
+        "residual_std": 1.278641
+      },
+      "cecpr_metric": 21767.24,
+      "dataset_statistics": {
+        "num_texts": 27,
+        "num_sentences_range": [
+          5,
+          8
+        ],
+        "avg_distinct_2gram_ratio": 0.957774,
+        "avg_ttr": 0.649559,
+        "avg_verb_ratio": 0.177161,
+        "avg_connectives_ratio": 0.074462,
+        "avg_cause_effect_ratio": 0.004102
+      }
+    },
+    "explingo_narratives/german_credit": {
+      "fitted_parameters": {
+        "A": 58.603985,
+        "r": 0.404066,
+        "C": 9.038765,
+        "b_decay": 0.906178,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.997746,
+        "rmse": 0.37603,
+        "mape": 2.49351,
+        "residual_mean": 0.090022,
+        "residual_std": 0.365095
+      },
+      "cecpr_metric": 42351.68,
+      "dataset_statistics": {
+        "num_texts": 26,
+        "num_sentences_range": [
+          5,
+          7
+        ],
+        "avg_distinct_2gram_ratio": 0.957589,
+        "avg_ttr": 0.647649,
+        "avg_verb_ratio": 0.15999,
+        "avg_connectives_ratio": 0.085893,
+        "avg_cause_effect_ratio": 0.003089
+      }
+    },
+    "explingo_narratives/fifa": {
+      "fitted_parameters": {
+        "A": 20.717881,
+        "r": 0.593674,
+        "C": 7.901712,
+        "b_decay": 0.521425,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.997694,
+        "rmse": 0.18995,
+        "mape": 1.521927,
+        "residual_mean": 0.0,
+        "residual_std": 0.18995
+      },
+      "cecpr_metric": 251659.584,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          4,
+          7
+        ],
+        "avg_distinct_2gram_ratio": 0.940661,
+        "avg_ttr": 0.631728,
+        "avg_verb_ratio": 0.150879,
+        "avg_connectives_ratio": 0.068435,
+        "avg_cause_effect_ratio": 0.001536
+      }
+    },
+    "explingo_narratives/student": {
+      "fitted_parameters": {
+        "A": 41.471477,
+        "r": 0.58303,
+        "C": 7.106187,
+        "b_decay": 0.539517,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.98291,
+        "rmse": 0.987158,
+        "mape": 7.731837,
+        "residual_mean": 0.240648,
+        "residual_std": 0.957376
+      },
+      "cecpr_metric": 24857.508,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          4,
+          8
+        ],
+        "avg_distinct_2gram_ratio": 0.950027,
+        "avg_ttr": 0.666701,
+        "avg_verb_ratio": 0.139289,
+        "avg_connectives_ratio": 0.075018,
+        "avg_cause_effect_ratio": 0.004843
+      }
+    },
+    "explingo_narratives/stroke": {
+      "fitted_parameters": {
+        "A": 61.647206,
+        "r": 0.409378,
+        "C": 7.849142,
+        "b_decay": 0.893117,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.994391,
+        "rmse": 0.62615,
+        "mape": 4.451401,
+        "residual_mean": 0.216152,
+        "residual_std": 0.587658
+      },
+      "cecpr_metric": 28691.015,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          7
+        ],
+        "avg_distinct_2gram_ratio": 0.957955,
+        "avg_ttr": 0.667623,
+        "avg_verb_ratio": 0.158599,
+        "avg_connectives_ratio": 0.077287,
+        "avg_cause_effect_ratio": 0.003777
+      }
+    },
+    "explingo_narratives/compas": {
+      "fitted_parameters": {
+        "A": 30.65112,
+        "r": 0.444787,
+        "C": 7.522768,
+        "b_decay": 0.810161,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.99058,
+        "rmse": 0.43502,
+        "mape": 3.710913,
+        "residual_mean": 0.137524,
+        "residual_std": 0.41271
+      },
+      "cecpr_metric": 54388.135,
+      "dataset_statistics": {
+        "num_texts": 28,
+        "num_sentences_range": [
+          3,
+          7
+        ],
+        "avg_distinct_2gram_ratio": 0.941794,
+        "avg_ttr": 0.617767,
+        "avg_verb_ratio": 0.173159,
+        "avg_connectives_ratio": 0.073628,
+        "avg_cause_effect_ratio": 0.00286
+      }
+    },
+    "explingo_zero_shot/diabetes": {
+      "fitted_parameters": {
+        "A": 67.834762,
+        "r": 0.354789,
+        "C": 10.024992,
+        "b_decay": 1.036231,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.999195,
+        "rmse": 0.239816,
+        "mape": 1.506453,
+        "residual_mean": 0.046437,
+        "residual_std": 0.235278
+      },
+      "cecpr_metric": 8420.326,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          2,
+          6
+        ],
+        "avg_distinct_2gram_ratio": 0.956193,
+        "avg_ttr": 0.653297,
+        "avg_verb_ratio": 0.154889,
+        "avg_connectives_ratio": 0.080577,
+        "avg_cause_effect_ratio": 0.006491
+      }
+    },
+    "explingo_zero_shot/german_credit": {
+      "fitted_parameters": {
+        "A": 84.806862,
+        "r": 0.372766,
+        "C": 12.385998,
+        "b_decay": 0.986805,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.994647,
+        "rmse": 0.799148,
+        "mape": 3.725247,
+        "residual_mean": 0.270153,
+        "residual_std": 0.752101
+      },
+      "cecpr_metric": 43126.592,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          3,
+          6
+        ],
+        "avg_distinct_2gram_ratio": 0.915723,
+        "avg_ttr": 0.651949,
+        "avg_verb_ratio": 0.173058,
+        "avg_connectives_ratio": 0.084601,
+        "avg_cause_effect_ratio": 0.00294
+      }
+    },
+    "explingo_zero_shot/fifa": {
+      "fitted_parameters": {
+        "A": 20.80962,
+        "r": 0.496491,
+        "C": 8.292154,
+        "b_decay": 0.700189,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.998333,
+        "rmse": 0.144282,
+        "mape": 1.121446,
+        "residual_mean": -0.0,
+        "residual_std": 0.144282
+      },
+      "cecpr_metric": 215779.162,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          3,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.951248,
+        "avg_ttr": 0.673883,
+        "avg_verb_ratio": 0.140064,
+        "avg_connectives_ratio": 0.059763,
+        "avg_cause_effect_ratio": 0.001517
+      }
+    },
+    "explingo_zero_shot/student": {
+      "fitted_parameters": {
+        "A": 42.633586,
+        "r": 0.539813,
+        "C": 7.092675,
+        "b_decay": 0.616532,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.985878,
+        "rmse": 0.890641,
+        "mape": 6.261105,
+        "residual_mean": 0.119224,
+        "residual_std": 0.882625
+      },
+      "cecpr_metric": 13665.115,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          2,
+          7
+        ],
+        "avg_distinct_2gram_ratio": 0.95085,
+        "avg_ttr": 0.706229,
+        "avg_verb_ratio": 0.150875,
+        "avg_connectives_ratio": 0.079612,
+        "avg_cause_effect_ratio": 0.006285
+      }
+    },
+    "explingo_zero_shot/stroke": {
+      "fitted_parameters": {
+        "A": 102.135091,
+        "r": 0.370395,
+        "C": 8.10952,
+        "b_decay": 0.993186,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.988272,
+        "rmse": 1.413041,
+        "mape": 8.581108,
+        "residual_mean": 0.412972,
+        "residual_std": 1.351347
+      },
+      "cecpr_metric": 68874.372,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          2,
+          6
+        ],
+        "avg_distinct_2gram_ratio": 0.965316,
+        "avg_ttr": 0.706908,
+        "avg_verb_ratio": 0.137615,
+        "avg_connectives_ratio": 0.062027,
+        "avg_cause_effect_ratio": 0.002319
+      }
+    },
+    "explingo_zero_shot/compas": {
+      "fitted_parameters": {
+        "A": 36.723409,
+        "r": 0.565887,
+        "C": 9.039195,
+        "b_decay": 0.569362,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.997761,
+        "rmse": 0.320158,
+        "mape": 1.79733,
+        "residual_mean": -0.0,
+        "residual_std": 0.320158
+      },
+      "cecpr_metric": null,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          3,
+          7
+        ],
+        "avg_distinct_2gram_ratio": 0.951328,
+        "avg_ttr": 0.690721,
+        "avg_verb_ratio": 0.216278,
+        "avg_connectives_ratio": 0.094375,
+        "avg_cause_effect_ratio": 0.0
+      }
+    },
+    "xaistories_narratives/diabetes": {
+      "fitted_parameters": {
+        "A": 47.492,
+        "r": 0.36846,
+        "C": 8.452797,
+        "b_decay": 0.998423,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.998998,
+        "rmse": 0.201711,
+        "mape": 1.556533,
+        "residual_mean": 0.0,
+        "residual_std": 0.201711
+      },
+      "cecpr_metric": 6661.558,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.955979,
+        "avg_ttr": 0.610877,
+        "avg_verb_ratio": 0.168131,
+        "avg_connectives_ratio": 0.083462,
+        "avg_cause_effect_ratio": 0.007437
+      }
+    },
+    "xaistories_narratives/german_credit": {
+      "fitted_parameters": {
+        "A": 48.283501,
+        "r": 0.411224,
+        "C": 10.29704,
+        "b_decay": 0.888617,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.996498,
+        "rmse": 0.421087,
+        "mape": 2.909059,
+        "residual_mean": -0.0,
+        "residual_std": 0.421087
+      },
+      "cecpr_metric": 31375.34,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.965291,
+        "avg_ttr": 0.661061,
+        "avg_verb_ratio": 0.163295,
+        "avg_connectives_ratio": 0.093116,
+        "avg_cause_effect_ratio": 0.00362
+      }
+    },
+    "xaistories_narratives/fifa": {
+      "fitted_parameters": {
+        "A": 26.069174,
+        "r": 0.561058,
+        "C": 8.786844,
+        "b_decay": 0.577931,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.99601,
+        "rmse": 0.301116,
+        "mape": 2.118977,
+        "residual_mean": 0.0,
+        "residual_std": 0.301116
+      },
+      "cecpr_metric": 185070.684,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.943675,
+        "avg_ttr": 0.640012,
+        "avg_verb_ratio": 0.163542,
+        "avg_connectives_ratio": 0.072377,
+        "avg_cause_effect_ratio": 0.001741
+      }
+    },
+    "xaistories_narratives/student": {
+      "fitted_parameters": {
+        "A": 60.201689,
+        "r": 0.503429,
+        "C": 10.009167,
+        "b_decay": 0.686312,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.998755,
+        "rmse": 0.364045,
+        "mape": 1.557743,
+        "residual_mean": -0.0,
+        "residual_std": 0.364045
+      },
+      "cecpr_metric": 85370.837,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.96906,
+        "avg_ttr": 0.688552,
+        "avg_verb_ratio": 0.173592,
+        "avg_connectives_ratio": 0.076317,
+        "avg_cause_effect_ratio": 0.002428
+      }
+    },
+    "xaistories_narratives/stroke": {
+      "fitted_parameters": {
+        "A": 27.275723,
+        "r": 0.443508,
+        "C": 7.849322,
+        "b_decay": 0.813039,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.998576,
+        "rmse": 0.16095,
+        "mape": 1.501077,
+        "residual_mean": -0.0,
+        "residual_std": 0.16095
+      },
+      "cecpr_metric": 5333.971,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.961697,
+        "avg_ttr": 0.623407,
+        "avg_verb_ratio": 0.149658,
+        "avg_connectives_ratio": 0.086437,
+        "avg_cause_effect_ratio": 0.009119
+      }
+    },
+    "xaistories_narratives/compas": {
+      "fitted_parameters": {
+        "A": 34.772616,
+        "r": 0.387436,
+        "C": 9.638437,
+        "b_decay": 0.948204,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.993417,
+        "rmse": 0.392297,
+        "mape": 2.983877,
+        "residual_mean": 0.053692,
+        "residual_std": 0.388606
+      },
+      "cecpr_metric": 13738.286,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.96035,
+        "avg_ttr": 0.651711,
+        "avg_verb_ratio": 0.173217,
+        "avg_connectives_ratio": 0.08361,
+        "avg_cause_effect_ratio": 0.00531
+      }
+    },
+    "xaistories/diabetes": {
+      "fitted_parameters": {
+        "A": 67.628591,
+        "r": 0.253672,
+        "C": 7.446688,
+        "b_decay": 1.371714,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.996096,
+        "rmse": 0.398206,
+        "mape": 3.485273,
+        "residual_mean": 0.145626,
+        "residual_std": 0.370622
+      },
+      "cecpr_metric": 5725.491,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.949342,
+        "avg_ttr": 0.592052,
+        "avg_verb_ratio": 0.169886,
+        "avg_connectives_ratio": 0.080128,
+        "avg_cause_effect_ratio": 0.006656
+      }
+    },
+    "xaistories/german_credit": {
+      "fitted_parameters": {
+        "A": 41.932488,
+        "r": 0.385461,
+        "C": 9.36413,
+        "b_decay": 0.953314,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.997357,
+        "rmse": 0.300231,
+        "mape": 2.393687,
+        "residual_mean": 0.014091,
+        "residual_std": 0.2999
+      },
+      "cecpr_metric": 110339.295,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.963386,
+        "avg_ttr": 0.638933,
+        "avg_verb_ratio": 0.157579,
+        "avg_connectives_ratio": 0.090447,
+        "avg_cause_effect_ratio": 0.001869
+      }
+    },
+    "xaistories/fifa": {
+      "fitted_parameters": {
+        "A": 47.713421,
+        "r": 0.378714,
+        "C": 10.188927,
+        "b_decay": 0.970975,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.993124,
+        "rmse": 0.539227,
+        "mape": 3.706447,
+        "residual_mean": 0.079665,
+        "residual_std": 0.53331
+      },
+      "cecpr_metric": 70622.238,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.95096,
+        "avg_ttr": 0.662633,
+        "avg_verb_ratio": 0.165758,
+        "avg_connectives_ratio": 0.074941,
+        "avg_cause_effect_ratio": 0.002316
+      }
+    },
+    "xaistories/student": {
+      "fitted_parameters": {
+        "A": 117.668775,
+        "r": 0.370059,
+        "C": 11.894781,
+        "b_decay": 0.994092,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.999532,
+        "rmse": 0.342766,
+        "mape": 1.787586,
+        "residual_mean": 0.0,
+        "residual_std": 0.342766
+      },
+      "cecpr_metric": 299401.089,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.965488,
+        "avg_ttr": 0.690845,
+        "avg_verb_ratio": 0.173014,
+        "avg_connectives_ratio": 0.068018,
+        "avg_cause_effect_ratio": 0.001112
+      }
+    },
+    "xaistories/stroke": {
+      "fitted_parameters": {
+        "A": 40.530692,
+        "r": 0.314197,
+        "C": 7.059405,
+        "b_decay": 1.157736,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.993292,
+        "rmse": 0.381551,
+        "mape": 3.608589,
+        "residual_mean": 0.096211,
+        "residual_std": 0.369222
+      },
+      "cecpr_metric": 16908.826,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.950069,
+        "avg_ttr": 0.582908,
+        "avg_verb_ratio": 0.15028,
+        "avg_connectives_ratio": 0.075965,
+        "avg_cause_effect_ratio": 0.004311
+      }
+    },
+    "xaistories/compas": {
+      "fitted_parameters": {
+        "A": 35.198745,
+        "r": 0.408959,
+        "C": 9.416439,
+        "b_decay": 0.894141,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.999027,
+        "rmse": 0.160834,
+        "mape": 1.223117,
+        "residual_mean": -0.0,
+        "residual_std": 0.160834
+      },
+      "cecpr_metric": 17123.097,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.960766,
+        "avg_ttr": 0.648661,
+        "avg_verb_ratio": 0.174307,
+        "avg_connectives_ratio": 0.085485,
+        "avg_cause_effect_ratio": 0.004887
+      }
+    },
+    "xainarratives/diabetes": {
+      "fitted_parameters": {
+        "A": 62.858903,
+        "r": 0.490414,
+        "C": 10.173962,
+        "b_decay": 0.712505,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.998939,
+        "rmse": 0.344616,
+        "mape": 1.435326,
+        "residual_mean": -0.0,
+        "residual_std": 0.344616
+      },
+      "cecpr_metric": 4383.246,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.98418,
+        "avg_ttr": 0.686747,
+        "avg_verb_ratio": 0.17258,
+        "avg_connectives_ratio": 0.076892,
+        "avg_cause_effect_ratio": 0.010578
+      }
+    },
+    "xainarratives/german_credit": {
+      "fitted_parameters": {
+        "A": 66.228606,
+        "r": 0.377313,
+        "C": 12.582239,
+        "b_decay": 0.974681,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.995938,
+        "rmse": 0.57673,
+        "mape": 3.115366,
+        "residual_mean": 0.039392,
+        "residual_std": 0.575384
+      },
+      "cecpr_metric": 4442.388,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.978791,
+        "avg_ttr": 0.694838,
+        "avg_verb_ratio": 0.1739,
+        "avg_connectives_ratio": 0.08187,
+        "avg_cause_effect_ratio": 0.009216
+      }
+    },
+    "xainarratives/fifa": {
+      "fitted_parameters": {
+        "A": 90.322007,
+        "r": 0.32525,
+        "C": 12.181717,
+        "b_decay": 1.123162,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.990989,
+        "rmse": 1.015606,
+        "mape": 5.18286,
+        "residual_mean": 0.245151,
+        "residual_std": 0.985574
+      },
+      "cecpr_metric": 4692.386,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.975084,
+        "avg_ttr": 0.704332,
+        "avg_verb_ratio": 0.175109,
+        "avg_connectives_ratio": 0.077702,
+        "avg_cause_effect_ratio": 0.008326
+      }
+    },
+    "xainarratives/student": {
+      "fitted_parameters": {
+        "A": 102.38156,
+        "r": 0.365584,
+        "C": 13.548581,
+        "b_decay": 1.006258,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.99908,
+        "rmse": 0.413931,
+        "mape": 2.164577,
+        "residual_mean": 0.0,
+        "residual_std": 0.413931
+      },
+      "cecpr_metric": 4155.605,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.978415,
+        "avg_ttr": 0.732387,
+        "avg_verb_ratio": 0.168757,
+        "avg_connectives_ratio": 0.081246,
+        "avg_cause_effect_ratio": 0.009379
+      }
+    },
+    "xainarratives/stroke": {
+      "fitted_parameters": {
+        "A": 38.05962,
+        "r": 0.613805,
+        "C": 7.529792,
+        "b_decay": 0.488078,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.996665,
+        "rmse": 0.416464,
+        "mape": 2.032415,
+        "residual_mean": -0.0,
+        "residual_std": 0.416464
+      },
+      "cecpr_metric": 4622.606,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.982511,
+        "avg_ttr": 0.704012,
+        "avg_verb_ratio": 0.161674,
+        "avg_connectives_ratio": 0.07348,
+        "avg_cause_effect_ratio": 0.011523
+      }
+    },
+    "xainarratives/compas": {
+      "fitted_parameters": {
+        "A": 13.38309,
+        "r": 0.786949,
+        "C": 6.946857,
+        "b_decay": 0.239592,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.988235,
+        "rmse": 0.251511,
+        "mape": 1.622783,
+        "residual_mean": -0.0,
+        "residual_std": 0.251511
+      },
+      "cecpr_metric": 8851.85,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.985338,
+        "avg_ttr": 0.712855,
+        "avg_verb_ratio": 0.178283,
+        "avg_connectives_ratio": 0.095316,
+        "avg_cause_effect_ratio": 0.009429
+      }
+    },
+    "explingo/diabetes": {
+      "error": "No valid texts found"
+    },
+    "explingo/german_credit": {
+      "error": "No valid texts found"
+    },
+    "explingo/fifa": {
+      "fitted_parameters": {
+        "A": 26.658686,
+        "r": 0.193257,
+        "C": 8.731651,
+        "b_decay": 1.643734,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 1.0,
+        "rmse": 2e-06,
+        "mape": 1.4e-05,
+        "residual_mean": -0.0,
+        "residual_std": 1e-06
+      },
+      "cecpr_metric": null,
+      "dataset_statistics": {
+        "num_texts": 3,
+        "num_sentences_range": [
+          2,
+          2
+        ],
+        "avg_distinct_2gram_ratio": 0.86994,
+        "avg_ttr": 0.54377,
+        "avg_verb_ratio": 0.143694,
+        "avg_connectives_ratio": 0.055776,
+        "avg_cause_effect_ratio": 0.0
+      }
+    },
+    "explingo/student": {
+      "error": "No valid texts found"
+    },
+    "explingo/stroke": {
+      "fitted_parameters": {
+        "A": 52.085746,
+        "r": 0.141982,
+        "C": 9.200735,
+        "b_decay": 1.952057,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 1.0,
+        "rmse": 9e-06,
+        "mape": 7.2e-05,
+        "residual_mean": 5e-06,
+        "residual_std": 8e-06
+      },
+      "cecpr_metric": null,
+      "dataset_statistics": {
+        "num_texts": 23,
+        "num_sentences_range": [
+          2,
+          2
+        ],
+        "avg_distinct_2gram_ratio": 0.931104,
+        "avg_ttr": 0.632194,
+        "avg_verb_ratio": 0.103886,
+        "avg_connectives_ratio": 0.0716,
+        "avg_cause_effect_ratio": 0.0
+      }
+    },
+    "explingo/compas": {
+      "fitted_parameters": {
+        "A": 211.526122,
+        "r": 0.06976,
+        "C": 8.523419,
+        "b_decay": 2.662698,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 1.0,
+        "rmse": 0.000469,
+        "mape": 0.003642,
+        "residual_mean": 0.000281,
+        "residual_std": 0.000376
+      },
+      "cecpr_metric": null,
+      "dataset_statistics": {
+        "num_texts": 1,
+        "num_sentences_range": [
+          2,
+          2
+        ],
+        "avg_distinct_2gram_ratio": 0.854167,
+        "avg_ttr": 0.574468,
+        "avg_verb_ratio": 0.170213,
+        "avg_connectives_ratio": 0.12766,
+        "avg_cause_effect_ratio": 0.0
+      }
+    }
+  },
+  "template_outputs": {
+    "templated_narrative/diabetes": {
+      "fitted_parameters": {
+        "A": 506.864426,
+        "r": 0.194978,
+        "C": 4.175298,
+        "b_decay": 1.634871,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.999824,
+        "rmse": 0.500096,
+        "mape": 5.010114,
+        "residual_mean": 0.187544,
+        "residual_std": 0.463598
+      },
+      "cecpr_metric": null,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.614304,
+        "avg_ttr": 0.448049,
+        "avg_verb_ratio": 0.136137,
+        "avg_connectives_ratio": 0.062065,
+        "avg_cause_effect_ratio": 0.0
+      }
+    },
+    "templated_narrative/german_credit": {
+      "fitted_parameters": {
+        "A": 1101.136616,
+        "r": 0.141711,
+        "C": 4.472878,
+        "b_decay": 1.953967,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.999773,
+        "rmse": 0.90673,
+        "mape": 7.300441,
+        "residual_mean": 0.405472,
+        "residual_std": 0.811019
+      },
+      "cecpr_metric": null,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.613172,
+        "avg_ttr": 0.39921,
+        "avg_verb_ratio": 0.125961,
+        "avg_connectives_ratio": 0.05797,
+        "avg_cause_effect_ratio": 0.0
+      }
+    },
+    "templated_narrative/fifa": {
+      "fitted_parameters": {
+        "A": 149.090848,
+        "r": 0.398702,
+        "C": 3.202777,
+        "b_decay": 0.919541,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.998377,
+        "rmse": 0.862108,
+        "mape": 6.008619,
+        "residual_mean": -0.0,
+        "residual_std": 0.862108
+      },
+      "cecpr_metric": null,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.630973,
+        "avg_ttr": 0.416059,
+        "avg_verb_ratio": 0.148372,
+        "avg_connectives_ratio": 0.057066,
+        "avg_cause_effect_ratio": 0.0
+      }
+    },
+    "templated_narrative/student": {
+      "fitted_parameters": {
+        "A": 562.215129,
+        "r": 0.272149,
+        "C": 3.203161,
+        "b_decay": 1.301406,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.99911,
+        "rmse": 1.712969,
+        "mape": 13.012422,
+        "residual_mean": 0.0,
+        "residual_std": 1.712969
+      },
+      "cecpr_metric": null,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.578251,
+        "avg_ttr": 0.407423,
+        "avg_verb_ratio": 0.145571,
+        "avg_connectives_ratio": 0.065539,
+        "avg_cause_effect_ratio": 0.0
+      }
+    },
+    "templated_narrative/stroke": {
+      "fitted_parameters": {
+        "A": 331.118544,
+        "r": 0.22496,
+        "C": 4.315582,
+        "b_decay": 1.491833,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.999865,
+        "rmse": 0.32823,
+        "mape": 3.664145,
+        "residual_mean": 0.09205,
+        "residual_std": 0.315058
+      },
+      "cecpr_metric": null,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.625014,
+        "avg_ttr": 0.434366,
+        "avg_verb_ratio": 0.131268,
+        "avg_connectives_ratio": 0.071601,
+        "avg_cause_effect_ratio": 0.0
+      }
+    },
+    "templated_narrative/compas": {
+      "fitted_parameters": {
+        "A": 408.648613,
+        "r": 0.226281,
+        "C": 5.093424,
+        "b_decay": 1.485977,
+        "fit_success": true
+      },
+      "fit_quality": {
+        "r_squared": 0.999877,
+        "rmse": 0.388404,
+        "mape": 3.720744,
+        "residual_mean": 0.107214,
+        "residual_std": 0.373313
+      },
+      "cecpr_metric": null,
+      "dataset_statistics": {
+        "num_texts": 30,
+        "num_sentences_range": [
+          5,
+          5
+        ],
+        "avg_distinct_2gram_ratio": 0.620208,
+        "avg_ttr": 0.412503,
+        "avg_verb_ratio": 0.17838,
+        "avg_connectives_ratio": 0.097716,
+        "avg_cause_effect_ratio": 0.0
+      }
+    },
+    "talktomodel/diabetes": {
+      "error": "No valid texts found"
+    },
+    "talktomodel/german_credit": {
+      "error": "No valid texts found"
+    },
+    "talktomodel/fifa": {
+      "error": "No valid texts found"
+    },
+    "talktomodel/student": {
+      "error": "No valid texts found"
+    },
+    "talktomodel/stroke": {
+      "error": "No valid texts found"
+    },
+    "talktomodel/compas": {
+      "error": "No valid texts found"
+    }
+  }
+}

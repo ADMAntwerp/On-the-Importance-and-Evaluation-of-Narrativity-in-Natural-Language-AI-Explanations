@@ -1,0 +1,22 @@
+\begin{table}[!htb]
+\centering
+\caption{Average rank per metric across datasets (narrativity metrics (FDR, CSR, CECPR, DCPR, CCPR, TTCPR, VCPR); lower is better). Missing values are penalised with equal last rank within each block. Overall = mean of per-metric average ranks. Best value per column in \textbf{bold}.}
+\label{tab:average_ranks_discourse}
+\setlength{\tabcolsep}{2.5pt}
+\renewcommand{\arraystretch}{0.85}
+\resizebox{\textwidth}{!}{
+    \begin{tabular}{lrrrrrrrr}
+    \toprule
+    Method & FDR & CSR & CECPR & DCPR & CCPR & TTCPR & VCPR & \textbf{Overall} \\
+    \midrule
+    XAIstories & 2.167 & 4.167 & 2.333 & \textbf{1.333} & 1.833 & \textbf{1.917} & 2.167 & \textbf{2.274} \\
+    XAIstories Narratives & 2.833 & 2.750 & \textbf{1.667} & 2.833 & 2.833 & 3.083 & 3.500 & 2.786 \\
+    Explingo Zero-Shot & 3.917 & 2.000 & 3.000 & 3.167 & 4.167 & 2.167 & 3.500 & 3.131 \\
+    Explingo Narratives & \textbf{1.667} & \textbf{1.583} & 3.000 & 3.500 & 4.667 & 3.500 & 4.333 & 3.179 \\
+    Templated Explanation & 6.417 & 4.500 & 4.833 & 4.167 & \textbf{1.500} & 4.333 & \textbf{1.500} & 3.893 \\
+    Explingo & 4.417 & 6.000 & 4.833 & 6.000 & 6.000 & 6.000 & 6.000 & 5.607 \\
+    TalkToModel & 6.583 & 6.000 & 4.833 & 6.000 & 6.000 & 6.000 & 6.000 & 5.917 \\
+    \bottomrule
+    \end{tabular}
+}
+\end{table}

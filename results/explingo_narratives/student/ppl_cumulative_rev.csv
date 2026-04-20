@@ -1,0 +1,184 @@
+text_id_rev,num_sentences_rev,last_sentence_rev,ppl_rev
+0,1,"Ultimately, the interplay of these factors leads the model to its final judgment, with academic performance weighing most heavily, while behavioral and historical elements offer limited but meaningful support.",52.58
+0,2,"Additionally, the student's infrequent social outings and absence of prior class failures each provide small but positive nudges, suggesting that responsible behavior and a clean academic record can help offset weaker grades.",38.55
+0,3,"As the narrative unfolds, the number of school absences emerges as a modest counterbalance, slightly improving the prediction, perhaps reflecting the student's consistent attendance.",28.16
+0,4,"This effect is compounded by the first period grade, which, while slightly higher, still contributes to a less favorable outlook.",23.88
+0,5,"At the outset, the student's relatively low second period grade exerts the strongest downward pull on the prediction, signaling that recent academic performance has a substantial negative impact.",19.83
+0,6,The model predicts the student's outcome in mathematics by weighing several key factors.,19.78
+1,1,"Taken together, these factors interact to drive the model’s prediction toward a failing outcome, with academic performance emerging as the decisive cause.",77.23
+1,2,"Additionally, the fact that the student’s mother works at home offers a modest positive influence, but again, this is not enough to offset the impact of the low grades.",25.18
+1,3,"Although the student’s parents living apart and the number of school absences each contribute slightly to increasing the probability of passing, their positive effects are minimal and insufficient to counterbalance the negative academic indicators.",18.41
+1,4,"This effect is compounded by the first period grade (G1) of 5, which further diminishes the chances of success.",16.21
+1,5,"At the outset, the student’s low grade in the second period (G2), which stands at 6, exerts the strongest negative influence, substantially decreasing the likelihood of passing.",12.53
+1,6,"The model predicts that the student is likely to fail the mathematics course, and this outcome is primarily shaped by the student’s academic performance throughout the year.",10.74
+2,1,"Altogether, these elements interact to shape a narrative in which recent academic achievement and consistent attendance outweigh earlier challenges, culminating in a favorable prediction for the student's success.",38.5
+2,2,"Nevertheless, the absence of any prior class failures gently reinforces the positive outlook.",47.28
+2,3,"Interestingly, the first period grade of 10 slightly tempers this optimism, suggesting that earlier academic struggles may still linger in the model's assessment.",35.53
+2,4,"This momentum is further supported, albeit to a lesser extent, by the student's relatively low number of absences and their age, both of which nudge the prediction upward.",23.65
+2,5,"At the forefront, the student's strong performance in the second period, reflected by a grade of 13, exerts the most significant positive influence, substantially increasing the probability of passing.",16.83
+2,6,The model predicts the student's likelihood of passing the mathematics course by weighing several key factors.,16.41
+3,1,"Taken together, these factors interact to create a compelling case for the student’s predicted success in the course.",28.89
+3,2,"Finally, the student’s age of 15 aligns with typical expectations for this grade level, providing a stable context for learning.",21.89
+3,3,"The absence of any previous class failures also contributes positively, indicating a history of academic resilience.",18.29
+3,4,"Moreover, the student’s minimal number of absences—just two—suggests consistent attendance, which subtly supports their academic progress.",15.85
+3,5,"This achievement builds upon a solid foundation established in the first period, where a grade of 15 further reinforces the likelihood of success.",15.01
+3,6,"The model predicts that the student will pass the mathematics course, primarily because their strong performance in the second period, reflected by a grade of 14, exerts the most significant positive influence on the outcome.",13.31
+4,1,"Taken together, these factors interact to shape the model’s assessment, with the negative impact of the second period grade ultimately outweighing the positive contributions from other areas.",39.48
+4,2,"Finally, the low number of absences gently nudges the prediction upward, reflecting the importance of consistent attendance.",28.78
+4,3,"However, the student’s very poor health status slightly undermines this advantage, hinting that well-being plays a role in academic achievement.",24.47
+4,4,"Meanwhile, the student’s participation in extra paid classes subtly boosts the chances of passing, indicating that additional support outside regular coursework can be beneficial.",21.14
+4,5,"In contrast, the first period grade, which stands at 11, partially counterbalances this effect by contributing positively, suggesting that earlier academic success still offers some hope.",19.02
+4,6,"At the outset, the student’s second period grade emerges as a significant factor, as a relatively low score of 8 actively diminishes the likelihood of passing, exerting a strong negative influence on the outcome.",14.3
+4,7,The model’s prediction hinges on a nuanced interplay of the student’s academic performance and personal circumstances.,13.15
+5,1,"Taken together, these factors interact to create a compelling case for the student’s predicted success in the course.",28.89
+5,2,"Additionally, the student’s choice of school based on its reputation, while a smaller factor, subtly contributes to the likelihood of passing, perhaps reflecting a supportive or high-quality educational environment.",27.04
+5,3,"The fact that the student has not missed any classes further strengthens the prediction, as regular attendance is often associated with better academic performance.",16.04
+5,4,"Furthermore, the absence of any previous class failures reinforces this positive outlook, suggesting that the student has not struggled significantly in the past.",11.98
+5,5,"Specifically, the student’s consistent grades of 11 in both periods signal academic stability, which the model interprets as a reliable indicator of future success.",12.24
+5,6,"The model predicts that the student will pass the mathematics course, primarily because their strong performance in both the first and second grading periods exerts a substantial positive influence on the outcome.",11.2
+6,1,"Taken together, these interconnected factors culminate in a confident prediction that the student will pass the course.",40.94
+6,2,"Finally, the fact that the student chose the school for its reputation adds a minor, yet favorable, contribution, hinting at a possible alignment between the student's values and the school's academic environment.",20.01
+6,3,"Moreover, the absence of any previous class failures subtly boosts the prediction, suggesting a consistent academic record.",18.64
+6,4,"Although the student has accumulated 9 absences, this factor only slightly diminishes the probability of passing and does not outweigh the positive momentum established by their academic results.",16.68
+6,5,"This achievement builds upon an even higher first period grade of 15, which further reinforces the likelihood of success.",17.0
+6,6,"The model predicts that the student will pass the mathematics course, primarily because their strong performance in the second period, reflected by a grade of 13, exerts the most significant positive influence on the outcome.",13.67
+7,1,"Altogether, the model weaves these elements into a coherent assessment, concluding that the student’s strong grades and steady engagement are the driving forces behind the favorable prediction.",43.59
+7,2,"Moreover, the student’s perfect attendance and absence of prior class failures subtly support the prediction, as these factors suggest reliability and a lack of academic difficulties.",26.12
+7,3,"Although the student’s father works at home, this factor slightly diminishes the probability of passing, but its effect is minimal compared to the academic indicators.",19.45
+7,4,"This positive trend is further reinforced by the first period grade of 16, which adds additional confidence to the prediction by demonstrating early and sustained achievement.",18.36
+7,5,"At the outset, the student’s impressive second period grade of 15 exerts the most significant positive influence, signaling consistent mastery of the material and boosting the likelihood of passing.",15.84
+7,6,"The model predicts that the student will pass the mathematics course, primarily because of their strong academic performance throughout the year.",13.93
+8,1,"Altogether, these elements interact to create a robust case for the student’s success, with academic achievement and steady engagement emerging as the decisive forces behind the model’s prediction.",44.73
+8,2,"Finally, the student’s participation in extra paid classes, while contributing to a lesser extent, still adds a slight advantage.",34.19
+8,3,"Furthermore, the relatively low number of absences and the absence of any prior class failures further reinforce this positive outlook, as these factors suggest the student maintains regular attendance and has not struggled in the past.",21.28
+8,4,"Specifically, the student’s consistent grades of 14 in both periods serve as compelling evidence of their academic capability, each substantially boosting the likelihood of passing.",21.71
+8,5,"The model predicts that the student will pass the mathematics course, primarily because their strong performance in both the first and second grading periods exerts the most significant positive influence on the outcome.",17.54
+9,1,"Ultimately, the interplay of these factors—where lower grades and frequent absences outweighed the benefits of additional support and a history free of failures—shaped the model’s conclusion regarding the student’s prospects in the mathematics course.",46.58
+9,2,"Nevertheless, the presence of extra paid classes and a clean record of no previous failures provided modest but positive influences, gently nudging the prediction toward a more favorable outcome.",31.27
+9,3,"As the analysis progressed, the model recognized that a higher number of absences slightly increased the risk of failure, though this effect was less pronounced than the impact of the grades.",18.84
+9,4,"At the outset, the model considered the student's academic performance across the first and second periods, noting that relatively low grades in both G1 and G2 exerted the strongest downward pressure on the likelihood of passing.",15.99
+10,1,"Taken together, these factors interact to create a compelling case for the student's success in the course, with academic achievement and steady engagement serving as the primary drivers behind the model's confident prediction.",31.94
+10,2,"Although the student's age plays a minor role, it does not meaningfully detract from the overall prediction.",18.15
+10,3,"Furthermore, the relatively low number of absences and the absence of any prior class failures further reinforce this positive trajectory, suggesting that the student maintains regular attendance and has not struggled with the subject in the past.",13.26
+10,4,"Specifically, the student's consistent grades of 14 in both periods signal a solid grasp of the material, which significantly boosts the likelihood of passing.",13.52
+10,5,"The model predicts that the student will pass the mathematics course, primarily because their strong performance in both the first and second grading periods exerts a substantial positive influence on the outcome.",11.77
+11,1,"Taken together, these factors interact to create a compelling narrative: the student’s strong grades, combined with steady attendance and a lack of academic setbacks, collectively drive the model’s confident prediction that the student will pass the mathematics course.",30.28
+11,2,"Additionally, the absence of any prior class failures and a minimal number of school absences both play a supportive role, each incrementally increasing the probability of success.",19.81
+11,3,"Meanwhile, the student’s very low frequency of social outings subtly supports the likelihood of passing, perhaps indicating a greater focus on studies.",18.92
+11,4,"This academic momentum is further reinforced by the first period grade, which also contributes meaningfully to the prediction, highlighting the student’s sustained effort over time.",16.64
+11,5,"The second period grade, in particular, exerts the most substantial positive influence, signaling consistent mastery of the material and suggesting a solid foundation for passing the course.",14.43
+11,6,"At the heart of the model’s prediction lies the student’s strong academic performance, as evidenced by high grades in both the first and second periods.",11.89
+12,1,"Taken together, these intertwined factors lead the model to anticipate that the student is more likely to fail the mathematics course, with academic performance and prior failures serving as the primary drivers of this conclusion.",30.92
+12,2,"However, the model does detect a slight mitigating effect from the fact that the student's parents live apart, which marginally increases the predicted chance of passing.",18.68
+12,3,"Meanwhile, the student's age of 20, which is somewhat higher than typical for this context, also nudges the prediction toward a less favorable outcome, albeit to a lesser extent.",13.58
+12,4,"This negative influence is further compounded by the student's history of academic setbacks, as having failed two classes in the past subtly reinforces the model's expectation of continued difficulty.",12.83
+12,5,"At the outset, the student's grades in both the first and second periods emerge as the most influential elements; both G1 and G2 are 9, and these relatively low scores exert a strong downward pull on the prediction, signaling a heightened risk of failure.",11.96
+12,6,The model predicts the student's likelihood of passing or failing the mathematics course by weighing several key factors.,11.4
+13,1,"Ultimately, despite these small positive influences, the dominant effect of the low academic performance leads the model to anticipate that the student is at risk of not passing the course.",38.32
+13,2,"However, the story takes a slight turn as the presence of extra paid classes and the student's male gender each contribute modest positive effects, hinting at potential support mechanisms and demographic tendencies that could improve the outcome.",29.39
+13,3,"As the narrative unfolds, the student's age of 19 further nudges the prediction downward, albeit to a lesser extent, suggesting that being older than typical classmates may correlate with additional challenges.",20.71
+13,4,"Specifically, the second period grade of 9 and the first period grade of 8 both diminish the probability of passing, signaling that consistent academic struggles have shaped the model's outlook.",17.99
+13,5,"At the outset, the student's relatively low grades in both the first and second periods emerge as the most influential elements, each exerting a substantial negative impact on the prediction.",14.61
+13,6,The model predicts the student's likelihood of passing the mathematics course by weighing several key factors.,14.02
+14,1,"Altogether, these factors interact to create a compelling case for the student’s ability to pass the course.",23.56
+14,2,"Finally, participation in extra paid classes provides additional academic support, reinforcing the model’s confidence in a passing outcome.",36.32
+14,3,"The student’s low number of absences suggests regular engagement with the class, which further supports the likelihood of success.",20.86
+14,4,"Furthermore, the absence of any previous class failures reassures the model that the student has not struggled with similar coursework in the past.",13.16
+14,5,"Specifically, the student’s second period grade of 10 and first period grade of 12 both contribute significantly to the positive prediction, indicating consistent achievement over time.",12.65
+14,6,"The model predicts that the student will pass the mathematics course, primarily because their strong performance in the first and second grading periods has set a solid academic foundation.",11.43
+15,1,"Taken together, these intertwined factors reveal that while the student faces notable academic hurdles, certain personal and familial supports work in tandem to slightly bolster their prospects.",96.12
+15,2,"Finally, the student’s age, though only a minor factor, nudges the prediction upward, possibly indicating maturity or experience.",44.82
+15,3,"Additionally, the student’s participation in extra paid classes introduces another positive element, suggesting proactive efforts to improve performance.",37.03
+15,4,"However, the narrative shifts as we consider the student's mother’s education level, which, despite being limited to primary education, offers a modest positive influence—perhaps reflecting a supportive home environment that partially offsets academic difficulties.",23.58
+15,5,"This effect is compounded by the first period grade, which, while slightly higher, still contributes negatively, reinforcing the impression of consistent academic challenges throughout the year.",20.81
+15,6,"At the outset, the student's second period grade emerges as the most influential factor, exerting a strong negative impact on the prediction; a lower grade here signals academic struggles that significantly diminish the chances of passing.",16.19
+15,7,The model predicts the student's likelihood of passing the mathematics course by weighing several key factors from their academic and personal background.,15.51
+16,1,"Taken together, the model concludes that the student's consistent academic achievements outweigh the modest risks posed by past failures, age, and social activities, leading to a confident prediction of success in the course.",44.62
+16,2,"Additionally, the student's frequent social outings with friends have a negligible negative impact.",35.3
+16,3,"Although the student has experienced a previous class failure and is slightly older than typical classmates, these factors exert only a minor downward influence on the outcome.",21.36
+16,4,"This positive effect is further reinforced by a solid first period grade, which also contributes meaningfully to the prediction.",20.38
+16,5,"Specifically, the student's second period grade stands out as the most influential factor, substantially increasing the likelihood of passing.",16.61
+16,6,"The model predicts that the student is likely to pass the mathematics course, primarily because of their strong academic performance in both the first and second periods.",12.97
+17,1,"Taken together, these elements interact to create a coherent story in which consistent academic challenges and limited support mechanisms drive the model's prediction that the student will not pass the course.",45.25
+17,2,"Finally, the absence of extra paid classes subtly nudges the prediction further toward failure, as the lack of additional support suggests fewer opportunities for improvement.",38.93
+17,3,"Although the student has accumulated a moderate number of absences, this factor exerts only a slight upward influence, offering minimal compensation for the otherwise discouraging academic record.",26.92
+17,4,"As the narrative unfolds, the student's history of past class failures further compounds this negative outlook, signaling a persistent struggle with academic success that the model interprets as a warning sign.",19.55
+17,5,"At the outset, the student's grades in both the first and second periods stand out as significant contributors; both G1 and G2 are relatively low, and these underwhelming performances actively diminish the likelihood of passing.",17.71
+17,6,"The model predicts that the student is likely to fail the mathematics course, and this outcome is primarily shaped by several interconnected factors.",15.75
+18,1,"Ultimately, the interplay of these factors led the model to predict that the student is more likely to fail the mathematics course, primarily driven by their recent academic performance and history of failures, despite some mitigating support.",27.65
+18,2,"These elements slightly counterbalanced the earlier negative influences, suggesting that while the student faces significant academic challenges, there are supportive mechanisms in place that could help improve their prospects.",20.6
+18,3,"However, as the narrative unfolds, the student's age of 15 and the presence of extra educational support from the school emerged as modestly positive factors.",17.47
+18,4,"The student's history of two previous class failures further compounded this negative outlook, subtly reinforcing the model's expectation of a poor outcome.",16.76
+18,5,"Building on this, the first period grade of 8 also contributed to a lower chance of success, albeit to a lesser extent.",14.85
+18,6,"At the outset, the model considered the student's performance in the second period, noting a grade of 6, which substantially decreased the likelihood of passing due to its strong negative influence.",12.62
+19,1,"Altogether, these interconnected factors combine to explain why the model anticipates that the student will pass the course.",39.91
+19,2,"Finally, the infrequent outings with friends indicate a focus on studies rather than distractions, which, while less impactful than grades, still nudges the prediction in a positive direction.",30.32
+19,3,"Additionally, the student's age of 15 aligns with typical expectations for this academic stage, providing a stable backdrop for learning.",21.71
+19,4,"As the narrative unfolds, the student's relatively low number of absences—just four—suggests consistent classroom engagement, subtly supporting the model's confidence in a favorable outcome.",17.05
+19,5,"This positive momentum is further reinforced by a solid first period grade of 14, which continues to push the prediction toward success.",16.11
+19,6,"At the outset, the student's impressive second period grade of 15 stands out as the most influential factor, substantially increasing the likelihood of passing.",13.81
+19,7,"The model predicts that the student will pass the mathematics course, primarily because of their strong academic performance throughout the year.",12.46
+20,1,"Taken together, while certain factors such as age, social habits, and gender provide incremental support, the model's prediction is primarily shaped by the lower academic performance in the first two periods, ultimately leading to a reduced likelihood of passing the course.",38.1
+20,2,"Finally, the student's gender, identified as male, adds a minor positive contribution.",28.78
+20,3,"Additionally, the student's infrequent social outings with friends contribute a small but positive effect, implying that limited distractions outside of school could support academic success.",22.31
+20,4,"However, the narrative shifts slightly as the student's age of 15 introduces a modest positive influence, suggesting that being younger may offer a slight advantage.",17.63
+20,5,"This effect is compounded by the first period grade of 7, which further diminishes the predicted outcome.",16.17
+20,6,"At the outset, the student's second period grade emerges as the most influential element, as a relatively low score of 9 substantially decreases the probability of passing.",13.82
+20,7,The model predicts the student's likelihood of passing the mathematics course by weighing several key factors.,13.38
+21,1,"Altogether, the model weaves these factors into a coherent assessment, concluding that the student's academic strengths decisively outweigh any minor setbacks, leading to a confident prediction of success.",34.48
+21,2,"The student's age of 15 and the absence of any previous class failures also play modest but supportive roles, subtly enhancing the prediction.",28.15
+21,3,"Although the student has accumulated six absences, this factor only slightly diminishes the probability of passing, as its impact is relatively minor compared to the grades.",20.25
+21,4,"This positive trajectory is further reinforced by the first period grade of 11, which, while slightly lower, still demonstrates a solid foundation in mathematics.",17.8
+21,5,"At the outset, the student's impressive second period grade of 13 exerts the most significant positive influence, signaling consistent mastery of the material and boosting the likelihood of passing.",14.95
+21,6,"The model predicts that the student will pass the mathematics course, primarily because of their strong academic performance throughout the year.",12.98
+22,1,"Ultimately, while positive factors such as age, school choice, and health nudged the prediction upward, the dominant negative impact of the earlier grades led the model to anticipate a higher risk of failing the mathematics course.",43.39
+22,2,"Finally, the student's very good health status provided a modest yet meaningful boost, implying that well-being can enhance learning outcomes.",37.22
+22,3,"Additionally, the fact that the student chose the school for its reputation subtly bolstered the prediction, suggesting a possible alignment with a motivated peer group or a supportive environment.",26.68
+22,4,"As the narrative unfolds, the student's age, being 15, contributed a slight positive effect, perhaps reflecting a maturity level that could support academic success.",19.7
+22,5,"The relatively low scores in both G1 and G2 exerted a substantial downward influence on the likelihood of passing, as these grades serve as strong indicators of overall course mastery.",16.57
+22,6,"At the outset, the model considered the student's academic performance, particularly focusing on their grades from the first and second periods.",15.18
+23,1,"Taken together, these interconnected factors culminate in a strong expectation that the student will successfully pass the course.",30.67
+23,2,"Meanwhile, the student's low number of absences and absence of prior class failures each contribute modestly to the prediction, indicating that regular attendance and a clean academic record subtly support the overall positive outlook.",24.24
+23,3,"Although the student has expressed no particular desire to pursue higher education, this factor only slightly diminishes the probability of passing, suggesting that academic achievement can outweigh motivational factors in this context.",18.38
+23,4,"This positive momentum is further reinforced by the first period grade of 14, which continues to elevate the prediction by demonstrating early competence.",19.2
+23,5,"At the outset, the student's impressive second period grade of 12 exerts the most significant positive influence, signaling consistent mastery of the material and boosting the likelihood of passing.",16.27
+23,6,"The model predicts that the student will pass the mathematics course, primarily because of their strong academic performance throughout the year.",14.61
+24,1,"Altogether, these intertwined factors lead the model to its final prediction, with the student's recent academic achievements playing the most decisive role.",39.69
+24,2,"Finally, the absence of any previous class failures adds a subtle positive effect, reinforcing the model's confidence in the student's ability to succeed.",23.14
+24,3,"The student's age of 18 introduces a small negative influence, hinting that being older than typical classmates may slightly lower the predicted probability of passing.",17.55
+24,4,"Meanwhile, the student's nine absences contribute a modest positive effect, indicating that, in this case, attendance did not detract from the overall prediction—perhaps because the student's grades compensate for missed days.",14.33
+24,5,"Although the first period grade is also relatively high at 9, its impact is slightly negative, suggesting that the model places greater emphasis on recent academic improvement rather than earlier performance.",13.32
+24,6,"At the heart of this prediction lies the student's strong performance in the second period, as reflected by a high grade of 10, which exerts the most significant positive influence and substantially boosts the chances of passing.",10.61
+24,7,The model predicts the student's likelihood of passing the mathematics course by weighing several key factors from their academic record and personal background.,10.51
+25,1,"Thus, the model’s prediction emerges from the interplay of these factors, ultimately concluding that the student is at high risk of failing the mathematics course.",24.57
+25,2,"Nevertheless, these positive influences are not sufficient to counterbalance the substantial negative impact of the student’s grades and history of failures.",18.28
+25,3,"The student’s participation in paid classes hints at an effort to improve, and being 16 years old may reflect a maturity that could aid learning.",18.47
+25,4,"However, the narrative takes a slight turn with the presence of extra paid classes and the student’s age; both factors contribute modest positive effects.",18.07
+25,5,"Additionally, the student’s record of two previous class failures amplifies the risk, as it suggests persistent academic challenges that the model interprets as barriers to success.",14.73
+25,6,"This effect is compounded by the first period grade, which, being below average as well, further undermines the student’s chances by indicating a consistent pattern of underperformance throughout the year.",13.68
+25,7,"At the outset, the student’s second period grade, which is relatively low, exerts the strongest negative influence, signaling that recent struggles in mathematics have significantly diminished the likelihood of passing.",12.67
+25,8,"The model predicts that the student is likely to fail the mathematics course, and this outcome is primarily shaped by the student’s academic history and prior performance.",11.05
+26,1,"Altogether, the combination of solid academic achievement and a lack of negative academic history leads the model to confidently anticipate that the student will pass.",39.08
+26,2,"Although the student has a small number of absences and only goes out with friends infrequently, these factors play a comparatively minor role in shaping the prediction.",22.01
+26,3,"Furthermore, the absence of prior class failures reinforces this positive trajectory, suggesting that the student has not struggled significantly in the past.",18.24
+26,4,"Specifically, the student’s consistent grades of 12 in both periods signal a reliable academic foundation, which the model interprets as a key driver of success.",17.01
+26,5,"The model predicts that the student will pass the mathematics course, primarily because their strong performance in both the first and second grading periods exerts a substantial positive influence on the outcome.",13.96
+27,1,"Taken together, these factors interact to shape the model’s confident prediction that the student will pass.",54.81
+27,2,"Finally, the student’s low frequency of going out with friends adds a modest positive influence, implying that a more focused social life may support academic achievement.",30.95
+27,3,"Notably, the student has no recorded absences, which helps maintain their likelihood of passing, as consistent attendance is generally associated with better academic results.",19.57
+27,4,"However, the student’s young age of 15 subtly contributes to a favorable outcome, suggesting that younger students in this context may have a slight advantage.",14.72
+27,5,"This positive momentum is somewhat tempered by a lower first period grade of 8, which slightly detracts from the overall prediction.",14.15
+27,6,"The model predicts that the student will pass the mathematics course, primarily because their strong performance in the second period, reflected by a high grade of 11, significantly boosts their chances of success.",11.47
+28,1,"Taken together, these factors interact to create a favorable scenario, leading the model to predict that the student is likely to pass the mathematics course.",30.48
+28,2,"Finally, the student's low frequency of going out with friends contributes a small positive influence, suggesting a focus on academics.",27.18
+28,3,"Furthermore, the complete absence of school absences helps to prevent any detrimental effect on the outcome.",24.54
+28,4,"The student's age also plays a modest but positive role, subtly enhancing the prediction.",21.52
+28,5,"Although the first period grade is slightly lower and introduces a minor negative effect, its impact is overshadowed by the later improvement.",20.55
+28,6,"At the heart of this prediction lies the student's strong performance in the second period, as reflected by a high grade, which exerts the most significant positive influence and substantially boosts the chances of passing.",14.19
+28,7,The model predicts the student's likelihood of passing the mathematics course by weighing several key factors.,13.18
+29,1,"Altogether, the interplay of these factors led the model to its final prediction, weaving together academic, personal, and social dimensions to reach its conclusion.",31.4
+29,2,"Finally, the model took into account the student's perfect attendance, as indicated by zero absences, but this factor subtly decreased the probability of passing, possibly because, in the context of the other features, attendance alone was not enough to outweigh the influence of academic performance.",18.7
+29,3,"Furthermore, the model recognized the student's excellent family relationships, which contributed positively, suggesting that strong familial support can bolster academic outcomes.",16.46
+29,4,"As the model continued its assessment, it observed that the student's current health status was very bad, which, somewhat unexpectedly, nudged the prediction slightly upward, perhaps reflecting a compensatory mechanism in the model for students overcoming adversity.",14.38
+29,5,"These grades exerted a downward pull on the prediction, signaling that while the student is performing adequately, these scores alone do not strongly indicate a likelihood of passing.",14.14
+29,6,"At the outset, the model considered the student's academic performance, noting that both the first and second period grades were moderate, each scoring an 8.",13.37

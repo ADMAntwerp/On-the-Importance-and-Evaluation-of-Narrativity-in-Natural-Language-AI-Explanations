@@ -1,0 +1,164 @@
+text_id_shuff,num_sentences_shuff,last_sentence_shuff,ppl_shuff
+0,1,"This particular purpose contributed positively to the assessment, suggesting that such loans are typically associated with manageable risk.",142.9
+0,2,"The applicant's age, recorded as 32, further shaped the model's reasoning, as individuals in this age group often demonstrate financial stability and earning potential, which reassured the model about the applicant's reliability.",30.03
+0,3,"Additionally, the status of the applicant's checking account, described as having 'little' funds, introduced a slight caution, yet it was not sufficient to outweigh the positive signals from other features.",18.76
+0,4,"Building on this, the requested credit amount of 1880 also played a significant role; while higher amounts can sometimes signal greater risk, in this context, the amount was moderate and thus did not unduly influence the prediction toward a negative outcome.",13.95
+0,5,"Taken together, these factors interacted to guide the model toward its final prediction, with each feature actively shaping the outcome through its unique influence.",13.18
+0,6,"In evaluating this applicant's credit risk, the model first considered the purpose of the loan, noting that it was intended for radio or TV purchases.",12.52
+0,7,"Finally, the fact that the applicant owns their housing provided an additional layer of confidence, as homeownership is frequently linked to financial responsibility.",12.06
+1,1,"The fact that she owns her housing also nudged the prediction toward a favorable outcome, as homeownership often signals financial stability.",58.55
+1,2,"This positive influence was further reinforced by the moderate credit amount she requested, as the model interpreted a request of 1603 as a sign of responsible borrowing.",33.45
+1,3,"Additionally, the intended use of the loan for radio or TV purchases contributed positively, suggesting a specific and manageable purpose that the model associates with lower risk.",24.15
+1,4,"However, her gender, being female, exerted a slight negative effect on the prediction, though this influence was relatively minor compared to the other factors.",14.95
+1,5,"In evaluating this applicant’s credit risk, the model first considered her age of 55, which played a significant role in shaping the prediction by increasing the likelihood of being classified as a good credit risk.",12.36
+1,6,"Altogether, these elements interacted to guide the model toward its final assessment of her creditworthiness.",12.03
+2,1,"However, the applicant's age and the purpose of the loan—specifically, that it was intended for purchasing a car—slightly diminished the probability of a favorable classification, as younger applicants and car loans are often associated with marginally higher risk.",20.38
+2,2,"Because the loan was set for a relatively short period, this aspect strongly increased the likelihood of being classified as a good credit risk.",17.11
+2,3,"Additionally, the requested credit amount, while moderate, contributed positively, albeit to a lesser extent, by suggesting manageable repayment expectations.",16.9
+2,4,"Finally, the applicant's gender, being male, provided a small positive influence.",14.41
+2,5,"In evaluating this applicant's credit risk, the model first considered the duration of the loan, which stood out as a significant factor.",12.54
+2,6,"Altogether, these factors interacted to shape the model's decision, with the short loan duration and reasonable credit amount outweighing the minor negative effects of age and loan purpose, ultimately leading to a more optimistic assessment of the applicant's creditworthiness.",9.9
+3,1,"Additionally, the requested credit amount, while not excessive, exerted a small negative influence on the prediction.",65.96
+3,2,"Because the loan term is relatively short, this contributed positively and substantially to the applicant’s assessment as a good credit risk.",36.0
+3,3,"However, the intended purpose of the loan—to purchase a car—slightly diminished the applicant’s standing, as did the applicant’s age of 26, which the model associated with a marginally higher risk.",16.12
+3,4,"Nevertheless, the fact that the applicant owns their housing provided a modest but meaningful boost to their creditworthiness.",14.74
+3,5,"In evaluating this applicant’s credit risk, the model first considered the duration of the loan, which stood out as the most influential factor.",12.62
+3,6,"Taken together, these factors interacted to shape the model’s final judgment, with the short loan duration and home ownership ultimately outweighing the minor negative effects of the other features.",11.71
+5,1,"Meanwhile, the applicant’s moderate checking account status exerted a small negative influence, hinting that a more robust financial buffer might have been preferable.",44.04
+5,2,"However, the intended purpose of the loan—purchasing radio or TV equipment—acted in the opposite direction, modestly increasing the probability of a favorable classification, perhaps reflecting the model’s recognition that such purchases are associated with responsible borrowing.",22.38
+5,3,"The relatively short loan duration of 9 months further contributed positively, indicating that shorter repayment periods are seen as less risky.",17.2
+5,4,"Finally, the fact that the applicant owns their housing provided a slight boost to their creditworthiness, as homeownership often signals financial stability.",13.67
+5,5,"In evaluating this applicant’s credit risk, the model first considered their age of 24, which slightly decreased the likelihood of being classified as a good credit risk, suggesting that younger applicants are viewed as somewhat riskier.",10.97
+5,6,"Taken together, these factors interacted to shape the model’s overall assessment, with each feature nudging the prediction in its own way and ultimately determining the applicant’s credit risk classification.",10.68
+6,1,This positive influence set the initial direction of the prediction.,282.08
+6,2,"The status of the applicant’s checking account, categorized as moderate, further nudged the prediction downward, indicating that a more robust account status might have been more favorable.",55.1
+6,3,"Additionally, the applicant’s gender, being female, contributed a small negative effect, reflecting subtle patterns the model has learned from historical data.",28.35
+6,4,"However, as the model incorporated additional information, it found that the applicant’s age of 29 years slightly reduced the probability of being seen as a good credit risk, suggesting that younger applicants may be viewed with a bit more caution.",15.3
+6,5,"Altogether, these factors interacted to shape the model’s final assessment, with the short loan duration and home ownership working to the applicant’s advantage, while age, checking account status, and gender introduced some reservations.",12.64
+6,6,"In evaluating this applicant’s credit risk, the model first considered the duration of the loan, which, being relatively short at 9 months, strongly increased the likelihood of a 'good' credit classification.",11.56
+6,7,"Finally, the fact that the applicant owns their housing provided a modest positive influence, slightly counteracting some of the earlier negative effects.",11.15
+7,1,"However, the relatively short loan duration of 12 months contributed positively, suggesting that shorter repayment periods are perceived as less risky.",33.92
+7,2,"Nevertheless, the intended purpose of the loan—purchasing radio or TV equipment—helped to counterbalance this effect, as such purposes are typically associated with more manageable financial commitments.",21.51
+7,3,"The applicant's housing status, specifically renting, further nudged the prediction toward a less favorable outcome, reflecting the model's tendency to view renters as slightly riskier than homeowners.",19.49
+7,4,"Finally, the requested credit amount of 585 provided a modest boost to the applicant's standing, as lower loan amounts are often easier to repay.",17.54
+7,5,"In evaluating this applicant's credit risk, the model first considered their age of 20, which exerted a notable downward influence on the prediction, signaling that younger applicants are generally viewed as higher risk.",13.7
+7,6,"Taken together, these factors interacted to shape the model's overall assessment of the applicant's creditworthiness.",11.88
+8,1,"At the outset, the relatively long loan duration of 72 months exerts the most substantial negative influence, signaling to the model that extended repayment periods often correlate with higher risk.",32.69
+8,2,"Additionally, the applicant's moderate checking account status subtly detracts from the prediction, suggesting that a more robust financial buffer might have reassured the model.",20.13
+8,3,"However, the intended use of the loan for radio or television purchases introduces a modest positive effect, hinting that such purposes are viewed more favorably compared to riskier loan intents.",18.48
+8,4,"This effect is further compounded by the applicant's young age of 24, which slightly diminishes the likelihood of being classified as a good credit risk, perhaps reflecting the model's learned association between limited credit history and increased uncertainty.",13.86
+8,5,"Taken together, these intertwined factors guide the model toward its final assessment, with the negative influences of loan duration and age outweighing the modest positive contributions from loan purpose and housing status.",12.84
+8,6,"In this case, the model predicts the applicant's credit risk by weighing several key factors.",12.73
+8,7,"Finally, the fact that the applicant owns their housing provides a small but meaningful boost, as homeownership often signals financial stability.",12.13
+9,1,"However, the purpose of the loan—education—introduced a minor negative effect, subtly diminishing the overall score.",90.16
+9,2,"This positive influence was somewhat counterbalanced by the applicant's housing status, as having free housing slightly reduced the model's confidence in a favorable outcome.",35.92
+9,3,"Meanwhile, the requested credit amount of 1597 contributed positively, nudging the prediction further toward a good credit risk classification.",29.17
+9,4,"Finally, the status of the applicant's checking account, described as 'little,' provided a modest boost to the prediction.",22.03
+9,5,"In evaluating this applicant's credit risk, the model first considered their age of 54, which played a significant role in increasing the likelihood of being classified as a good credit risk.",14.91
+9,6,"Altogether, these factors interacted to shape the model's final assessment, with age and credit amount exerting the most substantial positive effects, while housing status and loan purpose tempered the optimism of the prediction.",12.64
+10,1,"Finally, the loan’s duration of 18 months provided a modest positive contribution, further supporting the overall assessment.",74.48
+10,2,"This effect was further reinforced by the purpose of the loan, which was identified as radio/TV; this specific purpose also nudged the prediction in a favorable direction.",35.25
+10,3,"Although the applicant’s relatively young age of 24 exerted a slight negative influence, suggesting a minor increase in risk, this was counterbalanced by the fact that the applicant owns their housing, which the model interpreted as a sign of stability and reliability.",16.67
+10,4,"Taken together, these factors interacted to guide the model toward its final decision, with the positive influences outweighing the negative, ultimately leading to a prediction that the applicant is a good credit risk.",12.32
+10,5,"In evaluating this applicant’s credit risk, the model first recognized that the requested credit amount of 3190 played a significant role in shaping the prediction, as it contributed positively toward classifying the applicant as a good credit risk.",10.61
+11,1,"Additionally, the applicant's gender, being female, slightly decreases the likelihood of being classified as a good credit risk, according to the model's learned patterns.",23.82
+11,2,"To begin with, the fact that the loan is intended for radio or TV purchases nudges the prediction toward a more favorable credit risk, as does the relatively high credit amount requested, both of which contribute positively to the assessment.",18.23
+11,3,"However, as the narrative unfolds, the duration of the loan—spanning 30 months—exerts a downward pull on the prediction, signaling increased risk in the model's view.",15.61
+11,4,"Finally, the applicant's status as a homeowner subtly boosts the prediction, suggesting greater financial stability.",14.03
+11,5,"In this case, the model predicts the applicant's credit risk by weighing several key factors.",13.31
+11,6,"Altogether, these intertwined factors interact to shape the model's final judgment about the applicant's creditworthiness.",11.89
+12,1,"Although the purpose of the loan being for a car and the requested credit amount of 731 slightly detract from the positive prediction, their negative effects are modest and do not outweigh the stronger positive factors.",45.13
+12,2,"This relatively short loan period signals to the model that the applicant is likely to repay promptly, thereby increasing confidence in their creditworthiness.",26.87
+12,3,"Furthermore, the applicant's age of 47 years contributes additional support to this favorable assessment, as older applicants are often perceived as more financially stable.",17.34
+12,4,"Finally, the fact that the applicant owns their housing nudges the prediction further in a positive direction, reinforcing the impression of financial reliability.",13.87
+12,5,"The model predicts the applicant as a 'good' credit risk, primarily because the duration of the loan, set at 8 months, exerts a strong positive influence on the outcome.",12.47
+12,6,"Taken together, these factors interact to convince the model that this applicant represents a good credit risk.",11.86
+14,1,"The applicant’s age, recorded at 34 years, also nudged the prediction in a favorable direction, as did the requested credit amount of 3965, which the model interpreted as a minor positive indicator.",45.71
+14,2,"This relatively long repayment period exerted a notable negative influence on the prediction, signaling increased risk in the model’s view.",32.07
+14,3,"Nevertheless, the applicant’s intended use of the loan for radio or television purchases contributed positively, albeit modestly, suggesting that such purposes are associated with slightly better credit outcomes.",23.89
+14,4,"Finally, the fact that the applicant owns their housing further reinforced the likelihood of being classified as a good credit risk, though this effect was subtle.",19.23
+14,5,"In evaluating this applicant’s credit risk, the model first considered the duration of the loan, which stands at 42 months.",16.47
+14,6,"Altogether, while the extended loan duration weighed against the applicant, the combination of their loan purpose, age, credit amount, and housing status collectively worked to offset some of this risk, shaping the model’s final assessment.",13.68
+15,1,"On the other hand, the presence of only a moderate checking account status somewhat detracted from the applicant's profile, as stronger account histories typically inspire more confidence.",45.53
+15,2,"Additionally, the purpose of the loan—specifically, its use for radio or television purchases—further nudged the prediction toward a less favorable outcome, since such purposes may be associated with non-essential spending.",21.63
+15,3,"However, the applicant's status as a homeowner exerted a modest positive influence, suggesting greater financial stability and thus slightly improving the credit risk assessment.",16.61
+15,4,"Finally, the applicant's age of 29 contributed a small negative effect, as younger applicants are sometimes perceived as less financially established.",12.86
+15,5,"In evaluating this applicant's credit risk, the model first noted that the requested credit amount of 2,896 played a significant role in increasing the likelihood of being classified as a 'bad' credit risk, as larger loan amounts tend to signal higher risk.",11.26
+15,6,"Taken together, these factors interacted to shape the model's overall judgment, with the larger credit amount and loan purpose outweighing the stabilizing effects of homeownership and age.",10.45
+16,1,"To begin with, the applicant’s age of 23 slightly decreased their likelihood of being classified as a good credit risk, as younger applicants are often perceived as less financially stable.",18.33
+16,2,"Furthermore, the relatively short loan duration of 13 months also nudged the prediction toward a favorable outcome, as shorter commitments generally reduce uncertainty for lenders.",15.81
+16,3,"On the other hand, the applicant’s moderate checking account status exerted a small negative influence, indicating only modest financial reserves.",15.86
+16,4,"However, the intended purpose of the loan—purchasing radio or television equipment—contributed positively, suggesting that such loans are typically associated with lower risk.",13.42
+16,5,"Altogether, these intertwined factors guided the model’s assessment, with each feature actively shaping the final prediction through its unique impact.",13.96
+16,6,"In evaluating this applicant’s credit risk, the model considered several key factors that collectively shaped its decision.",12.53
+16,7,"Nevertheless, the fact that the applicant owns their housing provided a subtle but meaningful boost to their creditworthiness, reflecting greater financial security.",12.73
+17,1,"To begin with, the applicant's age of 47 years plays a significant role, positively influencing the assessment and suggesting greater financial stability or experience.",36.74
+17,2,"The loan's duration of 12 months also adds to the positive outlook, implying a shorter repayment period and thus lower risk.",15.91
+17,3,"However, the purpose of the loan, which is for education, slightly detracts from the overall assessment, perhaps because educational loans are sometimes associated with delayed returns on investment.",11.36
+17,4,"Building on this, the requested credit amount of 1393 further contributes to a favorable evaluation, as it may indicate a manageable level of debt.",12.27
+17,5,"Altogether, these factors interact to shape the model's judgment, with the applicant's age and financial commitments exerting the strongest influence on the final prediction.",11.95
+17,6,"In this case, the model predicts the applicant's credit risk by weighing several key factors.",11.69
+17,7,"Finally, the fact that the applicant owns their housing nudges the prediction in a positive direction, reflecting a stable living situation.",11.37
+19,1,"Additionally, the requested credit amount of 1244 contributed modestly to lowering the applicant’s chances, suggesting that higher loan amounts may be viewed with caution.",60.96
+19,2,"This positive influence was further reinforced by the applicant’s age of 41, which the model interpreted as a sign of financial stability and reliability.",22.79
+19,3,"However, as the assessment continued, the model observed that the loan’s purpose—education—slightly reduced the probability of a favorable classification, perhaps reflecting a perceived higher risk associated with educational loans.",15.78
+19,4,"Finally, the applicant’s gender, identified as female, exerted a small negative effect on the prediction.",12.47
+19,5,"In evaluating this applicant’s credit risk, the model first considered the duration of the loan, noting that a term of 9 months played a significant role in increasing the likelihood of being classified as a good credit risk.",10.43
+19,6,"Altogether, while certain factors such as loan duration and age actively promoted a positive outcome, other elements subtly counterbalanced this effect, ultimately shaping the model’s nuanced judgment.",10.68
+20,1,"Additionally, the applicant’s gender, being male, contributed a slight positive effect, nudging the prediction toward a better credit risk classification.",47.44
+20,2,"To begin with, the applicant’s relatively young age subtly decreased their likelihood of being classified as a good credit risk, as did their current housing status of renting, which the model interpreted as a minor negative signal.",17.77
+20,3,"Meanwhile, the requested credit amount exerted a modest positive influence, suggesting that the size of the loan aligned with patterns typically associated with more favorable credit outcomes.",13.57
+20,4,"However, the duration of the loan, set at 24 months, introduced a small negative impact, indicating that longer repayment periods may be viewed with some caution.",10.02
+20,5,"In evaluating this applicant’s credit risk, the model considered several key factors that collectively shaped its decision.",9.47
+20,6,"Altogether, these intertwined factors—each exerting its own push or pull—combined to guide the model’s final assessment of the applicant’s creditworthiness.",9.07
+21,1,"Finally, the applicant's gender, being female, had a small negative impact on the risk score.",37.13
+21,2,"This effect was somewhat counterbalanced by the applicant's age of 22, which slightly reduced the risk, suggesting that younger applicants are viewed more favorably.",12.57
+21,3,"However, the fact that the applicant rents their home contributed modestly to a higher risk assessment, as did the loan duration of 24 months, which nudged the prediction further toward 'bad' credit risk.",12.55
+21,4,"Taken together, these factors interacted to shape the model's final judgment, with the requested credit amount playing the most decisive role in tipping the prediction toward a higher risk classification.",11.24
+21,5,"In evaluating this applicant's credit risk, the model first noted the requested credit amount of 3,632, which exerted the most significant influence by increasing the likelihood of being classified as a 'bad' credit risk.",9.62
+22,1,"Initially, the relatively long loan duration of 48 months exerted a negative influence, signaling to the model that extended repayment periods may increase the likelihood of default.",32.07
+22,2,"Meanwhile, the applicant’s housing status—classified as 'free'—slightly detracted from their creditworthiness, perhaps because the absence of housing expenses does not necessarily guarantee financial responsibility.",19.66
+22,3,"Additionally, the requested credit amount of 8,858 further nudged the prediction downward, as higher loan amounts typically elevate risk.",18.11
+22,4,"However, this effect was partially counterbalanced by the applicant’s age of 35, which contributed positively; the model inferred that individuals at this life stage often possess greater financial stability and reliability.",12.5
+22,5,"Altogether, these intertwined factors guided the model toward its final assessment of the applicant’s credit risk.",11.73
+22,6,"In evaluating this applicant’s credit risk, the model considered several key factors that collectively shaped its decision.",10.73
+22,7,"Finally, the intended use of the loan for purchasing a car had a modest negative impact, suggesting that such purposes are viewed by the model as marginally riskier compared to other loan reasons.",9.94
+23,1,"To begin with, the relatively high amount of credit requested exerted a notable downward pull on the applicant's creditworthiness, signaling to the model that a larger loan amount may increase the risk of default.",19.77
+23,2,"As the assessment continued, the applicant's gender—being male—offered a modest positive influence, subtly improving the overall evaluation.",16.91
+23,3,"However, this benefit was partially offset by the applicant's limited savings, which suggested a weaker financial cushion and thus contributed negatively to the risk assessment.",12.25
+23,4,"This effect was further compounded by the purpose of the loan being for education, which the model interpreted as slightly riskier compared to other purposes, thereby nudging the prediction further toward a less favorable outcome.",10.36
+23,5,"Altogether, these interacting factors guided the model toward its final judgment, with the larger requested credit and limited savings weighing most heavily against the applicant, while homeownership and gender offered some counterbalancing support.",10.49
+23,6,"In evaluating this applicant's credit risk, the model considered several key factors that collectively shaped its decision.",9.83
+23,7,"Finally, the fact that the applicant owns their housing provided a small but meaningful boost, as homeownership is often associated with greater financial stability.",9.39
+24,1,"However, the model also took into account that the applicant owns their housing, which slightly alleviated concerns about creditworthiness.",47.65
+24,2,"Because the applicant sought a relatively high credit amount, this factor actively increased the likelihood of being classified as a 'bad' credit risk.",28.02
+24,3,"Furthermore, the applicant’s age contributed to the prediction, as being 38 years old moderately heightened the perceived risk.",22.17
+24,4,"Interestingly, the intended purpose of the loan—to purchase a car—helped to reduce the risk assessment, as did the applicant’s status as a highly skilled worker.",15.67
+24,5,"In evaluating this applicant’s credit risk, the model first considered the amount of credit requested, which played a significant role in shaping the prediction.",12.86
+24,6,"Ultimately, while some features worked to mitigate risk, the substantial credit amount and the applicant’s age exerted a stronger influence, tipping the model’s prediction toward a higher risk classification.",11.13
+25,1,"To begin with, the applicant’s age of 55 years emerges as a significant positive influence, strongly increasing the likelihood of being classified as a good credit risk.",22.93
+25,2,"However, the fact that the applicant’s housing status is listed as “free” slightly detracts from their creditworthiness, indicating that not having a traditional housing arrangement such as owning or renting may raise some concerns for the model.",10.65
+25,3,"Meanwhile, the purpose of the loan—repairs—contributes positively, albeit modestly, implying that loans for practical needs are viewed more favorably.",9.94
+25,4,"This suggests that, according to the model, older applicants are generally seen as more reliable borrowers.",9.44
+25,5,"Altogether, the model’s prediction is shaped by the interplay of these factors, with the applicant’s age and loan purpose working to their advantage, while housing status, loan amount, and duration introduce minor reservations.",8.97
+25,6,"In this case, the model predicts the applicant’s credit risk by weighing several aspects of their profile.",8.83
+25,7,"On the other hand, both the requested credit amount of 1190 and the loan duration of 18 months exert small negative effects, signaling that higher loan amounts and longer repayment periods are perceived as slightly riskier.",8.44
+27,1,"However, these effects were outweighed by other factors.",32.17
+27,2,This positive influence suggests that the requested amount aligns well with patterns observed among reliable borrowers.,70.99
+27,3,"At the same time, the applicant’s gender and age exerted modest downward pressure on the prediction, subtly decreasing the probability of a favorable classification.",35.64
+27,4,"Notably, the applicant’s status as a homeowner and possession of a rich checking account both contributed positively, albeit to a lesser extent, reinforcing the model’s confidence in the applicant’s financial stability.",19.89
+27,5,"In evaluating this applicant’s credit risk, the model first considered the amount of credit requested, which played a pivotal role by substantially increasing the likelihood of being classified as a good credit risk.",14.73
+27,6,"Altogether, these interacting factors led the model to its final assessment, with the credit amount and financial indicators ultimately tipping the balance toward a good credit risk classification.",13.99
+28,1,"However, the applicant's gender, being female, exerted a slight downward influence on the prediction, suggesting that, within the model's learned patterns, this characteristic was associated with a marginally higher risk.",28.68
+28,2,"This effect was further reinforced by the moderate amount of credit requested, which signaled financial prudence and thus nudged the prediction in a favorable direction.",21.2
+28,3,"Additionally, the applicant's status as a homeowner subtly strengthened the model's confidence, as owning property often reflects financial stability.",15.51
+28,4,"Finally, the presence of only a small amount in the checking account provided a modest positive contribution, indicating some available resources.",14.9
+28,5,"In evaluating this applicant's credit risk, the model first considered the purpose of the loan, noting that a request for radio or TV purchases contributed positively to the likelihood of being classified as a good credit risk.",14.04
+28,6,"Altogether, these factors interacted to shape the model's overall assessment, with the positive influences outweighing the negative, ultimately guiding the prediction toward a good credit risk classification.",12.11
+29,1,"Because the applicant sought a moderate credit amount, this factor significantly swayed the model’s assessment.",172.67
+29,2,"The applicant’s checking account status, described as having little balance, exerted a smaller yet notable effect, subtly increasing the perceived risk.",56.71
+29,3,"Meanwhile, the fact that the applicant owns their housing provided a stabilizing influence, as homeownership often signals financial reliability.",30.46
+29,4,"Building on this, the intended purpose of the loan—specifically for radio or television purchases—further contributed to the model’s reasoning, suggesting a relatively standard and lower-risk use of funds.",22.03
+29,5,"Together, these factors interacted to guide the model toward its final classification, with each feature shaping the outcome through its distinct contribution.",19.45
+29,6,"In evaluating this applicant’s credit risk, the model first considered the amount of credit requested, which played the most influential role in shaping the prediction.",15.86
+29,7,"Finally, the applicant’s gender, identified as male, had the least impact among the top features, but still played a minor role in the overall evaluation.",14.35

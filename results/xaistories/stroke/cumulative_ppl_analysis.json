@@ -1,0 +1,49 @@
+{
+  "fitted_parameters": {
+    "A": 40.530692,
+    "r": 0.314197,
+    "C": 7.059405,
+    "b_decay": 1.157736,
+    "fit_success": true
+  },
+  "fit_quality": {
+    "r_squared": 0.993292,
+    "rmse": 0.381551,
+    "mape": 3.608589,
+    "residual_mean": 0.096211,
+    "residual_std": 0.369222
+  },
+  "dataset_statistics": {
+    "num_texts": 30,
+    "num_sentences_range": [
+      5,
+      5
+    ],
+    "avg_distinct_2gram_ratio": 0.950069,
+    "avg_ttr": 0.582908,
+    "avg_verb_ratio": 0.15028,
+    "avg_connectives_ratio": 0.075965,
+    "avg_cause_effect_ratio": 0.004311
+  },
+  "dcpr_metric": 0.348,
+  "ccpr_metric": 54.447,
+  "ttcpr_metric": 0.925,
+  "vcpr_metric": 13.912,
+  "averaged_curve": {
+    "x": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "y": [
+      19.8723,
+      10.596,
+      8.8826,
+      7.8698,
+      7.0694
+    ]
+  },
+  "cecpr_metric": 16908.826
+}

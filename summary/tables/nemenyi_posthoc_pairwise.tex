@@ -1,0 +1,37 @@
+% Requires \usepackage[table]{xcolor} in your preamble.
+\begin{table}[!htb]
+\centering
+\caption{Nemenyi post-hoc pairwise $p$-values. Significance: $^{***}\,p<0.001$, $^{**}\,p<0.01$, $^{*}\,p<0.05$. Methods with missing results on a dataset receive an equal last rank penalty (consistent with the ranking tables).}
+\label{tab:nemenyi_posthoc}
+\setlength{\tabcolsep}{3pt}
+\renewcommand{\arraystretch}{0.9}
+\resizebox{\textwidth}{!}{
+    \begin{tabular}{lcccccccccccc}
+    \toprule
+    Framework pair & PPL & Dist$_2$ & TTR & VR & CD & FDR & CSR & CECPR & DCPR & CCPR & TTCPR & VCPR \\
+    \midrule
+    TalkToModel vs Explingo & \cellcolor[HTML]{4CAF50}$<$0.001$^{***}$ & 0.293 & 0.074 & 0.967 & -- & 0.591 & 1.000 & 1.000 & 1.000 & 1.000 & 1.000 & 1.000 \\
+    TalkToModel vs Templ. Expl. & 0.985 & 0.985 & 0.985 & 0.985 & -- & 1.000 & 0.893 & 1.000 & 0.763 & \cellcolor[HTML]{90EE90}0.006$^{**}$ & 0.835 & \cellcolor[HTML]{90EE90}0.006$^{**}$ \\
+    TalkToModel vs XAIstories & 0.105 & \cellcolor[HTML]{90EE90}0.009$^{**}$ & \cellcolor[HTML]{DFF5DC}0.035$^{*}$ & 0.196 & -- & \cellcolor[HTML]{90EE90}0.007$^{**}$ & 0.763 & 0.412 & \cellcolor[HTML]{90EE90}0.003$^{**}$ & \cellcolor[HTML]{DFF5DC}0.015$^{*}$ & \cellcolor[HTML]{DFF5DC}0.018$^{*}$ & \cellcolor[HTML]{DFF5DC}0.035$^{*}$ \\
+    TalkToModel vs XAIstories Narr. & \cellcolor[HTML]{DFF5DC}0.035$^{*}$ & \cellcolor[HTML]{90EE90}0.002$^{**}$ & \cellcolor[HTML]{90EE90}0.009$^{**}$ & 0.258 & -- & \cellcolor[HTML]{DFF5DC}0.042$^{*}$ & 0.124 & 0.145 & 0.145 & 0.145 & 0.226 & 0.412 \\
+    TalkToModel vs Explingo Z-S & \cellcolor[HTML]{90EE90}0.001$^{**}$ & \cellcolor[HTML]{DFF5DC}0.012$^{*}$ & \cellcolor[HTML]{4CAF50}$<$0.001$^{***}$ & 0.723 & -- & 0.330 & \cellcolor[HTML]{DFF5DC}0.023$^{*}$ & 0.763 & 0.258 & 0.763 & \cellcolor[HTML]{DFF5DC}0.035$^{*}$ & 0.412 \\
+    TalkToModel vs Explingo Narr. & 0.412 & \cellcolor[HTML]{DFF5DC}0.035$^{*}$ & 0.330 & 0.967 & -- & \cellcolor[HTML]{90EE90}0.002$^{**}$ & \cellcolor[HTML]{90EE90}0.007$^{**}$ & 0.763 & 0.412 & 0.937 & 0.412 & 0.835 \\
+    Explingo vs Templ. Expl. & \cellcolor[HTML]{90EE90}0.009$^{**}$ & 0.800 & 0.412 & 0.591 & -- & 0.680 & 0.893 & 1.000 & 0.763 & \cellcolor[HTML]{90EE90}0.006$^{**}$ & 0.835 & \cellcolor[HTML]{90EE90}0.006$^{**}$ \\
+    Explingo vs XAIstories & 0.680 & 0.866 & 1.000 & \cellcolor[HTML]{DFF5DC}0.015$^{*}$ & -- & 0.545 & 0.763 & 0.412 & \cellcolor[HTML]{90EE90}0.003$^{**}$ & \cellcolor[HTML]{DFF5DC}0.015$^{*}$ & \cellcolor[HTML]{DFF5DC}0.018$^{*}$ & \cellcolor[HTML]{DFF5DC}0.035$^{*}$ \\
+    Explingo vs XAIstories Narr. & 0.893 & 0.636 & 0.994 & \cellcolor[HTML]{DFF5DC}0.023$^{*}$ & -- & 0.866 & 0.124 & 0.145 & 0.145 & 0.145 & 0.226 & 0.412 \\
+    Explingo vs Explingo Z-S & 1.000 & 0.893 & 0.591 & 0.169 & -- & 1.000 & \cellcolor[HTML]{DFF5DC}0.023$^{*}$ & 0.763 & 0.258 & 0.763 & \cellcolor[HTML]{DFF5DC}0.035$^{*}$ & 0.412 \\
+    Explingo vs Explingo Narr. & 0.258 & 0.977 & 0.994 & 0.500 & -- & 0.293 & \cellcolor[HTML]{90EE90}0.007$^{**}$ & 0.763 & 0.412 & 0.937 & 0.412 & 0.835 \\
+    Templ. Expl. vs XAIstories & 0.500 & 0.105 & 0.258 & 0.680 & -- & \cellcolor[HTML]{DFF5DC}0.012$^{*}$ & 1.000 & 0.412 & 0.258 & 1.000 & 0.455 & 0.998 \\
+    Templ. Expl. vs XAIstories Narr. & 0.258 & \cellcolor[HTML]{DFF5DC}0.035$^{*}$ & 0.105 & 0.763 & -- & 0.062 & 0.800 & 0.145 & 0.937 & 0.937 & 0.954 & 0.680 \\
+    Templ. Expl. vs Explingo Z-S & \cellcolor[HTML]{DFF5DC}0.023$^{*}$ & 0.124 & \cellcolor[HTML]{90EE90}0.003$^{**}$ & 0.990 & -- & 0.412 & 0.412 & 0.763 & 0.985 & 0.330 & 0.591 & 0.680 \\
+    Templ. Expl. vs Explingo Narr. & 0.893 & 0.258 & 0.835 & 1.000 & -- & \cellcolor[HTML]{90EE90}0.003$^{**}$ & 0.226 & 0.763 & 0.998 & 0.145 & 0.994 & 0.258 \\
+    XAIstories vs XAIstories Narr. & 1.000 & 1.000 & 1.000 & 1.000 & -- & 0.998 & 0.917 & 0.998 & 0.893 & 0.985 & 0.967 & 0.937 \\
+    XAIstories vs Explingo Z-S & 0.835 & 1.000 & 0.763 & 0.977 & -- & 0.800 & 0.591 & 0.998 & 0.763 & 0.500 & 1.000 & 0.937 \\
+    XAIstories vs Explingo Narr. & 0.994 & 1.000 & 0.967 & 0.763 & -- & 1.000 & 0.370 & 0.998 & 0.591 & 0.258 & 0.866 & 0.591 \\
+    XAIstories Narr. vs Explingo Z-S & 0.967 & 0.999 & 0.937 & 0.990 & -- & 0.977 & 0.997 & 0.937 & 1.000 & 0.937 & 0.990 & 1.000 \\
+    XAIstories Narr. vs Explingo Narr. & 0.937 & 0.985 & 0.835 & 0.835 & -- & 0.967 & 0.967 & 0.937 & 0.998 & 0.763 & 1.000 & 0.994 \\
+    Explingo Z-S vs Explingo Narr. & 0.412 & 1.000 & 0.196 & 0.997 & -- & 0.545 & 1.000 & 1.000 & 1.000 & 1.000 & 0.937 & 0.994 \\
+    \bottomrule
+    \end{tabular}
+}
+\end{table}

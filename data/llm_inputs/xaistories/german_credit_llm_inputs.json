@@ -1,0 +1,1292 @@
+[
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Purpose",
+                "feature_importance": 0.0664,
+                "feature_value": "radio/TV",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": 0.062,
+                "feature_value": "1880",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.036,
+                "feature_value": "32",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Checking account",
+                "feature_importance": 0.0349,
+                "feature_value": "little",
+                "feature_average": "N/A",
+                "feature_description": "Status of the applicant's checking account"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": 0.0332,
+                "feature_value": "own",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.1298,
+                "feature_value": "55",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": 0.0806,
+                "feature_value": "1603",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Purpose",
+                "feature_importance": 0.0663,
+                "feature_value": "radio/TV",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": 0.0333,
+                "feature_value": "own",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            },
+            {
+                "feature_name": "Sex",
+                "feature_importance": -0.0232,
+                "feature_value": "female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the applicant"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Duration",
+                "feature_importance": 0.1841,
+                "feature_value": "4",
+                "feature_average": 20.83,
+                "feature_description": "Duration of the loan in months"
+            },
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": 0.0594,
+                "feature_value": "1494",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.0375,
+                "feature_value": "29",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Purpose",
+                "feature_importance": -0.0309,
+                "feature_value": "car",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Sex",
+                "feature_importance": 0.0241,
+                "feature_value": "male",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the applicant"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Duration",
+                "feature_importance": 0.1928,
+                "feature_value": "6",
+                "feature_average": 20.83,
+                "feature_description": "Duration of the loan in months"
+            },
+            {
+                "feature_name": "Purpose",
+                "feature_importance": -0.064,
+                "feature_value": "car",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.0567,
+                "feature_value": "26",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": -0.0394,
+                "feature_value": "783",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": 0.0198,
+                "feature_value": "own",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.0926,
+                "feature_value": "40",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Purpose",
+                "feature_importance": 0.0789,
+                "feature_value": "radio/TV",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": 0.0703,
+                "feature_value": "3077",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Duration",
+                "feature_importance": -0.0645,
+                "feature_value": "30",
+                "feature_average": 20.83,
+                "feature_description": "Duration of the loan in months"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": 0.0304,
+                "feature_value": "own",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.0848,
+                "feature_value": "24",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Purpose",
+                "feature_importance": 0.0823,
+                "feature_value": "radio/TV",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Duration",
+                "feature_importance": 0.0776,
+                "feature_value": "9",
+                "feature_average": 20.83,
+                "feature_description": "Duration of the loan in months"
+            },
+            {
+                "feature_name": "Checking account",
+                "feature_importance": -0.0305,
+                "feature_value": "moderate",
+                "feature_average": "N/A",
+                "feature_description": "Status of the applicant's checking account"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": 0.02,
+                "feature_value": "own",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Duration",
+                "feature_importance": 0.1054,
+                "feature_value": "9",
+                "feature_average": 20.83,
+                "feature_description": "Duration of the loan in months"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.054,
+                "feature_value": "29",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Checking account",
+                "feature_importance": -0.0369,
+                "feature_value": "moderate",
+                "feature_average": "N/A",
+                "feature_description": "Status of the applicant's checking account"
+            },
+            {
+                "feature_name": "Sex",
+                "feature_importance": -0.0363,
+                "feature_value": "female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the applicant"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": 0.0183,
+                "feature_value": "own",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted good credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.1254,
+                "feature_value": "20",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Purpose",
+                "feature_importance": 0.0697,
+                "feature_value": "radio/TV",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": -0.0454,
+                "feature_value": "rent",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            },
+            {
+                "feature_name": "Duration",
+                "feature_importance": 0.0403,
+                "feature_value": "12",
+                "feature_average": 20.83,
+                "feature_description": "Duration of the loan in months"
+            },
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": 0.0204,
+                "feature_value": "585",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted good credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Duration",
+                "feature_importance": -0.1595,
+                "feature_value": "72",
+                "feature_average": 20.83,
+                "feature_description": "Duration of the loan in months"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.0756,
+                "feature_value": "24",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Checking account",
+                "feature_importance": -0.0272,
+                "feature_value": "moderate",
+                "feature_average": "N/A",
+                "feature_description": "Status of the applicant's checking account"
+            },
+            {
+                "feature_name": "Purpose",
+                "feature_importance": 0.0238,
+                "feature_value": "radio/TV",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": 0.0155,
+                "feature_value": "own",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.0904,
+                "feature_value": "54",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": -0.0813,
+                "feature_value": "free",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            },
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": 0.0667,
+                "feature_value": "1597",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Purpose",
+                "feature_importance": -0.0193,
+                "feature_value": "education",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Checking account",
+                "feature_importance": 0.0127,
+                "feature_value": "little",
+                "feature_average": "N/A",
+                "feature_description": "Status of the applicant's checking account"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": 0.1118,
+                "feature_value": "3190",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Purpose",
+                "feature_importance": 0.0939,
+                "feature_value": "radio/TV",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.0386,
+                "feature_value": "24",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": 0.0338,
+                "feature_value": "own",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            },
+            {
+                "feature_name": "Duration",
+                "feature_importance": 0.0217,
+                "feature_value": "18",
+                "feature_average": 20.83,
+                "feature_description": "Duration of the loan in months"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Purpose",
+                "feature_importance": 0.0743,
+                "feature_value": "radio/TV",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": 0.0728,
+                "feature_value": "2831",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Duration",
+                "feature_importance": -0.0595,
+                "feature_value": "30",
+                "feature_average": 20.83,
+                "feature_description": "Duration of the loan in months"
+            },
+            {
+                "feature_name": "Sex",
+                "feature_importance": -0.0389,
+                "feature_value": "female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the applicant"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": 0.0285,
+                "feature_value": "own",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Duration",
+                "feature_importance": 0.1919,
+                "feature_value": "8",
+                "feature_average": 20.83,
+                "feature_description": "Duration of the loan in months"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.1193,
+                "feature_value": "47",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Purpose",
+                "feature_importance": -0.0408,
+                "feature_value": "car",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": -0.0374,
+                "feature_value": "731",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": 0.0234,
+                "feature_value": "own",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": 0.0926,
+                "feature_value": "3414",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Purpose",
+                "feature_importance": -0.0342,
+                "feature_value": "education",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Duration",
+                "feature_importance": 0.032,
+                "feature_value": "21",
+                "feature_average": 20.83,
+                "feature_description": "Duration of the loan in months"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": 0.0307,
+                "feature_value": "own",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            },
+            {
+                "feature_name": "Sex",
+                "feature_importance": 0.0264,
+                "feature_value": "male",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the applicant"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Duration",
+                "feature_importance": -0.1272,
+                "feature_value": "42",
+                "feature_average": 20.83,
+                "feature_description": "Duration of the loan in months"
+            },
+            {
+                "feature_name": "Purpose",
+                "feature_importance": 0.0559,
+                "feature_value": "radio/TV",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.0299,
+                "feature_value": "34",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": 0.0279,
+                "feature_value": "3965",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": 0.0224,
+                "feature_value": "own",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": 0.0939,
+                "feature_value": "2896",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Purpose",
+                "feature_importance": 0.0421,
+                "feature_value": "radio/TV",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": 0.0331,
+                "feature_value": "own",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            },
+            {
+                "feature_name": "Checking account",
+                "feature_importance": -0.0322,
+                "feature_value": "moderate",
+                "feature_average": "N/A",
+                "feature_description": "Status of the applicant's checking account"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.0252,
+                "feature_value": "29",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.0907,
+                "feature_value": "23",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Purpose",
+                "feature_importance": 0.0875,
+                "feature_value": "radio/TV",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Duration",
+                "feature_importance": 0.0505,
+                "feature_value": "13",
+                "feature_average": 20.83,
+                "feature_description": "Duration of the loan in months"
+            },
+            {
+                "feature_name": "Checking account",
+                "feature_importance": -0.0257,
+                "feature_value": "moderate",
+                "feature_average": "N/A",
+                "feature_description": "Status of the applicant's checking account"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": 0.0233,
+                "feature_value": "own",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.093,
+                "feature_value": "47",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": 0.0678,
+                "feature_value": "1393",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Duration",
+                "feature_importance": 0.0556,
+                "feature_value": "12",
+                "feature_average": 20.83,
+                "feature_description": "Duration of the loan in months"
+            },
+            {
+                "feature_name": "Purpose",
+                "feature_importance": -0.0367,
+                "feature_value": "education",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": 0.0263,
+                "feature_value": "own",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.0558,
+                "feature_value": "35",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": 0.0227,
+                "feature_value": "own",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            },
+            {
+                "feature_name": "Saving accounts",
+                "feature_importance": 0.0201,
+                "feature_value": "moderate",
+                "feature_average": "N/A",
+                "feature_description": "Status of the applicant's saving accounts"
+            },
+            {
+                "feature_name": "Sex",
+                "feature_importance": 0.019,
+                "feature_value": "male",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the applicant"
+            },
+            {
+                "feature_name": "Purpose",
+                "feature_importance": -0.0176,
+                "feature_value": "car",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Duration",
+                "feature_importance": 0.1563,
+                "feature_value": "9",
+                "feature_average": 20.83,
+                "feature_description": "Duration of the loan in months"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.1233,
+                "feature_value": "41",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Purpose",
+                "feature_importance": -0.0314,
+                "feature_value": "education",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": -0.0305,
+                "feature_value": "1244",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Sex",
+                "feature_importance": -0.0267,
+                "feature_value": "female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the applicant"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted good credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.0642,
+                "feature_value": "24",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": -0.0638,
+                "feature_value": "rent",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            },
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": 0.0425,
+                "feature_value": "3021",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Sex",
+                "feature_importance": 0.0206,
+                "feature_value": "male",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the applicant"
+            },
+            {
+                "feature_name": "Duration",
+                "feature_importance": -0.0206,
+                "feature_value": "24",
+                "feature_average": 20.83,
+                "feature_description": "Duration of the loan in months"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted good credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": 0.1346,
+                "feature_value": "3632",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.1174,
+                "feature_value": "22",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": -0.0355,
+                "feature_value": "rent",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            },
+            {
+                "feature_name": "Duration",
+                "feature_importance": -0.0267,
+                "feature_value": "24",
+                "feature_average": 20.83,
+                "feature_description": "Duration of the loan in months"
+            },
+            {
+                "feature_name": "Sex",
+                "feature_importance": -0.025,
+                "feature_value": "female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the applicant"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted good credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Duration",
+                "feature_importance": -0.0734,
+                "feature_value": "48",
+                "feature_average": 20.83,
+                "feature_description": "Duration of the loan in months"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.0669,
+                "feature_value": "35",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": -0.0592,
+                "feature_value": "free",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            },
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": -0.0432,
+                "feature_value": "8858",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Purpose",
+                "feature_importance": -0.0186,
+                "feature_value": "car",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted good credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": -0.0901,
+                "feature_value": "701",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Purpose",
+                "feature_importance": -0.0471,
+                "feature_value": "education",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Sex",
+                "feature_importance": 0.0241,
+                "feature_value": "male",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the applicant"
+            },
+            {
+                "feature_name": "Saving accounts",
+                "feature_importance": -0.0204,
+                "feature_value": "little",
+                "feature_average": "N/A",
+                "feature_description": "Status of the applicant's saving accounts"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": 0.0184,
+                "feature_value": "own",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": 0.1051,
+                "feature_value": "2859",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.0766,
+                "feature_value": "38",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": 0.0269,
+                "feature_value": "own",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            },
+            {
+                "feature_name": "Purpose",
+                "feature_importance": -0.0235,
+                "feature_value": "car",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Job",
+                "feature_importance": -0.0202,
+                "feature_value": "highly skilled",
+                "feature_average": "N/A",
+                "feature_description": "Job type or category"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.0988,
+                "feature_value": "55",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": -0.0559,
+                "feature_value": "free",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            },
+            {
+                "feature_name": "Purpose",
+                "feature_importance": 0.0427,
+                "feature_value": "repairs",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": -0.025,
+                "feature_value": "1190",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Duration",
+                "feature_importance": -0.024,
+                "feature_value": "18",
+                "feature_average": 20.83,
+                "feature_description": "Duration of the loan in months"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Purpose",
+                "feature_importance": 0.0622,
+                "feature_value": "radio/TV",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": 0.0407,
+                "feature_value": "33",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": 0.027,
+                "feature_value": "own",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            },
+            {
+                "feature_name": "Sex",
+                "feature_importance": 0.0254,
+                "feature_value": "male",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the applicant"
+            },
+            {
+                "feature_name": "Duration",
+                "feature_importance": 0.0174,
+                "feature_value": "18",
+                "feature_average": 20.83,
+                "feature_description": "Duration of the loan in months"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": 0.1092,
+                "feature_value": "3749",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Sex",
+                "feature_importance": -0.0424,
+                "feature_value": "female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the applicant"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": 0.0247,
+                "feature_value": "own",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            },
+            {
+                "feature_name": "Age",
+                "feature_importance": -0.0223,
+                "feature_value": "26",
+                "feature_average": 33.1,
+                "feature_description": "Age of the applicant"
+            },
+            {
+                "feature_name": "Checking account",
+                "feature_importance": 0.018,
+                "feature_value": "rich",
+                "feature_average": "N/A",
+                "feature_description": "Status of the applicant's checking account"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Purpose",
+                "feature_importance": 0.0945,
+                "feature_value": "radio/TV",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": 0.0642,
+                "feature_value": "1453",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": 0.0344,
+                "feature_value": "own",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            },
+            {
+                "feature_name": "Sex",
+                "feature_importance": -0.0267,
+                "feature_value": "female",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the applicant"
+            },
+            {
+                "feature_name": "Checking account",
+                "feature_importance": 0.0242,
+                "feature_value": "little",
+                "feature_average": "N/A",
+                "feature_description": "Status of the applicant's checking account"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to classify applicants as 'good' or 'bad' credit risks.",
+        "predicted_class": "Predicted bad credit risk",
+        "dataset_description": "This dataset contains information on individuals applying for credit, including financial status, credit history, and personal details. ",
+        "target_description": "A credit applicant whose financial and personal details are used to assess credit risk.",
+        "feature_desc": [
+            {
+                "feature_name": "Credit amount",
+                "feature_importance": 0.0651,
+                "feature_value": "1823",
+                "feature_average": 2543.77,
+                "feature_description": "Amount of credit requested"
+            },
+            {
+                "feature_name": "Purpose",
+                "feature_importance": 0.0486,
+                "feature_value": "radio/TV",
+                "feature_average": "N/A",
+                "feature_description": "Purpose of the loan"
+            },
+            {
+                "feature_name": "Checking account",
+                "feature_importance": 0.0335,
+                "feature_value": "little",
+                "feature_average": "N/A",
+                "feature_description": "Status of the applicant's checking account"
+            },
+            {
+                "feature_name": "Housing",
+                "feature_importance": 0.0316,
+                "feature_value": "own",
+                "feature_average": "N/A",
+                "feature_description": "Housing status (Own, Rent, etc.)"
+            },
+            {
+                "feature_name": "Sex",
+                "feature_importance": 0.0294,
+                "feature_value": "male",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the applicant"
+            }
+        ]
+    }
+]

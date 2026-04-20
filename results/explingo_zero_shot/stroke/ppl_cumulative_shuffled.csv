@@ -1,0 +1,134 @@
+text_id_shuff,num_sentences_shuff,last_sentence_shuff,ppl_shuff
+0,1,Gender does not contribute to the prediction in this case.,90.09
+0,2,"The person's average glucose level, BMI, and lack of hypertension all have very minimal effects, slightly decreasing the risk.",42.0
+0,3,"Overall, age is the most influential factor driving the model's assessment of stroke risk for this individual.",26.54
+0,4,"The model predicts the risk of stroke for this individual primarily based on their age, which at 78 years old, significantly increases the predicted risk.",15.43
+1,1,Their body mass index of 32.10 contributed a small increase to the risk.,63.67
+1,2,"The patient's age of 51 slightly decreased the predicted risk, as did their average glucose level of 98.41.",26.15
+1,3,"Not having hypertension slightly reduced the risk, and the patient's gender (male) had a negligible effect on the prediction.",15.76
+1,4,The model considered several factors to predict the risk of stroke for this individual.,15.12
+2,1,"However, a higher body mass index (BMI) slightly increases the risk.",16.25
+2,2,Being 39 years old and having no hypertension both slightly decrease the predicted risk.,24.38
+2,3,The person's average glucose level and gender have almost no effect on the prediction.,20.0
+2,4,"Overall, age and BMI are the most influential factors in this prediction, with age reducing and BMI increasing the estimated risk.",14.18
+2,5,The model predicts this individual's risk of stroke by considering several factors from their health records.,14.91
+3,1,"Not having hypertension slightly reduced the risk, and the patient's gender (female) had a negligible effect on the prediction.",37.89
+3,2,"The patient's age of 52 slightly decreased the predicted risk, as did their average glucose level of 101.30.",20.7
+3,3,Their body mass index (BMI) of 33.10 contributed a small increase to the risk.,13.38
+3,4,"Overall, each factor had only a minor influence on the model's final risk assessment.",12.95
+3,5,The model considered several factors to predict the risk of stroke for this individual.,12.16
+4,1,Not having hypertension and being male have almost no impact on the prediction.,128.64
+4,2,"The person's average glucose level and body mass index have very small effects, slightly lowering and slightly raising the risk, respectively.",29.87
+4,3,"Overall, age is the most significant factor influencing the model's assessment of stroke risk in this case.",21.34
+4,4,"The model predicts the risk of stroke for this individual primarily based on their age, which increases the risk.",15.35
+5,1,"Additionally, the patient's low Body Mass Index (BMI) of 18.40, low average glucose level of 65.32, and absence of hypertension all contribute slightly to lowering the risk.",21.64
+5,2,"The most significant factor lowering the risk is the patient's age of 8 years, which greatly reduces the likelihood of stroke.",12.58
+5,3,The patient's gender (female) does not have a meaningful impact on the prediction.,10.23
+5,4,The model predicts a low risk of stroke for this individual.,9.18
+6,1,"Additionally, the patient's low BMI, low average glucose level, and absence of hypertension all contribute slightly to lowering the risk.",35.57
+6,2,"The main reason for this is the patient's young age, which significantly reduces the predicted risk.",17.76
+6,3,Gender does not have a meaningful impact on the prediction in this case.,14.43
+6,4,The model predicts a low risk of stroke for this individual.,12.56
+7,1,A low body mass index (BMI) of 19.50 and a low average glucose level of 81.51 also contribute slightly to lowering the risk.,22.51
+7,2,"The most significant factor reducing the risk is the patient's age of 17, which strongly decreases the predicted risk.",16.07
+7,3,The absence of hypertension and the patient's gender (female) have minimal to no effect on the prediction.,12.59
+7,4,The model predicts a lower risk of stroke for this individual.,11.69
+8,1,"The fact that the patient does not have hypertension slightly lowers the risk, and the patient's gender (female) has a negligible effect on the prediction.",20.24
+8,2,The patient's age of 70 contributes significantly to increasing the predicted risk.,14.24
+8,3,"The average glucose level of 69.04 and a BMI of 35.90 have very small effects, with the glucose level slightly decreasing the risk and the BMI slightly increasing it.",11.57
+8,4,"Overall, age is the most influential factor in this prediction.",10.7
+8,5,The model predicts the risk of stroke for this individual by considering several factors.,11.13
+9,1,"The absence of hypertension further reduces the risk, though only by a small amount.",31.48
+9,2,"The patient's age of 8 years has the largest negative impact on the predicted risk, significantly lowering it.",22.18
+9,3,A low Body Mass Index (BMI) of 16.10 and an average glucose level of 118.66 also slightly decrease the risk.,16.21
+9,4,The patient's gender (male) does not have any noticeable effect on the prediction.,12.07
+9,5,The model predicts the risk of stroke for this individual by considering several factors.,12.28
+9,6,"Overall, these factors combine to suggest a lower risk of stroke for this individual.",10.98
+10,1,Their Body Mass Index (BMI) of 20.30 and average glucose level of 70.78 also slightly reduce the risk.,37.51
+10,2,"The patient's age of 6 years has the largest negative impact on the risk, significantly lowering it.",24.74
+10,3,"Additionally, the absence of hypertension further decreases the risk, while the patient's gender (male) does not have a meaningful effect on the prediction.",14.91
+10,4,The model predicts a low risk of stroke for this individual.,13.42
+11,1,Their body mass index of 30.10 contributed a small increase to the risk.,62.99
+11,2,"The patient's age of 53 slightly decreased the predicted risk, as did their average glucose level of 94.78.",25.47
+11,3,"Not having hypertension slightly reduced the risk, and the patient's gender (female) had a negligible effect on the prediction.",15.46
+11,4,The model considered several factors to predict the risk of stroke for this individual.,14.81
+12,1,"On the other hand, a high body mass index (BMI) of 41.60 slightly increases the risk.",18.64
+12,2,The patient's age of 41 reduces the predicted risk the most.,19.69
+12,3,Their average glucose level of 92.49 and the absence of hypertension also slightly decrease the risk.,17.33
+12,4,The patient's gender (male) has a negligible effect on the prediction.,12.64
+12,5,The model predicts the risk of stroke for this individual by considering several factors.,12.67
+12,6,"Overall, age is the most influential factor in lowering the predicted risk in this case.",11.32
+13,1,"Additionally, a healthy body mass index (BMI of 20), a normal average glucose level (81.18), and the absence of hypertension all contribute slightly to reducing the risk.",30.02
+13,2,The patient's young age (9 years old) is the most significant factor lowering the risk.,20.24
+13,3,The patient's gender (female) does not have a meaningful impact on the prediction.,14.55
+13,4,The model predicts a low risk of stroke for this individual.,13.03
+14,1,"The fact that the patient does not have hypertension slightly lowers the risk, and being female does not have a noticeable impact on the prediction.",31.12
+14,2,"The patient's age of 39 years reduces the predicted risk, as indicated by a negative contribution.",19.89
+14,3,"Their average glucose level of 55.28 slightly increases the risk, while a BMI of 31.50 has a very small positive effect.",16.79
+14,4,"Overall, age is the most influential factor in lowering the predicted risk for this individual.",14.63
+14,5,The model predicts the risk of stroke for this individual by considering several factors.,13.98
+15,1,"Not having hypertension had a negligible effect in lowering the risk, and being male did not influence the prediction.",49.51
+15,2,"The patient's age of 46 slightly decreased the predicted risk, while their BMI of 29.30 had a very small positive effect, slightly increasing the risk.",22.49
+15,3,The average glucose level of 137.77 contributed a small decrease to the risk.,20.22
+15,4,"Overall, the most influential factor was age, which reduced the predicted risk the most.",16.63
+15,5,The model considered several factors to predict the risk of stroke for this individual.,15.55
+16,1,Their average glucose level of 100.33 and BMI of 23.20 also slightly decrease the risk.,67.32
+16,2,The patient's age of 36 contributes the most to reducing the predicted risk.,37.97
+16,3,"Not having hypertension has a very small negative effect on the risk, and the patient's gender (female) does not influence the prediction.",19.56
+16,4,The model predicts a lower risk of stroke for this individual.,17.6
+17,1,The patient's gender (male) had a negligible effect on the prediction.,37.27
+17,2,"The patient's age of 46 slightly decreased the predicted risk, while their Body Mass Index (BMI) of 28.30 had a very small positive effect, slightly increasing the risk.",11.65
+17,3,The average glucose level of 59.05 and the absence of hypertension both contributed marginally to lowering the risk.,11.89
+17,4,"Overall, age was the most influential factor in reducing the predicted risk, with other features having minimal impact.",10.86
+17,5,The model considered several factors to predict the risk of stroke for this individual.,10.59
+18,1,"Other factors such as a low Body Mass Index, average glucose level, and absence of hypertension also contribute slightly to lowering the risk.",26.84
+18,2,"The model predicts a lower risk of stroke for this individual, mainly because of their age, which significantly reduces the risk.",20.19
+18,3,Gender does not have a noticeable impact on the prediction in this case.,15.94
+19,1,"Other factors, such as a low body mass index, average glucose level, and absence of hypertension, also contribute slightly to lowering the risk.",18.76
+19,2,"The main reason for this is the patient's age, which significantly reduces the predicted risk.",16.36
+19,3,The patient's gender does not have a noticeable impact on the prediction.,13.01
+19,4,The model predicts a lower risk of stroke for this individual.,12.24
+20,1,Gender does not have a meaningful impact on the prediction in this case.,44.31
+20,2,"The patient's average glucose level, BMI, and absence of hypertension all have very small negative effects, slightly lowering the risk.",28.87
+20,3,"Overall, age is the most significant factor contributing to the predicted risk of stroke.",19.85
+20,4,"The model predicts the risk of stroke for this individual primarily based on their age, which increases the predicted risk.",14.7
+21,1,"Other factors such as average glucose level, hypertension status, BMI, and gender have minimal impact on the prediction, with age being by far the most influential factor in this case.",21.33
+21,2,"The model predicts the risk of stroke for this individual primarily based on their age, which at 79 years old, significantly increases the predicted risk.",15.09
+22,1,"The absence of hypertension has a minimal negative effect, further reducing the risk.",85.05
+22,2,"The patient's age of 8 years has the largest negative impact on the predicted risk, significantly lowering it.",31.37
+22,3,A low body mass index (BMI) of 14.60 and an average glucose level of 108.06 also slightly decrease the risk.,19.15
+22,4,"The patient's gender, being male, does not contribute to the prediction in this case.",14.7
+22,5,The model predicts the risk of stroke for this individual by considering several factors.,14.48
+22,6,"Overall, these factors combine to suggest a lower risk of stroke for this individual.",12.59
+23,1,"Not having hypertension had a minimal negative impact on the risk, and being female did not significantly affect the prediction.",50.36
+23,2,"The patient's age of 53 slightly decreased the predicted risk, while their Body Mass Index (BMI) of 29.90 had a very small positive effect on the risk.",16.8
+23,3,The average glucose level of 83.41 contributed to a slight decrease in risk.,16.47
+23,4,"Overall, each factor contributed only marginally to the final risk assessment.",15.13
+23,5,The model considered several factors to predict the risk of stroke for this individual.,14.04
+24,1,"Their Body Mass Index (BMI) of 25.60, average glucose level of 63.73, and not having hypertension all contribute slightly to reducing the risk.",31.14
+24,2,The patient's age of 23 years is the most significant factor lowering the risk.,19.9
+24,3,The patient's gender (female) does not have a meaningful impact on the prediction.,13.84
+24,4,The model predicts a low risk of stroke for this individual.,12.68
+25,1,The patient's gender (male) does not have a significant effect on the prediction.,19.28
+25,2,"The patient's age of 38 reduces the predicted risk, as does their average glucose level of 108.68.",15.62
+25,3,"Their BMI of 32.70 slightly increases the risk, while not having hypertension slightly decreases it.",11.96
+25,4,"Overall, age and glucose level are the most influential factors in lowering the predicted risk in this case.",10.22
+25,5,The model predicts the risk of stroke for this individual by considering several factors.,10.69
+26,1,Their average glucose level and BMI also slightly reduce the predicted risk.,313.83
+26,2,"The model predicts a lower risk of stroke for this individual mainly because of their younger age, which has the largest negative impact on the risk score.",29.03
+26,3,"The absence of hypertension contributes a very small decrease, and gender does not affect the prediction in this case.",21.62
+27,1,"The patient's BMI of 32.50 has a small effect in increasing the risk, while gender (female) does not have a noticeable impact on the prediction.",21.16
+27,2,The patient's age of 28 years significantly lowers the predicted risk.,14.39
+27,3,Their average glucose level of 87.92 and the absence of hypertension also contribute to a slightly lower risk.,14.47
+27,4,"Overall, the combination of these factors results in a lower predicted risk of stroke for this individual.",11.04
+27,5,The model predicts the risk of stroke for this individual by considering several factors.,10.74
+28,1,"The patient's BMI of 33.10 slightly increased the predicted risk, as did the presence of hypertension.",29.39
+28,2,The patient's age of 46 years contributed to a lower predicted risk.,14.06
+28,3,Their average glucose level of 85.62 had a very small negative effect on the risk.,14.52
+28,4,The patient's gender (male) did not have a noticeable impact on the prediction.,11.24
+28,5,The model considered several factors to predict the risk of stroke for this individual.,11.33
+29,1,"On the other hand, an average glucose level of 75.52 and not having hypertension both slightly decrease the predicted risk.",66.23
+29,2,The patient's age of 54 years increases the predicted risk the most.,28.1
+29,3,Their Body Mass Index (BMI) of 28.70 also slightly raises the risk.,17.93
+29,4,"The patient's gender, being female, does not have a noticeable effect on the prediction.",12.92
+29,5,The model predicts the risk of stroke for this individual by considering several factors.,13.39

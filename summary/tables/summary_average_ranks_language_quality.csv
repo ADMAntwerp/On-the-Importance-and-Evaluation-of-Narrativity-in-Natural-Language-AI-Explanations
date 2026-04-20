@@ -1,0 +1,8 @@
+Method,PPL,Dist$_2$,TTR,VR,CD,Overall
+XAIstories Narratives,4.833,2.167,2.667,2.417,2.583,2.933
+XAIstories,4.333,2.667,3.167,2.25,3.083,3.1
+Explingo Zero-Shot,6.0,2.75,1.333,3.333,4.083,3.5
+Explingo Narratives,3.5,3.167,4.333,4.083,3.833,3.783
+Templated Explanation,2.0,6.0,6.0,4.25,5.25,4.7
+Explingo,6.333,4.25,3.5,6.417,3.583,4.817
+TalkToModel,1.0,7.0,7.0,5.25,5.583,5.167

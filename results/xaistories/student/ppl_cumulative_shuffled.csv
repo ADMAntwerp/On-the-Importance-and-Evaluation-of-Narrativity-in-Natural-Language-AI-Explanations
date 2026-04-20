@@ -1,0 +1,151 @@
+text_id_shuff,num_sentences_shuff,last_sentence_shuff,ppl_shuff
+0,1,"While the student has not failed any classes before, which is a positive sign, their number of absences is higher than average, possibly indicating missed learning opportunities that could further hinder progress.",22.33
+0,2,"This outcome is driven most strongly by the student’s second period grade, which is noticeably below the average—suggesting that recent academic performance has not met expectations and is a key warning sign for final success.",22.67
+0,3,"The first period grade also falls short of the typical student’s, reinforcing the concern that the student has struggled to keep up with the course material over time.",15.96
+0,4,"Although the student does not go out with friends often, which might suggest fewer distractions, the combination of lower grades and higher absences ultimately led the model to predict a failing outcome, highlighting the importance of consistent performance and attendance in passing the course.",13.43
+0,5,The model predicted that the student undertaking the mathematics course is likely to fail.,13.62
+1,1,"The number of absences, which matches the average, did not significantly sway the result, but frequent absences can sometimes compound academic difficulties.",54.08
+1,2,"This outcome is driven most strongly by the student’s low grades in both the first and second periods, with scores of 5 and 6, which are well below the typical averages and suggest ongoing academic struggles.",28.2
+1,3,"While the student’s parents are living apart, which can sometimes add stress or reduce support at home, this factor played a smaller role in the prediction.",20.97
+1,4,"Finally, the fact that the student’s mother works at home may offer some support, but it was not enough to offset the impact of consistently low grades, which are the clearest signals of risk in this case.",14.89
+1,5,The model predicted that the student undertaking the mathematics course is likely to fail.,15.16
+2,1,"While the first period grade is just below the average, the improvement seen in the second period may indicate positive momentum and growing mastery of the material.",32.26
+2,2,"This confident prediction is driven most strongly by the student’s second period grade, which stands out as notably higher than average—a sign that the student has recently demonstrated strong mathematical ability, often a key indicator of final success.",23.23
+2,3,"The student’s number of absences is slightly below average, suggesting consistent attendance, which is generally linked to better academic outcomes.",16.0
+2,4,"Additionally, the student’s age is a bit younger than typical for the course, and with no previous failures, this combination hints at a student who is progressing smoothly and steadily, further supporting the model’s optimistic outlook.",13.48
+2,5,The model predicted that the student undertaking the mathematics course is likely to pass.,14.14
+3,1,"The student’s very low number of absences and lack of previous class failures both point to strong engagement and reliability, which are often linked to better outcomes in school.",43.35
+3,2,"The most influential factor in this decision was the student’s strong second period grade of 14, which stands out well above the typical score and signals consistent academic performance.",29.55
+3,3,"Supporting this, the first period grade of 15 further demonstrates the student’s ability to maintain high achievement over time, suggesting a solid grasp of the material from the start.",18.42
+3,4,"Finally, being slightly younger than the average student may indicate that this student is progressing smoothly through their education, possibly benefiting from a supportive environment or strong foundational skills.",15.91
+3,5,The model predicted that this student will pass the mathematics course.,16.71
+4,1,"Participation in extra paid classes likely signaled additional support and motivation, which can be especially helpful for students facing academic challenges.",70.51
+4,2,"The most influential factor in this prediction was the student’s second period grade, which, although slightly below the average, may have been offset by other strengths.",35.17
+4,3,"Notably, the student’s first period grade was above average, suggesting a solid academic foundation and the potential to recover from a dip in performance.",17.19
+4,4,"Despite the student’s very bad current health, their low number of absences indicates strong attendance, which often helps students keep up with coursework and ultimately succeed.",18.48
+4,5,The model predicted that the student will pass the mathematics course.,18.34
+5,1,"Notably, the student has no record of past class failures, which removes a major risk factor, and has not missed any classes, a pattern that usually supports better learning and retention.",35.77
+5,2,"This confident prediction is driven most strongly by the student’s solid performance in the second period, with a grade of 11, which is slightly above the typical average and often signals a strong grasp of the material as the course progresses.",22.67
+5,3,"The first period grade also matches this level, suggesting consistent achievement rather than a one-time spike, which is generally a good sign for future success.",18.46
+5,4,"Finally, the student chose the school for its reputation, which might reflect a positive attitude toward education and a supportive environment, further tipping the scales toward a passing outcome.",16.38
+5,5,The model predicted that the student will pass the mathematics course.,16.25
+6,1,Although the student has had 9 absences—more than average—the absence of any past class failures suggests resilience and the ability to keep up with coursework despite missing some classes.,46.32
+6,2,"This confident prediction is largely due to the student’s strong performance in the second period, with a grade of 13, which is notably higher than what is typical for most students and signals consistent understanding of the material.",24.21
+6,3,"The first period grade is also impressive at 15, reinforcing the idea that the student has maintained solid academic progress throughout the year.",18.55
+6,4,"Finally, the fact that the student chose the school for its reputation may indicate a supportive environment and personal motivation, both of which can further enhance academic success.",16.5
+6,5,The model predicted that the student will pass the mathematics course.,16.86
+7,1,"Interestingly, the fact that the student’s father works at home did not have a strong impact on the prediction, nor did the student’s perfect attendance, though having no absences likely supports steady learning.",30.07
+7,2,"The most influential factor in this prediction was the student’s strong second period grade, which stands out as significantly higher than the typical score, suggesting consistent academic ability and engagement.",22.14
+7,3,"Closely following, the first period grade was also well above average, reinforcing the impression of a student who has built a solid foundation in mathematics from the start of the year.",14.54
+7,4,"Finally, the absence of any previous class failures further strengthens the case for success, as it indicates a history of overcoming academic challenges.",12.86
+7,5,The model predicted that this student will pass the mathematics course.,12.88
+8,1,"With only a few absences, the student has been present for most classes, which likely helped them keep up with the material, and the absence of any previous failures suggests a solid academic foundation.",19.57
+8,2,"The most influential factor in this decision was the student’s strong second period grade, which stands well above the typical average and signals consistent academic performance.",19.17
+8,3,"Their first period grade also matches this high level, reinforcing the impression of a student who has maintained steady effort and understanding throughout the year.",14.87
+8,4,"Additionally, participation in extra paid classes may have provided further support, giving the student an extra boost in mastering challenging topics.",15.79
+8,5,The model predicted that this student will pass the mathematics course.,17.23
+9,1,"Although the student has attended extra paid classes and has not failed any classes in the past, these positive factors are outweighed by the consistently low grades.",28.84
+9,2,"This outcome is driven most strongly by the student’s low second period grade, which is much lower than what is typical and often signals ongoing academic struggles that are hard to overcome by the end of the course.",21.48
+9,3,"The first period grade is also below average, reinforcing the concern that the student has not built a strong foundation in mathematics from the start.",15.8
+9,4,"Additionally, the student’s number of absences is slightly above average, which may have further limited their ability to keep up with the material, making it even more challenging to pass the course.",11.13
+9,5,The model predicted that the student undertaking the mathematics course is likely to fail.,12.4
+10,1,"The student’s low number of absences suggests they are regularly present in class, giving them more opportunities to engage with lessons and keep up with assignments, while having no previous class failures further supports the likelihood of passing, as it points to a history of academic resilience.",20.5
+10,2,"This confident prediction is driven first and foremost by the student’s strong performance in the second period, with a grade of 14, which is notably higher than what is typical for students in this dataset and signals consistent understanding of the material.",16.18
+10,3,"Their first period grade is equally impressive and reinforces the idea that this student has maintained solid academic progress throughout the year, which is often a strong indicator of future success.",13.25
+10,4,"Finally, the student’s age of 16 is right around the average, indicating they are at an expected developmental stage for this course, which likely means they are neither at a disadvantage nor an advantage due to age.",11.14
+10,5,The model predicted that the student will pass the mathematics course.,11.48
+11,1,"The student rarely goes out with friends, which may indicate a focus on studies and fewer distractions outside of school.",39.79
+11,2,"This confident prediction is driven first and foremost by the student’s strong performance in the second period, with a grade of 15 that stands well above the typical average—suggesting consistent mastery of the material as the course progresses.",28.9
+11,3,"Similarly, the student’s first period grade is also notably high, reinforcing the impression of steady academic achievement from the outset.",20.92
+11,4,"Additionally, the absence of any previous class failures and a very low number of absences compared to peers both point to a reliable and engaged learner, further supporting the model’s positive outlook for this student’s success.",15.87
+11,5,The model predicted that the student will pass the mathematics course.,15.91
+12,1,"The student’s history of two past class failures stands out, as repeated setbacks can erode confidence and make it harder to recover academically.",44.45
+12,2,"The most influential factor in this prediction was the student’s second period grade, which was noticeably below the average, suggesting ongoing academic struggles that often foreshadow final outcomes.",28.6
+12,3,"Closely following, the first period grade was also lower than what is typical, reinforcing the concern that the student has not been able to keep up with the coursework from the start.",16.73
+12,4,"Additionally, the student is older than most of their peers and comes from a family where the parents live apart, both of which can introduce unique challenges—such as increased responsibilities or less support at home—that may further hinder academic success.",12.56
+12,5,The model predicted that the student undertaking the mathematics course is likely to fail.,13.36
+13,1,"Interestingly, the student is taking extra paid classes, which might typically help, but in this context, it seems insufficient to offset the impact of their lower grades.",50.08
+13,2,"This outcome is strongly influenced by the student’s second and first period grades, which are both below the average for their peers—suggesting that consistent struggles throughout the year have put them at risk.",26.19
+13,3,"The student’s age is higher than most classmates, which could indicate they have repeated a year or faced other academic challenges, further contributing to the prediction.",21.26
+13,4,"Finally, the student’s gender is noted, but compared to the other factors, it plays a smaller role in shaping the model’s decision.",15.75
+13,5,The model predicted that the student undertaking the mathematics course is likely to fail.,16.33
+14,1,"The fact that the student has not failed any classes in the past and has very few absences compared to peers further supports the likelihood of success, as both a clean academic record and regular attendance are often linked to better outcomes.",17.16
+14,2,"This decision was most strongly influenced by the student’s solid performance in the second period, with a grade that is right around the class average, suggesting consistent understanding of the material as the course progressed.",15.48
+14,3,"Their first period grade was also above average, indicating a strong start and reinforcing the impression of steady academic ability.",13.62
+14,4,"Finally, participation in extra paid classes may have provided additional support, giving the student an extra edge in mastering the subject.",14.36
+14,5,The model predicted that the student will pass the mathematics course.,14.88
+15,1,"Although the student’s mother has only completed primary education, which can sometimes limit access to academic support at home, the student is enrolled in extra paid classes, a positive sign that there are efforts to improve performance.",31.38
+15,2,"This outcome was most strongly influenced by the student’s second period grade, which is notably below the average, suggesting ongoing academic struggles that often signal risk for not passing.",30.33
+15,3,"The first period grade, while slightly higher, is still under the typical mark, reinforcing the concern that the student may not have built a strong foundation early in the course.",20.21
+15,4,"However, at age 16, which is about average for this group, the combination of lower grades and limited family educational background appears to outweigh the benefits of extra help, leading the model to predict a failing outcome.",17.35
+15,5,The model predicted that the student undertaking the mathematics course is likely to fail.,17.42
+16,1,"While the student has experienced one past failure, which is higher than most of their peers, their recent grades suggest they have overcome earlier challenges—perhaps learning from past mistakes or benefiting from new support.",35.2
+16,2,"This confident prediction is driven primarily by the student’s strong performance in the second period, where their grade of 14 stands out well above the typical average, signaling consistent mastery of the material.",26.0
+16,3,"Their first period grade is also notably high, reinforcing the impression of a student who has built a solid academic foundation from the start.",19.05
+16,4,"Although the student is older than average and frequently goes out with friends, their academic resilience and strong recent grades seem to outweigh any potential distractions, leading the model to predict a successful outcome.",16.35
+16,5,The model predicted that the student will pass the mathematics course.,16.11
+17,1,"Compounding these academic challenges, the student has experienced two past class failures—much higher than most peers—which may indicate persistent difficulties with coursework or test-taking.",75.51
+17,2,"This outcome is primarily influenced by the student’s second period grade, which is noticeably below the average, suggesting ongoing academic struggles as the course progresses.",39.98
+17,3,"The first period grade also falls short of the typical performance, reinforcing the concern that the student has not built a strong foundation early in the year.",22.39
+17,4,"Additionally, the student’s higher-than-average absences could mean missed learning opportunities, and the lack of extra paid classes removes a potential support system, all of which together paint a picture of a student at risk of not passing.",17.63
+17,5,The model predicted that the student undertaking the mathematics course is likely to fail.,18.77
+18,1,"Additionally, the student has already experienced two past class failures, a pattern that can undermine confidence and make it harder to recover academically.",35.16
+18,2,"This outcome was most strongly influenced by the student’s second period grade, which was notably lower than the typical score, suggesting ongoing academic struggles that often signal risk for failing.",29.94
+18,3,"The first period grade was also below average, reinforcing the concern that the student has faced consistent challenges throughout the year.",19.78
+18,4,"While the student is younger than most peers and is receiving extra educational support from the school, these factors were not enough to outweigh the negative impact of low grades and repeated failures, which are well-known predictors of academic difficulty.",14.6
+18,5,The model predicted that the student undertaking the mathematics course is likely to fail.,15.44
+19,1,"With only a few absences, the student has maintained good attendance, which often supports better learning and performance.",34.87
+19,2,"This confident prediction is driven most strongly by the student’s impressive second period grade, which stands well above the average and signals consistent academic strength.",35.09
+19,3,"Their first period grade is also notably higher than what is typical, reinforcing the impression of a student who has built a solid foundation from the start of the year.",18.26
+19,4,"Additionally, being slightly younger than average and going out with friends infrequently may suggest a focus on studies and fewer distractions, further supporting the likelihood of passing.",17.45
+19,5,The model predicted that the student will pass the mathematics course.,17.92
+20,1,"While the student is slightly younger than most of their peers, which could mean less experience or maturity in handling coursework, their low frequency of going out with friends might indicate a more reserved social life, though this did not offset the academic difficulties.",37.33
+20,2,"This outcome was most strongly influenced by the student’s second period grade, which was noticeably below the average, suggesting that recent academic struggles may be a key concern.",27.25
+20,3,"The first period grade was also lower than what is typical, reinforcing the idea that the student has faced ongoing challenges in mathematics throughout the year.",20.15
+20,4,"Finally, the student’s gender was considered, but it played a relatively minor role compared to the consistent pattern of lower grades, which ultimately led the model to predict a failing outcome.",16.16
+20,5,The model predicted that the student undertaking the mathematics course is likely to fail.,15.87
+21,1,"With only 6 absences, the student’s attendance is about average, suggesting that they are present enough to keep up with lessons, and their age of 15, slightly younger than most peers, may indicate they are progressing well for their grade level.",22.07
+21,2,"The most influential factor in this decision was the student’s strong second period grade of 13, which stands out as notably higher than what is typical and signals consistent academic performance.",20.52
+21,3,"Their first period grade of 11, also above average, further supports the idea that they have a solid grasp of the material from the start.",14.15
+21,4,"Importantly, the student has no record of past failures, which often reflects resilience and a positive academic track record, all of which combine to make passing the course a likely outcome.",13.34
+21,5,The model predicted that this student will pass the mathematics course.,13.8
+22,1,"While the student is slightly younger than most of their peers and chose the school for its reputation, these factors do not appear to offset the impact of their academic performance.",26.84
+22,2,"This outcome is mainly driven by the student’s low second period grade, which is significantly below the typical average and often signals ongoing academic struggles that are hard to overcome by the end of the course.",19.72
+22,3,"The first period grade also falls short of what is commonly seen among students who pass, suggesting that the student may have faced consistent challenges throughout the year.",15.04
+22,4,"Even though the student reports very good health, which can sometimes support better learning, it was not enough to counterbalance the low grades in this case.",13.86
+22,5,The model predicted that the student undertaking the mathematics course is likely to fail.,15.11
+23,1,"Interestingly, while the student does not express a desire to pursue higher education, this factor did not outweigh the positive impact of their strong grades.",32.3
+23,2,"This confident prediction is driven most strongly by the student’s strong performance in the second period, with a grade of 12, which is notably higher than the typical student’s score and signals consistent understanding of the material.",24.89
+23,3,"The first period grade also stands out at 14, further reinforcing the impression of a student who has built a solid academic foundation from the start.",18.36
+23,4,"Additionally, the student’s low number of absences and lack of previous class failures suggest good attendance and a history of academic success, both of which are often linked to passing outcomes in mathematics.",15.23
+23,5,The model predicted that the student will pass the mathematics course.,15.12
+24,1,"The student’s number of absences was higher than typical, which could have raised concerns, but the model seems to have weighed this against the fact that the student has never failed a class before—a strong indicator of resilience and academic capability.",19.78
+24,2,"The most influential factor in this decision was the student’s second period grade, which, while slightly below the average, still indicates a solid performance and suggests the student has maintained enough understanding to succeed.",16.19
+24,3,"Interestingly, the first period grade was a bit lower than average, but its impact on the prediction was less significant, perhaps because students often improve as the year progresses or adapt to the course’s demands.",12.49
+24,4,"Finally, although the student is older than most of their peers, this may reflect a non-traditional academic path rather than a lack of ability, and the combination of these factors led the model to a positive outlook for the student’s success.",9.7
+24,5,The model predicted that this student will pass the mathematics course.,9.83
+25,1,"Additionally, the student has a history of multiple past class failures, which can indicate persistent challenges with academic performance and may undermine confidence or motivation.",36.56
+25,2,"This outcome was most strongly influenced by the student’s second period grade, which was noticeably lower than the typical score, suggesting recent academic struggles that often signal risk for failing.",32.89
+25,3,"The first period grade was also well below average, reinforcing the concern that the student has faced ongoing difficulties in mathematics throughout the year.",20.89
+25,4,"While the student is taking extra paid classes and is close in age to the average student, these positive factors were not enough to outweigh the impact of consistently low grades and repeated failures, which are well-known predictors of academic risk.",16.72
+25,5,The model predicted that the student undertaking the mathematics course is likely to fail.,16.81
+26,1,"The absence of any past class failures and very few school absences further support the idea that this student is both capable and engaged, as students who attend regularly and have not struggled before are more likely to succeed.",25.23
+26,2,"This confident prediction is driven most strongly by the student’s second period grade, which is notably higher than the average, suggesting consistent academic strength as the course progresses.",24.55
+26,3,"The first period grade also stands out as above average, reinforcing the impression of a student who has built a solid foundation from the start.",16.78
+26,4,"Finally, the student’s low frequency of going out with friends may indicate a greater focus on studies, which, in combination with the other positive factors, helps explain why the model expects this student to pass.",13.93
+26,5,The model predicted that the student will pass the mathematics course.,13.71
+27,1,"The student’s age is a bit younger than most peers, which might indicate early advancement or strong foundational skills, both of which can be advantageous.",36.28
+27,2,"This positive outcome is strongly influenced by the student’s second period grade, which is slightly above the average and suggests recent academic improvement—a key indicator of likely success in the final assessment.",30.07
+27,3,"Interestingly, the first period grade was lower than average, but this did not weigh as heavily, perhaps because students often adapt and improve as the year progresses.",20.01
+27,4,"Additionally, the student has no recorded absences and rarely goes out with friends, suggesting a high level of commitment and focus on studies, both of which are commonly associated with better academic performance.",14.66
+27,5,The model predicted that the student will pass the mathematics course.,15.61
+28,1,"Notably, the student has no recorded absences, which is much better than average and likely signals strong attendance and engagement—factors that are well-known to support academic success.",30.37
+28,2,"Interestingly, the first period grade is a bit lower than average, but this seems to have less impact, perhaps because improvement over time is often a positive sign in educational settings.",19.64
+28,3,"The student’s age is a little younger than the typical student in the dataset, which might indicate they are progressing well for their age, possibly reflecting maturity or motivation.",15.88
+28,4,"Finally, the student reports a low frequency of going out with friends, which could mean they dedicate more time to studies, further supporting the model’s prediction that they are on track to pass.",12.42
+28,5,"The model predicted that the student will pass the mathematics course, and this outcome is most strongly influenced by the student’s second period grade, which is slightly above average—suggesting consistent academic performance leading up to the final assessment.",11.05
+29,1,"While the student’s health status is described as very bad, which can sometimes hinder learning and concentration, the excellent quality of family relationships could offer emotional support, though it may not be enough to offset the academic challenges.",39.24
+29,2,"This outcome was most strongly influenced by the student’s second period grade, which is notably below the average, suggesting ongoing academic struggles that often signal risk for failing.",36.72
+29,3,"The first period grade also falls short of the typical performance, reinforcing the concern that the student has not built a strong foundation in the subject.",24.13
+29,4,"Interestingly, the student has no recorded absences, which usually helps, but in this case, consistent attendance has not translated into better grades, highlighting that the main issue lies in academic performance rather than lack of presence in class.",16.66
+29,5,The model predicted that the student undertaking the mathematics course is likely to fail.,17.46

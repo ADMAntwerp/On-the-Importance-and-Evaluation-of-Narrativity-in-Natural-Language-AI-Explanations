@@ -1,0 +1,1292 @@
+[
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": 0.1501,
+                "feature_value": "2",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": -0.1276,
+                "feature_value": "3",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0482,
+                "feature_value": "4",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0053,
+                "feature_value": "328",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0027,
+                "feature_value": "43",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": 0.1501,
+                "feature_value": "1",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": -0.1276,
+                "feature_value": "2",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0482,
+                "feature_value": "5",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0053,
+                "feature_value": "189",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0027,
+                "feature_value": "28",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": 0.1501,
+                "feature_value": "1",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": -0.1276,
+                "feature_value": "3",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0482,
+                "feature_value": "5",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0053,
+                "feature_value": "458",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0027,
+                "feature_value": "49",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": 0.1501,
+                "feature_value": "1",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": -0.1276,
+                "feature_value": "1",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0482,
+                "feature_value": "6",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0053,
+                "feature_value": "281",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0027,
+                "feature_value": "40",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Not predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": -0.4849,
+                "feature_value": "0",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": 0.0974,
+                "feature_value": "64",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": 0.0297,
+                "feature_value": "5",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0277,
+                "feature_value": "433",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0209,
+                "feature_value": "6",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Not predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": -0.5503,
+                "feature_value": "0",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": 0.0297,
+                "feature_value": "7",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0277,
+                "feature_value": "484",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0209,
+                "feature_value": "7",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0131,
+                "feature_value": "48",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Not predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": -0.5503,
+                "feature_value": "0",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": 0.0297,
+                "feature_value": "5",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0277,
+                "feature_value": "467",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0209,
+                "feature_value": "5",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0131,
+                "feature_value": "44",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": 0.1501,
+                "feature_value": "1",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": -0.1276,
+                "feature_value": "1",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0482,
+                "feature_value": "5",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0053,
+                "feature_value": "226",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0027,
+                "feature_value": "32",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Not predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": -0.4509,
+                "feature_value": "0",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": 0.133,
+                "feature_value": "698",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": 0.0297,
+                "feature_value": "5",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0209,
+                "feature_value": "7",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0131,
+                "feature_value": "57",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Not predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": -0.5503,
+                "feature_value": "0",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": 0.0297,
+                "feature_value": "7",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0277,
+                "feature_value": "424",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0209,
+                "feature_value": "4",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0131,
+                "feature_value": "53",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": 0.179,
+                "feature_value": "1",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": 0.0695,
+                "feature_value": "10",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0482,
+                "feature_value": "8",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0053,
+                "feature_value": "324",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0027,
+                "feature_value": "41",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": 0.179,
+                "feature_value": "5",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": 0.0695,
+                "feature_value": "6",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0482,
+                "feature_value": "3",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0053,
+                "feature_value": "306",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0027,
+                "feature_value": "40",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Not predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": -0.4662,
+                "feature_value": "0",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": -0.0545,
+                "feature_value": "1",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0277,
+                "feature_value": "271",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0209,
+                "feature_value": "4",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0131,
+                "feature_value": "34",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": 0.179,
+                "feature_value": "2",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": 0.0695,
+                "feature_value": "5",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0482,
+                "feature_value": "6",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0053,
+                "feature_value": "485",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0027,
+                "feature_value": "59",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Not predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": -0.1983,
+                "feature_value": "2",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": -0.1276,
+                "feature_value": "1",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": 0.1172,
+                "feature_value": "2",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0053,
+                "feature_value": "247",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0027,
+                "feature_value": "32",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": 0.1501,
+                "feature_value": "3",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": -0.1276,
+                "feature_value": "2",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0482,
+                "feature_value": "6",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0053,
+                "feature_value": "372",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0027,
+                "feature_value": "42",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": 0.1501,
+                "feature_value": "1",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": -0.1276,
+                "feature_value": "2",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0482,
+                "feature_value": "3",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0053,
+                "feature_value": "326",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0027,
+                "feature_value": "41",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Not predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": -0.3854,
+                "feature_value": "0",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": 0.133,
+                "feature_value": "595",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": 0.0974,
+                "feature_value": "60",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": 0.0297,
+                "feature_value": "8",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0209,
+                "feature_value": "9",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": 0.1501,
+                "feature_value": "3",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": -0.1276,
+                "feature_value": "4",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0482,
+                "feature_value": "6",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0053,
+                "feature_value": "492",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0027,
+                "feature_value": "56",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Not predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": -0.3854,
+                "feature_value": "0",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": 0.133,
+                "feature_value": "719",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": 0.0974,
+                "feature_value": "70",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": 0.0297,
+                "feature_value": "9",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0209,
+                "feature_value": "11",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": 0.1501,
+                "feature_value": "4",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": -0.1276,
+                "feature_value": "0",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0482,
+                "feature_value": "4",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0053,
+                "feature_value": "351",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0027,
+                "feature_value": "41",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": 0.179,
+                "feature_value": "2",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": 0.0695,
+                "feature_value": "7",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0482,
+                "feature_value": "7",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0053,
+                "feature_value": "492",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0027,
+                "feature_value": "59",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": 0.1501,
+                "feature_value": "2",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": -0.1276,
+                "feature_value": "3",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0482,
+                "feature_value": "5",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0053,
+                "feature_value": "237",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0027,
+                "feature_value": "30",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": 0.179,
+                "feature_value": "2",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": 0.0695,
+                "feature_value": "8",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0482,
+                "feature_value": "7",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0053,
+                "feature_value": "398",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0027,
+                "feature_value": "47",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": 0.1258,
+                "feature_value": "2",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": 0.0695,
+                "feature_value": "8",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0482,
+                "feature_value": "4",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": 0.0253,
+                "feature_value": "699",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": 0.0198,
+                "feature_value": "71",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": 0.1501,
+                "feature_value": "2",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": -0.1276,
+                "feature_value": "3",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0482,
+                "feature_value": "7",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0053,
+                "feature_value": "524",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0027,
+                "feature_value": "58",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": 0.1258,
+                "feature_value": "1",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": 0.0695,
+                "feature_value": "10",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0482,
+                "feature_value": "9",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": 0.0253,
+                "feature_value": "718",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": 0.0198,
+                "feature_value": "72",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Not predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": -0.1983,
+                "feature_value": "2",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": -0.1276,
+                "feature_value": "2",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": 0.1172,
+                "feature_value": "2",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0053,
+                "feature_value": "269",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0027,
+                "feature_value": "39",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": 0.179,
+                "feature_value": "2",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": 0.0695,
+                "feature_value": "6",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0482,
+                "feature_value": "4",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0053,
+                "feature_value": "399",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0027,
+                "feature_value": "38",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    },
+    {
+        "task_description": "The task was to predict whether a football team will receive or not receive the 'Man of the Match' award for its player.",
+        "predicted_class": "Predicted to get a Man of the Match award",
+        "dataset_description": "This dataset contains match performance data from FIFA World Cup matches. ",
+        "target_description": "A team in a football match.",
+        "feature_desc": [
+            {
+                "feature_name": "Goal Scored",
+                "feature_importance": 0.1501,
+                "feature_value": "1",
+                "feature_average": 1.43,
+                "feature_description": "Number of goals scored"
+            },
+            {
+                "feature_name": "Corners",
+                "feature_importance": -0.1276,
+                "feature_value": "3",
+                "feature_average": 4.57,
+                "feature_description": "Number of corner kicks"
+            },
+            {
+                "feature_name": "Off-Target",
+                "feature_importance": 0.0482,
+                "feature_value": "6",
+                "feature_average": 5.57,
+                "feature_description": "Number of off-target attempts"
+            },
+            {
+                "feature_name": "Passes",
+                "feature_importance": -0.0053,
+                "feature_value": "521",
+                "feature_average": 424.43,
+                "feature_description": "Total number of passes"
+            },
+            {
+                "feature_name": "Ball Possession %",
+                "feature_importance": -0.0027,
+                "feature_value": "47",
+                "feature_average": 47.83,
+                "feature_description": "Percentage of ball possession"
+            }
+        ]
+    }
+]

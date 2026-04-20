@@ -1,0 +1,130 @@
+text_id_rev,num_sentences_rev,last_sentence_rev,ppl_rev
+0,1,"Additionally, a diabetes pedigree function value of 0.77 and a 2-hour serum insulin level of 165 further support the prediction, though to a lesser extent.",47.53
+0,2,Elevated plasma glucose concentration (145) and a higher BMI of 30.30 also increase the likelihood of diabetes.,32.74
+0,3,"The model's prediction that the patient has diabetes is mainly influenced by the patient's age of 53 years, which contributes the most to the prediction.",18.13
+1,1,"Overall, the glucose level has the strongest impact in reducing the predicted risk.",84.88
+1,2,"On the other hand, the patient's age (38) and body mass index (30.40) slightly increase the predicted risk of diabetes.",17.26
+1,3,"A lower plasma glucose concentration (89) decreases the likelihood of diabetes, as does a lower 2-hour serum insulin level (85) and a lower triceps skin fold thickness (16).",12.16
+1,4,The model's prediction that the patient has diabetes is influenced by several factors.,12.13
+2,1,"Overall, the combination of these factors leads the model to predict a lower chance of diabetes for this patient.",28.11
+2,2,"The patient's diabetes pedigree function and number of pregnancies have only a small effect, with the pedigree function slightly increasing the risk and pregnancies slightly decreasing it.",17.47
+2,3,"Specifically, the patient's relatively low glucose level, young age, and moderate BMI each decrease the likelihood of diabetes.",14.66
+2,4,"The model predicts that this patient is less likely to have diabetes, mainly because their plasma glucose concentration, age, and BMI are all contributing to a lower risk.",11.23
+3,1,"Overall, the most influential factors in reducing the risk are the patient's glucose level and age.",29.55
+3,2,"The patient's BMI (37.40) slightly increases the risk, while their 2-hour serum insulin level (36) and diabetes pedigree function (0.25) both contribute to lowering the predicted risk.",19.02
+3,3,The patient's plasma glucose concentration (95) and age (24) both decrease the predicted risk of diabetes.,14.73
+3,4,The model predicts the likelihood of diabetes for this patient by considering several factors.,14.16
+4,1,"Overall, the positive contributions outweigh the negative ones, leading to a higher estimated risk.",32.65
+4,2,"However, the patient's younger age, lower plasma glucose concentration, and having only one pregnancy all slightly decrease the predicted risk of diabetes.",24.51
+4,3,The patient's high Diabetes Pedigree Function also contributes to a higher risk.,21.21
+4,4,"The model's prediction that the patient has diabetes is most strongly influenced by the patient's high BMI, which increases the likelihood of diabetes.",14.17
+5,1,"Overall, age and glucose level were the most significant factors reducing the risk, while BMI and insulin level had smaller effects increasing it.",37.72
+5,2,"However, having an insulin level of 0 slightly increased the predicted risk.",30.05
+5,3,The plasma glucose concentration of 124 and having one pregnancy both contributed to a lower risk.,34.64
+5,4,A higher BMI of 35.80 slightly increased the risk.,27.57
+5,5,The patient's age of 21 years contributed to lowering the predicted risk.,21.07
+5,6,The model's prediction that the patient has diabetes was influenced by several factors.,19.17
+6,1,"In contrast, their diastolic blood pressure slightly decreases the predicted risk of diabetes.",63.55
+6,2,The patient's diabetes pedigree function also contributes slightly to a higher risk.,74.82
+6,3,"The model predicts that the patient is likely to have diabetes mainly because of their high plasma glucose concentration, elevated BMI, and older age, which all increase the predicted risk.",23.18
+7,1,"Overall, the combination of these factors leads the model to estimate a lower probability of diabetes for this patient.",27.53
+7,2,"The diabetes pedigree function is 0.17, contributing to a lower risk, and the 2-hour serum insulin level is 52, which also slightly reduces the predicted risk.",17.6
+7,3,"The BMI is 32.70, which slightly increases the risk.",14.05
+7,4,"The patient's age is 25, which also slightly lowers the risk.",11.13
+7,5,"The patient's plasma glucose concentration is 87, which decreases the predicted risk of diabetes.",9.55
+7,6,The model predicts the likelihood of diabetes for this patient by considering several factors.,9.61
+8,1,"Overall, the combination of these factors leads the model to predict that the patient does not have diabetes.",24.42
+8,2,The thickness of the triceps skin fold has a minimal positive effect on the prediction.,20.74
+8,3,"On the other hand, a higher body mass index and a greater number of pregnancies slightly increase the risk, but not enough to outweigh the negative contributions.",12.9
+8,4,The patient's age also slightly reduces the risk.,11.89
+8,5,"The model's prediction that the patient does not have diabetes is mainly influenced by their plasma glucose concentration, which is relatively low and decreases the likelihood of diabetes.",9.63
+9,1,"The patient's low diabetes pedigree function (0.17), having had 2 pregnancies, and a diastolic blood pressure of 75 all contribute to a lower predicted risk of diabetes, but these effects are relatively small compared to the impact of glucose level.",34.18
+9,2,"However, a plasma glucose concentration of 139 increases the risk.",29.58
+9,3,The patient's BMI of 25.60 slightly decreases the likelihood of diabetes.,24.81
+9,4,The model's prediction that the patient has diabetes is influenced by several factors.,21.33
+10,1,"On the other hand, the patient's plasma glucose concentration slightly decreases the predicted risk, as does their diastolic blood pressure, but these effects are smaller compared to the influence of age and BMI.",17.06
+10,2,The patient's BMI and number of pregnancies also contribute to a higher risk.,14.94
+10,3,"The model's prediction that the patient has diabetes is most strongly influenced by the patient's age, which increases the likelihood of diabetes.",11.11
+11,1,"Overall, the elevated glucose level is the primary reason for the higher prediction.",79.91
+11,2,"The patient's BMI (30.90), high insulin level (318), and blood pressure (60) all contribute modestly to increasing the predicted risk of diabetes.",26.37
+11,3,A low diabetes pedigree function (0.15) slightly decreases the risk.,25.16
+11,4,"The patient's high plasma glucose concentration (148) is the most significant contributor, increasing the predicted risk.",18.73
+11,5,The model predicts the likelihood of diabetes based on several factors.,17.25
+12,1,"Overall, the most influential factors increasing the risk are the high BMI and Diabetes Pedigree Function.",56.59
+12,2,"On the other hand, a plasma glucose concentration of 124 and having had 2 pregnancies both slightly decrease the predicted risk.",29.87
+12,3,The patient's age of 30 also contributes slightly to a higher risk.,21.86
+12,4,The patient's high Body Mass Index (BMI) of 32.90 and a Diabetes Pedigree Function value of 0.88 both increase the predicted risk of diabetes.,11.99
+12,5,The model predicts the likelihood of diabetes for this patient based on several factors.,11.38
+13,1,"Overall, glucose level has the strongest negative impact, while age and BMI are the most significant positive contributors.",33.99
+13,2,"Having had 13 pregnancies adds a small increase to the risk, while a diastolic blood pressure of 72 has a minimal positive effect on the prediction.",20.89
+13,3,A BMI of 31.20 also contributes to a higher predicted risk.,18.06
+13,4,"The patient's age is 38, and this moderately increases the risk.",16.15
+13,5,"The patient's plasma glucose concentration is 104, which slightly decreases the predicted risk.",13.37
+13,6,The model's prediction about the patient's likelihood of having diabetes is influenced by several factors.,12.45
+14,1,"Overall, age and BMI are the main factors pushing the prediction higher, while glucose level and family history reduce it.",45.69
+14,2,"The patient's high BMI of 36.60 slightly increases the risk, as does having had 13 pregnancies, though to a lesser extent.",24.17
+14,3,"However, a plasma glucose concentration of 106 and a low diabetes pedigree function of 0.18 both decrease the risk.",18.25
+14,4,The patient's age of 45 years increases the likelihood of diabetes.,14.71
+14,5,The model's prediction that the patient has diabetes is influenced by several factors.,13.5
+15,1,"Specifically, the patient's relatively low BMI and glucose level have the largest negative impact, followed by their younger age, low diabetes pedigree function, and lower insulin level, all of which decrease the likelihood of a diabetes diagnosis according to the model.",22.4
+15,2,"The model predicts that the patient is less likely to have diabetes mainly because their BMI, glucose level, age, diabetes pedigree function, and insulin level all contribute negatively to the prediction.",10.34
+16,1,"Overall, the combination of these features leads the model to estimate a lower probability of diabetes for this patient.",37.19
+16,2,The diabetes pedigree function also has a small negative impact on the prediction.,31.15
+16,3,"The patient's number of pregnancies slightly increases the risk, but not enough to outweigh the other factors.",16.63
+16,4,"The model predicts that the patient is less likely to have diabetes, mainly because their BMI, glucose level, and age all contribute to lowering the risk.",10.85
+17,1,"Overall, age and BMI are the strongest contributors to a higher risk in this case.",44.52
+17,2,"However, the patient's plasma glucose concentration (112), diabetes pedigree function (0.24), and diastolic blood pressure (78 mm Hg) all slightly decrease the predicted risk.",18.96
+17,3,The patient's age (38 years) and high BMI (39.40) both increase the predicted risk of diabetes.,13.5
+17,4,The model predicts the likelihood of diabetes for this patient based on several factors.,12.58
+18,1,"Overall, the most influential factors increasing the risk are glucose level and BMI, while age and family history reduce it.",35.42
+18,2,"Additionally, a higher triceps skin fold thickness (46) slightly increases the predicted risk.",30.9
+18,3,"In contrast, the patient's younger age (26) and lower diabetes pedigree function (0.28) decrease the risk.",21.32
+18,4,A high plasma glucose concentration (135) and a high BMI (40.60) both increase the predicted risk of diabetes.,16.43
+18,5,The model predicts the likelihood of diabetes based on several factors.,15.48
+19,1,"Overall, the most influential factors in reducing the predicted risk are the patient's BMI and glucose level.",33.37
+19,2,"The patient's age of 39 slightly increases the risk, as does a diabetes pedigree function value of 0.94 and a skin thickness of 34 mm, though these increases are relatively small.",19.07
+19,3,"Specifically, a BMI of 24.70 and a glucose level of 96 each lower the risk.",16.92
+19,4,"The patient's BMI and glucose level both decrease the predicted risk, as indicated by their negative contributions.",13.88
+19,5,The model predicts the likelihood of diabetes for this patient by considering several factors.,13.71
+20,1,"The only factor that slightly increases the risk is the diabetes pedigree function, but its effect is minimal compared to the other features.",42.15
+20,2,"Additionally, the patient's glucose level, age, and number of pregnancies all contribute to lowering the risk further.",24.74
+20,3,"This is mainly because the patient's BMI is relatively low, which significantly decreases the predicted risk.",19.91
+20,4,The model predicts that the patient is less likely to have diabetes.,16.46
+21,1,"Overall, the patient's lower glucose level and younger age are the most influential factors reducing the predicted likelihood of diabetes.",45.68
+21,2,A diabetes pedigree function value of 0.26 and having no pregnancies both contribute to a small decrease in the predicted risk.,32.46
+21,3,"The patient's age is 25, which also slightly lowers the risk.",23.23
+21,4,"Their BMI is 35.30, which slightly increases the risk.",18.59
+21,5,"The patient's plasma glucose concentration is 93, which decreases the predicted risk of diabetes.",14.12
+21,6,The model predicts the likelihood of diabetes for this patient by considering several factors.,13.44
+22,1,"The patient's diabetes pedigree function (1.16) and elevated insulin level (265) had smaller, but still positive, influences on the model's decision.",129.27
+22,2,"Additionally, the patient's high BMI (46.50) and older age (58) also contributed significantly to the prediction.",39.14
+22,3,"The model predicts that the patient is likely to have diabetes mainly because of their high plasma glucose concentration (173), which had the largest impact on the prediction.",21.52
+23,1,"Overall, the low glucose level is the most influential factor in reducing the predicted chance of diabetes for this patient.",43.38
+23,2,Having a low insulin level (0) slightly decreases the risk.,32.69
+23,3,"The patient's age (41), higher BMI (32.60), and number of pregnancies (7) each slightly increase the predicted risk.",17.66
+23,4,A lower plasma glucose concentration (62) decreases the predicted risk the most.,15.71
+23,5,The model predicts the likelihood of diabetes for this patient based on several factors.,13.85
+24,1,"Overall, the combination of these features leads the model to predict a lower likelihood of diabetes for this patient.",28.63
+24,2,"Other factors like skin thickness also slightly decrease the risk, while the number of pregnancies has a very small positive effect, slightly increasing the risk.",19.06
+24,3,"Specifically, the patient's glucose level and age have the strongest negative influence on the prediction.",15.04
+24,4,"The model predicts that this patient is less likely to have diabetes mainly because their plasma glucose concentration, age, and BMI are all contributing to a lower risk.",11.59
+25,1,"The patient's BMI and number of pregnancies have a smaller, slightly increasing effect on the risk, but overall, the negative contributions from age, glucose, and pedigree function outweigh the positive ones.",39.41
+25,2,"The model predicts that the patient is less likely to have diabetes, mainly because of their younger age, lower plasma glucose concentration, and a lower diabetes pedigree function.",19.22
+26,1,"Overall, these factors together lead the model to predict a lower chance of diabetes for this patient.",37.78
+26,2,The low number of pregnancies (1) and moderate insulin level (76) also contribute slightly to lowering the risk.,26.78
+26,3,"Additionally, the patient's BMI (20.40) and young age (22) further reduce the likelihood of diabetes.",16.34
+26,4,"This is mainly because their plasma glucose concentration is relatively low (71), which strongly decreases the predicted risk.",16.55
+26,5,The model predicts that the patient is less likely to have diabetes.,13.83
+27,1,"Additionally, a high diabetes pedigree function (1.35) and elevated insulin levels (150) further support the prediction, though their impact is smaller compared to glucose, age, and BMI.",45.19
+27,2,"The patient's age (51) and body mass index (33.30) also contribute significantly, indicating that being older and having a higher BMI increase the risk.",19.92
+27,3,"The model predicts that the patient is likely to have diabetes mainly because their plasma glucose concentration is high (155), which has the strongest influence on the prediction.",14.54
+28,1,"Overall, the most influential factors in this prediction are the patient's younger age and moderate glucose level, both of which reduce the estimated risk of diabetes.",23.38
+28,2,"On the other hand, the patient's BMI (30.80) and insulin level (188) contribute slightly to increasing the predicted risk, but their effects are much smaller compared to age and glucose.",10.79
+28,3,Having no pregnancies also slightly lowers the risk.,12.11
+28,4,"The patient's age (22 years) and plasma glucose concentration (117) both decrease the predicted risk of diabetes, with age having the largest negative impact.",10.62
+28,5,The model predicts the likelihood of diabetes for this patient based on several factors.,10.34
+29,1,"Overall, the combination of higher age, BMI, and family history outweighs the negative contributions, leading to a higher estimated risk of diabetes.",28.94
+29,2,"On the other hand, the patient's plasma glucose concentration (117) and having no pregnancies slightly decrease the predicted risk.",27.66
+29,3,"The patient's diabetes pedigree function (0.93) also contributes to a higher risk, though to a lesser extent.",19.91
+29,4,"The patient's age (44 years) and BMI (33.80) both increase the predicted risk, with age having the largest positive impact.",14.6
+29,5,The model predicts the likelihood of diabetes for this patient based on several factors.,13.77

@@ -1,0 +1,1292 @@
+[
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to fail",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": -0.1652,
+                "feature_value": "9",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": -0.1048,
+                "feature_value": "8",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "absences",
+                "feature_importance": 0.0351,
+                "feature_value": "8",
+                "feature_average": 6.57,
+                "feature_description": "Number of school absences"
+            },
+            {
+                "feature_name": "goout",
+                "feature_importance": 0.0287,
+                "feature_value": "low",
+                "feature_average": "N/A",
+                "feature_description": "Frequency of going out with friends"
+            },
+            {
+                "feature_name": "failures",
+                "feature_importance": 0.0256,
+                "feature_value": "0",
+                "feature_average": 0.33,
+                "feature_description": "Number of past class failures"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to fail",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": -0.2239,
+                "feature_value": "6",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": -0.1378,
+                "feature_value": "5",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "Pstatus",
+                "feature_importance": 0.022,
+                "feature_value": "living apart",
+                "feature_average": "N/A",
+                "feature_description": "Parent's cohabitation status"
+            },
+            {
+                "feature_name": "absences",
+                "feature_importance": 0.0211,
+                "feature_value": "6",
+                "feature_average": 6.57,
+                "feature_description": "Number of school absences"
+            },
+            {
+                "feature_name": "Mjob",
+                "feature_importance": 0.0191,
+                "feature_value": "at_home",
+                "feature_average": "N/A",
+                "feature_description": "Mother's job"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to pass",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": 0.2363,
+                "feature_value": "13",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "absences",
+                "feature_importance": 0.0407,
+                "feature_value": "6",
+                "feature_average": 6.57,
+                "feature_description": "Number of school absences"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": -0.0326,
+                "feature_value": "10",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": 0.0306,
+                "feature_value": "15",
+                "feature_average": 16.5,
+                "feature_description": "Age of the student"
+            },
+            {
+                "feature_name": "failures",
+                "feature_importance": 0.0236,
+                "feature_value": "0",
+                "feature_average": 0.33,
+                "feature_description": "Number of past class failures"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to pass",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": 0.2364,
+                "feature_value": "14",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": 0.1375,
+                "feature_value": "15",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "absences",
+                "feature_importance": 0.0191,
+                "feature_value": "2",
+                "feature_average": 6.57,
+                "feature_description": "Number of school absences"
+            },
+            {
+                "feature_name": "failures",
+                "feature_importance": 0.0178,
+                "feature_value": "0",
+                "feature_average": 0.33,
+                "feature_description": "Number of past class failures"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": 0.0175,
+                "feature_value": "15",
+                "feature_average": 16.5,
+                "feature_description": "Age of the student"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to pass",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": -0.2306,
+                "feature_value": "8",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": 0.1309,
+                "feature_value": "11",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "paid",
+                "feature_importance": 0.0306,
+                "feature_value": "yes",
+                "feature_average": "N/A",
+                "feature_description": "Extra paid classes"
+            },
+            {
+                "feature_name": "health",
+                "feature_importance": 0.0295,
+                "feature_value": "very bad",
+                "feature_average": "N/A",
+                "feature_description": "Current health status"
+            },
+            {
+                "feature_name": "absences",
+                "feature_importance": 0.0168,
+                "feature_value": "2",
+                "feature_average": 6.57,
+                "feature_description": "Number of school absences"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to pass",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": 0.2083,
+                "feature_value": "11",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": 0.1222,
+                "feature_value": "11",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "failures",
+                "feature_importance": 0.0235,
+                "feature_value": "0",
+                "feature_average": 0.33,
+                "feature_description": "Number of past class failures"
+            },
+            {
+                "feature_name": "absences",
+                "feature_importance": -0.021,
+                "feature_value": "0",
+                "feature_average": 6.57,
+                "feature_description": "Number of school absences"
+            },
+            {
+                "feature_name": "reason",
+                "feature_importance": 0.0159,
+                "feature_value": "reputation",
+                "feature_average": "N/A",
+                "feature_description": "Reason for choosing the school"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to pass",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": 0.2006,
+                "feature_value": "13",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": 0.1542,
+                "feature_value": "15",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "absences",
+                "feature_importance": 0.0209,
+                "feature_value": "9",
+                "feature_average": 6.57,
+                "feature_description": "Number of school absences"
+            },
+            {
+                "feature_name": "failures",
+                "feature_importance": 0.0174,
+                "feature_value": "0",
+                "feature_average": 0.33,
+                "feature_description": "Number of past class failures"
+            },
+            {
+                "feature_name": "reason",
+                "feature_importance": 0.0122,
+                "feature_value": "reputation",
+                "feature_average": "N/A",
+                "feature_description": "Reason for choosing the school"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to pass",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": 0.228,
+                "feature_value": "15",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": 0.1854,
+                "feature_value": "16",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "Fjob",
+                "feature_importance": -0.0272,
+                "feature_value": "at_home",
+                "feature_average": "N/A",
+                "feature_description": "Father's job"
+            },
+            {
+                "feature_name": "absences",
+                "feature_importance": -0.0214,
+                "feature_value": "0",
+                "feature_average": 6.57,
+                "feature_description": "Number of school absences"
+            },
+            {
+                "feature_name": "failures",
+                "feature_importance": 0.0209,
+                "feature_value": "0",
+                "feature_average": 0.33,
+                "feature_description": "Number of past class failures"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to pass",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": 0.2335,
+                "feature_value": "14",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": 0.1546,
+                "feature_value": "14",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "absences",
+                "feature_importance": 0.0289,
+                "feature_value": "4",
+                "feature_average": 6.57,
+                "feature_description": "Number of school absences"
+            },
+            {
+                "feature_name": "failures",
+                "feature_importance": 0.0185,
+                "feature_value": "0",
+                "feature_average": 0.33,
+                "feature_description": "Number of past class failures"
+            },
+            {
+                "feature_name": "paid",
+                "feature_importance": 0.0119,
+                "feature_value": "yes",
+                "feature_average": "N/A",
+                "feature_description": "Extra paid classes"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to fail",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": -0.2311,
+                "feature_value": "5",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": -0.1362,
+                "feature_value": "6",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "absences",
+                "feature_importance": 0.0287,
+                "feature_value": "7",
+                "feature_average": 6.57,
+                "feature_description": "Number of school absences"
+            },
+            {
+                "feature_name": "paid",
+                "feature_importance": 0.0218,
+                "feature_value": "yes",
+                "feature_average": "N/A",
+                "feature_description": "Extra paid classes"
+            },
+            {
+                "feature_name": "failures",
+                "feature_importance": 0.0208,
+                "feature_value": "0",
+                "feature_average": 0.33,
+                "feature_description": "Number of past class failures"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to pass",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": 0.2383,
+                "feature_value": "14",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": 0.1676,
+                "feature_value": "14",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "absences",
+                "feature_importance": 0.0225,
+                "feature_value": "4",
+                "feature_average": 6.57,
+                "feature_description": "Number of school absences"
+            },
+            {
+                "feature_name": "failures",
+                "feature_importance": 0.0204,
+                "feature_value": "0",
+                "feature_average": 0.33,
+                "feature_description": "Number of past class failures"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": 0.0096,
+                "feature_value": "16",
+                "feature_average": 16.5,
+                "feature_description": "Age of the student"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to pass",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": 0.2283,
+                "feature_value": "15",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": 0.1457,
+                "feature_value": "15",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "goout",
+                "feature_importance": 0.0208,
+                "feature_value": "very low",
+                "feature_average": "N/A",
+                "feature_description": "Frequency of going out with friends"
+            },
+            {
+                "feature_name": "failures",
+                "feature_importance": 0.0186,
+                "feature_value": "0",
+                "feature_average": 0.33,
+                "feature_description": "Number of past class failures"
+            },
+            {
+                "feature_name": "absences",
+                "feature_importance": 0.0165,
+                "feature_value": "2",
+                "feature_average": 6.57,
+                "feature_description": "Number of school absences"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to fail",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": -0.111,
+                "feature_value": "9",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": -0.0677,
+                "feature_value": "9",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "failures",
+                "feature_importance": -0.0524,
+                "feature_value": "2",
+                "feature_average": 0.33,
+                "feature_description": "Number of past class failures"
+            },
+            {
+                "feature_name": "Pstatus",
+                "feature_importance": 0.0349,
+                "feature_value": "living apart",
+                "feature_average": "N/A",
+                "feature_description": "Parent's cohabitation status"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": -0.0283,
+                "feature_value": "20",
+                "feature_average": 16.5,
+                "feature_description": "Age of the student"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to fail",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": -0.1269,
+                "feature_value": "9",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": -0.1078,
+                "feature_value": "8",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": -0.0208,
+                "feature_value": "19",
+                "feature_average": 16.5,
+                "feature_description": "Age of the student"
+            },
+            {
+                "feature_name": "paid",
+                "feature_importance": 0.0191,
+                "feature_value": "yes",
+                "feature_average": "N/A",
+                "feature_description": "Extra paid classes"
+            },
+            {
+                "feature_name": "sex",
+                "feature_importance": 0.0181,
+                "feature_value": "M",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the student"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to pass",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": 0.1637,
+                "feature_value": "10",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": 0.1515,
+                "feature_value": "12",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "failures",
+                "feature_importance": 0.0234,
+                "feature_value": "0",
+                "feature_average": 0.33,
+                "feature_description": "Number of past class failures"
+            },
+            {
+                "feature_name": "absences",
+                "feature_importance": 0.0217,
+                "feature_value": "2",
+                "feature_average": 6.57,
+                "feature_description": "Number of school absences"
+            },
+            {
+                "feature_name": "paid",
+                "feature_importance": 0.0201,
+                "feature_value": "yes",
+                "feature_average": "N/A",
+                "feature_description": "Extra paid classes"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to fail",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": -0.2335,
+                "feature_value": "7",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": -0.0787,
+                "feature_value": "9",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "Medu",
+                "feature_importance": 0.0327,
+                "feature_value": "primary education (4th grade)",
+                "feature_average": "N/A",
+                "feature_description": "Mother's education level"
+            },
+            {
+                "feature_name": "paid",
+                "feature_importance": 0.0283,
+                "feature_value": "yes",
+                "feature_average": "N/A",
+                "feature_description": "Extra paid classes"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": 0.0233,
+                "feature_value": "16",
+                "feature_average": 16.5,
+                "feature_description": "Age of the student"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to pass",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": 0.2443,
+                "feature_value": "14",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": 0.1909,
+                "feature_value": "15",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "failures",
+                "feature_importance": -0.021,
+                "feature_value": "1",
+                "feature_average": 0.33,
+                "feature_description": "Number of past class failures"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": -0.0133,
+                "feature_value": "19",
+                "feature_average": 16.5,
+                "feature_description": "Age of the student"
+            },
+            {
+                "feature_name": "goout",
+                "feature_importance": -0.0096,
+                "feature_value": "high",
+                "feature_average": "N/A",
+                "feature_description": "Frequency of going out with friends"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to fail",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": -0.1351,
+                "feature_value": "9",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": -0.0816,
+                "feature_value": "9",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "failures",
+                "feature_importance": -0.0709,
+                "feature_value": "2",
+                "feature_average": 0.33,
+                "feature_description": "Number of past class failures"
+            },
+            {
+                "feature_name": "absences",
+                "feature_importance": 0.0373,
+                "feature_value": "8",
+                "feature_average": 6.57,
+                "feature_description": "Number of school absences"
+            },
+            {
+                "feature_name": "paid",
+                "feature_importance": -0.0255,
+                "feature_value": "no",
+                "feature_average": "N/A",
+                "feature_description": "Extra paid classes"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to fail",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": -0.2088,
+                "feature_value": "6",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": -0.0868,
+                "feature_value": "8",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "failures",
+                "feature_importance": -0.0632,
+                "feature_value": "2",
+                "feature_average": 0.33,
+                "feature_description": "Number of past class failures"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": 0.0359,
+                "feature_value": "15",
+                "feature_average": 16.5,
+                "feature_description": "Age of the student"
+            },
+            {
+                "feature_name": "schoolsup",
+                "feature_importance": 0.0228,
+                "feature_value": "yes",
+                "feature_average": "N/A",
+                "feature_description": "Extra educational support provided by school"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to pass",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": 0.2303,
+                "feature_value": "15",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": 0.1363,
+                "feature_value": "14",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "absences",
+                "feature_importance": 0.0236,
+                "feature_value": "4",
+                "feature_average": 6.57,
+                "feature_description": "Number of school absences"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": 0.0184,
+                "feature_value": "15",
+                "feature_average": 16.5,
+                "feature_description": "Age of the student"
+            },
+            {
+                "feature_name": "goout",
+                "feature_importance": 0.0182,
+                "feature_value": "low",
+                "feature_average": "N/A",
+                "feature_description": "Frequency of going out with friends"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to fail",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": -0.1615,
+                "feature_value": "9",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": -0.1146,
+                "feature_value": "7",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": 0.034,
+                "feature_value": "15",
+                "feature_average": 16.5,
+                "feature_description": "Age of the student"
+            },
+            {
+                "feature_name": "goout",
+                "feature_importance": 0.0313,
+                "feature_value": "low",
+                "feature_average": "N/A",
+                "feature_description": "Frequency of going out with friends"
+            },
+            {
+                "feature_name": "sex",
+                "feature_importance": 0.0219,
+                "feature_value": "M",
+                "feature_average": "N/A",
+                "feature_description": "Gender of the student"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to pass",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": 0.2236,
+                "feature_value": "13",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": 0.1252,
+                "feature_value": "11",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "absences",
+                "feature_importance": 0.0299,
+                "feature_value": "6",
+                "feature_average": 6.57,
+                "feature_description": "Number of school absences"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": 0.0191,
+                "feature_value": "15",
+                "feature_average": 16.5,
+                "feature_description": "Age of the student"
+            },
+            {
+                "feature_name": "failures",
+                "feature_importance": 0.0162,
+                "feature_value": "0",
+                "feature_average": 0.33,
+                "feature_description": "Number of past class failures"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to fail",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": -0.2421,
+                "feature_value": "6",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": -0.1463,
+                "feature_value": "7",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": 0.0385,
+                "feature_value": "15",
+                "feature_average": 16.5,
+                "feature_description": "Age of the student"
+            },
+            {
+                "feature_name": "reason",
+                "feature_importance": 0.0206,
+                "feature_value": "reputation",
+                "feature_average": "N/A",
+                "feature_description": "Reason for choosing the school"
+            },
+            {
+                "feature_name": "health",
+                "feature_importance": 0.0164,
+                "feature_value": "very good",
+                "feature_average": "N/A",
+                "feature_description": "Current health status"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to pass",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": 0.2015,
+                "feature_value": "12",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": 0.1714,
+                "feature_value": "14",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "higher",
+                "feature_importance": -0.0345,
+                "feature_value": "no",
+                "feature_average": "N/A",
+                "feature_description": "Desire to pursue higher education"
+            },
+            {
+                "feature_name": "absences",
+                "feature_importance": 0.0232,
+                "feature_value": "3",
+                "feature_average": 6.57,
+                "feature_description": "Number of school absences"
+            },
+            {
+                "feature_name": "failures",
+                "feature_importance": 0.0212,
+                "feature_value": "0",
+                "feature_average": 0.33,
+                "feature_description": "Number of past class failures"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to pass",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": 0.1986,
+                "feature_value": "10",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": -0.11,
+                "feature_value": "9",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "absences",
+                "feature_importance": 0.0469,
+                "feature_value": "9",
+                "feature_average": 6.57,
+                "feature_description": "Number of school absences"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": -0.0436,
+                "feature_value": "18",
+                "feature_average": 16.5,
+                "feature_description": "Age of the student"
+            },
+            {
+                "feature_name": "failures",
+                "feature_importance": 0.027,
+                "feature_value": "0",
+                "feature_average": 0.33,
+                "feature_description": "Number of past class failures"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to fail",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": -0.1668,
+                "feature_value": "9",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": -0.1173,
+                "feature_value": "6",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "failures",
+                "feature_importance": -0.0694,
+                "feature_value": "2",
+                "feature_average": 0.33,
+                "feature_description": "Number of past class failures"
+            },
+            {
+                "feature_name": "paid",
+                "feature_importance": 0.0283,
+                "feature_value": "yes",
+                "feature_average": "N/A",
+                "feature_description": "Extra paid classes"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": 0.0251,
+                "feature_value": "16",
+                "feature_average": 16.5,
+                "feature_description": "Age of the student"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to pass",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": 0.2265,
+                "feature_value": "12",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": 0.1424,
+                "feature_value": "12",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "failures",
+                "feature_importance": 0.0216,
+                "feature_value": "0",
+                "feature_average": 0.33,
+                "feature_description": "Number of past class failures"
+            },
+            {
+                "feature_name": "absences",
+                "feature_importance": 0.0179,
+                "feature_value": "2",
+                "feature_average": 6.57,
+                "feature_description": "Number of school absences"
+            },
+            {
+                "feature_name": "goout",
+                "feature_importance": 0.016,
+                "feature_value": "low",
+                "feature_average": "N/A",
+                "feature_description": "Frequency of going out with friends"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to pass",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": 0.245,
+                "feature_value": "11",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": -0.1033,
+                "feature_value": "8",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": 0.0392,
+                "feature_value": "15",
+                "feature_average": 16.5,
+                "feature_description": "Age of the student"
+            },
+            {
+                "feature_name": "absences",
+                "feature_importance": -0.0357,
+                "feature_value": "0",
+                "feature_average": 6.57,
+                "feature_description": "Number of school absences"
+            },
+            {
+                "feature_name": "goout",
+                "feature_importance": 0.028,
+                "feature_value": "low",
+                "feature_average": "N/A",
+                "feature_description": "Frequency of going out with friends"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to pass",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": 0.2308,
+                "feature_value": "11",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": -0.0794,
+                "feature_value": "9",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": 0.0396,
+                "feature_value": "15",
+                "feature_average": 16.5,
+                "feature_description": "Age of the student"
+            },
+            {
+                "feature_name": "absences",
+                "feature_importance": -0.0341,
+                "feature_value": "0",
+                "feature_average": 6.57,
+                "feature_description": "Number of school absences"
+            },
+            {
+                "feature_name": "goout",
+                "feature_importance": 0.0297,
+                "feature_value": "low",
+                "feature_average": "N/A",
+                "feature_description": "Frequency of going out with friends"
+            }
+        ]
+    },
+    {
+        "task_description": "The task is to predict whether the student will pass or fail the mathematics course. ",
+        "predicted_class": "Predicted to fail",
+        "dataset_description": "This dataset contains student information, including demographic background, school performance, and family context. ",
+        "target_description": "A student undertaking the mathematics course.",
+        "feature_desc": [
+            {
+                "feature_name": "G2",
+                "feature_importance": -0.2192,
+                "feature_value": "8",
+                "feature_average": 10.57,
+                "feature_description": "Second period grade"
+            },
+            {
+                "feature_name": "G1",
+                "feature_importance": -0.1193,
+                "feature_value": "8",
+                "feature_average": 10.5,
+                "feature_description": "First period grade"
+            },
+            {
+                "feature_name": "health",
+                "feature_importance": 0.0419,
+                "feature_value": "very bad",
+                "feature_average": "N/A",
+                "feature_description": "Current health status"
+            },
+            {
+                "feature_name": "famrel",
+                "feature_importance": 0.0323,
+                "feature_value": "excellent",
+                "feature_average": "N/A",
+                "feature_description": "Quality of family relationships"
+            },
+            {
+                "feature_name": "absences",
+                "feature_importance": -0.0293,
+                "feature_value": "0",
+                "feature_average": 6.57,
+                "feature_description": "Number of school absences"
+            }
+        ]
+    }
+]

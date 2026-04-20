@@ -1,0 +1,151 @@
+text_id_rev,num_sentences_rev,last_sentence_rev,ppl_rev
+0,1,Diabetespedigreefunction (Diabetes pedigree function) is the 4th most important feature and has a positive influence on the prediction.,37.68
+0,2,Bmi (Body Mass Index (kg/m^2)) is the third most important feature and has a positive influence on the prediction.,12.95
+0,3,Glucose (Plasma glucose concentration) is the second most important feature and has a positive influence on the prediction.,7.07
+0,4,Age (Age of the patient) is the most important feature and has a positive influence on the prediction.,5.13
+0,5,"For this instance, the model predicted to have diabetes.",5.97
+1,1,Bmi (Body Mass Index (kg/m^2)) is the 4th most important feature and has a positive influence on the prediction.,16.22
+1,2,Insulin (2-Hour serum insulin (mu U/ml)) is the third most important feature and has a negative influence on the prediction.,8.93
+1,3,Age (Age of the patient) is the second most important feature and has a positive influence on the prediction.,5.71
+1,4,Glucose (Plasma glucose concentration) is the most important feature and has a negative influence on the prediction.,4.5
+1,5,"For this instance, the model predicted not to have diabetes.",5.28
+2,1,Diabetespedigreefunction (Diabetes pedigree function) is the 4th most important feature and has a positive influence on the prediction.,37.68
+2,2,Bmi (Body Mass Index (kg/m^2)) is the third most important feature and has a negative influence on the prediction.,12.99
+2,3,Age (Age of the patient) is the second most important feature and has a negative influence on the prediction.,7.35
+2,4,Glucose (Plasma glucose concentration) is the most important feature and has a negative influence on the prediction.,5.22
+2,5,"For this instance, the model predicted not to have diabetes.",5.92
+3,1,Insulin (2-Hour serum insulin (mu U/ml)) is the 4th most important feature and has a negative influence on the prediction.,41.89
+3,2,Bmi (Body Mass Index (kg/m^2)) is the third most important feature and has a positive influence on the prediction.,10.92
+3,3,Age (Age of the patient) is the second most important feature and has a negative influence on the prediction.,6.6
+3,4,Glucose (Plasma glucose concentration) is the most important feature and has a negative influence on the prediction.,5.0
+3,5,"For this instance, the model predicted not to have diabetes.",5.85
+4,1,Glucose (Plasma glucose concentration) is the 4th most important feature and has a negative influence on the prediction.,34.7
+4,2,Diabetespedigreefunction (Diabetes pedigree function) is the third most important feature and has a positive influence on the prediction.,12.51
+4,3,Age (Age of the patient) is the second most important feature and has a negative influence on the prediction.,6.95
+4,4,Bmi (Body Mass Index (kg/m^2)) is the most important feature and has a positive influence on the prediction.,5.12
+4,5,"For this instance, the model predicted to have diabetes.",5.94
+5,1,Pregnancies (Number of pregnancies) is the 4th most important feature and has a negative influence on the prediction.,24.06
+5,2,Glucose (Plasma glucose concentration) is the third most important feature and has a negative influence on the prediction.,9.5
+5,3,Bmi (Body Mass Index (kg/m^2)) is the second most important feature and has a positive influence on the prediction.,5.3
+5,4,Age (Age of the patient) is the most important feature and has a negative influence on the prediction.,4.09
+5,5,"For this instance, the model predicted not to have diabetes.",4.88
+6,1,Diabetespedigreefunction (Diabetes pedigree function) is the 4th most important feature and has a positive influence on the prediction.,37.68
+6,2,Age (Age of the patient) is the third most important feature and has a positive influence on the prediction.,13.68
+6,3,Bmi (Body Mass Index (kg/m^2)) is the second most important feature and has a positive influence on the prediction.,7.12
+6,4,Glucose (Plasma glucose concentration) is the most important feature and has a positive influence on the prediction.,5.14
+6,5,"For this instance, the model predicted to have diabetes.",6.0
+7,1,Diabetespedigreefunction (Diabetes pedigree function) is the 4th most important feature and has a negative influence on the prediction.,40.06
+7,2,Bmi (Body Mass Index (kg/m^2)) is the third most important feature and has a positive influence on the prediction.,13.56
+7,3,Age (Age of the patient) is the second most important feature and has a negative influence on the prediction.,7.62
+7,4,Glucose (Plasma glucose concentration) is the most important feature and has a negative influence on the prediction.,5.36
+7,5,"For this instance, the model predicted not to have diabetes.",6.06
+8,1,Pregnancies (Number of pregnancies) is the 4th most important feature and has a positive influence on the prediction.,22.44
+8,2,Age (Age of the patient) is the third most important feature and has a negative influence on the prediction.,8.93
+8,3,Bmi (Body Mass Index (kg/m^2)) is the second most important feature and has a positive influence on the prediction.,5.07
+8,4,Glucose (Plasma glucose concentration) is the most important feature and has a negative influence on the prediction.,4.06
+8,5,"For this instance, the model predicted not to have diabetes.",4.96
+9,1,Pregnancies (Number of pregnancies) is the 4th most important feature and has a negative influence on the prediction.,24.06
+9,2,Diabetespedigreefunction (Diabetes pedigree function) is the third most important feature and has a negative influence on the prediction.,10.59
+9,3,Glucose (Plasma glucose concentration) is the second most important feature and has a positive influence on the prediction.,6.1
+9,4,Bmi (Body Mass Index (kg/m^2)) is the most important feature and has a negative influence on the prediction.,4.6
+9,5,"For this instance, the model predicted not to have diabetes.",5.33
+10,1,Pregnancies (Number of pregnancies) is the 4th most important feature and has a positive influence on the prediction.,22.44
+10,2,Bmi (Body Mass Index (kg/m^2)) is the third most important feature and has a positive influence on the prediction.,7.63
+10,3,Glucose (Plasma glucose concentration) is the second most important feature and has a negative influence on the prediction.,4.92
+10,4,Age (Age of the patient) is the most important feature and has a positive influence on the prediction.,3.88
+10,5,"For this instance, the model predicted to have diabetes.",4.89
+11,1,Insulin (2-Hour serum insulin (mu U/ml)) is the 4th most important feature and has a positive influence on the prediction.,39.88
+11,2,Bmi (Body Mass Index (kg/m^2)) is the third most important feature and has a positive influence on the prediction.,10.57
+11,3,Diabetespedigreefunction (Diabetes pedigree function) is the second most important feature and has a negative influence on the prediction.,6.63
+11,4,Glucose (Plasma glucose concentration) is the most important feature and has a positive influence on the prediction.,5.23
+11,5,"For this instance, the model predicted to have diabetes.",6.2
+12,1,Age (Age of the patient) is the 4th most important feature and has a positive influence on the prediction.,20.81
+12,2,Glucose (Plasma glucose concentration) is the third most important feature and has a negative influence on the prediction.,8.07
+12,3,Diabetespedigreefunction (Diabetes pedigree function) is the second most important feature and has a positive influence on the prediction.,5.04
+12,4,Bmi (Body Mass Index (kg/m^2)) is the most important feature and has a positive influence on the prediction.,3.91
+12,5,"For this instance, the model predicted to have diabetes.",4.72
+13,1,Pregnancies (Number of pregnancies) is the 4th most important feature and has a positive influence on the prediction.,22.44
+13,2,Bmi (Body Mass Index (kg/m^2)) is the third most important feature and has a positive influence on the prediction.,7.63
+13,3,Age (Age of the patient) is the second most important feature and has a positive influence on the prediction.,4.76
+13,4,Glucose (Plasma glucose concentration) is the most important feature and has a negative influence on the prediction.,3.9
+13,5,"For this instance, the model predicted to have diabetes.",4.95
+14,1,Bmi (Body Mass Index (kg/m^2)) is the 4th most important feature and has a positive influence on the prediction.,16.22
+14,2,Diabetespedigreefunction (Diabetes pedigree function) is the third most important feature and has a negative influence on the prediction.,9.19
+14,3,Glucose (Plasma glucose concentration) is the second most important feature and has a negative influence on the prediction.,5.5
+14,4,Age (Age of the patient) is the most important feature and has a positive influence on the prediction.,4.2
+14,5,"For this instance, the model predicted to have diabetes.",4.99
+15,1,Diabetespedigreefunction (Diabetes pedigree function) is the 4th most important feature and has a negative influence on the prediction.,40.06
+15,2,Age (Age of the patient) is the third most important feature and has a negative influence on the prediction.,14.42
+15,3,Glucose (Plasma glucose concentration) is the second most important feature and has a negative influence on the prediction.,7.37
+15,4,Bmi (Body Mass Index (kg/m^2)) is the most important feature and has a negative influence on the prediction.,5.29
+15,5,"For this instance, the model predicted not to have diabetes.",5.98
+16,1,Pregnancies (Number of pregnancies) is the 4th most important feature and has a positive influence on the prediction.,22.44
+16,2,Age (Age of the patient) is the third most important feature and has a negative influence on the prediction.,8.93
+16,3,Glucose (Plasma glucose concentration) is the second most important feature and has a negative influence on the prediction.,5.26
+16,4,Bmi (Body Mass Index (kg/m^2)) is the most important feature and has a negative influence on the prediction.,4.1
+16,5,"For this instance, the model predicted not to have diabetes.",4.99
+17,1,Diabetespedigreefunction (Diabetes pedigree function) is the 4th most important feature and has a negative influence on the prediction.,40.06
+17,2,Glucose (Plasma glucose concentration) is the third most important feature and has a negative influence on the prediction.,13.9
+17,3,Bmi (Body Mass Index (kg/m^2)) is the second most important feature and has a positive influence on the prediction.,7.35
+17,4,Age (Age of the patient) is the most important feature and has a positive influence on the prediction.,5.29
+17,5,"For this instance, the model predicted to have diabetes.",6.13
+18,1,Diabetespedigreefunction (Diabetes pedigree function) is the 4th most important feature and has a negative influence on the prediction.,40.06
+18,2,Age (Age of the patient) is the third most important feature and has a negative influence on the prediction.,14.42
+18,3,Bmi (Body Mass Index (kg/m^2)) is the second most important feature and has a positive influence on the prediction.,7.41
+18,4,Glucose (Plasma glucose concentration) is the most important feature and has a positive influence on the prediction.,5.24
+18,5,"For this instance, the model predicted to have diabetes.",6.05
+19,1,Diabetespedigreefunction (Diabetes pedigree function) is the 4th most important feature and has a positive influence on the prediction.,37.68
+19,2,Age (Age of the patient) is the third most important feature and has a positive influence on the prediction.,13.68
+19,3,Glucose (Plasma glucose concentration) is the second most important feature and has a negative influence on the prediction.,7.13
+19,4,Bmi (Body Mass Index (kg/m^2)) is the most important feature and has a negative influence on the prediction.,5.17
+19,5,"For this instance, the model predicted not to have diabetes.",5.91
+20,1,Pregnancies (Number of pregnancies) is the 4th most important feature and has a negative influence on the prediction.,24.06
+20,2,Age (Age of the patient) is the third most important feature and has a negative influence on the prediction.,8.98
+20,3,Glucose (Plasma glucose concentration) is the second most important feature and has a negative influence on the prediction.,5.24
+20,4,Bmi (Body Mass Index (kg/m^2)) is the most important feature and has a negative influence on the prediction.,4.04
+20,5,"For this instance, the model predicted not to have diabetes.",4.88
+21,1,Diabetespedigreefunction (Diabetes pedigree function) is the 4th most important feature and has a negative influence on the prediction.,40.06
+21,2,Age (Age of the patient) is the third most important feature and has a negative influence on the prediction.,14.42
+21,3,Bmi (Body Mass Index (kg/m^2)) is the second most important feature and has a positive influence on the prediction.,7.41
+21,4,Glucose (Plasma glucose concentration) is the most important feature and has a negative influence on the prediction.,5.29
+21,5,"For this instance, the model predicted not to have diabetes.",5.99
+22,1,Diabetespedigreefunction (Diabetes pedigree function) is the 4th most important feature and has a positive influence on the prediction.,37.68
+22,2,Age (Age of the patient) is the third most important feature and has a positive influence on the prediction.,13.68
+22,3,Bmi (Body Mass Index (kg/m^2)) is the second most important feature and has a positive influence on the prediction.,7.12
+22,4,Glucose (Plasma glucose concentration) is the most important feature and has a positive influence on the prediction.,5.14
+22,5,"For this instance, the model predicted to have diabetes.",6.0
+23,1,Pregnancies (Number of pregnancies) is the 4th most important feature and has a positive influence on the prediction.,22.44
+23,2,Bmi (Body Mass Index (kg/m^2)) is the third most important feature and has a positive influence on the prediction.,7.63
+23,3,Age (Age of the patient) is the second most important feature and has a positive influence on the prediction.,4.76
+23,4,Glucose (Plasma glucose concentration) is the most important feature and has a negative influence on the prediction.,3.9
+23,5,"For this instance, the model predicted not to have diabetes.",4.82
+24,1,Skinthickness (Triceps skin fold thickness (mm)) is the 4th most important feature and has a negative influence on the prediction.,29.43
+24,2,Bmi (Body Mass Index (kg/m^2)) is the third most important feature and has a negative influence on the prediction.,8.22
+24,3,Age (Age of the patient) is the second most important feature and has a negative influence on the prediction.,5.27
+24,4,Glucose (Plasma glucose concentration) is the most important feature and has a negative influence on the prediction.,4.14
+24,5,"For this instance, the model predicted not to have diabetes.",4.87
+25,1,Bmi (Body Mass Index (kg/m^2)) is the 4th most important feature and has a positive influence on the prediction.,16.22
+25,2,Diabetespedigreefunction (Diabetes pedigree function) is the third most important feature and has a negative influence on the prediction.,9.19
+25,3,Glucose (Plasma glucose concentration) is the second most important feature and has a negative influence on the prediction.,5.5
+25,4,Age (Age of the patient) is the most important feature and has a negative influence on the prediction.,4.17
+25,5,"For this instance, the model predicted not to have diabetes.",4.86
+26,1,Pregnancies (Number of pregnancies) is the 4th most important feature and has a negative influence on the prediction.,24.06
+26,2,Age (Age of the patient) is the third most important feature and has a negative influence on the prediction.,8.98
+26,3,Bmi (Body Mass Index (kg/m^2)) is the second most important feature and has a negative influence on the prediction.,5.13
+26,4,Glucose (Plasma glucose concentration) is the most important feature and has a negative influence on the prediction.,4.04
+26,5,"For this instance, the model predicted not to have diabetes.",4.9
+27,1,Diabetespedigreefunction (Diabetes pedigree function) is the 4th most important feature and has a positive influence on the prediction.,37.68
+27,2,Bmi (Body Mass Index (kg/m^2)) is the third most important feature and has a positive influence on the prediction.,12.95
+27,3,Age (Age of the patient) is the second most important feature and has a positive influence on the prediction.,7.27
+27,4,Glucose (Plasma glucose concentration) is the most important feature and has a positive influence on the prediction.,5.16
+27,5,"For this instance, the model predicted to have diabetes.",5.99
+28,1,Bmi (Body Mass Index (kg/m^2)) is the 4th most important feature and has a positive influence on the prediction.,16.22
+28,2,Pregnancies (Number of pregnancies) is the third most important feature and has a negative influence on the prediction.,8.3
+28,3,Glucose (Plasma glucose concentration) is the second most important feature and has a negative influence on the prediction.,4.83
+28,4,Age (Age of the patient) is the most important feature and has a negative influence on the prediction.,3.7
+28,5,"For this instance, the model predicted not to have diabetes.",4.52
+29,1,Glucose (Plasma glucose concentration) is the 4th most important feature and has a negative influence on the prediction.,34.7
+29,2,Diabetespedigreefunction (Diabetes pedigree function) is the third most important feature and has a positive influence on the prediction.,12.51
+29,3,Bmi (Body Mass Index (kg/m^2)) is the second most important feature and has a positive influence on the prediction.,6.94
+29,4,Age (Age of the patient) is the most important feature and has a positive influence on the prediction.,5.13
+29,5,"For this instance, the model predicted to have diabetes.",5.93

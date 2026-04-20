@@ -1,0 +1,176 @@
+text_id,sentence_index,removed_sentence,ppl_without_sentence,original_ppl,ppl_change
+0,0,"In evaluating the likelihood that this patient has diabetes, the model first considers the patient's age of 53, which exerts the most significant influence by increasing the predicted risk.",12.68,9.83,2.84
+0,1,"Building on this, the patient's elevated plasma glucose concentration of 145 further amplifies the probability, as higher glucose levels are closely associated with diabetes onset.",10.36,9.83,0.53
+0,2,"The patient's body mass index of 30.30, indicative of obesity, also contributes to the risk, albeit to a lesser extent, by reflecting a known risk factor for diabetes.",12.8,9.83,2.97
+0,3,"Additionally, the diabetes pedigree function value of 0.77 suggests a notable familial predisposition, subtly reinforcing the model's prediction.",9.5,9.83,-0.33
+0,4,"Finally, the patient's 2-hour serum insulin level of 165 provides further, though smaller, evidence supporting the likelihood of diabetes.",10.21,9.83,0.37
+0,5,"Collectively, these factors interact to drive the model's assessment toward a higher probability that the patient has diabetes.",10.89,9.83,1.06
+1,0,"In evaluating whether the patient has diabetes, the model primarily considered the patient's plasma glucose concentration.",9.48,8.27,1.21
+1,1,"Because the glucose level was relatively low, this factor exerted a strong downward influence on the likelihood of diabetes, substantially reducing the predicted risk.",10.64,8.27,2.37
+1,2,"Although the patient's age and body mass index contributed modestly to increasing the probability, their effects were not sufficient to counterbalance the impact of the low glucose value.",11.32,8.27,3.05
+1,3,"Meanwhile, both the insulin level and triceps skin fold thickness slightly decreased the risk, but their influence was minor compared to the dominant effect of glucose.",9.26,8.27,0.98
+1,4,"Altogether, the interplay of these features led the model to predict a lower chance of diabetes for this patient, with the low glucose concentration serving as the pivotal reason for this outcome.",9.19,8.27,0.91
+2,0,"In evaluating whether this patient has diabetes, the model primarily considered several key health indicators.",8.96,8.29,0.66
+2,1,"To begin with, the patient's plasma glucose concentration is relatively low, which actively reduces the likelihood of diabetes in this case.",10.86,8.29,2.56
+2,2,"This effect is further reinforced by the patient's young age, as younger individuals are generally at a lower risk for developing diabetes.",10.73,8.29,2.43
+2,3,"Additionally, the patient's body mass index, while moderately elevated, still contributes to lowering the predicted risk.",9.26,8.29,0.97
+2,4,"Although the patient's family history, as reflected by the diabetes pedigree function, slightly increases the probability of diabetes, this influence is not strong enough to outweigh the protective effects of the other factors.",9.41,8.29,1.12
+2,5,"Finally, the number of pregnancies exerts a minimal downward influence on the risk.",8.07,8.29,-0.23
+2,6,"Taken together, these factors interact to produce a prediction that the patient is less likely to have diabetes, with the low glucose level and young age serving as the most influential protective mechanisms.",9.19,8.29,0.9
+3,0,"In evaluating whether the patient has diabetes, the model carefully weighs several key factors.",10.67,9.3,1.38
+3,1,"At the outset, the patient's relatively low plasma glucose concentration acts as a strong protective influence, substantially reducing the likelihood of a diabetes diagnosis.",12.85,9.3,3.56
+3,2,"This effect is further reinforced by the patient's young age, which also diminishes the risk.",11.73,9.3,2.44
+3,3,"As the analysis progresses, the model notes that the patient's elevated Body Mass Index exerts a modest upward pressure on the probability of diabetes, signaling a potential concern.",11.78,9.3,2.48
+3,4,"However, this is counterbalanced by the patient's lower serum insulin levels and a low diabetes pedigree function, both of which gently nudge the prediction downward.",9.0,9.3,-0.29
+3,5,"Taken together, these interacting factors culminate in a prediction that leans away from a diabetes diagnosis, primarily due to the combined mitigating effects of low glucose levels and youth, despite the presence of a higher BMI.",10.99,9.3,1.69
+5,0,"In evaluating whether the patient has diabetes, the model first considers the patient's age of 21, which actively reduces the likelihood of diabetes, as younger individuals are generally at lower risk.",12.68,9.29,3.39
+5,1,"However, this protective effect is partially offset by the patient's elevated BMI of 35.80, which exerts upward pressure on the prediction, reflecting the well-established link between higher body mass and increased diabetes risk.",12.28,9.29,3.0
+5,2,"Meanwhile, the patient's plasma glucose concentration of 124 slightly decreases the probability, suggesting that this glucose level does not strongly indicate diabetes in this context.",10.15,9.29,0.86
+5,3,"The fact that the patient has experienced only one pregnancy also subtly lowers the risk, as higher numbers of pregnancies can sometimes be associated with greater susceptibility.",9.26,9.29,-0.02
+5,4,"Finally, the absence of measurable insulin levels nudges the prediction upward, albeit modestly, hinting at a potential concern.",10.51,9.29,1.23
+5,5,"Altogether, these factors interact to shape the model's final assessment, with age and glucose acting as mitigating influences, while BMI and insulin absence counterbalance them to some extent.",9.94,9.29,0.65
+6,0,"In evaluating whether the patient has diabetes, the model first considered the patient's plasma glucose concentration, which stood out as a significant factor.",10.44,9.28,1.16
+6,1,"The notably high glucose level actively pushed the prediction toward a positive diabetes diagnosis, exerting the strongest influence among all features.",10.51,9.28,1.23
+6,2,"Building on this, the patient's elevated Body Mass Index further reinforced the likelihood of diabetes, amplifying the model's confidence in its prediction.",11.01,9.28,1.73
+6,3,"The patient's advanced age also contributed meaningfully, as older individuals are generally at greater risk for diabetes, thereby nudging the prediction higher.",10.97,9.28,1.69
+6,4,"While the diabetes pedigree function added a modest upward influence, suggesting some hereditary risk, its effect was less pronounced.",8.51,9.28,-0.77
+6,5,"Interestingly, the patient's diastolic blood pressure slightly counteracted these risks, but its negative contribution was minimal compared to the dominant effects of glucose, BMI, and age.",10.84,9.28,1.56
+6,6,"Altogether, these factors combined to drive the model's prediction toward a higher probability that the patient has diabetes.",10.42,9.28,1.14
+7,0,"In evaluating whether the patient has diabetes, the model primarily considered the patient's plasma glucose concentration.",10.18,9.42,0.76
+7,1,"Because the glucose level was relatively low, this exerted a strong downward influence on the likelihood of diabetes.",12.31,9.42,2.9
+7,2,"This effect was further reinforced by the patient's young age, which also contributed to lowering the predicted risk.",12.73,9.42,3.31
+7,3,"Although the patient's body mass index was somewhat elevated, nudging the prediction slightly upward, this was not enough to outweigh the protective effects of the other factors.",11.08,9.42,1.66
+7,4,"Additionally, a low diabetes pedigree function and moderate insulin levels both played minor roles in reducing the probability of diabetes.",8.66,9.42,-0.76
+7,5,"Taken together, these factors combined to decrease the model's overall prediction that the patient has diabetes, with the low glucose level and young age serving as the most influential causes.",10.54,9.42,1.13
+8,0,"In evaluating whether the patient has diabetes, the model first considered the patient's plasma glucose concentration, which was measured at 95.",9.37,8.48,0.89
+8,1,"This relatively moderate glucose level actively reduced the likelihood of a diabetes diagnosis, exerting the strongest downward influence on the prediction.",9.21,8.48,0.73
+8,2,"However, this effect was partially counterbalanced by the patient's elevated Body Mass Index of 37.70, which nudged the prediction upward, signaling that higher body weight increases diabetes risk.",9.86,8.48,1.38
+8,3,"Meanwhile, the patient's age of 27 contributed to a lower risk, as younger individuals are generally less susceptible to diabetes, and this factor further decreased the model's estimate.",9.99,8.48,1.51
+8,4,"The number of pregnancies, recorded at five, played a smaller but still positive role, slightly increasing the predicted risk, since more pregnancies can be associated with higher diabetes susceptibility.",10.13,8.48,1.65
+8,5,"Finally, the triceps skin fold thickness, measured at 33 mm, had a minor positive effect, subtly raising the prediction.",9.6,8.48,1.12
+8,6,"Altogether, the model synthesized these interacting factors—balancing the protective effects of lower glucose and younger age against the risk-enhancing influences of higher BMI, more pregnancies, and greater skin thickness—to arrive at its final assessment.",9.62,8.48,1.14
+9,0,"In evaluating whether the patient has diabetes, the model carefully weighed several health indicators.",11.13,10.2,0.93
+9,1,"At the outset, the patient's Body Mass Index (BMI) emerged as a significant factor, and its relatively moderate value actively reduced the likelihood of diabetes.",15.48,10.2,5.28
+9,2,"Meanwhile, the patient's plasma glucose concentration, although somewhat elevated, exerted a mild upward influence on the risk, nudging the prediction slightly higher.",13.12,10.2,2.92
+9,3,"As the model continued its assessment, it considered the diabetes pedigree function, which, given its low value, further diminished the probability of diabetes.",12.05,10.2,1.85
+9,4,"The number of pregnancies and the diastolic blood pressure, both within typical ranges, contributed only marginally to lowering the risk.",10.83,10.2,0.63
+9,5,"Altogether, these interacting factors combined to shape the model's final prediction, with the mitigating effects of BMI and family history outweighing the modest risk introduced by glucose levels.",11.29,10.2,1.09
+10,0,"In evaluating whether the patient is likely to have diabetes, the model first considers the patient's age of 42, which exerts a notable upward influence on the prediction, suggesting that advancing age increases the risk.",13.34,8.46,4.88
+10,1,"However, this effect is partially counteracted by the patient's plasma glucose concentration of 106, which actively reduces the likelihood of diabetes in this case.",9.82,8.46,1.36
+10,2,"Meanwhile, the patient's body mass index of 31.20 contributes positively, indicating that a higher BMI nudges the prediction toward a greater risk.",9.88,8.46,1.42
+10,3,"Additionally, the fact that the patient has experienced nine pregnancies further amplifies the model's estimate, albeit to a lesser extent.",8.99,8.46,0.53
+10,4,"Finally, the diastolic blood pressure of 52 exerts only a minor positive effect.",8.61,8.46,0.15
+10,5,"Taken together, these factors interact to shape the model's overall assessment, with age and BMI pushing the prediction higher, while glucose levels provide a moderating influence, ultimately guiding the model toward its final decision.",9.04,8.46,0.58
+13,0,"In evaluating whether the patient has diabetes, the model first considered the patient's plasma glucose concentration, which stood at 104.",8.62,7.36,1.26
+13,1,"This relatively moderate glucose level exerted a slight downward pull on the likelihood of diabetes, thereby reducing the overall risk.",8.75,7.36,1.39
+13,2,"However, the patient's age of 38 subtly counteracted this effect, as advancing age tends to elevate diabetes risk, nudging the prediction upward.",9.08,7.36,1.72
+13,3,"Simultaneously, the patient's body mass index of 31.20, indicative of obesity, further amplified the probability, since higher BMI is closely linked to increased diabetes susceptibility.",8.88,7.36,1.52
+13,4,"Adding to this, the fact that the patient has experienced 13 pregnancies contributed modestly to the risk, reflecting the established association between multiple pregnancies and diabetes.",8.41,7.36,1.05
+13,5,"Finally, the diastolic blood pressure of 72 had a negligible impact, barely influencing the model's decision.",7.54,7.36,0.17
+13,6,"Altogether, these factors interacted to shape the model's prediction, with the mitigating effect of glucose being partially offset by age, BMI, and pregnancy history, ultimately guiding the assessment of the patient's diabetes risk.",8.21,7.36,0.85
+14,0,"In evaluating whether the patient has diabetes, the model first considered the patient's age of 45, which moderately increased the likelihood of a positive prediction, suggesting that advancing age plays a significant role in elevating diabetes risk.",11.88,8.73,3.16
+14,1,"However, this effect was nearly counterbalanced by the patient's plasma glucose concentration of 106, which actively reduced the predicted risk, indicating that their glucose level is not alarmingly high.",9.74,8.73,1.02
+14,2,"Additionally, the patient's low diabetes pedigree function of 0.18 further diminished the probability, reflecting a limited genetic predisposition.",9.72,8.73,1.0
+14,3,"Despite these mitigating factors, the patient's elevated BMI of 36.60 contributed to a higher risk, as excess body weight is a well-known driver of diabetes.",10.25,8.73,1.53
+14,4,"Finally, the model noted the patient's history of 13 pregnancies, which slightly nudged the prediction upward, recognizing that multiple pregnancies can incrementally increase diabetes susceptibility.",9.61,8.73,0.89
+14,5,"Altogether, these interacting factors shaped the model's nuanced assessment of the patient's diabetes risk.",9.29,8.73,0.57
+15,0,"In this case, the model predicts a lower likelihood of diabetes for the patient, and this outcome emerges from the interplay of several key health indicators.",8.0,6.2,1.8
+15,1,"To begin with, the patient's Body Mass Index (BMI) stands at 19.50, which actively contributes to reducing the predicted risk, as lower BMI values are generally associated with a decreased probability of diabetes.",8.46,6.2,2.26
+15,2,"Furthermore, the patient's plasma glucose concentration is measured at 100, and this relatively modest glucose level further diminishes the model's estimation of diabetes risk.",6.76,6.2,0.56
+15,3,"As the narrative unfolds, the patient's age—28 years—also plays a role, albeit to a lesser extent, by slightly lowering the risk, since younger individuals are statistically less likely to develop diabetes.",6.67,6.2,0.47
+15,4,"Additionally, the Diabetes Pedigree Function, which reflects genetic predisposition, is low at 0.15, subtly nudging the prediction downward.",6.71,6.2,0.51
+15,5,"Finally, the patient's insulin level, recorded at 46, exerts a minor but still negative influence on the risk assessment.",6.8,6.2,0.6
+15,6,"Taken together, these factors interact to guide the model toward its conclusion: the patient is less likely to have diabetes, primarily due to favorable values in BMI and glucose, with further support from age, family history, and insulin levels.",6.75,6.2,0.55
+16,0,"In this case, the model predicts a lower likelihood of diabetes for the patient, and this outcome emerges from the interplay of several key factors.",9.12,6.53,2.59
+16,1,"To begin with, the patient's Body Mass Index (BMI) exerts the most substantial downward influence on the prediction, as a relatively low BMI actively reduces the estimated risk.",7.99,6.53,1.46
+16,2,"This effect is further reinforced by the patient's plasma glucose concentration, which, being only moderately elevated, also contributes to lowering the probability of diabetes.",7.2,6.53,0.67
+16,3,"Additionally, the patient's young age further diminishes the risk, as younger individuals are generally less susceptible to developing diabetes.",7.64,6.53,1.11
+16,4,"Although the patient has experienced a higher number of pregnancies, which slightly nudges the prediction upward, this effect is relatively minor compared to the protective influence of the other features.",6.77,6.53,0.24
+16,5,"Finally, the diabetes pedigree function, reflecting family history, exerts a small negative effect, subtly decreasing the risk.",6.39,6.53,-0.14
+16,6,"Altogether, these factors combine to guide the model toward a prediction that the patient is less likely to have diabetes.",7.08,6.53,0.56
+17,0,"In evaluating whether the patient has diabetes, the model first considers the patient's age of 38, which moderately increases the likelihood of diabetes, as older age is often associated with higher risk.",8.95,7.18,1.77
+17,1,"Building on this, the patient's elevated BMI of 39.40 further amplifies the risk, since higher body mass index is a well-established contributor to diabetes development.",8.04,7.18,0.85
+17,2,"However, the model also notes that the patient's plasma glucose concentration is 112, which slightly reduces the predicted risk, suggesting that their blood sugar levels are not excessively high.",8.86,7.18,1.67
+17,3,"Additionally, the relatively low diabetes pedigree function of 0.24 indicates a weaker genetic predisposition, which further diminishes the probability of diabetes.",8.05,7.18,0.87
+17,4,"Finally, the patient's diastolic blood pressure of 78 exerts a minimal negative influence on the prediction.",8.28,7.18,1.1
+17,5,"Taken together, while certain factors such as age and BMI actively push the prediction toward a higher risk, the mitigating effects of glucose level, family history, and blood pressure collectively temper the model's overall assessment.",7.74,7.18,0.56
+18,0,"In evaluating whether the patient has diabetes, the model first considered the patient's plasma glucose concentration, which was notably elevated.",8.53,7.38,1.15
+18,1,This high glucose level played a substantial role in increasing the likelihood of a diabetes diagnosis.,7.99,7.38,0.61
+18,2,"Building on this, the patient's body mass index was also significantly above average, further amplifying the model's confidence in a positive prediction.",8.41,7.38,1.03
+18,3,"However, the patient's relatively young age exerted a counterbalancing effect, slightly reducing the predicted risk.",8.92,7.38,1.54
+18,4,"Additionally, a lower diabetes pedigree function suggested a weaker genetic predisposition, which further diminished the probability of diabetes.",7.71,7.38,0.33
+18,5,"Finally, the model took into account the patient's triceps skin fold thickness, which, while less influential, still contributed modestly to raising the predicted risk.",8.26,7.38,0.88
+18,6,"Altogether, these factors interacted to shape the model's final assessment, with elevated glucose and BMI tipping the balance toward a higher likelihood of diabetes despite mitigating influences from age and family history.",8.39,7.38,1.01
+19,0,"In evaluating whether the patient has diabetes, the model first considered the patient's Body Mass Index (BMI), which stood at 24.70.",13.41,9.69,3.72
+19,1,"This relatively moderate BMI actively reduced the likelihood of diabetes, exerting the strongest downward influence on the prediction.",11.3,9.69,1.61
+19,2,"Alongside this, the patient's plasma glucose concentration measured at 96 further diminished the probability, as lower glucose levels typically signal a reduced diabetes risk.",11.07,9.69,1.38
+19,3,"However, the patient's age of 39 began to nudge the prediction upward, since advancing age can incrementally increase susceptibility to diabetes.",12.08,9.69,2.39
+19,4,"Adding to this, the Diabetes Pedigree Function, reflecting a higher familial predisposition at 0.94, also contributed a slight upward push.",10.26,9.69,0.57
+19,5,"Finally, the triceps skin fold thickness, measured at 34 mm, played a minor role in raising the predicted risk.",10.45,9.69,0.76
+19,6,"Altogether, while certain factors like age and family history gently elevated the model's estimate, the combined mitigating effects of BMI and glucose levels ultimately led the model to predict a lower likelihood of diabetes for this patient.",11.28,9.69,1.59
+20,0,"In evaluating whether this patient has diabetes, the model primarily considered several health indicators and their respective influences.",9.71,8.88,0.83
+20,1,"At the outset, the patient's relatively low Body Mass Index (BMI) played a significant role in reducing the likelihood of diabetes, as a lower BMI is generally associated with a decreased risk.",14.53,8.88,5.65
+20,2,"Building on this, the patient's plasma glucose concentration, while moderately elevated, further contributed to lowering the predicted risk, suggesting that their glucose levels do not strongly indicate diabetes in this context.",9.63,8.88,0.75
+20,3,"As the analysis progressed, the patient's young age and absence of pregnancies continued to nudge the prediction downward, reflecting demographic factors that typically correlate with a lower probability of diabetes.",9.53,8.88,0.65
+20,4,"Finally, although the patient's diabetes pedigree function—an indicator of genetic predisposition—slightly increased the risk, its effect was minimal compared to the other features.",8.98,8.88,0.1
+20,5,"Altogether, these factors combined to guide the model toward a prediction that the patient is less likely to have diabetes.",10.08,8.88,1.2
+21,0,"In evaluating whether the patient has diabetes, the model first considered the patient's plasma glucose concentration, which was measured at 93.",8.13,6.59,1.54
+21,1,"This relatively low value played a significant role in reducing the likelihood of diabetes, as lower glucose levels are typically associated with a decreased risk.",8.16,6.59,1.57
+21,2,"Meanwhile, the patient's body mass index stood at 35.30, and this elevated BMI exerted a modest upward influence on the prediction, reflecting the well-established link between higher body weight and increased diabetes risk.",7.94,6.59,1.35
+21,3,"However, this effect was not strong enough to outweigh the impact of the glucose measurement.",7.13,6.59,0.54
+21,4,"The patient's age, recorded at 25, also contributed to lowering the predicted risk, since younger individuals are generally less susceptible to diabetes.",7.79,6.59,1.19
+21,5,"Additionally, the diabetes pedigree function, which captures genetic predisposition, was relatively low at 0.26, further nudging the prediction downward.",6.76,6.59,0.17
+21,6,"Finally, the absence of pregnancies provided a slight additional reduction in risk.",6.46,6.59,-0.13
+21,7,"Taken together, these factors interacted such that the low glucose level and young age were the primary drivers behind the model's prediction that the patient is unlikely to have diabetes, despite the presence of a higher BMI.",7.15,6.59,0.56
+22,0,"The model predicts a high likelihood of diabetes for this patient, primarily because their plasma glucose concentration is significantly elevated.",15.45,11.21,4.24
+22,1,"This high glucose level exerts the strongest influence on the prediction, signaling impaired glucose regulation.",12.65,11.21,1.44
+22,2,"In addition, the patient's body mass index is notably high, which further amplifies the risk by indicating substantial excess weight—a well-established contributor to diabetes.",14.09,11.21,2.88
+22,3,"The patient's age also plays a meaningful role, as advancing age increases susceptibility to the disease.",12.79,11.21,1.59
+22,4,"Moreover, the diabetes pedigree function, reflecting a family history of diabetes, subtly heightens the risk, while elevated insulin levels provide additional, albeit smaller, evidence supporting the prediction.",11.99,11.21,0.78
+22,5,"Taken together, these factors interact to drive the model’s assessment, with each feature actively shaping the final outcome through its distinct contribution.",10.64,11.21,-0.57
+23,0,"In evaluating whether the patient has diabetes, the model first considered the patient's plasma glucose concentration, which was notably low.",12.64,9.46,3.18
+23,1,"This low glucose level exerted a strong downward influence on the likelihood of diabetes, substantially reducing the predicted risk.",11.99,9.46,2.53
+23,2,Although the patient's age and body mass index both nudged the prediction upward—reflecting the fact that older age and higher BMI are generally associated with increased diabetes risk—their effects were comparatively modest.,13.08,9.46,3.62
+23,3,"The patient's history of multiple pregnancies also contributed slightly to raising the risk, but this influence was minor.",10.24,9.46,0.78
+23,4,"Finally, the absence of measurable serum insulin provided a small negative adjustment, further lowering the predicted probability.",9.11,9.46,-0.35
+23,5,"Taken together, while several factors gently pushed the prediction toward a higher risk, the dominant effect of low glucose ultimately led the model to estimate a reduced likelihood that the patient has diabetes.",10.49,9.46,1.02
+24,0,"In evaluating whether the patient has diabetes, the model primarily considered several health indicators and their respective values.",8.46,7.79,0.67
+24,1,"To begin with, the patient's plasma glucose concentration was measured at 97, which actively contributed to lowering the predicted risk of diabetes, as lower glucose levels are generally associated with a reduced likelihood of the condition.",10.18,7.79,2.39
+24,2,"This effect was further reinforced by the patient's young age of 22, which also diminished the probability, since younger individuals are statistically less prone to diabetes.",8.62,7.79,0.83
+24,3,"Additionally, the patient's Body Mass Index (BMI) of 28.20 exerted a modest downward influence on the prediction, suggesting that while the BMI is slightly elevated, it does not strongly indicate diabetes in this context.",10.07,7.79,2.28
+24,4,"The triceps skin fold thickness, recorded at 23 mm, played a minor role in decreasing the risk, reflecting that this measure did not provide significant evidence for diabetes.",8.26,7.79,0.47
+24,5,"Finally, although the patient has experienced four pregnancies, this factor exerted only a minimal upward effect on the prediction.",8.22,7.79,0.43
+24,6,"Taken together, these features interact to produce an overall assessment in which the patient's relatively low glucose level and young age serve as the primary reasons for the model's reduced estimate of diabetes risk.",7.9,7.79,0.11
+25,0,"In evaluating whether the patient has diabetes, the model considered several key factors that collectively shaped its prediction.",7.16,6.59,0.57
+25,1,"To begin with, the patient's relatively young age of 21 played a significant role in reducing the likelihood of diabetes, as younger individuals are generally at lower risk.",8.83,6.59,2.24
+25,2,"This effect was further reinforced by the patient's plasma glucose concentration of 108, which, while not exceptionally low, still contributed to a decreased probability of diabetes according to the model's learned patterns.",7.89,6.59,1.3
+25,3,"Additionally, the patient's diabetes pedigree function—a measure reflecting family history—was modest at 0.16, which further diminished the predicted risk.",6.91,6.59,0.32
+25,4,"However, the patient's body mass index (BMI) of 30.80 exerted an opposing influence, slightly increasing the likelihood of diabetes, since higher BMI values are commonly associated with elevated risk.",7.71,6.59,1.12
+25,5,"Lastly, the fact that the patient has experienced two pregnancies contributed marginally to lowering the risk.",6.69,6.59,0.1
+25,6,"Taken together, these factors interacted within the model to produce a nuanced assessment, where the protective effects of age, glucose level, family history, and pregnancy count outweighed the risk introduced by BMI, ultimately guiding the model toward a lower probability of diabetes for this patient.",7.2,6.59,0.61
+26,0,"In this case, the model predicts a lower likelihood of diabetes for the patient, and this outcome unfolds as a result of several interrelated factors.",10.6,7.74,2.86
+26,1,"To begin with, the patient's plasma glucose concentration is relatively low, which actively reduces the risk of diabetes and serves as the most influential factor in the model's reasoning.",10.18,7.74,2.44
+26,2,"Building on this, the patient's body mass index is also on the lower side, further diminishing the probability of diabetes by indicating a healthier weight profile.",8.85,7.74,1.11
+26,3,"As the narrative continues, the patient's young age contributes to the overall assessment, since younger individuals are generally less susceptible to diabetes.",8.35,7.74,0.61
+26,4,"Additionally, the fact that the patient has experienced only one pregnancy and has a moderate insulin level both play minor yet reinforcing roles in lowering the predicted risk.",8.17,7.74,0.42
+26,5,"Altogether, these features interact to guide the model toward its conclusion that the patient is unlikely to have diabetes.",8.11,7.74,0.37
+27,0,The model predicts the likelihood of diabetes by weighing several key factors from the patient's profile.,6.89,6.43,0.45
+27,1,"At the outset, the patient's elevated plasma glucose concentration stands out as the most influential driver, substantially increasing the predicted risk.",7.26,6.43,0.82
+27,2,"This heightened glucose level signals impaired glucose regulation, which is a hallmark of diabetes.",6.57,6.43,0.14
+27,3,"Building on this, the patient's age further amplifies the risk, as advancing age is commonly associated with a greater susceptibility to the disease.",7.07,6.43,0.64
+27,4,"The model also takes into account the patient's body mass index, where a higher BMI actively contributes to the prediction by reflecting increased adiposity, a known risk factor for diabetes.",7.67,6.43,1.23
+27,5,"Additionally, the diabetes pedigree function, which encapsulates the patient's genetic predisposition, subtly raises the risk, indicating that family history plays a supporting role in the model's reasoning.",6.66,6.43,0.23
+27,6,"Finally, the patient's serum insulin level, while less impactful than the other features, still nudges the prediction upward, suggesting some degree of insulin resistance.",7.06,6.43,0.62
+27,7,"Altogether, these interconnected factors combine to shape the model's assessment, culminating in a prediction that the patient is at an elevated risk for diabetes.",7.07,6.43,0.64
+28,0,"In evaluating the likelihood that this patient has diabetes, the model first considered the patient's age of 22, which actively reduced the predicted risk, as younger individuals are generally less susceptible to diabetes.",13.18,9.42,3.76
+28,1,"This downward influence was further reinforced by the patient's plasma glucose concentration of 117, which, while elevated, still contributed to lowering the risk in the model's assessment.",11.66,9.42,2.24
+28,2,"Additionally, the absence of previous pregnancies slightly decreased the probability, reflecting the model's recognition that certain reproductive histories can affect diabetes risk.",9.43,9.42,0.01
+28,3,"However, the patient's body mass index of 30.80 exerted a modest upward pressure on the prediction, as higher BMI values are commonly associated with increased diabetes risk.",12.65,9.42,3.23
+28,4,"Finally, the serum insulin level of 188 provided a slight additional increase, though its effect was relatively minor.",10.1,9.42,0.68
+28,5,"Taken together, these factors interacted to shape the model's overall prediction, with the protective effects of youth and moderate glucose levels outweighing the modest risk increases from BMI and insulin.",10.88,9.42,1.46
+29,0,"In evaluating the likelihood that the patient has diabetes, the model first considered the patient's age of 44, which notably increased the predicted risk, as older age is often associated with a higher probability of developing diabetes.",9.97,7.33,2.63
+29,1,"Building on this, the patient's elevated BMI of 33.80 further amplified the risk, reflecting the well-established link between higher body mass and diabetes susceptibility.",9.0,7.33,1.67
+29,2,"Additionally, the patient's diabetes pedigree function, which measures genetic predisposition, contributed to the prediction by indicating a significant familial risk.",7.52,7.33,0.18
+29,3,"However, the model also took into account the patient's plasma glucose concentration of 117, which slightly reduced the predicted risk, suggesting that the glucose level was not excessively high.",9.54,7.33,2.21
+29,4,"Finally, the absence of previous pregnancies provided a modest downward influence on the risk estimate.",7.82,7.33,0.49
+29,5,"Altogether, these factors interacted to shape the model's final prediction, with age, BMI, and family history driving the risk upward, while glucose level and pregnancy history offered some mitigating effects.",8.35,7.33,1.01

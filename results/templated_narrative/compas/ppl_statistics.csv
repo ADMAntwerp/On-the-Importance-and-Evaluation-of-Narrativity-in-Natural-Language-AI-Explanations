@@ -1,0 +1,2 @@
+mean_ori,median_ori,std_ori,min_ori,max_ori,count,mean_reversed,median_reversed,std_reversed,min_reversed,max_reversed,mean_shuffled,median_shuffled,std_shuffled,min_shuffled,max_shuffled,loo_mean_of_means,loo_mean_of_stds,loo_mean_of_mins,loo_mean_of_maxs,loo_overall_std,cumulative_mean_slope,cumulative_std_slope,cumulative_rev_mean_slope,cumulative_rev_std_slope,cumulative_shuff_mean_slope,cumulative_shuff_std_slope
+5.1,5.07,0.17,4.8,5.57,30,5.61,5.78,0.34,4.88,6.03,5.89,5.95,0.28,5.12,6.3,6.46,0.89,4.8,7.28,0.22,-20.4067,4.2733,-6.571,2.3244,-8.9023,2.3679

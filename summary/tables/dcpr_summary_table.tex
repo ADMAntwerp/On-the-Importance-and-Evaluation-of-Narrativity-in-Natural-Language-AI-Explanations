@@ -1,0 +1,52 @@
+\begin{table}[h!]
+\centering
+\caption{Fitted $\rho$ example of DCPR metrics across datasets and methods.}
+\label{tab:fitted_dcpr}
+\begin{tabular}{llrrr}
+\toprule
+Dataset & Method & DCPR $\downarrow$ & $R^2$ $\uparrow$ & RMSE $\downarrow$ \\
+\midrule
+\multirow{6}{*}{Compas} & explingo_narratives & 0.50 & 0.99 & 0.44 \\
+ & explingo_zero_shot & 0.62 & \textbf{1.00} & 0.32 \\
+ & templated_narrative & 0.59 & \textbf{1.00} & 0.39 \\
+ & xainarratives & 0.81 & 0.99 & 0.25 \\
+ & xaistories & 0.44 & \textbf{1.00} & \textbf{0.16} \\
+ & xaistories_narratives & \textbf{0.42} & 0.99 & 0.39 \\
+\midrule
+\multirow{6}{*}{Diabetes} & explingo_narratives & 0.40 & 0.98 & 1.51 \\
+ & explingo_zero_shot & 0.39 & \textbf{1.00} & 0.24 \\
+ & templated_narrative & 0.52 & \textbf{1.00} & 0.50 \\
+ & xainarratives & 0.51 & \textbf{1.00} & 0.34 \\
+ & xaistories & \textbf{0.28} & \textbf{1.00} & 0.40 \\
+ & xaistories_narratives & 0.40 & \textbf{1.00} & \textbf{0.20} \\
+\midrule
+\multirow{6}{*}{Fifa} & explingo_narratives & 0.67 & \textbf{1.00} & 0.19 \\
+ & explingo_zero_shot & 0.55 & \textbf{1.00} & \textbf{0.14} \\
+ & templated_narrative & 1.00 & \textbf{1.00} & 0.86 \\
+ & xainarratives & \textbf{0.34} & 0.99 & 1.02 \\
+ & xaistories & 0.42 & 0.99 & 0.54 \\
+ & xaistories_narratives & 0.63 & \textbf{1.00} & 0.30 \\
+\midrule
+\multirow{6}{*}{German_credit} & explingo_narratives & 0.44 & \textbf{1.00} & 0.38 \\
+ & explingo_zero_shot & 0.45 & 0.99 & 0.80 \\
+ & templated_narrative & \textbf{0.38} & \textbf{1.00} & 0.91 \\
+ & xainarratives & 0.39 & \textbf{1.00} & 0.58 \\
+ & xaistories & 0.41 & \textbf{1.00} & \textbf{0.30} \\
+ & xaistories_narratives & 0.44 & \textbf{1.00} & 0.42 \\
+\midrule
+\multirow{6}{*}{Stroke} & explingo_narratives & 0.45 & 0.99 & 0.63 \\
+ & explingo_zero_shot & 0.40 & 0.99 & 1.41 \\
+ & templated_narrative & 0.58 & \textbf{1.00} & 0.33 \\
+ & xainarratives & 0.64 & \textbf{1.00} & 0.42 \\
+ & xaistories & \textbf{0.35} & 0.99 & 0.38 \\
+ & xaistories_narratives & 0.48 & \textbf{1.00} & \textbf{0.16} \\
+\midrule
+\multirow{6}{*}{Student} & explingo_narratives & 0.65 & 0.98 & 0.99 \\
+ & explingo_zero_shot & 0.60 & 0.99 & 0.89 \\
+ & templated_narrative & 0.81 & \textbf{1.00} & 1.71 \\
+ & xainarratives & \textbf{0.38} & \textbf{1.00} & 0.41 \\
+ & xaistories & 0.40 & \textbf{1.00} & \textbf{0.34} \\
+ & xaistories_narratives & 0.54 & \textbf{1.00} & 0.36 \\
+\bottomrule
+\end{tabular}
+\end{table}

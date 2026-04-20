@@ -1,0 +1,1292 @@
+[
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Not predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.1412,
+                "feature_value": "21",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": 0.1148,
+                "feature_value": "0",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": -0.0776,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": -0.0431,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": -0.0165,
+                "feature_value": "4",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "black",
+                "feature_importance": 0.1129,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": 0.0923,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": 0.0851,
+                "feature_value": "34",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": 0.051,
+                "feature_value": "1",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            },
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": -0.0505,
+                "feature_value": "5",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "recidivated",
+                "feature_importance": 0.1139,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": 0.0966,
+                "feature_value": "2",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": 0.0689,
+                "feature_value": "34",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": -0.068,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": 0.0592,
+                "feature_value": "0",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Not predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": -0.159,
+                "feature_value": "181",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": 0.1158,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": 0.0731,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": -0.0582,
+                "feature_value": "25",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": 0.0554,
+                "feature_value": "2",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Not predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": -0.2918,
+                "feature_value": "26",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": -0.0747,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": 0.0552,
+                "feature_value": "36",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": -0.0541,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": 0.0402,
+                "feature_value": "0",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": 0.1249,
+                "feature_value": "37",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": 0.1037,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": 0.0869,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": 0.0733,
+                "feature_value": "3",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": 0.0457,
+                "feature_value": "2",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.1291,
+                "feature_value": "21",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": 0.1281,
+                "feature_value": "1",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": -0.0712,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": -0.0591,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": 0.0576,
+                "feature_value": "1",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": 0.1512,
+                "feature_value": "62",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": 0.1009,
+                "feature_value": "0",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": 0.075,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": 0.0708,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": 0.0419,
+                "feature_value": "1",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": 0.1196,
+                "feature_value": "38",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": 0.0825,
+                "feature_value": "2",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": 0.079,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": 0.0767,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": 0.0509,
+                "feature_value": "1",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.1428,
+                "feature_value": "21",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": 0.1346,
+                "feature_value": "0",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": 0.1132,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": 0.0863,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": 0.0832,
+                "feature_value": "0",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": 0.1167,
+                "feature_value": "1",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": 0.0986,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": 0.0929,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": 0.0871,
+                "feature_value": "36",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": 0.0578,
+                "feature_value": "0",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": 0.1807,
+                "feature_value": "42",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": 0.1291,
+                "feature_value": "1",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": -0.0821,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": -0.0549,
+                "feature_value": "17",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": -0.0546,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "recidivated",
+                "feature_importance": 0.0972,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": -0.0918,
+                "feature_value": "23",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": 0.0838,
+                "feature_value": "0",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            },
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": 0.0762,
+                "feature_value": "2",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": 0.0712,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": 0.1463,
+                "feature_value": "0",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": 0.1072,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": 0.0799,
+                "feature_value": "0",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": -0.0776,
+                "feature_value": "24",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": 0.0753,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Not predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": -0.1497,
+                "feature_value": "33",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": -0.0946,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": 0.0663,
+                "feature_value": "3",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": 0.0582,
+                "feature_value": "34",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": -0.0509,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": 0.1356,
+                "feature_value": "0",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": 0.0928,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": -0.0684,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": 0.0368,
+                "feature_value": "1",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            },
+            {
+                "feature_name": "misdemeanor",
+                "feature_importance": -0.0155,
+                "feature_value": "no",
+                "feature_average": 0.33,
+                "feature_description": "Indicator if the current charge is a misdemeanor"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Not predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": -0.2918,
+                "feature_value": "25",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": 0.1954,
+                "feature_value": "61",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": 0.1061,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": -0.0623,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": 0.0336,
+                "feature_value": "1",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": -0.1462,
+                "feature_value": "82",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": 0.1356,
+                "feature_value": "37",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": 0.094,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": -0.0687,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "felony",
+                "feature_importance": 0.0387,
+                "feature_value": "no",
+                "feature_average": 0.67,
+                "feature_description": "Indicator if the current charge is a felony"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Not predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": -0.1218,
+                "feature_value": "260",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": -0.0901,
+                "feature_value": "22",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": -0.0602,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": -0.0395,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": -0.0273,
+                "feature_value": "4",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": 0.1675,
+                "feature_value": "50",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": 0.1065,
+                "feature_value": "1",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": 0.0865,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": 0.0744,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": 0.0453,
+                "feature_value": "1",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": 0.197,
+                "feature_value": "54",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": 0.1281,
+                "feature_value": "0",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": 0.0953,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": -0.0498,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": 0.0469,
+                "feature_value": "1",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Not predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": -0.2875,
+                "feature_value": "13",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": 0.1938,
+                "feature_value": "53",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": -0.0732,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": 0.072,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "misdemeanor",
+                "feature_importance": 0.0272,
+                "feature_value": "yes",
+                "feature_average": 0.33,
+                "feature_description": "Indicator if the current charge is a misdemeanor"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Not predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": 0.1406,
+                "feature_value": "1",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": -0.0691,
+                "feature_value": "23",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": -0.0674,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": -0.0528,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": 0.0287,
+                "feature_value": "3",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Not predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.1647,
+                "feature_value": "20",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": 0.1278,
+                "feature_value": "0",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": -0.1024,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": 0.0736,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": 0.0676,
+                "feature_value": "0",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": 0.1234,
+                "feature_value": "0",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": 0.0926,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": 0.0909,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": 0.0509,
+                "feature_value": "1",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            },
+            {
+                "feature_name": "misdemeanor",
+                "feature_importance": 0.0297,
+                "feature_value": "yes",
+                "feature_average": 0.33,
+                "feature_description": "Indicator if the current charge is a misdemeanor"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Not predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "age",
+                "feature_importance": -0.0979,
+                "feature_value": "25",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": 0.0781,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": -0.0759,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": -0.0633,
+                "feature_value": "5",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": 0.0487,
+                "feature_value": "1",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": 0.136,
+                "feature_value": "0",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": 0.1028,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": -0.0886,
+                "feature_value": "24",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": 0.0843,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": 0.0378,
+                "feature_value": "2",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Not predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": 0.1273,
+                "feature_value": "1",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": -0.0951,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": 0.062,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": -0.0532,
+                "feature_value": "16",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": -0.0374,
+                "feature_value": "26",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Not predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": -0.198,
+                "feature_value": "7",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": 0.0806,
+                "feature_value": "no",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": -0.0777,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": -0.0572,
+                "feature_value": "29",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            },
+            {
+                "feature_name": "misdemeanor",
+                "feature_importance": 0.0444,
+                "feature_value": "yes",
+                "feature_average": 0.33,
+                "feature_description": "Indicator if the current charge is a misdemeanor"
+            }
+        ]
+    },
+    {
+        "task_description": "The prediction task is to estimate the risk of recidivism (whether an individual will be rearrested within two years). ",
+        "predicted_class": "Not predicted to recidivate",
+        "dataset_description": "The dataset contains data on individuals processed in the US criminal justice system. Features include demographic information, prior criminal history, and details related to prior charges.",
+        "target_description": "An individual undergoing recidivism risk assessment.",
+        "feature_desc": [
+            {
+                "feature_name": "number_of_prior_crimes",
+                "feature_importance": -0.2589,
+                "feature_value": "12",
+                "feature_average": 4.03,
+                "feature_description": "Number of prior crimes committed"
+            },
+            {
+                "feature_name": "recidivated",
+                "feature_importance": -0.0668,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual has recidivated before"
+            },
+            {
+                "feature_name": "black",
+                "feature_importance": -0.0411,
+                "feature_value": "yes",
+                "feature_average": 0.43,
+                "feature_description": "Indicator if the individual is recorded as Black"
+            },
+            {
+                "feature_name": "months_in_jail",
+                "feature_importance": 0.0402,
+                "feature_value": "0",
+                "feature_average": 20.4,
+                "feature_description": "Number of months spent in jail"
+            },
+            {
+                "feature_name": "age",
+                "feature_importance": -0.0211,
+                "feature_value": "29",
+                "feature_average": 33.4,
+                "feature_description": "Age of the individual"
+            }
+        ]
+    }
+]

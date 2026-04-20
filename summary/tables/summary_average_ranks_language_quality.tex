@@ -1,0 +1,22 @@
+\begin{table}[!htb]
+\centering
+\caption{Average rank per metric across datasets (standard NLP metrics (PPL, Dist$_2$, TTR, VR, CD); lower is better). Missing values are penalised with equal last rank within each block. Overall = mean of per-metric average ranks. Best value per column in \textbf{bold}.}
+\label{tab:average_ranks_language_quality}
+\setlength{\tabcolsep}{2.5pt}
+\renewcommand{\arraystretch}{0.85}
+\resizebox{\textwidth}{!}{
+    \begin{tabular}{lrrrrrr}
+    \toprule
+    Method & PPL & Dist$_2$ & TTR & VR & CD & \textbf{Overall} \\
+    \midrule
+    XAIstories Narratives & 4.833 & \textbf{2.167} & 2.667 & 2.417 & \textbf{2.583} & \textbf{2.933} \\
+    XAIstories & 4.333 & 2.667 & 3.167 & \textbf{2.250} & 3.083 & 3.100 \\
+    Explingo Zero-Shot & 6.000 & 2.750 & \textbf{1.333} & 3.333 & 4.083 & 3.500 \\
+    Explingo Narratives & 3.500 & 3.167 & 4.333 & 4.083 & 3.833 & 3.783 \\
+    Templated Explanation & 2.000 & 6.000 & 6.000 & 4.250 & 5.250 & 4.700 \\
+    Explingo & 6.333 & 4.250 & 3.500 & 6.417 & 3.583 & 4.817 \\
+    TalkToModel & \textbf{1.000} & 7.000 & 7.000 & 5.250 & 5.583 & 5.167 \\
+    \bottomrule
+    \end{tabular}
+}
+\end{table}
