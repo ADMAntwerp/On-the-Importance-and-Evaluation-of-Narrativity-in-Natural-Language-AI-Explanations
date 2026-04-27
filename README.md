@@ -115,11 +115,11 @@ The script also prints a per-metric calculation walkthrough (intermediate PPLs, 
 ## Citation
 
 ```bibtex
-@article{cedro2026narrativity,
-  title   = {On the Importance and Evaluation of Narrativity in Natural Language AI Explanations},
-  author  = {Cedro, Mateusz and Martens, David},
-  year    = {2026},
-  institution = {University of Antwerp, Belgium}
+@article{cedro2026importance,
+  title={On the Importance and Evaluation of Narrativity in Natural Language AI Explanations},
+  author={Cedro, Mateusz and Martens, David},
+  journal={arXiv preprint arXiv:2604.18311},
+  year={2026}
 }
 ```
 
