@@ -68,8 +68,8 @@ Six binary classification datasets, all included under [data/datasets](data/data
 ## Installation
 
 ```bash
-git clone https://github.com/<user>/XAIN_XAID.git
-cd XAIN_XAID
+git clone https://github.com/ADMAntwerp/On-the-Importance-and-Evaluation-of-Narrativity-in-Natural-Language-AI-Explanations.git
+cd On-the-Importance-and-Evaluation-of-Narrativity-in-Natural-Language-AI-Explanations
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt   # see note below
 ```
